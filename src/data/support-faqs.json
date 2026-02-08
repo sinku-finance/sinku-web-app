@@ -1,0 +1,46 @@
+{
+  "en": [
+    {
+      "id": "lost-access",
+      "question": "I've lost access to my account or my card",
+      "answer": "Open your Revolut app and follow these steps:\n\nWhen logging in, tap Lost access to my phone number\nTap Forgot your passcode? and we'll help you regain access to your account via in-app chat\nIf you still can't access your account and chat, contact us at support@revolut.com.\n\nRevolut will never call you about your personal account without first alerting you via the in-app chat. If you need to block your card, you can call our automated phone line: +442033228352 (fees may apply).\n\nThis number can't connect you to a human agent nor make outgoing calls."
+    },
+    {
+      "id": "lost-passcode",
+      "question": "I've lost my passcode",
+      "answer": "Open your Revolut app and follow these steps:\n\nEnter your phone number\nSelect Forgot your passcode?\nEnter your email\nIf your selfie and ID are recognised, you'll be prompted to change your information in-app. If not, you'll be directed to an anonymous chat."
+    },
+    {
+      "id": "lost-phone-number",
+      "question": "I've lost the phone number I used to sign up",
+      "answer": "Open your Revolut app and follow these steps:\n\nSelect Lost access to my phone number\nFill in the number you lost access to\nEnter your email\nEnter your passcode\nIf your selfie and ID are recognised, you'll be prompted to change your information in-app. If not, you'll be directed to an anonymous chat."
+    },
+    {
+      "id": "lost-both",
+      "question": "I've lost my passcode and the phone number I used to sign up",
+      "answer": "Open your Revolut app and follow these steps:\n\nEnter your phone number\nSelect Forgot your passcode?\nTake a verification selfie\nUpload your ID\nIf your selfie and ID are recognised, you'll be prompted to change your information in-app. If not, you'll be directed to an anonymous chat."
+    }
+  ],
+  "pt": [
+    {
+      "id": "lost-access",
+      "question": "Perdi o acesso à minha conta ou ao meu cartão",
+      "answer": "Abra o aplicativo Revolut e siga estas etapas:\n\nAo fazer login, toque em Perdi o acesso ao meu número de telefone\nToque em Esqueceu sua senha? e nós o ajudaremos a recuperar o acesso à sua conta por meio do chat no aplicativo\nSe ainda não conseguir acessar sua conta e o chat, entre em contato conosco em support@revolut.com.\n\nA Revolut nunca ligará para você sobre sua conta pessoal sem antes alertá-lo por meio do chat no aplicativo. Se você precisar bloquear seu cartão, pode ligar para nossa linha telefônica automatizada: +442033228352 (podem ser aplicadas taxas).\n\nEste número não pode conectá-lo a um agente humano nem fazer chamadas de saída."
+    },
+    {
+      "id": "lost-passcode",
+      "question": "Perdi minha senha",
+      "answer": "Abra o aplicativo Revolut e siga estas etapas:\n\nDigite seu número de telefone\nSelecione Esqueceu sua senha?\nDigite seu e-mail\nSe sua selfie e documento de identidade forem reconhecidos, você será solicitado a alterar suas informações no aplicativo. Caso contrário, você será direcionado para um chat anônimo."
+    },
+    {
+      "id": "lost-phone-number",
+      "question": "Perdi o número de telefone que usei para me cadastrar",
+      "answer": "Abra o aplicativo Revolut e siga estas etapas:\n\nSelecione Perdi o acesso ao meu número de telefone\nPreencha o número ao qual você perdeu o acesso\nDigite seu e-mail\nDigite sua senha\nSe sua selfie e documento de identidade forem reconhecidos, você será solicitado a alterar suas informações no aplicativo. Caso contrário, você será direcionado para um chat anônimo."
+    },
+    {
+      "id": "lost-both",
+      "question": "Perdi minha senha e o número de telefone que usei para me cadastrar",
+      "answer": "Abra o aplicativo Revolut e siga estas etapas:\n\nDigite seu número de telefone\nSelecione Esqueceu sua senha?\nTire uma selfie de verificação\nCarregue seu documento de identidade\nSe sua selfie e documento de identidade forem reconhecidos, você será solicitado a alterar suas informações no aplicativo. Caso contrário, você será direcionado para um chat anônimo."
+    }
+  ]
+}

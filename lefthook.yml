@@ -2,13 +2,11 @@ pre-commit:
   parallel: true
   commands:
     format:
-      run: yarn biome:format
-      include: "./src/**/*.{js,jsx,ts,tsx}"
-      exclude: "node_modules"
+      glob: "src/**/*.{js,jsx,ts,tsx}"
+      run: yarn biome:format {staged_files}
     lint:
-      run: yarn biome:lint
-      include: "./src/**/*.{js,jsx,ts,tsx}"
-      exclude: "node_modules"
+      glob: "src/**/*.{js,jsx,ts,tsx}"
+      run: yarn biome:lint {staged_files}
 commit-msg:
   commands:
     "lint commit message":

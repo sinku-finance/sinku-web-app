@@ -1,0 +1,36 @@
+{
+  "features": [
+    {
+      "id": "send-abroad",
+      "icon": "SendDollars"
+    },
+    {
+      "id": "multi-currency",
+      "icon": "Globe"
+    },
+    {
+      "id": "international-card",
+      "icon": "CreditCard"
+    },
+    {
+      "id": "pay-friends",
+      "icon": "Group"
+    },
+    {
+      "id": "real-time",
+      "icon": "BellNotification"
+    },
+    {
+      "id": "spending-insights",
+      "icon": "StatsReport"
+    },
+    {
+      "id": "virtual-cards",
+      "icon": "ShieldCheck"
+    },
+    {
+      "id": "no-fees",
+      "icon": "PercentageCircle"
+    }
+  ]
+}

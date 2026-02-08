@@ -3,19 +3,84 @@
 @tailwind utilities;
 
 :root {
+	/* Base */
 	--background: #ffffff;
 	--foreground: #171717;
+
+	/* Primary (green brand) */
+	--primary-50: #E6F9F0;
+	--primary-100: #CCF3E1;
+	--primary-200: #99E7C3;
+	--primary-300: #66DBA5;
+	--primary-400: #33CF87;
+	--primary-500: #26D97F;
+	--primary-600: #1FAD66;
+	--primary-700: #1A8A56;
+	--primary-800: #155E3C;
+	--primary-900: #0F4429;
+
+	/* Surface colors (section backgrounds) */
+	--surface-green: #D4F5D4;
+	--surface-purple: #EDE8F5;
+	--surface-blue: #E0EEF8;
+	--surface-cyan: #E8F3F5;
+	--surface-lavender: #D4C5F9;
 }
 
-@media (prefers-color-scheme: dark) {
-	:root {
-		--background: #0a0a0a;
-		--foreground: #ededed;
-	}
+* {
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+html {
+	overflow-x: hidden;
+	-webkit-text-size-adjust: 100%;
+	text-size-adjust: 100%;
 }
 
 body {
 	color: var(--foreground);
 	background: var(--background);
-	font-family: Arial, Helvetica, sans-serif;
+	overflow-x: hidden;
+	-webkit-text-size-adjust: 100%;
+	text-size-adjust: 100%;
+}
+
+/* Custom focus styles with primary color */
+*:focus,
+*:focus-visible {
+	outline-color: var(--primary-500) !important;
+}
+
+button:focus-visible,
+a:focus-visible,
+input:focus-visible,
+select:focus-visible,
+textarea:focus-visible {
+	outline: 2px solid var(--primary-500);
+	outline-offset: 2px;
+}
+
+/* Safari flexbox fixes */
+@supports (-webkit-appearance: none) {
+	/* Fix for Safari flex issues */
+	.flex.flex-col {
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+	}
+	
+	/* Fix Safari min-height with flexbox */
+	.min-h-screen {
+		min-height: -webkit-fill-available;
+	}
+}
+
+/* Hide scrollbar for horizontal scroll */
+.hide-scrollbar {
+	-ms-overflow-style: none;
+	scrollbar-width: none;
+}
+
+.hide-scrollbar::-webkit-scrollbar {
+	display: none;
 }

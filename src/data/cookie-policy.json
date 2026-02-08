@@ -1,0 +1,220 @@
+{
+  "en": {
+    "title": "Cookie Policy",
+    "sections": [
+      {
+        "id": "what-are-cookies",
+        "title": "What are cookies and what do they do?",
+        "content": [
+          "Cookies are text files that are placed on websites on the internet. Each cookie includes the name of the website and a unique ID. We use cookies and similar tools on this website.",
+          "Cookies track things like how long a visitor spends on our website and what visitors do on our website (which pages they visit and which buttons they click on, for example). Cookies collect this information and share it with us, the website owner.",
+          "Cookies help us understand who uses our website and how we can improve it. For instance, we can understand which pages of our website are most popular with certain kinds of visitors. This allows us to understand what visitors like about our website and how we can make it more attractive for other visitors."
+        ]
+      },
+      {
+        "id": "how-we-use",
+        "title": "How do we use cookies?",
+        "content": [
+          "Most of the cookies we use on our website are 'persistent' cookies. This means that they remain on your device until you erase them or they expire. The rest of these cookies are 'session' based which are more temporary in duration. This means they will be erased when you close your internet browser.",
+          "We have set out the different types of cookies we use below."
+        ],
+        "subsections": [
+          {
+            "title": "Necessary cookies",
+            "content": "Necessary cookies are placed on our website by default. We need necessary cookies to help us to run our website, and to help us detect any problems with it. For example, we use a cookie that tells us how busy the server is based on the number of visitors and that tells us if any users experience problems so that we can resolve the problems as soon as possible.\n\nIn addition, we may also use a cookie that tracks your cookie privacy preferences so that we do not place analytics, preferences and / or advertising cookies, which we'll talk about below, if you don't want us to. This particular type of cookie will remain on your device even after you've stopped browsing the website so we can make sure we comply with our legal and regulatory obligations.\n\nWe do not need your consent to use necessary cookies."
+          },
+          {
+            "title": "Preferences cookies",
+            "content": "We also use preferences cookies to remember our users while they are browsing our website, its pages, links and subdomains. For example, we will remember your country and preferred language so that you see content which is relevant to you and in your language."
+          },
+          {
+            "title": "Analytics cookies",
+            "content": "These allow us to recognise and count the number of visitors to our website, and see how visitors browse our website, so we can understand how our website content is performing and improve it where necessary."
+          },
+          {
+            "title": "Advertising cookies",
+            "content": "Advertising cookies allow us to build a profile about you so we can provide more relevant ads. For example, we may track your browsing activity across different sites to understand your interests. We may share this information with other organisations, such as Meta and Google, for the same purpose."
+          }
+        ]
+      },
+      {
+        "id": "third-party",
+        "title": "What third party cookies do we use?",
+        "content": [
+          "These are the third party advertising and analytics cookies we use on our website and the purposes for which we use them:"
+        ],
+        "cookies": [
+          {
+            "name": "Google Ads",
+            "purpose": "A cookie that shows us how effective our Plexos ad campaigns are by tracking how many users click through to our website from a particular ad, and the demographic of those users."
+          },
+          {
+            "name": "Google Analytics",
+            "purpose": "Allows us to see how many users are on the Plexos website, which pages they are visiting and track how many visitors joined Plexos"
+          },
+          {
+            "name": "TV Squared Pixels",
+            "purpose": "Tell us the number of visitors who come to our website when we run TV advertising campaigns so that we can measure the effectiveness of these campaigns."
+          },
+          {
+            "name": "AppsFlyer",
+            "purpose": "Allows us to generate personalised links to help us understand the advertisements users have clicked on before joining Plexos."
+          },
+          {
+            "name": "Microsoft Ads Pixel",
+            "purpose": "This is used by Plexos to help us decide which of our products, services and offers may be relevant for you based on your browsing history, as well as to tailor and measure how effective our ads on Bing are."
+          },
+          {
+            "name": "Reddit Pixel",
+            "purpose": "This is used by Plexos to measure, optimise and build audiences for advertising campaigns served on Reddit."
+          },
+          {
+            "name": "Tiktok Pixel",
+            "purpose": "This is used by Plexos to measure, optimise and build audiences for advertising campaigns served on Tiktok."
+          },
+          {
+            "name": "Meta Pixel",
+            "purpose": "This is used by Plexos to measure, optimise and build audiences for advertising campaigns served on Meta platforms."
+          },
+          {
+            "name": "X (formerly Twitter) Pixel",
+            "purpose": "This is used by Plexos to measure, optimise and build audiences for advertising campaigns served on X (formerly Twitter)."
+          },
+          {
+            "name": "LinkedIn Insights Tag",
+            "purpose": "This is used by Plexos to measure, optimise and build audiences for advertising campaigns served on LinkedIn."
+          },
+          {
+            "name": "Vimeo",
+            "purpose": "If you watch a video which has been embedded on our website using Vimeo, please note that Vimeo may use third-party analytics and advertising cookies depending on whether or not you have consented to cookies on our website. You can find out more about the cookies Vimeo uses here."
+          }
+        ]
+      },
+      {
+        "id": "change-preferences",
+        "title": "Can I change my preferences?",
+        "content": [
+          "Yes. You can manage your cookies preferences by visiting this page. You can also manage your cookie preferences through our pop-up cookie banner that appears when you first visit the website.",
+          "You can also manage your preferences by changing your browser settings on your device to refuse the use of all or some cookies. However, if you block all cookies (including necessary cookies), you may not be able to use all or some parts of our website. You may also find that you are shown information on our website that is less interesting to you.",
+          "Please note, other organisations, such as advertising networks, may also use cookies to track you across different websites. We have no control over these cookies."
+        ]
+      },
+      {
+        "id": "updates",
+        "title": "We'll let you know if we change what cookies we use",
+        "content": [
+          "If we change the cookies we use, we will update this Cookies Policy. You always can find the latest version of this Policy on our website."
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "title": "Política de Cookies",
+    "sections": [
+      {
+        "id": "what-are-cookies",
+        "title": "O que são cookies e o que eles fazem?",
+        "content": [
+          "Cookies são arquivos de texto colocados em sites na internet. Cada cookie inclui o nome do site e um ID único. Usamos cookies e ferramentas similares neste site.",
+          "Os cookies rastreiam coisas como quanto tempo um visitante passa em nosso site e o que os visitantes fazem em nosso site (quais páginas visitam e quais botões clicam, por exemplo). Os cookies coletam essas informações e as compartilham conosco, o proprietário do site.",
+          "Os cookies nos ajudam a entender quem usa nosso site e como podemos melhorá-lo. Por exemplo, podemos entender quais páginas do nosso site são mais populares com certos tipos de visitantes. Isso nos permite entender o que os visitantes gostam no nosso site e como podemos torná-lo mais atraente para outros visitantes."
+        ]
+      },
+      {
+        "id": "how-we-use",
+        "title": "Como usamos cookies?",
+        "content": [
+          "A maioria dos cookies que usamos em nosso site são cookies 'persistentes'. Isso significa que eles permanecem em seu dispositivo até que você os apague ou eles expirem. O restante desses cookies são baseados em 'sessão', que são mais temporários. Isso significa que serão apagados quando você fechar seu navegador de internet.",
+          "Descrevemos abaixo os diferentes tipos de cookies que usamos."
+        ],
+        "subsections": [
+          {
+            "title": "Cookies necessários",
+            "content": "Os cookies necessários são colocados em nosso site por padrão. Precisamos de cookies necessários para nos ajudar a executar nosso site e nos ajudar a detectar quaisquer problemas com ele. Por exemplo, usamos um cookie que nos diz o quão ocupado o servidor está com base no número de visitantes e que nos informa se algum usuário experimenta problemas para que possamos resolver os problemas o mais rápido possível.\n\nAlém disso, também podemos usar um cookie que rastreia suas preferências de privacidade de cookies para que não coloquemos cookies de análise, preferências e/ou publicidade, dos quais falaremos abaixo, se você não quiser. Este tipo particular de cookie permanecerá em seu dispositivo mesmo depois de você parar de navegar no site para que possamos garantir que cumprimos nossas obrigações legais e regulatórias.\n\nNão precisamos do seu consentimento para usar cookies necessários."
+          },
+          {
+            "title": "Cookies de preferências",
+            "content": "Também usamos cookies de preferências para lembrar nossos usuários enquanto navegam em nosso site, suas páginas, links e subdomínios. Por exemplo, lembramos seu país e idioma preferido para que você veja conteúdo relevante para você e em seu idioma."
+          },
+          {
+            "title": "Cookies de análise",
+            "content": "Estes nos permitem reconhecer e contar o número de visitantes do nosso site e ver como os visitantes navegam no nosso site, para que possamos entender como o conteúdo do nosso site está performando e melhorá-lo quando necessário."
+          },
+          {
+            "title": "Cookies de publicidade",
+            "content": "Os cookies de publicidade nos permitem criar um perfil sobre você para que possamos fornecer anúncios mais relevantes. Por exemplo, podemos rastrear sua atividade de navegação em diferentes sites para entender seus interesses. Podemos compartilhar essas informações com outras organizações, como Meta e Google, para o mesmo propósito."
+          }
+        ]
+      },
+      {
+        "id": "third-party",
+        "title": "Quais cookies de terceiros usamos?",
+        "content": [
+          "Estes são os cookies de publicidade e análise de terceiros que usamos em nosso site e os propósitos para os quais os usamos:"
+        ],
+        "cookies": [
+          {
+            "name": "Google Ads",
+            "purpose": "Um cookie que nos mostra quão eficazes são nossas campanhas publicitárias da Plexos, rastreando quantos usuários clicam em nosso site a partir de um anúncio específico e a demografia desses usuários."
+          },
+          {
+            "name": "Google Analytics",
+            "purpose": "Permite-nos ver quantos usuários estão no site da Plexos, quais páginas estão visitando e rastrear quantos visitantes se juntaram à Plexos"
+          },
+          {
+            "name": "TV Squared Pixels",
+            "purpose": "Informa-nos o número de visitantes que vêm ao nosso site quando executamos campanhas publicitárias de TV para que possamos medir a eficácia dessas campanhas."
+          },
+          {
+            "name": "AppsFlyer",
+            "purpose": "Permite-nos gerar links personalizados para nos ajudar a entender os anúncios em que os usuários clicaram antes de se juntarem à Plexos."
+          },
+          {
+            "name": "Microsoft Ads Pixel",
+            "purpose": "É usado pela Plexos para nos ajudar a decidir quais de nossos produtos, serviços e ofertas podem ser relevantes para você com base no seu histórico de navegação, além de personalizar e medir a eficácia de nossos anúncios no Bing."
+          },
+          {
+            "name": "Reddit Pixel",
+            "purpose": "É usado pela Plexos para medir, otimizar e construir públicos para campanhas publicitárias veiculadas no Reddit."
+          },
+          {
+            "name": "Tiktok Pixel",
+            "purpose": "É usado pela Plexos para medir, otimizar e construir públicos para campanhas publicitárias veiculadas no Tiktok."
+          },
+          {
+            "name": "Meta Pixel",
+            "purpose": "É usado pela Plexos para medir, otimizar e construir públicos para campanhas publicitárias veiculadas nas plataformas Meta."
+          },
+          {
+            "name": "X (antigo Twitter) Pixel",
+            "purpose": "É usado pela Plexos para medir, otimizar e construir públicos para campanhas publicitárias veiculadas no X (antigo Twitter)."
+          },
+          {
+            "name": "LinkedIn Insights Tag",
+            "purpose": "É usado pela Plexos para medir, otimizar e construir públicos para campanhas publicitárias veiculadas no LinkedIn."
+          },
+          {
+            "name": "Vimeo",
+            "purpose": "Se você assistir a um vídeo incorporado em nosso site usando o Vimeo, observe que o Vimeo pode usar cookies de análise e publicidade de terceiros, dependendo se você consentiu ou não com os cookies em nosso site. Você pode descobrir mais sobre os cookies que o Vimeo usa aqui."
+          }
+        ]
+      },
+      {
+        "id": "change-preferences",
+        "title": "Posso alterar minhas preferências?",
+        "content": [
+          "Sim. Você pode gerenciar suas preferências de cookies visitando esta página. Você também pode gerenciar suas preferências de cookies através do nosso banner pop-up de cookies que aparece quando você visita o site pela primeira vez.",
+          "Você também pode gerenciar suas preferências alterando as configurações do seu navegador em seu dispositivo para recusar o uso de todos ou alguns cookies. No entanto, se você bloquear todos os cookies (incluindo cookies necessários), você pode não conseguir usar todas ou algumas partes do nosso site. Você também pode descobrir que são mostradas informações em nosso site que são menos interessantes para você.",
+          "Observe que outras organizações, como redes de publicidade, também podem usar cookies para rastreá-lo em diferentes sites. Não temos controle sobre esses cookies."
+        ]
+      },
+      {
+        "id": "updates",
+        "title": "Informaremos se mudarmos os cookies que usamos",
+        "content": [
+          "Se mudarmos os cookies que usamos, atualizaremos esta Política de Cookies. Você sempre pode encontrar a versão mais recente desta Política em nosso site."
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,428 @@
+{
+  "common": {
+    "login": "Log in",
+    "signup": "Sign up",
+    "joinBeta": "Join the Beta"
+  },
+  "navigation": {
+    "faqsTitle": "Frequently Asked Questions",
+    "faqsSubtitle": "Find answers to common questions about Plexos.",
+    "supportTitle": "Support",
+    "supportSubtitle": "We're here to help, 24/7"
+  },
+  "languages": {
+    "en": "English",
+    "pt": "Português",
+    "selectLanguage": "Select language"
+  },
+  "regions": {
+    "portugal": "Portugal",
+    "angola": "Angola",
+    "mozambique": "Mozambique",
+    "capeVerde": "Cape Verde",
+    "guineaBissau": "Guinea-Bissau",
+    "saoTome": "São Tomé and Príncipe",
+    "otherRegions": "Other Regions"
+  },
+  "hero": {
+    "title": "Your Money. Everywhere.",
+    "subtitle": "The international card and money app for the modern world. Pay online, send money abroad, and hold multiple currencies — all from your phone.",
+    "appStore": {
+      "downloadOn": "Download on",
+      "appStore": "App Store",
+      "getItOn": "GET IT ON",
+      "googlePlay": "Google Play"
+    }
+  },
+  "services": {
+    "tagline": "One app. No borders.",
+    "title": "Everything your local bank won't give you",
+    "subtitle": "International payments, cross-border transfers, and a card that works everywhere — without the fees that eat your money.",
+    "viewAll": "Open Your Account",
+    "cards": {
+      "title": "International Debit Card",
+      "tagline": "Pay Anywhere, From Anywhere",
+      "description": "Shop on Amazon, pay for Netflix, book flights — use your Plexos card anywhere Mastercard is accepted, online and in-store."
+    },
+    "savings": {
+      "title": "Send & Receive Money",
+      "description": "Send money to family across borders in seconds. Skip the queues, skip the fees. Receive payments from anywhere in the world."
+    },
+    "business": {
+      "title": "Global Transfers",
+      "description": "Transfer money between countries at real exchange rates. Up to 5x cheaper than traditional banks and remittance services."
+    },
+    "bottomText": "Whether you're paying for a subscription from Luanda, sending money home from Lisbon, or shopping online from Praia — Plexos works where your local bank stops.",
+    "account": {
+      "title": "One account that connects you to the global economy",
+      "subtitle": "Everything you need in one place — built for the way you live, spend, and grow your money across borders.",
+      "features": {
+        "noFees": "Zero monthly or annual fees",
+        "cards": "Mastercard debit card accepted in 200+ countries",
+        "benefits": "Earn cashback on every purchase",
+        "investments": "Hold EUR, USD, and more — protect your money from local inflation"
+      }
+    }
+  },
+  "tools": {
+    "tagline": "Built for how you actually use money.",
+    "title": "Manage your money in real time, from anywhere in the world.",
+    "subtitle": "Instant notifications, spending insights, and full control over your card — right from the app. No branch visits, no paperwork.",
+    "button": "See How It Works"
+  },
+  "rewards": {
+    "title": "Earn 2% Back on Every Purchase",
+    "subtitle": "1% cashback when you buy, plus 1% bonus when you pay. No annual fees, no caps — just money back in your pocket.",
+    "primaryButton": "Get Your Card",
+    "secondaryButton": "See All Benefits",
+    "bottomText": "Every purchase puts money back in your pocket. No points to redeem, no hoops to jump through — just automatic cashback on everything you buy, everywhere you pay."
+  },
+  "app": {
+    "title": "One app. All your accounts. Total control.",
+    "subtitle": "Send, spend, save, and manage your money from your phone. Real-time notifications, instant transfers, and secure access — anytime, anywhere.",
+    "qrText": "Scan to download the Plexos app",
+    "ratingText": "Trusted by users across 6 Portuguese-speaking African countries."
+  },
+  "features": {
+    "title": "Everything you need in one place",
+    "items": {
+      "send-abroad": {
+        "title": "Send money abroad at low rates",
+        "description": "Transfer money to any country in seconds. Real exchange rates, fees up to 5x lower than traditional banks and remittance services."
+      },
+      "multi-currency": {
+        "title": "Hold multiple currencies",
+        "description": "Keep your money in EUR, USD, and other major currencies. Protect your savings from local inflation and exchange when the rate is right."
+      },
+      "international-card": {
+        "title": "International debit card",
+        "description": "A Mastercard card accepted in 200+ countries. Pay online, in-store, or withdraw cash abroad without the hidden fees."
+      },
+      "pay-friends": {
+        "title": "Pay friends instantly",
+        "description": "Send money to other Plexos users for free, instantly. Split bills, pay back a friend, or send a gift — no bank details needed."
+      },
+      "real-time": {
+        "title": "Real-time notifications",
+        "description": "Know the moment money comes in or goes out. Instant push notifications for every transaction, so you always stay in control."
+      },
+      "spending-insights": {
+        "title": "Spending insights",
+        "description": "See exactly where your money goes. Automatic categories, monthly reports, and trends to help you spend smarter."
+      },
+      "virtual-cards": {
+        "title": "Virtual cards for safe payments",
+        "description": "Generate a virtual card for online shopping. Your real card details stay hidden, protecting you from fraud."
+      },
+      "no-fees": {
+        "title": "No hidden fees",
+        "description": "Zero monthly fees, zero annual fees, zero surprises. Transparent pricing on every transaction, always."
+      }
+    }
+  },
+  "homeCards": {
+    "title": "A Card You'll Actually Want to Carry",
+    "subtitle": "Choose from a range of card designs made to reflect who you are. Every Plexos card works worldwide with Mastercard — so you look good and pay with confidence.",
+    "details": {
+      "title": "Your card does more than you think",
+      "subtitle": "Pay with Apple Pay, scan a QR code, or tap to pay contactless. Track every transaction, block suspicious charges, and schedule future payments — all from the app.",
+      "features": {
+        "applePay": "Add to Apple Pay and Google Pay for instant contactless payments",
+        "qrCode": "Pay by scanning a QR code — fast, secure, no card needed",
+        "analytics": "See all your spending broken down by category, merchant, and month",
+        "blockCard": "Freeze your card or block suspicious transactions in one tap",
+        "scheduledPayments": "Set up recurring payments and never miss a bill again",
+        "contactless": "Tap to pay in-store with contactless — no PIN for small purchases"
+      }
+    }
+  },
+  "support": {
+    "getInTouch": "Get in touch",
+    "heroTitle": "We're here to help, 24/7",
+    "heroSubtitle": "Whether you want to browse our Help Centre for solutions or chat with us directly, we've got you — even on a Sunday.",
+    "talkToUs": {
+      "title": "Talk to us directly",
+      "description1": "Speak to our support team in 100+ languages via our secure in-app chat. Tap your profile icon in the top-left corner → Help → scroll down, tap Support to start a chat with us.",
+      "description2": "Premium, Metal and Ultra plan customers can also call us in-app.",
+      "button": "Visit the in-app chat"
+    },
+    "readyAnswers": {
+      "title": "Ready-to-go answers",
+      "description": "Find detailed responses to common questions in our Help Centre, the fountain of Plexos knowledge.",
+      "button": "Visit Help Centre"
+    },
+    "accountAccess": {
+      "title": "Getting back into your account"
+    }
+  },
+  "security": {
+    "title": "Spotted something suspicious?",
+    "description": "If you've spotted some unusual activity on your account, don't panic — but stay vigilant. Report it immediately and we'll help keep your money safe from fraud.",
+    "button": "Report activity"
+  },
+  "fees": {
+    "title": "Payments",
+    "tagline": "Payments",
+    "heroTitle": "Send money instantly",
+    "heroSubtitle": "Transfer money to friends, family, or anyone — instantly and for free. No hidden fees, no waiting. Just tap, send, done.",
+    "heroButton": "Start sending",
+    "feature": {
+      "title": "Pay friends and family, instantly and for free",
+      "description": "Send money between Plexos accounts in seconds, with zero transfer fees. Choose from bank transfers, in-app payments, or card-to-card — send, receive, and manage everything from one app.",
+      "disclaimer": "Fees may apply for certain payment methods. Terms and Conditions apply.",
+      "button": "Start sending",
+      "pills": {
+        "payFriends": "Pay friends",
+        "splitPayments": "Split payments",
+        "sendAbroad": "Send abroad"
+      }
+    },
+    "methods": {
+      "title": "Payment methods that work for you",
+      "cards": {
+        "contacts": {
+          "title": "Send to your contacts",
+          "description": "Both on Plexos? Just search their name in the app and tap Send. Instant, free, and effortless."
+        },
+        "links": {
+          "title": "Share a payment link",
+          "description": "Send your unique payment link to settle up. No account details needed — just share and get paid."
+        },
+        "global": {
+          "title": "Send money worldwide",
+          "description": "Transfer money across borders at the real exchange rate. Free between Plexos users, and up to 5x cheaper than banks for everyone else."
+        }
+      }
+    },
+    "multiCurrency": {
+      "tagline": "Multi-currency",
+      "title": "Hold, convert, and spend in 30+ currencies",
+      "description": "Stop losing money on bad exchange rates. Hold EUR, USD, GBP, and more — convert at the real rate and spend abroad like a local. Preview the rate before you buy, and lock it in when it works for you.",
+      "button": "Open your account"
+    },
+    "comparison": {
+      "title": "Why pay more? Compare and see.",
+      "subtitle": "We're built to be the cheapest way to send money. See how Plexos stacks up against the rest.",
+      "sendingAmount": "Sending €100",
+      "costToSend": "Cost to send",
+      "recipientGets": "Recipient gets",
+      "cheapest": "Cheapest",
+      "sendMoney": "Send money",
+      "disclaimer": "The above information applies when sending money in the national currency of the recipient account. The list of providers is not exhaustive and we plan to add more soon. For all providers, we are showing the costs based on the Standard/Basic plans only. Exchange rates and transfer fees displayed are illustrative and only refreshed every minute. Always check the applicable rate and transfer fees in-app before carrying out your transfer. In-app transfers with Plexos have zero fees."
+    }
+  },
+  "cards": {
+    "heroTitle": "One card. No borders. No surprises.",
+    "heroSubtitle": "Spend abroad at the real exchange rate, skip the hidden fees, and pay anywhere Mastercard is accepted — all from your phone.",
+    "heroButton": "Order your card",
+    "virtual": {
+      "title": "Practically Indestructible",
+      "description": "Always losing your cards? Make them virtual and never worry about losing them again. Simply link them to Apple or Google Pay and start spending securely right away.",
+      "banner": {
+        "subtitle": "Available on all plans",
+        "title": "The new standard in banking",
+        "accountTitle": "Stop overpaying your bank",
+        "accountSubtitle": "Pay internationally without carrying cash. Skip the hidden fees and spend abroad at the real exchange rate — at a fraction of what traditional banks cost.",
+        "features": {
+          "globalPayments": "Pay at 60M+ merchants in 150+ countries",
+          "lowFees": "Real exchange rates with fees up to 8x lower",
+          "noCash": "No need to carry cash — tap, pay, done",
+          "accepted": "Accepted everywhere Mastercard works"
+        }
+      },
+      "benefits": {
+        "title": "One card. Total control. Zero compromise.",
+        "description": "Manage your spending from the app, set custom limits, freeze your card in a tap, and get real-time notifications for every transaction. Your money, your rules.",
+        "cta": "Get started",
+        "cards": {
+          "card1": {
+            "title": "Real-time notifications",
+            "description": "Know exactly when and where your money is spent — instantly."
+          },
+          "card2": {
+            "title": "Instant freeze",
+            "description": "Lost your card? Freeze it in one tap. Found it? Unfreeze just as fast."
+          },
+          "card3": {
+            "title": "Custom spending limits",
+            "description": "Set daily, weekly, or monthly limits to stay in control of your budget."
+          }
+        }
+      }
+    },
+    "collection": {
+      "title": "Cards That Match Your Style — Not Just Your Wallet",
+      "subtitle": "Discover our exclusive collection of limited-edition cards, collaborations, and seasonal designs — made to stand out wherever you go.",
+      "bottomText": "Whether you're paying for groceries around the corner or booking a flight across the world — your Plexos card is designed to go wherever life takes you, without the fees holding you back."
+    },
+    "security": {
+      "title": "Protection for your cards",
+      "subtitle": "All accounts have 24/7 protection with proactive defenses and a team of specialists. In 2024 alone, we helped prevent over 746M€ in fraud.",
+      "learnMore": "Learn more",
+      "features": {
+        "freezeCard": {
+          "title": "In case of doubt, freeze and unfreeze your card in seconds"
+        },
+        "virtualCard": {
+          "title": "Virtual card data that regenerates after each purchase"
+        },
+        "controls": {
+          "title": "Customize card controls to spend with greater security"
+        }
+      }
+    },
+    "howToGet": {
+      "title": "Get Your Card in Just 3 Easy Steps",
+      "subtitle": "No queues, no delays, no hassle. Get your card and start spending with confidence today.",
+      "steps": {
+        "step1": {
+          "number": "01",
+          "title": "Start for Free",
+          "description": "Create your free account in minutes — no paperwork needed."
+        },
+        "step2": {
+          "number": "02",
+          "title": "Pick Your Card",
+          "description": "Choose from our exclusive collection of card designs."
+        },
+        "step3": {
+          "number": "03",
+          "title": "Use It Instantly",
+          "description": "Start spending online immediately with your virtual card."
+        }
+      },
+      "cta": "Get My Card Now"
+    },
+    "featured": {
+      "tagline": "Cards for every occasion.",
+      "title": "Choose the card that fits your life",
+      "subtitle": "Whether you're shopping online, travelling abroad, or building your savings — there's a Plexos card designed for you.",
+      "cta": "Get this card",
+      "pricing": "Terms and Conditions apply",
+      "standardCard": {
+        "name": "Plexos Standard",
+        "badge": "Free",
+        "features": {
+          "feature1": "Zero monthly fees — free forever",
+          "feature2": "Free in-app transfers to Plexos users",
+          "feature3": "Accepted at 60M+ merchants worldwide"
+        }
+      },
+      "plusCard": {
+        "name": "Plexos Plus",
+        "badge": "Smart choice",
+        "features": {
+          "feature1": "Higher spending limits abroad",
+          "feature2": "Purchase insurance on every transaction",
+          "feature3": "Fee-free currency exchange up to €5,000/mo"
+        }
+      },
+      "premiumCard": {
+        "name": "Plexos Premium",
+        "badge": "Best value",
+        "features": {
+          "feature1": "Up to 3% cashback on every purchase",
+          "feature2": "Unlimited fee-free currency exchange",
+          "feature3": "Priority 24/7 support and travel insurance"
+        }
+      }
+    },
+    "plans": {
+      "title": "Choose your plan",
+      "standard": {
+        "name": "Standard Account",
+        "fee": "Account Fee: Free",
+        "description": "For everyday banking essentials: everything you need to manage your money in one place. Send money abroad or stick to a budget — it's never been easier."
+      },
+      "plus": {
+        "name": "Plus Plan",
+        "fee": "Account Fee: €3.99/month",
+        "description": "For the smart spender: unlock extra banking perks like higher limits for spending abroad and purchase insurance, at an affordable price."
+      },
+      "premium": {
+        "name": "Premium Plan",
+        "fee": "Account Fee: €8.99/month",
+        "description": "For your daily upgrade: access exclusive subscriptions, better exchange rates, and unlimited currency exchange."
+      }
+    }
+  },
+  "downloadApp": {
+    "title": "Get the Plexos App",
+    "subtitle": "Take control of your money from anywhere. Download the Plexos app and start sending, spending, and saving — in seconds.",
+    "qrTitle": "Scan to download",
+    "qrDescription": "Point your phone camera at the QR code to get the app",
+    "qrAlt": "QR code to download the Plexos app",
+    "imageAlt": "Plexos app interface on a smartphone",
+    "imagePlaceholder": "App mockup coming soon"
+  },
+  "footer": {
+    "socialMedia": "Social",
+    "legal": "Legal",
+    "sections": {
+      "getStarted": "Get Started",
+      "discover": "Discover",
+      "company": "Company",
+      "help": "Help"
+    },
+    "links": {
+      "signUp": "Sign up",
+      "login": "Login",
+      "plexosCard": "Plexos Cards",
+      "fees": "Fees",
+      "about": "About",
+      "newsroom": "Newsroom",
+      "partnerships": "Partnerships",
+      "mediaAssets": "Media Assets",
+      "faqs": "FAQs",
+      "support": "Support"
+    },
+    "legalLinks": {
+      "termsOfService": "Terms of Service",
+      "privacyPolicy": "Privacy Policy",
+      "cookiePolicy": "Cookie Policy",
+      "riskDisclosure": "Risk Disclosure",
+      "pricingDisclosure": "Pricing Disclosure",
+      "cookieSettings": "Cookie Settings"
+    },
+    "regulatory": {
+      "paragraph1": "To find out more about which Plexos entity you receive services from, please check our corresponding FAQ page. If you have any other questions, please reach out to us via the in-app chat in the Plexos app.",
+      "paragraph2": "Plexos Group Ltd is registered in England and Wales (No. 12345678), is authorised by the Financial Conduct Authority to offer e-money and payment services under the Electronic Money Regulations 2011 (FRN: 987654). Plexos is a trading name of Plexos Group Ltd.",
+      "paragraph3": "The registered address of Plexos Group Ltd is at 123 Financial Street, London, EC1A 1BB, United Kingdom. You can read more about our terms and policies on our website."
+    }
+  },
+  "cookies": {
+    "title": "Choose your cookies",
+    "description": "Cookies help us to enhance your experience, tailor ads to your interests, and improve our website.",
+    "learnMore": "Learn more and manage",
+    "acceptAll": "Accept all",
+    "rejectNonEssential": "Reject non-essential cookies"
+  },
+  "cookieSettings": {
+    "title": "Cookie settings",
+    "description": "Cookies help us to enhance your experience, tailor ads to your interests, and improve our website.",
+    "findOutMore": "Find out more on different cookie categories by expanding each cookie category below. Read our",
+    "cookiePolicyLink": "Cookie Policy",
+    "learnMoreText": "to learn more about how we use cookies and how to adjust your cookie preferences if you change your mind.",
+    "alwaysActive": "Always active",
+    "confirmChoices": "Confirm my choices",
+    "acceptAll": "Accept all",
+    "categories": {
+      "essential": {
+        "title": "Essential cookies",
+        "description": "These cookies are necessary for the website to function and cannot be switched off. They are usually only set in response to actions made by you, such as setting your privacy preferences, logging in, or filling in forms."
+      },
+      "preferences": {
+        "title": "Preferences cookies",
+        "description": "These cookies allow the website to remember choices you make (such as your language or region) and provide enhanced, more personal features."
+      },
+      "analytics": {
+        "title": "Analytics cookies",
+        "description": "These cookies help us understand how visitors interact with our website by collecting and reporting information anonymously. This helps us improve our services."
+      },
+      "advertising": {
+        "title": "Advertising cookies",
+        "description": "These cookies are used to make advertising messages more relevant to you. They perform functions like preventing the same ad from continuously reappearing and ensuring that ads are properly displayed."
+      }
+    }
+  }
+}

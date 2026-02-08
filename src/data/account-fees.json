@@ -1,0 +1,146 @@
+{
+  "en": {
+    "title": "Accounts",
+    "tabs": {
+      "deposit": "Deposit",
+      "withdraw": "Withdraw"
+    },
+    "region": "Europe",
+    "deposit": [
+      {
+        "id": "bank-transfer",
+        "name": "Bank Transfer",
+        "icon": "bank",
+        "duration": "Instant",
+        "senderFee": "Free",
+        "receiverFee": "Free",
+        "limits": "10 — 2,500 EUR"
+      },
+      {
+        "id": "plexos-transfer",
+        "name": "Plexos Transfer",
+        "icon": "plexos",
+        "duration": "Instant",
+        "senderFee": "Free",
+        "receiverFee": "Free",
+        "limits": "10 — 2,500 EUR"
+      },
+      {
+        "id": "google-pay",
+        "name": "Google Pay",
+        "icon": "card",
+        "duration": "Instant",
+        "senderFee": "5%",
+        "receiverFee": "Free",
+        "limits": "10 — 1,500 EUR"
+      },
+      {
+        "id": "apple-pay",
+        "name": "Apple Pay",
+        "icon": "card",
+        "duration": "Instant",
+        "senderFee": "Free",
+        "receiverFee": "Free",
+        "limits": "10 — 1,500 EUR"
+      }
+    ],
+    "withdraw": [
+      {
+        "id": "bank-transfer",
+        "name": "Bank Transfer",
+        "icon": "bank",
+        "duration": "Instant",
+        "senderFee": "Free",
+        "receiverFee": "Free",
+        "limits": "10 — 2,500 EUR"
+      },
+      {
+        "id": "atm-withdraw",
+        "name": "ATM Withdraw",
+        "icon": "atm",
+        "duration": "Instant",
+        "senderFee": "Varies by country",
+        "receiverFee": "Free",
+        "limits": "10 — 500 EUR"
+      }
+    ],
+    "labels": {
+      "duration": "Duration",
+      "senderFee": "Sender Fee",
+      "receiverFee": "Receiver Fee",
+      "limits": "Limits"
+    }
+  },
+  "pt": {
+    "title": "Contas",
+    "tabs": {
+      "deposit": "Depósito",
+      "withdraw": "Levantamento"
+    },
+    "region": "Europa",
+    "deposit": [
+      {
+        "id": "bank-transfer",
+        "name": "Transferência Bancária",
+        "icon": "bank",
+        "duration": "Instantâneo",
+        "senderFee": "Grátis",
+        "receiverFee": "Grátis",
+        "limits": "10 — 2.500 EUR"
+      },
+      {
+        "id": "plexos-transfer",
+        "name": "Transferência Plexos",
+        "icon": "plexos",
+        "duration": "Instantâneo",
+        "senderFee": "Grátis",
+        "receiverFee": "Grátis",
+        "limits": "10 — 2.500 EUR"
+      },
+      {
+        "id": "google-pay",
+        "name": "Google Pay",
+        "icon": "card",
+        "duration": "Instantâneo",
+        "senderFee": "5%",
+        "receiverFee": "Grátis",
+        "limits": "10 — 1.500 EUR"
+      },
+      {
+        "id": "apple-pay",
+        "name": "Apple Pay",
+        "icon": "card",
+        "duration": "Instantâneo",
+        "senderFee": "Grátis",
+        "receiverFee": "Grátis",
+        "limits": "10 — 1.500 EUR"
+      }
+    ],
+    "withdraw": [
+      {
+        "id": "bank-transfer",
+        "name": "Transferência Bancária",
+        "icon": "bank",
+        "duration": "Instantâneo",
+        "senderFee": "Grátis",
+        "receiverFee": "Grátis",
+        "limits": "10 — 2.500 EUR"
+      },
+      {
+        "id": "atm-withdraw",
+        "name": "Levantamento ATM",
+        "icon": "atm",
+        "duration": "Instantâneo",
+        "senderFee": "Varia por país",
+        "receiverFee": "Grátis",
+        "limits": "10 — 500 EUR"
+      }
+    ],
+    "labels": {
+      "duration": "Duração",
+      "senderFee": "Taxa de Envio",
+      "receiverFee": "Taxa de Recebimento",
+      "limits": "Limites"
+    }
+  }
+}

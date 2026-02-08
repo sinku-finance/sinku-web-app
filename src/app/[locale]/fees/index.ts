@@ -1,0 +1,6 @@
+export { AccountFeesSection } from "./account-fees-section"
+export { ComparisonSection } from "./comparison-section"
+export { PaymentsHeroSection } from "./payments-hero-section"
+export { PaymentsFeatureSection } from "./payments-feature-section"
+export { PaymentMethodsSection } from "./payment-methods-section"
+export { MultiCurrencySection } from "./multi-currency-section"
