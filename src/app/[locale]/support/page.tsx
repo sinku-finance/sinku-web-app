@@ -13,6 +13,7 @@ import {
 	AccordionTrigger,
 } from "@/components/ui/accordion"
 import { SupportBanner } from "./support-banner"
+import { pageSeo } from "@/config/seo"
 
 export async function generateMetadata({
 	params,
@@ -20,18 +21,18 @@ export async function generateMetadata({
 	params: Promise<{ locale: string }>
 }): Promise<Metadata> {
 	const { locale } = await params
-	const t = await getTranslations({ locale, namespace: "support" })
+	const seo = pageSeo.support[locale] || pageSeo.support.en
 
 	return {
-		title: "Support — Help Centre",
-		description: t("heroSubtitle"),
+		title: seo.title,
+		description: seo.description,
 		alternates: {
 			canonical: "/support",
 			languages: { en: "/en/support", pt: "/pt/support" },
 		},
 		openGraph: {
-			title: "Plexos Support — We're Here to Help, 24/7",
-			description: t("heroSubtitle"),
+			title: seo.ogTitle,
+			description: seo.ogDescription,
 		},
 	}
 }

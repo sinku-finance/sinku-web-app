@@ -10,6 +10,7 @@ import {
 	AccordionItem,
 	AccordionTrigger,
 } from "@/components/ui/accordion"
+import { pageSeo } from "@/config/seo"
 
 export async function generateMetadata({
 	params,
@@ -17,18 +18,18 @@ export async function generateMetadata({
 	params: Promise<{ locale: string }>
 }): Promise<Metadata> {
 	const { locale } = await params
-	const t = await getTranslations({ locale, namespace: "navigation" })
+	const seo = pageSeo.faqs[locale] || pageSeo.faqs.en
 
 	return {
-		title: t("faqsTitle"),
-		description: t("faqsSubtitle"),
+		title: seo.title,
+		description: seo.description,
 		alternates: {
 			canonical: "/faqs",
 			languages: { en: "/en/faqs", pt: "/pt/faqs" },
 		},
 		openGraph: {
-			title: `${t("faqsTitle")} — Plexos`,
-			description: t("faqsSubtitle"),
+			title: seo.ogTitle,
+			description: seo.ogDescription,
 		},
 	}
 }
@@ -36,15 +37,15 @@ export async function generateMetadata({
 // Helper function to convert markdown links to JSX
 function renderAnswer(text: string) {
 	const parts = text.split(/(\[.*?\]\(.*?\))/)
-	
+
 	return parts.map((part, index) => {
 		const linkMatch = part.match(/\[(.*?)\]\((.*?)\)/)
 		if (linkMatch) {
 			const [, linkText, href] = linkMatch
 			return (
-				<Link 
-					key={index} 
-					href={href} 
+				<Link
+					key={index}
+					href={href}
 					className="text-primary-600 underline hover:text-primary-700 transition-colors"
 				>
 					{linkText}
@@ -72,11 +73,11 @@ export default async function FAQsPage({
 			<Header />
 			{/* Divider */}
 			<div className="border-b border-gray-200" />
-			
+
 			{/* Hero Banner with FAQs Image */}
-			<section 
+			<section
 				className="relative w-full h-[50vh] md:h-[60vh] lg:h-[70vh] overflow-hidden"
-				style={{ 
+				style={{
 					backgroundImage: "url('/banners/faqs.png')",
 					backgroundSize: "cover",
 					backgroundPosition: "center center",
@@ -115,7 +116,7 @@ export default async function FAQsPage({
 				</div>
 
 				{/* Security Report Section */}
-				<SecurityReportSection 
+				<SecurityReportSection
 					title={tSecurity("title")}
 					description={tSecurity("description")}
 					buttonText={tSecurity("button")}

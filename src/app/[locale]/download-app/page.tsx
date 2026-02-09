@@ -1,7 +1,7 @@
 import type { Metadata } from "next"
 import { Header } from "@/components/layouts/header/header"
-import { getTranslations } from "next-intl/server"
 import { DownloadAppSection } from "./download-app-section"
+import { pageSeo } from "@/config/seo"
 
 export async function generateMetadata({
 	params,
@@ -9,19 +9,19 @@ export async function generateMetadata({
 	params: Promise<{ locale: string }>
 }): Promise<Metadata> {
 	const { locale } = await params
-	const t = await getTranslations({ locale, namespace: "downloadApp" })
+	const seo = pageSeo.downloadApp[locale] || pageSeo.downloadApp.en
 
 	return {
-		title: "Download the Plexos App",
-		description: t("subtitle"),
+		title: seo.title,
+		description: seo.description,
 		alternates: {
 			canonical: "/download-app",
 			languages: { en: "/en/download-app", pt: "/pt/download-app" },
 		},
 		openGraph: {
-			title: "Get the Plexos App — Your Money, Everywhere",
-			description: t("subtitle"),
-			images: [{ url: "/cards/card-in-hands.png", width: 1200, height: 630, alt: "Download the Plexos app" }],
+			title: seo.ogTitle,
+			description: seo.ogDescription,
+			images: [{ url: "/cards/card-in-hands.png", width: 1200, height: 630, alt: seo.ogTitle }],
 		},
 	}
 }

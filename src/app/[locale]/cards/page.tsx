@@ -1,12 +1,12 @@
 import type { Metadata } from "next"
 import { Header } from "@/components/layouts/header/header"
-import { getTranslations } from "next-intl/server"
 import { FeaturedCardsSection } from "./featured-cards-section"
 import { VirtualCardSection } from "./virtual-card-section"
 import { CardsCollectionSection } from "./cards-collection-section"
 import { HowToGetCardSection } from "./how-to-get-card-section"
 import { PlansSection } from "./plans-section"
 import { CardsBanner } from "./cards-banner"
+import { pageSeo } from "@/config/seo"
 
 export async function generateMetadata({
 	params,
@@ -14,19 +14,19 @@ export async function generateMetadata({
 	params: Promise<{ locale: string }>
 }): Promise<Metadata> {
 	const { locale } = await params
-	const t = await getTranslations({ locale, namespace: "cards" })
+	const seo = pageSeo.cards[locale] || pageSeo.cards.en
 
 	return {
-		title: "International Debit Cards",
-		description: t("heroSubtitle"),
+		title: seo.title,
+		description: seo.description,
 		alternates: {
 			canonical: "/cards",
 			languages: { en: "/en/cards", pt: "/pt/cards" },
 		},
 		openGraph: {
-			title: "Plexos Cards — One Card. No Borders. No Surprises.",
-			description: t("heroSubtitle"),
-			images: [{ url: "/cards/card-product.png", width: 1200, height: 630, alt: "Plexos international debit card" }],
+			title: seo.ogTitle,
+			description: seo.ogDescription,
+			images: [{ url: "/cards/card-product.png", width: 1200, height: 630, alt: seo.ogTitle }],
 		},
 	}
 }

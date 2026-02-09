@@ -1,6 +1,5 @@
 import type { Metadata } from "next"
 import { Header } from "@/components/layouts/header/header"
-import { getTranslations } from "next-intl/server"
 import { FeesBanner } from "./fees-banner"
 import { PaymentsHeroSection } from "./payments-hero-section"
 import { PaymentsFeatureSection } from "./payments-feature-section"
@@ -8,6 +7,7 @@ import { PaymentMethodsSection } from "./payment-methods-section"
 import { MultiCurrencySection } from "./multi-currency-section"
 import { ComparisonSection } from "./comparison-section"
 import { AccountFeesSection } from "./account-fees-section"
+import { pageSeo } from "@/config/seo"
 
 export async function generateMetadata({
 	params,
@@ -15,19 +15,19 @@ export async function generateMetadata({
 	params: Promise<{ locale: string }>
 }): Promise<Metadata> {
 	const { locale } = await params
-	const t = await getTranslations({ locale, namespace: "fees" })
+	const seo = pageSeo.whatWeOffer[locale] || pageSeo.whatWeOffer.en
 
 	return {
-		title: "What We Offer — Payments, Transfers & Multi-Currency",
-		description: t("heroSubtitle"),
+		title: seo.title,
+		description: seo.description,
 		alternates: {
 			canonical: "/what-we-offer",
 			languages: { en: "/en/what-we-offer", pt: "/pt/what-we-offer" },
 		},
 		openGraph: {
-			title: "Plexos — Send Money Instantly, Hold 30+ Currencies",
-			description: t("heroSubtitle"),
-			images: [{ url: "/cards/card-in-hands.png", width: 1200, height: 630, alt: "Plexos payments and transfers" }],
+			title: seo.ogTitle,
+			description: seo.ogDescription,
+			images: [{ url: "/cards/card-in-hands.png", width: 1200, height: 630, alt: seo.ogTitle }],
 		},
 	}
 }
