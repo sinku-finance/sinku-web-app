@@ -8,7 +8,7 @@ export const footerConfig = {
 	// Discover Links
 	discover: [
 		{ key: "plexosCard", href: "/cards" },
-		{ key: "fees", href: "/fees" },
+		{ key: "whatWeOffer", href: "/what-we-offer" },
 	],
 
 	// Company Links (hidden for now)

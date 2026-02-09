@@ -17,7 +17,7 @@ export function FeesBanner() {
 			}}
 		>
 			{/* Overlay for better text readability */}
-			<div className="absolute inset-0 bg-black/40" />
+			<div className="absolute inset-0 bg-gradient-to-r from-black/50 via-black/30 to-transparent" />
 
 			{/* Hero Content */}
 			<div className="relative z-10 flex-1 flex items-center px-6 md:px-10 lg:px-12">

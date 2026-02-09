@@ -63,7 +63,7 @@ export function VirtualCardSection() {
 							transition={{ duration: 0.6 }}
 							className="mb-12 md:mb-16 max-w-3xl"
 						>
-							<p className="text-gray-700 text-sm md:text-base mb-4">
+							<p className="text-neutral-500 uppercase tracking-wide font-medium text-sm md:text-base mb-4">
 								{t("banner.subtitle")}
 							</p>
 							<h2 className="text-3xl md:text-4xl lg:text-5xl font-bold text-black leading-tight">
@@ -77,7 +77,7 @@ export function VirtualCardSection() {
 							whileInView={{ opacity: 1, y: 0 }}
 							viewport={{ once: true }}
 							transition={{ duration: 0.6, delay: 0.2 }}
-							className="relative w-full h-[300px] md:h-[500px] lg:h-[600px] rounded-lg overflow-hidden"
+							className="relative w-full h-[300px] md:h-[500px] lg:h-[600px] rounded-2xl overflow-hidden"
 						>
 							<Image
 								src="/banners/cards.png"
@@ -117,10 +117,10 @@ export function VirtualCardSection() {
 									] as const).map((feature) => (
 										<div
 											key={feature.label}
-											className="bg-white/50 rounded-xl p-5 md:p-6 flex flex-col items-center text-center gap-3 md:gap-4 hover:bg-white/70 transition-all duration-300"
+											className="bg-white/60 rounded-2xl p-5 md:p-6 flex flex-col items-center text-center gap-3 md:gap-4 hover:bg-white/80 transition-all duration-300"
 										>
-											<div className="w-12 h-12 md:w-14 md:h-14 rounded-full bg-green-100 flex items-center justify-center">
-												<feature.icon className="w-6 h-6 md:w-7 md:h-7 text-green-600" />
+											<div className="w-12 h-12 md:w-14 md:h-14 rounded-xl bg-primary-100 flex items-center justify-center">
+												<feature.icon className="w-6 h-6 md:w-7 md:h-7 text-primary-700" />
 											</div>
 											<p className="text-sm md:text-base font-medium text-black leading-snug">
 												{feature.label}

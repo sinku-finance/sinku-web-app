@@ -23,7 +23,7 @@ export async function generateMetadata({
 	}
 }
 
-export default async function FeesPage({
+export default async function WhatWeOfferPage({
 	params,
 }: {
 	params: Promise<{ locale: string }>

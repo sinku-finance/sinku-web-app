@@ -29,7 +29,7 @@ export function DownloadAppSection() {
 							</motion.h1>
 
 							<motion.p
-								className="text-lg md:text-xl text-neutral-700 mb-10 md:mb-12 leading-relaxed max-w-xl"
+								className="text-lg md:text-xl text-neutral-600 mb-10 md:mb-12 leading-relaxed max-w-xl"
 								variants={downloadAppAnimations.subtitle.variants}
 							>
 								{t("subtitle")}
@@ -40,7 +40,7 @@ export function DownloadAppSection() {
 								className="flex items-center gap-4 mb-8 md:mb-10"
 								variants={downloadAppAnimations.qrCode.variants}
 							>
-								<div className="relative w-28 h-28 md:w-32 md:h-32 rounded-2xl border-2 border-gray-200 bg-white overflow-hidden flex-shrink-0 shadow-sm">
+								<div className="relative w-28 h-28 md:w-32 md:h-32 rounded-2xl border border-gray-200 bg-white overflow-hidden flex-shrink-0 shadow-sm">
 									<Image
 										src="/qrcode.svg"
 										alt={t("qrAlt")}
@@ -52,7 +52,7 @@ export function DownloadAppSection() {
 									<p className="text-sm md:text-base font-semibold text-black">
 										{t("qrTitle")}
 									</p>
-									<p className="text-xs md:text-sm text-neutral-600 max-w-[180px]">
+									<p className="text-xs md:text-sm text-neutral-500 max-w-[180px]">
 										{t("qrDescription")}
 									</p>
 								</div>

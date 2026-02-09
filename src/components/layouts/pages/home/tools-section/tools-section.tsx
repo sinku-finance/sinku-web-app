@@ -21,16 +21,16 @@ export function ToolsSection() {
     >
       <div className="px-6 md:px-10 lg:px-12">
         <div className="w-full max-w-[1400px] mx-auto">
-          <motion.div 
+          <motion.div
             className="flex flex-col lg:flex-row lg:justify-between lg:items-center gap-8 md:gap-12 mb-12 md:mb-16"
             variants={toolsAnimations.content.variants}
           >
             {/* Left side - small tagline */}
-            <motion.div 
+            <motion.div
               className="lg:max-w-[280px]"
               variants={toolsAnimations.tagline.variants}
             >
-              <p className="text-neutral-700 leading-relaxed font-medium text-base md:text-lg">
+              <p className="text-neutral-500 uppercase tracking-wide font-medium text-sm md:text-base">
                 {t("tagline")}
               </p>
             </motion.div>
@@ -59,8 +59,8 @@ export function ToolsSection() {
           </motion.div>
 
           {/* Image below content */}
-          <motion.div 
-            className="relative w-full h-[300px] md:h-[500px] lg:h-[600px] rounded-lg overflow-hidden"
+          <motion.div
+            className="relative w-full h-[300px] md:h-[500px] lg:h-[600px] rounded-2xl overflow-hidden"
             variants={toolsAnimations.image.variants}
           >
             <Image
@@ -101,10 +101,10 @@ export function ToolsSection() {
                 ].map((feature) => (
                   <div
                     key={feature.label}
-                    className="bg-white/50 rounded-xl p-5 md:p-6 flex flex-col items-center text-center gap-3 md:gap-4 hover:bg-white/70 transition-all duration-300"
+                    className="bg-white/60 rounded-2xl p-5 md:p-6 flex flex-col items-center text-center gap-3 md:gap-4 hover:bg-white/80 transition-all duration-300 border border-white/40"
                   >
-                    <div className="w-12 h-12 md:w-14 md:h-14 rounded-full bg-green-100 flex items-center justify-center">
-                      <feature.icon className="w-6 h-6 md:w-7 md:h-7 text-green-600" />
+                    <div className="w-12 h-12 md:w-14 md:h-14 rounded-xl bg-primary-100 flex items-center justify-center">
+                      <feature.icon className="w-6 h-6 md:w-7 md:h-7 text-primary-700" />
                     </div>
                     <p className="text-sm md:text-base font-medium text-black leading-snug">
                       {feature.label}

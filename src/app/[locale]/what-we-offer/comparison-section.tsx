@@ -112,13 +112,13 @@ export function ComparisonSection({ locale }: ComparisonSectionProps) {
 						<h2 className="text-3xl md:text-4xl lg:text-5xl font-bold text-black mb-4">
 							{t("title")}
 						</h2>
-						<p className="text-base md:text-lg text-gray-600 max-w-2xl mx-auto">
+						<p className="text-base md:text-lg text-gray-500 max-w-2xl mx-auto">
 							{t("subtitle")}
 						</p>
 					</div>
 
 					{/* Comparison Table - Desktop */}
-					<div className="hidden md:block bg-white rounded-3xl shadow-sm border border-gray-200 overflow-hidden">
+					<div className="hidden md:block bg-white rounded-2xl shadow-sm border border-gray-200 overflow-hidden">
 						{/* Table Header */}
 						<div className="grid grid-cols-3 gap-4 px-6 py-4 bg-gray-50 border-b border-gray-200">
 							<div className="text-sm font-medium text-gray-600">

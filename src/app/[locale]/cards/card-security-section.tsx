@@ -44,7 +44,7 @@ export function CardSecuritySection() {
 						<h2 className="text-3xl md:text-4xl lg:text-5xl font-bold text-black mb-4 md:mb-6 leading-tight">
 							{t("title")}
 						</h2>
-						<p className="text-sm md:text-base text-gray-700 max-w-3xl mx-auto leading-relaxed mb-6 md:mb-8">
+						<p className="text-sm md:text-base text-gray-600 max-w-3xl mx-auto leading-relaxed mb-6 md:mb-8">
 							{t("subtitle")}
 						</p>
 						<Button
@@ -65,7 +65,7 @@ export function CardSecuritySection() {
 								whileInView={{ opacity: 1, y: 0 }}
 								viewport={{ once: true }}
 								transition={{ duration: 0.6, delay: index * 0.1 }}
-								className={`${feature.bgColor} rounded-lg overflow-hidden p-6 md:p-8 flex flex-col min-h-[450px] md:min-h-[500px]`}
+								className={`${feature.bgColor} rounded-2xl overflow-hidden p-6 md:p-8 flex flex-col min-h-[450px] md:min-h-[500px]`}
 							>
 								{/* Text Content */}
 								<div className="mb-8">

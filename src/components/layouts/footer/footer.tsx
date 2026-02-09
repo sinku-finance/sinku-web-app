@@ -12,7 +12,6 @@ export function Footer() {
 	const pathname = usePathname()
 
 	const handleLinkClick = (e: React.MouseEvent<HTMLAnchorElement>, href: string) => {
-		// Check if we're on the same page (accounting for locale prefix)
 		const currentPath = pathname.split("/").slice(2).join("/") || ""
 		const targetPath = href.replace(/^\//, "")
 
@@ -24,7 +23,7 @@ export function Footer() {
 
 	return (
 		<footer className="bg-gray-50 text-black overflow-hidden">
-			{/* Large PLEXOS Logo - Full width, min half screen height on desktop */}
+			{/* Large PLEXOS Logo */}
 			<div className="relative w-full min-h-[22vh] md:min-h-[50vh] flex items-center justify-center py-8 md:py-12 overflow-hidden text-gray-200">
 				<LogoSvg className="h-auto w-full px-6 select-none" />
 			</div>
@@ -45,14 +44,6 @@ export function Footer() {
 					translationPrefix="links"
 					onLinkClick={handleLinkClick}
 				/>
-
-				{/* Company section hidden for now */}
-				{/* <FooterSection
-					title={t("sections.company")}
-					items={footerConfig.companyLinks}
-					translationPrefix="links"
-					onLinkClick={handleLinkClick}
-				/> */}
 
 				<FooterSection
 					title={t("legal")}
@@ -75,10 +66,10 @@ export function Footer() {
 		{/* Regulatory Information */}
 		<div className="border-t border-gray-200">
 			<div className="container mx-auto px-6 md:px-10 lg:px-12 py-10 md:py-12">
-				<p className="text-xs text-gray-600 mb-4">
+				<p className="text-xs text-gray-500 mb-4 font-medium">
 					© {footerConfig.company.name} {new Date().getFullYear()}
 				</p>
-				<div className="space-y-4 text-xs text-gray-600 leading-relaxed">
+				<div className="space-y-3 text-xs text-gray-400 leading-relaxed">
 					<p>{t("regulatory.paragraph1")}</p>
 					<p>{t("regulatory.paragraph2")}</p>
 					<p>{t("regulatory.paragraph3")}</p>

@@ -22,7 +22,7 @@ export function CardsCollectionSection() {
 						<h2 className="text-3xl md:text-4xl lg:text-5xl font-bold text-black mb-4 md:mb-6 leading-tight">
 							{t("title")}
 						</h2>
-						<p className="text-sm md:text-base lg:text-lg text-gray-700 max-w-3xl mx-auto leading-relaxed">
+						<p className="text-sm md:text-base lg:text-lg text-gray-600 max-w-3xl mx-auto leading-relaxed">
 							{t("subtitle")}
 						</p>
 					</motion.div>
@@ -36,7 +36,7 @@ export function CardsCollectionSection() {
 						className="relative w-full"
 					>
 						{/* Mobile image */}
-						<div className="relative w-full aspect-[16/9] rounded-lg overflow-hidden md:hidden">
+						<div className="relative w-full aspect-[16/9] rounded-2xl overflow-hidden md:hidden">
 							<Image
 								src="/cards/collection-mobile.png"
 								alt="Collection of Plexos cards"
@@ -46,7 +46,7 @@ export function CardsCollectionSection() {
 							/>
 						</div>
 						{/* Desktop image */}
-						<div className="relative w-full aspect-[21/9] rounded-lg overflow-hidden hidden md:block">
+						<div className="relative w-full aspect-[21/9] rounded-2xl overflow-hidden hidden md:block">
 							<Image
 								src="/cards/collection-desktop.png"
 								alt="Collection of Plexos cards"

@@ -85,7 +85,7 @@ export function FeaturedCardsSection() {
 									},
 								}}
 							>
-								<p className="text-neutral-700 max-w-[200px] leading-relaxed font-semibold text-base md:text-lg">
+								<p className="text-neutral-500 max-w-[200px] uppercase tracking-wide font-medium text-sm md:text-base">
 									{t("tagline")}
 								</p>
 							</motion.div>
@@ -131,7 +131,7 @@ export function FeaturedCardsSection() {
 							{cards.map((card) => (
 								<motion.div
 									key={card.id}
-									className={`rounded-2xl overflow-hidden p-6 md:p-8 flex flex-col ${card.bgColor}`}
+									className={`rounded-2xl overflow-hidden p-6 md:p-8 flex flex-col hover:scale-[1.02] transition-transform duration-300 ${card.bgColor}`}
 									variants={{
 										hidden: { opacity: 0, y: 30, scale: 0.98 },
 										visible: {

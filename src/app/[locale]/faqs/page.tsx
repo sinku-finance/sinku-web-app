@@ -83,26 +83,28 @@ export default async function FAQsPage({
 
 			<main className="relative min-h-screen bg-white overflow-hidden">
 				{/* Content */}
-				<div className="relative container mx-auto px-6 py-20 md:py-32">
-					{/* Subtitle */}
-					<p className="text-base md:text-lg text-gray-600 text-center max-w-3xl mx-auto mb-6 md:mb-8">
-						{t("faqsSubtitle")}
-					</p>
+				<div className="relative px-6 md:px-10 lg:px-12 py-20 md:py-32">
+					<div className="w-full max-w-[1400px] mx-auto">
+						{/* Subtitle */}
+						<p className="text-base md:text-lg text-gray-500 text-center max-w-3xl mx-auto mb-6 md:mb-8">
+							{t("faqsSubtitle")}
+						</p>
 
-					{/* Title */}
-					<h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-black text-center mb-12 md:mb-16">
-						{t("faqsTitle")}
-					</h1>
+						{/* Title */}
+						<h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-black text-center mb-12 md:mb-16">
+							{t("faqsTitle")}
+						</h1>
 
-					<div className="max-w-4xl mx-auto">
-						<Accordion type="single" collapsible className="w-full space-y-4">
-							{faqs.map((faq) => (
-								<AccordionItem key={faq.id} value={faq.id}>
-									<AccordionTrigger>{faq.question}</AccordionTrigger>
-									<AccordionContent>{renderAnswer(faq.answer)}</AccordionContent>
-								</AccordionItem>
-							))}
-						</Accordion>
+						<div className="max-w-[900px] mx-auto">
+							<Accordion type="single" collapsible className="w-full space-y-4">
+								{faqs.map((faq) => (
+									<AccordionItem key={faq.id} value={faq.id}>
+										<AccordionTrigger>{faq.question}</AccordionTrigger>
+										<AccordionContent>{renderAnswer(faq.answer)}</AccordionContent>
+									</AccordionItem>
+								))}
+							</Accordion>
+						</div>
 					</div>
 				</div>
 

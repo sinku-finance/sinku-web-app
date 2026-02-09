@@ -36,8 +36,8 @@ export function CardsSection() {
             >
               {t("title")}
             </motion.h2>
-            <motion.p 
-              className="text-sm md:text-base lg:text-lg text-neutral-700 max-w-2xl mx-auto"
+            <motion.p
+              className="text-sm md:text-base lg:text-lg text-neutral-600 max-w-2xl mx-auto leading-relaxed"
               variants={cardsAnimations.subtitle.variants}
             >
               {t("subtitle")}
@@ -52,7 +52,7 @@ export function CardsSection() {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 md:gap-8 lg:gap-12">
             {/* Card 1 */}
             <motion.div 
-              className="relative w-full h-[500px] md:h-[750px] lg:h-[900px] overflow-hidden rounded-lg"
+              className="relative w-full h-[500px] md:h-[750px] lg:h-[900px] overflow-hidden rounded-2xl"
               variants={cardsAnimations.image.variants}
             >
               <Image
@@ -66,7 +66,7 @@ export function CardsSection() {
 
             {/* Card 2 */}
             <motion.div 
-              className="relative w-full h-[500px] md:h-[750px] lg:h-[900px] overflow-hidden rounded-lg"
+              className="relative w-full h-[500px] md:h-[750px] lg:h-[900px] overflow-hidden rounded-2xl"
               variants={cardsAnimations.image.variants}
             >
               <Image
@@ -110,10 +110,10 @@ export function CardsSection() {
                 ] as const).map((feature) => (
                   <div
                     key={feature.label}
-                    className="bg-white rounded-xl p-5 md:p-6 flex flex-col items-center text-center gap-3 md:gap-4 hover:bg-white/70 transition-all duration-300"
+                    className="bg-white rounded-2xl p-5 md:p-6 flex flex-col items-center text-center gap-3 md:gap-4 hover:shadow-sm transition-all duration-300 border border-gray-100"
                   >
-                    <div className="w-12 h-12 md:w-14 md:h-14 rounded-full bg-green-100 flex items-center justify-center">
-                      <feature.icon className="w-6 h-6 md:w-7 md:h-7 text-green-600" />
+                    <div className="w-12 h-12 md:w-14 md:h-14 rounded-xl bg-primary-100 flex items-center justify-center">
+                      <feature.icon className="w-6 h-6 md:w-7 md:h-7 text-primary-700" />
                     </div>
                     <p className="text-sm md:text-base font-medium text-black leading-snug">
                       {feature.label}

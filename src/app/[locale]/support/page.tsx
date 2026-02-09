@@ -52,8 +52,8 @@ export default async function SupportPage({
 			<main className="relative min-h-screen bg-white overflow-hidden">
 				{/* Talk to us directly Section */}
 				<section className="py-20 md:py-32">
-					<div className="container mx-auto px-6">
-						<div className="max-w-7xl mx-auto">
+					<div className="px-6 md:px-10 lg:px-12">
+						<div className="w-full max-w-[1400px] mx-auto">
 							<div className="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16 items-center">
 								{/* Left side - Image */}
 								<div className="relative w-full h-[400px] md:h-[500px] lg:h-[600px]">
@@ -71,7 +71,7 @@ export default async function SupportPage({
 									<h2 className="text-3xl md:text-4xl lg:text-5xl font-bold text-black mb-6 leading-tight">
 										{t("talkToUs.title")}
 									</h2>
-									<div className="space-y-6 text-base md:text-lg text-gray-700 mb-8">
+									<div className="space-y-6 text-base md:text-lg text-gray-600 mb-8">
 										<p className="leading-relaxed" dangerouslySetInnerHTML={{ __html: t("talkToUs.description1") }} />
 										<p className="leading-relaxed">
 											{t("talkToUs.description2")}
@@ -90,15 +90,15 @@ export default async function SupportPage({
 
 				{/* Ready-to-go answers Section */}
 				<section className="py-20 md:py-32 bg-gray-50">
-					<div className="container mx-auto px-6">
-						<div className="max-w-7xl mx-auto">
+					<div className="px-6 md:px-10 lg:px-12">
+						<div className="w-full max-w-[1400px] mx-auto">
 							<div className="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16 items-center">
 								{/* Left side - Content */}
 								<div className="lg:pr-8">
 									<h2 className="text-3xl md:text-4xl lg:text-5xl font-bold text-black mb-6 leading-tight">
 										{t("readyAnswers.title")}
 									</h2>
-									<p className="text-base md:text-lg text-gray-700 mb-8 leading-relaxed">
+									<p className="text-base md:text-lg text-gray-600 mb-8 leading-relaxed">
 										{t("readyAnswers.description")}
 									</p>
 									<Button variant="outline" size="lg">
@@ -124,8 +124,8 @@ export default async function SupportPage({
 
 				{/* Getting back into your account Section */}
 				<section className="py-20 md:py-32">
-					<div className="container mx-auto px-6">
-						<div className="max-w-4xl mx-auto">
+					<div className="px-6 md:px-10 lg:px-12">
+						<div className="w-full max-w-[900px] mx-auto">
 							<h2 className="text-3xl md:text-4xl lg:text-5xl font-bold text-black text-center mb-12 md:mb-16">
 								{t("accountAccess.title")}
 							</h2>

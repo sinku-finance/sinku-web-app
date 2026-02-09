@@ -30,8 +30,8 @@ export function RewardsSection() {
             >
               {t("title")}
             </motion.h2>
-            <motion.p 
-              className="text-sm md:text-base text-neutral-800 mb-6 md:mb-8 max-w-2xl mx-auto"
+            <motion.p
+              className="text-sm md:text-base text-neutral-600 mb-6 md:mb-8 max-w-2xl mx-auto leading-relaxed"
               variants={rewardsAnimations.subtitle.variants}
             >
               {t("subtitle")}
@@ -67,8 +67,8 @@ export function RewardsSection() {
             variants={rewardsAnimations.imagesGrid.variants}
           >
             {/* Couple with card image - takes 2 columns */}
-            <motion.div 
-              className="relative w-full h-[300px] md:h-[400px] lg:h-[500px] rounded-lg overflow-hidden lg:col-span-2"
+            <motion.div
+              className="relative w-full h-[300px] md:h-[400px] lg:h-[500px] rounded-2xl overflow-hidden lg:col-span-2"
               variants={rewardsAnimations.image.variants}
             >
               <Image
@@ -81,8 +81,8 @@ export function RewardsSection() {
             </motion.div>
 
             {/* Card image - takes 1 column */}
-            <motion.div 
-              className="relative w-full h-[300px] md:h-[400px] lg:h-[500px] rounded-lg overflow-hidden"
+            <motion.div
+              className="relative w-full h-[300px] md:h-[400px] lg:h-[500px] rounded-2xl overflow-hidden"
               variants={rewardsAnimations.image.variants}
             >
               <Image
@@ -96,7 +96,7 @@ export function RewardsSection() {
 
           {/* Bottom copy */}
           <motion.p
-            className="text-sm md:text-base text-neutral-800 text-center max-w-2xl mx-auto leading-relaxed mt-10 md:mt-14"
+            className="text-sm md:text-base text-neutral-600 text-center max-w-2xl mx-auto leading-relaxed mt-10 md:mt-14"
             initial={{ opacity: 0, y: 15 }}
             whileInView={{ opacity: 1, y: 0 }}
             viewport={{ once: true }}

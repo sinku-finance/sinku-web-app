@@ -29,7 +29,7 @@ export function PaymentsHeroSection() {
 								className="lg:max-w-[140px]"
 								variants={feesAnimations.tagline.variants}
 							>
-								<p className="text-neutral-700 max-w-[200px] leading-relaxed font-semibold text-base md:text-lg">
+								<p className="text-neutral-500 max-w-[200px] uppercase tracking-wide font-medium text-sm md:text-base">
 									{t("tagline")}
 								</p>
 							</motion.div>

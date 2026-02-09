@@ -30,7 +30,7 @@ export function HowToGetCardSection() {
 	]
 
 	return (
-		<section className="w-full bg-neutral-100 text-black py-20 md:py-32 lg:py-40">
+		<section className="w-full bg-gray-50 text-black py-20 md:py-32 lg:py-40">
 			<div className="px-6 md:px-10 lg:px-12">
 				<div className="w-full max-w-[1400px] mx-auto">
 					<div className="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16 items-center">
@@ -46,7 +46,7 @@ export function HowToGetCardSection() {
 								<h2 className="text-3xl md:text-4xl lg:text-5xl font-bold text-black mb-4 md:mb-6 leading-tight">
 									{t("title")}
 								</h2>
-								<p className="text-sm md:text-base text-gray-800 leading-relaxed max-w-xl">
+								<p className="text-sm md:text-base text-gray-600 leading-relaxed max-w-xl">
 									{t("subtitle")}
 								</p>
 							</div>
@@ -135,7 +135,7 @@ export function HowToGetCardSection() {
 							transition={{ duration: 0.6 }}
 							className="relative"
 						>
-							<div className="relative w-full max-w-md mx-auto lg:max-w-none aspect-square bg-neutral-900 rounded-lg overflow-hidden">
+							<div className="relative w-full max-w-md mx-auto lg:max-w-none aspect-square bg-neutral-900 rounded-2xl overflow-hidden">
 								<div className="absolute inset-x-0 bottom-0 flex items-end justify-center lg:px-12">
 									<div className="relative w-full aspect-square">
 										<Image

@@ -51,7 +51,7 @@ export function PlansSection() {
 						{plans.map((plan) => (
 							<motion.div
 								key={plan.id}
-								className="bg-gray-50 rounded-2xl p-6 md:p-8"
+								className="bg-gray-50 rounded-2xl p-6 md:p-8 hover:shadow-sm hover:border-gray-200 border border-transparent transition-all duration-300"
 								variants={{
 									hidden: { opacity: 0, y: 20 },
 									visible: {

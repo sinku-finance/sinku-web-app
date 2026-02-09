@@ -40,7 +40,7 @@ export function PaymentMethodsSection() {
 							{methodCards.map(({ key, icon: Icon }) => (
 								<motion.div
 									key={key}
-									className="rounded-2xl bg-gray-50 p-6 md:p-8 flex flex-col"
+									className="rounded-2xl bg-gray-50 p-6 md:p-8 flex flex-col hover:shadow-sm hover:bg-gray-100/80 transition-all duration-300 border border-transparent hover:border-gray-200"
 									variants={feesAnimations.card.variants}
 								>
 									<div className="mb-5 md:mb-6">

@@ -97,7 +97,7 @@ export function AccountFeesSection({ locale }: AccountFeesProps) {
 							>
 								{/* Method Header */}
 								<div className="flex items-center gap-3 mb-5">
-									<div className="w-12 h-12 md:w-14 md:h-14 rounded-2xl bg-primary-100 flex items-center justify-center text-primary-600">
+									<div className="w-12 h-12 md:w-14 md:h-14 rounded-xl bg-primary-100 flex items-center justify-center text-primary-600">
 										<div className="w-6 h-6 md:w-7 md:h-7">
 											{getIcon(method.icon)}
 										</div>

@@ -29,10 +29,13 @@ export function HeroSection() {
           }
         }
       `}</style>
+      {/* Subtle gradient for text readability */}
+      <div className="absolute inset-0 bg-gradient-to-r from-black/20 via-transparent to-transparent pointer-events-none" />
+
       <Header />
-      
+
       {/* Hero Content */}
-      <div className="flex-1 flex items-start md:items-center justify-center px-6 md:px-10 lg:px-12">
+      <div className="flex-1 flex items-start md:items-center justify-center px-6 md:px-10 lg:px-12 relative z-10">
         <div className="w-full max-w-[1400px] mx-auto">
           <motion.div 
             className="max-w-2xl lg:max-w-3xl text-center md:text-left mt-32 md:mt-0"
