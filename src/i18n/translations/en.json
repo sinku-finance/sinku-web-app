@@ -52,7 +52,7 @@
       "title": "Global Transfers",
       "description": "Transfer money between countries at real exchange rates. Up to 5x cheaper than traditional banks and remittance services."
     },
-    "bottomText": "Whether you're paying for a subscription from Luanda, sending money home from Lisbon, or shopping online from Praia — Plexos works where your local bank stops.",
+    "bottomText": "Whether you're paying for a subscription abroad, sending money home, or shopping online from anywhere — Plexos works where your local bank stops.",
     "account": {
       "title": "One account that connects you to the global economy",
       "subtitle": "Everything you need in one place — built for the way you live, spend, and grow your money across borders.",
@@ -81,7 +81,7 @@
     "title": "One app. All your accounts. Total control.",
     "subtitle": "Send, spend, save, and manage your money from your phone. Real-time notifications, instant transfers, and secure access — anytime, anywhere.",
     "qrText": "Scan to download the Plexos app",
-    "ratingText": "Trusted by users across 6 Portuguese-speaking African countries."
+    "ratingText": "Trusted by thousands of users across multiple countries."
   },
   "features": {
     "title": "Everything you need in one place",
@@ -143,8 +143,8 @@
     "talkToUs": {
       "title": "Talk to us directly",
       "description1": "Speak to our support team in 100+ languages via our secure in-app chat. Tap your profile icon in the top-left corner → Help → scroll down, tap Support to start a chat with us.",
-      "description2": "Premium, Metal and Ultra plan customers can also call us in-app.",
-      "button": "Visit the in-app chat"
+      "description2": "Premium plan customers can also call us directly in-app.",
+      "button": "Open the in-app chat"
     },
     "readyAnswers": {
       "title": "Ready-to-go answers",
@@ -366,7 +366,7 @@
     },
     "links": {
       "signUp": "Sign up",
-      "login": "Login",
+      "login": "Log in",
       "plexosCard": "Plexos Cards",
       "whatWeOffer": "What We Offer",
       "about": "About",

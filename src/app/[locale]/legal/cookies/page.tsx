@@ -13,8 +13,16 @@ export async function generateMetadata({
 	const policyData = cookiePolicyData[locale as keyof typeof cookiePolicyData] || cookiePolicyData.en
 
 	return {
-		title: `${policyData.title} | Plexos`,
+		title: policyData.title,
 		description: policyData.sections[0].content[0],
+		robots: {
+			index: false,
+			follow: true,
+		},
+		alternates: {
+			canonical: "/legal/cookies",
+			languages: { en: "/en/legal/cookies", pt: "/pt/legal/cookies" },
+		},
 	}
 }
 

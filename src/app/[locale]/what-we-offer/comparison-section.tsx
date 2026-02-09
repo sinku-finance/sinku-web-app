@@ -26,7 +26,7 @@ interface ComparisonSectionProps {
 export function ComparisonSection({ locale }: ComparisonSectionProps) {
 	const t = useTranslations("fees.comparison")
 
-	// Real comparison data for EUR 100 to Cape Verde CVE
+	// Comparison data for EUR 100 international transfer
 	// Based on market rates: 1 EUR = 110.775 CVE
 	// Wise charges 1.09% fee (€1.09 for €100)
 	// Revolut charges 0.30% fee (€0.30 for €100) based on real data

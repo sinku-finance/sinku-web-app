@@ -18,8 +18,17 @@ export async function generateMetadata({
 	const t = await getTranslations({ locale, namespace: "fees" })
 
 	return {
-		title: `${t("title")} | Plexos`,
+		title: "What We Offer — Payments, Transfers & Multi-Currency",
 		description: t("heroSubtitle"),
+		alternates: {
+			canonical: "/what-we-offer",
+			languages: { en: "/en/what-we-offer", pt: "/pt/what-we-offer" },
+		},
+		openGraph: {
+			title: "Plexos — Send Money Instantly, Hold 30+ Currencies",
+			description: t("heroSubtitle"),
+			images: [{ url: "/cards/card-in-hands.png", width: 1200, height: 630, alt: "Plexos payments and transfers" }],
+		},
 	}
 }
 

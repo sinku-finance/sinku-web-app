@@ -12,8 +12,17 @@ export async function generateMetadata({
 	const t = await getTranslations({ locale, namespace: "downloadApp" })
 
 	return {
-		title: `${t("title")} | Plexos`,
+		title: "Download the Plexos App",
 		description: t("subtitle"),
+		alternates: {
+			canonical: "/download-app",
+			languages: { en: "/en/download-app", pt: "/pt/download-app" },
+		},
+		openGraph: {
+			title: "Get the Plexos App — Your Money, Everywhere",
+			description: t("subtitle"),
+			images: [{ url: "/cards/card-in-hands.png", width: 1200, height: 630, alt: "Download the Plexos app" }],
+		},
 	}
 }
 

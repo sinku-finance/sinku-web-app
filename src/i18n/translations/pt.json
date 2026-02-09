@@ -1,12 +1,12 @@
 {
   "common": {
     "login": "Entrar",
-    "signup": "Cadastrar",
-    "joinBeta": "Beta teste"
+    "signup": "Criar conta",
+    "joinBeta": "Aderir ao Beta"
   },
   "navigation": {
     "faqsTitle": "Perguntas Frequentes",
-    "faqsSubtitle": "Encontre respostas para perguntas comuns sobre o Plexos.",
+    "faqsSubtitle": "Encontre respostas para as perguntas mais comuns sobre o Plexos.",
     "supportTitle": "Suporte",
     "supportSubtitle": "Estamos aqui para ajudar, 24/7"
   },
@@ -25,19 +25,19 @@
     "otherRegions": "Outras Regiões"
   },
   "hero": {
-    "title": "O Seu Dinheiro. Em Todo Lado.",
-    "subtitle": "O cartão internacional e app financeiro para o mundo moderno. Pague online, envie dinheiro para o estrangeiro e guarde várias moedas — tudo no seu telemóvel.",
+    "title": "O Seu Dinheiro. Em Todo o Lado.",
+    "subtitle": "O cartão internacional e app financeira para o mundo moderno. Pague online, envie dinheiro para o estrangeiro e guarde várias moedas — tudo a partir do seu telemóvel.",
     "appStore": {
-      "downloadOn": "Baixe na",
+      "downloadOn": "Disponível na",
       "appStore": "App Store",
       "getItOn": "DISPONÍVEL NO",
       "googlePlay": "Google Play"
     }
   },
   "services": {
-    "tagline": "Um app. Sem fronteiras.",
+    "tagline": "Uma app. Sem fronteiras.",
     "title": "Tudo o que o seu banco local não lhe dá",
-    "subtitle": "Pagamentos internacionais, transferências entre países e um cartão que funciona em todo o mundo — sem as taxas que comem o seu dinheiro.",
+    "subtitle": "Pagamentos internacionais, transferências entre países e um cartão que funciona em todo o mundo — sem as taxas que lhe comem o dinheiro.",
     "viewAll": "Abrir Conta",
     "cards": {
       "title": "Cartão de Débito Internacional",
@@ -50,9 +50,9 @@
     },
     "business": {
       "title": "Transferências Globais",
-      "description": "Transfira dinheiro entre países com câmbio real. Até 5x mais barato que bancos tradicionais e serviços de remessa."
+      "description": "Transfira dinheiro entre países com câmbio real. Até 5x mais barato do que bancos tradicionais e serviços de remessa."
     },
-    "bottomText": "Quer esteja a pagar uma subscrição a partir de Luanda, a enviar dinheiro para casa desde Lisboa, ou a comprar online a partir da Praia — o Plexos funciona onde o seu banco local para.",
+    "bottomText": "Quer esteja a pagar uma subscrição no estrangeiro, a enviar dinheiro para casa, ou a comprar online de qualquer lugar — o Plexos funciona onde o seu banco local para.",
     "account": {
       "title": "Uma conta que o liga à economia global",
       "subtitle": "Tudo o que precisa num só lugar — feito para a forma como vive, gasta e faz o seu dinheiro crescer sem fronteiras.",
@@ -66,8 +66,8 @@
   },
   "tools": {
     "tagline": "Feito para a forma como realmente usa o dinheiro.",
-    "title": "Gerencie o seu dinheiro em tempo real, de qualquer parte do mundo.",
-    "subtitle": "Notificações instantâneas, análise de gastos e controlo total do seu cartão — direto na app. Sem balcões, sem papelada.",
+    "title": "Gira o seu dinheiro em tempo real, de qualquer parte do mundo.",
+    "subtitle": "Notificações instantâneas, análise de gastos e controlo total do seu cartão — direto na app. Sem balcões, sem burocracia.",
     "button": "Veja Como Funciona"
   },
   "rewards": {
@@ -78,17 +78,17 @@
     "bottomText": "Cada compra põe dinheiro de volta no seu bolso. Sem pontos para resgatar, sem complicações — apenas cashback automático em tudo o que comprar, onde quer que pague."
   },
   "app": {
-    "title": "Um app. Todas as suas contas. Controlo total.",
-    "subtitle": "Envie, gaste, poupe e gerencie o seu dinheiro a partir do telemóvel. Notificações em tempo real, transferências instantâneas e acesso seguro — a qualquer hora, em qualquer lugar.",
-    "qrText": "Escaneie para baixar o app Plexos",
-    "ratingText": "Utilizado por pessoas em 6 países africanos de língua portuguesa."
+    "title": "Uma app. Todas as suas contas. Controlo total.",
+    "subtitle": "Envie, gaste, poupe e gira o seu dinheiro a partir do telemóvel. Notificações em tempo real, transferências instantâneas e acesso seguro — a qualquer hora, em qualquer lugar.",
+    "qrText": "Leia o código para descarregar a app Plexos",
+    "ratingText": "Utilizado por milhares de pessoas em vários países."
   },
   "features": {
     "title": "Tudo o que precisa num só lugar",
     "items": {
       "send-abroad": {
         "title": "Envie dinheiro para o estrangeiro a taxas baixas",
-        "description": "Transfira dinheiro para qualquer país em segundos. Câmbio real, taxas até 5x mais baixas que bancos tradicionais e serviços de remessa."
+        "description": "Transfira dinheiro para qualquer país em segundos. Câmbio real, taxas até 5x mais baixas do que bancos tradicionais e serviços de remessa."
       },
       "multi-currency": {
         "title": "Guarde várias moedas",
@@ -137,44 +137,44 @@
     }
   },
   "support": {
-    "getInTouch": "Entre em contato",
+    "getInTouch": "Entre em contacto",
     "heroTitle": "Estamos aqui para ajudar, 24/7",
-    "heroSubtitle": "Quer você queira navegar pelo nosso Centro de Ajuda para soluções ou conversar diretamente conosco, nós te ajudamos — até aos domingos.",
+    "heroSubtitle": "Quer queira navegar pelo nosso Centro de Ajuda para soluções ou falar diretamente connosco, estamos cá para si — até aos domingos.",
     "talkToUs": {
-      "title": "Fale conosco diretamente",
-      "description1": "Fale com nossa equipe de suporte em mais de 100 idiomas por meio do nosso chat seguro no aplicativo. Toque no ícone do seu perfil no canto superior esquerdo → <strong>Ajuda</strong> → role para baixo, toque em <strong>Suporte</strong> para iniciar um chat conosco.",
-      "description2": "Clientes dos planos Premium, Metal e Ultra também podem nos ligar no aplicativo.",
-      "button": "Visitar o chat no aplicativo"
+      "title": "Fale connosco diretamente",
+      "description1": "Fale com a nossa equipa de suporte em mais de 100 idiomas através do nosso chat seguro na app. Toque no ícone do seu perfil no canto superior esquerdo → <strong>Ajuda</strong> → deslize para baixo e toque em <strong>Suporte</strong> para iniciar uma conversa connosco.",
+      "description2": "Os clientes dos planos Premium também podem ligar-nos diretamente pela app.",
+      "button": "Abrir o chat na app"
     },
     "readyAnswers": {
-      "title": "Respostas prontas para uso",
-      "description": "Encontre respostas detalhadas para perguntas comuns em nosso Centro de Ajuda, a fonte do conhecimento Plexos.",
+      "title": "Respostas prontas a usar",
+      "description": "Encontre respostas detalhadas para as perguntas mais comuns no nosso Centro de Ajuda, a fonte de conhecimento Plexos.",
       "button": "Visitar Centro de Ajuda"
     },
     "accountAccess": {
-      "title": "Recuperando o acesso à sua conta"
+      "title": "Recuperar o acesso à sua conta"
     }
   },
   "security": {
     "title": "Viu algo suspeito?",
-    "description": "Se você notou alguma atividade incomum em sua conta, não entre em pânico — mas fique atento. Relate imediatamente e ajudaremos a manter seu dinheiro seguro contra fraudes.",
-    "button": "Relatar atividade"
+    "description": "Se notou alguma atividade invulgar na sua conta, não entre em pânico — mas fique atento. Reporte de imediato e ajudamos a manter o seu dinheiro seguro contra fraude.",
+    "button": "Reportar atividade"
   },
   "fees": {
     "title": "Pagamentos",
     "tagline": "Pagamentos",
-    "heroTitle": "Envie dinheiro rapidamente",
-    "heroSubtitle": "Transfira dinheiro para amigos, família ou qualquer pessoa — instantaneamente e sem custos. Sem taxas ocultas, sem esperas. Basta tocar, enviar, feito.",
+    "heroTitle": "Envie dinheiro instantaneamente",
+    "heroSubtitle": "Transfira dinheiro para amigos, família ou qualquer pessoa — instantaneamente e sem custos. Sem taxas ocultas, sem esperas. Basta tocar, enviar, pronto.",
     "heroButton": "Começar a enviar",
     "feature": {
       "title": "Pague a amigos e família, de forma rápida e gratuita",
-      "description": "Envie dinheiro entre contas Plexos em segundos, com zero taxas de transferência. Escolha entre transferências bancárias, pagamentos in-app ou de cartão para cartão — envie, receba e gerencie tudo numa única app.",
-      "disclaimer": "Podem aplicar-se taxas para certos métodos de pagamento. Aplicam-se os Termos e Condições.",
+      "description": "Envie dinheiro entre contas Plexos em segundos, com zero taxas de transferência. Escolha entre transferências bancárias, pagamentos na app ou de cartão para cartão — envie, receba e gira tudo numa única app.",
+      "disclaimer": "Podem aplicar-se taxas para determinados métodos de pagamento. Aplicam-se os Termos e Condições.",
       "button": "Começar a enviar",
       "pills": {
         "payFriends": "Pagar a amigos",
         "splitPayments": "Dividir pagamentos",
-        "sendAbroad": "Enviar para o exterior"
+        "sendAbroad": "Enviar para o estrangeiro"
       }
     },
     "methods": {
@@ -190,7 +190,7 @@
         },
         "global": {
           "title": "Envie dinheiro para o mundo",
-          "description": "Transfira dinheiro entre países com câmbio real. Grátis entre utilizadores Plexos e até 5x mais barato que bancos para todos os outros."
+          "description": "Transfira dinheiro entre países com câmbio real. Grátis entre utilizadores Plexos e até 5x mais barato do que bancos para todos os outros."
         }
       }
     },
@@ -203,25 +203,25 @@
     "comparison": {
       "title": "Porquê pagar mais? Compare e veja.",
       "subtitle": "Fomos criados para ser a forma mais barata de enviar dinheiro. Veja como o Plexos se compara com os outros.",
-      "sendingAmount": "Enviando €100",
-      "costToSend": "Custo para enviar",
+      "sendingAmount": "A enviar €100",
+      "costToSend": "Custo do envio",
       "recipientGets": "Destinatário recebe",
       "cheapest": "Mais barato",
       "sendMoney": "Enviar dinheiro",
-      "disclaimer": "As informações acima se aplicam ao enviar dinheiro na moeda nacional da conta do destinatário. A lista de provedores não é exaustiva e planejamos adicionar mais em breve. Para todos os provedores, estamos mostrando os custos com base apenas nos planos Standard/Básico. As taxas de câmbio e taxas de transferência exibidas são ilustrativas e atualizadas apenas a cada minuto. Sempre verifique a taxa aplicável e as taxas de transferência no aplicativo antes de realizar sua transferência. Transferências in-app com Plexos têm taxa zero."
+      "disclaimer": "As informações acima aplicam-se ao enviar dinheiro na moeda nacional da conta do destinatário. A lista de fornecedores não é exaustiva e planeamos adicionar mais em breve. Para todos os fornecedores, estamos a mostrar os custos com base apenas nos planos Standard/Básico. As taxas de câmbio e taxas de transferência apresentadas são ilustrativas e atualizadas apenas a cada minuto. Verifique sempre a taxa aplicável e as taxas de transferência na app antes de realizar a sua transferência. Transferências na app com Plexos têm taxa zero."
     }
   },
   "cards": {
     "heroTitle": "Um cartão. Sem fronteiras. Sem surpresas.",
     "heroSubtitle": "Gaste no estrangeiro com a taxa de câmbio real, sem taxas escondidas, e pague onde o Mastercard é aceite — tudo a partir do seu telemóvel.",
-    "heroButton": "Peça seu cartão",
+    "heroButton": "Peça o seu cartão",
     "virtual": {
       "title": "Praticamente indestrutível",
       "description": "Perde sempre os seus cartões? Torne-os virtuais e nunca mais se preocupe em perdê-los. Basta associá-los ao Apple ou Google Pay e começar a gastar de forma segura de imediato.",
       "banner": {
         "subtitle": "Disponível em todos os planos",
         "title": "O novo padrão bancário",
-        "accountTitle": "Pare de pagar demais ao seu banco",
+        "accountTitle": "Pare de pagar a mais ao seu banco",
         "accountSubtitle": "Pague internacionalmente sem carregar dinheiro físico. Esqueça as taxas escondidas e gaste no estrangeiro com a taxa de câmbio real — por uma fração do custo dos bancos tradicionais.",
         "features": {
           "globalPayments": "Pague em mais de 60M de comerciantes em 150+ países",
@@ -232,7 +232,7 @@
       },
       "benefits": {
         "title": "Um cartão. Controlo total. Zero compromissos.",
-        "description": "Gerencie os seus gastos a partir da app, defina limites personalizados, bloqueie o cartão com um toque e receba notificações em tempo real de cada transação. O seu dinheiro, as suas regras.",
+        "description": "Gira os seus gastos a partir da app, defina limites personalizados, bloqueie o cartão com um toque e receba notificações em tempo real de cada transação. O seu dinheiro, as suas regras.",
         "cta": "Começar agora",
         "cards": {
           "card1": {
@@ -251,8 +251,8 @@
       }
     },
     "collection": {
-      "title": "Cartões Que Combinam Com Seu Estilo — Não Apenas Com Sua Carteira",
-      "subtitle": "Descubra nossa coleção exclusiva de cartões de edição limitada, colaborações e designs sazonais — feitos para se destacar onde quer que você vá.",
+      "title": "Cartões Que Combinam Com o Seu Estilo",
+      "subtitle": "Descubra a nossa coleção exclusiva de cartões de edição limitada, colaborações e designs sazonais — feitos para se destacar onde quer que vá.",
       "bottomText": "Quer esteja a pagar as compras ao virar da esquina ou a reservar um voo para o outro lado do mundo — o seu cartão Plexos foi feito para ir onde a vida o levar, sem taxas a travá-lo."
     },
     "security": {
@@ -272,26 +272,26 @@
       }
     },
     "howToGet": {
-      "title": "Obtenha o Seu Cartão em Apenas 3 Passos Fáceis",
+      "title": "Obtenha o Seu Cartão em Apenas 3 Passos",
       "subtitle": "Sem filas, sem atrasos, sem complicações. Obtenha o seu cartão e comece a gastar com confiança hoje.",
       "steps": {
         "step1": {
           "number": "01",
           "title": "Comece Gratuitamente",
-          "description": "Crie sua conta gratuita em minutos — sem papelada necessária."
+          "description": "Crie a sua conta gratuita em minutos — sem burocracia."
         },
         "step2": {
           "number": "02",
-          "title": "Escolha Seu Cartão",
-          "description": "Escolha entre nossa coleção exclusiva de designs de cartões."
+          "title": "Escolha o Seu Cartão",
+          "description": "Escolha entre a nossa coleção exclusiva de designs de cartões."
         },
         "step3": {
           "number": "03",
-          "title": "Use Instantaneamente",
-          "description": "Comece a gastar online imediatamente com seu cartão virtual."
+          "title": "Use de Imediato",
+          "description": "Comece a gastar online instantaneamente com o seu cartão virtual."
         }
       },
-      "cta": "Obter Meu Cartão Agora"
+      "cta": "Obter o Meu Cartão Agora"
     },
     "featured": {
       "tagline": "Cartões para todas as ocasiões.",
@@ -304,7 +304,7 @@
         "badge": "Grátis",
         "features": {
           "feature1": "Zero taxas mensais — grátis para sempre",
-          "feature2": "Transferências in-app grátis para utilizadores Plexos",
+          "feature2": "Transferências na app grátis para utilizadores Plexos",
           "feature3": "Aceite em mais de 60M de comerciantes no mundo"
         }
       },
@@ -328,32 +328,32 @@
       }
     },
     "plans": {
-      "title": "Escolha a sua conta pacote",
+      "title": "Escolha o seu plano",
       "standard": {
         "name": "Conta Standard",
         "fee": "Comissão de Manutenção: Grátis",
-        "description": "Para as operações financeiras básicas: tudo o que precisa para uma melhor gestão do dinheiro num só lugar. Enviar dinheiro para o estrangeiro ou cumprir um orçamento nunca foi tão fácil."
+        "description": "Para o essencial do dia a dia: tudo o que precisa para gerir o seu dinheiro num só lugar. Enviar dinheiro para o estrangeiro ou cumprir um orçamento nunca foi tão fácil."
       },
       "plus": {
-        "name": "Conta Pacote Plus",
+        "name": "Plano Plus",
         "fee": "Comissão de Manutenção: €3,99/mês",
-        "description": "Para o consumidor inteligente: aceda a benefícios bancários adicionais, como melhores limites para gastos no estrangeiro e seguro para as suas compras, na nossa conta pacote acessível."
+        "description": "Para quem quer mais: aceda a benefícios bancários adicionais, como melhores limites para gastos no estrangeiro e seguro para as suas compras, a um preço acessível."
       },
       "premium": {
-        "name": "Conta Pacote Premium",
+        "name": "Plano Premium",
         "fee": "Comissão de Manutenção: €8,99/mês",
-        "description": "Para melhorar o dia a dia: aceda a subscrições exclusivas, melhores taxas de juro e câmbio de montantes ilimitados."
+        "description": "Para elevar o seu dia a dia: aceda a subscrições exclusivas, melhores taxas de câmbio e câmbio de montantes ilimitados."
       }
     }
   },
   "downloadApp": {
-    "title": "Baixe o App Plexos",
-    "subtitle": "Tenha o controlo do seu dinheiro em qualquer lugar. Baixe o app Plexos e comece a enviar, gastar e poupar — em segundos.",
-    "qrTitle": "Escaneie para baixar",
-    "qrDescription": "Aponte a câmera do telemóvel para o QR code para obter o app",
-    "qrAlt": "QR code para baixar o app Plexos",
-    "imageAlt": "Interface do app Plexos num smartphone",
-    "imagePlaceholder": "Imagem do app em breve"
+    "title": "Descarregue a App Plexos",
+    "subtitle": "Tenha o controlo do seu dinheiro em qualquer lugar. Descarregue a app Plexos e comece a enviar, gastar e poupar — em segundos.",
+    "qrTitle": "Leia para descarregar",
+    "qrDescription": "Aponte a câmara do telemóvel para o QR code para obter a app",
+    "qrAlt": "QR code para descarregar a app Plexos",
+    "imageAlt": "Interface da app Plexos num smartphone",
+    "imagePlaceholder": "Imagem da app em breve"
   },
   "footer": {
     "socialMedia": "Social",
@@ -365,14 +365,14 @@
       "help": "Ajuda"
     },
     "links": {
-      "signUp": "Cadastrar",
+      "signUp": "Criar conta",
       "login": "Entrar",
       "plexosCard": "Cartões Plexos",
       "whatWeOffer": "O Que Oferecemos",
       "about": "Sobre",
       "newsroom": "Notícias",
       "partnerships": "Parcerias",
-      "mediaAssets": "Mídia",
+      "mediaAssets": "Média",
       "faqs": "Perguntas Frequentes",
       "support": "Suporte"
     },
@@ -382,46 +382,46 @@
       "cookiePolicy": "Política de Cookies",
       "riskDisclosure": "Divulgação de Riscos",
       "pricingDisclosure": "Divulgação de Preços",
-      "cookieSettings": "Configurações de Cookies"
+      "cookieSettings": "Definições de Cookies"
     },
     "regulatory": {
-      "paragraph1": "Para saber mais sobre qual entidade Plexos você recebe serviços, consulte nossa página de FAQ correspondente. Se você tiver outras dúvidas, entre em contato conosco pelo chat no aplicativo Plexos.",
-      "paragraph2": "Plexos Group Ltd está registrada na Inglaterra e País de Gales (No. 12345678), é autorizada pela Financial Conduct Authority para oferecer serviços de dinheiro eletrônico e pagamento sob os Regulamentos de Dinheiro Eletrônico de 2011 (FRN: 987654). Plexos é um nome comercial da Plexos Group Ltd.",
-      "paragraph3": "O endereço registrado da Plexos Group Ltd é 123 Financial Street, Londres, EC1A 1BB, Reino Unido. Você pode ler mais sobre nossos termos e políticas em nosso site."
+      "paragraph1": "Para saber mais sobre a entidade Plexos que lhe presta serviços, consulte a nossa página de Perguntas Frequentes. Se tiver outras dúvidas, entre em contacto connosco através do chat na app Plexos.",
+      "paragraph2": "A Plexos Group Ltd está registada em Inglaterra e País de Gales (N.º 12345678), sendo autorizada pela Financial Conduct Authority para prestar serviços de moeda eletrónica e pagamento ao abrigo dos Electronic Money Regulations 2011 (FRN: 987654). Plexos é um nome comercial da Plexos Group Ltd.",
+      "paragraph3": "A sede registada da Plexos Group Ltd situa-se em 123 Financial Street, Londres, EC1A 1BB, Reino Unido. Pode ler mais sobre os nossos termos e políticas no nosso site."
     }
   },
   "cookies": {
-    "title": "Escolha seus cookies",
-    "description": "Os cookies nos ajudam a melhorar sua experiência, adaptar anúncios aos seus interesses e melhorar nosso site.",
-    "learnMore": "Saiba mais e gerencie",
+    "title": "Escolha os seus cookies",
+    "description": "Os cookies ajudam-nos a melhorar a sua experiência, adaptar anúncios aos seus interesses e melhorar o nosso site.",
+    "learnMore": "Saber mais e gerir",
     "acceptAll": "Aceitar todos",
     "rejectNonEssential": "Rejeitar cookies não essenciais"
   },
   "cookieSettings": {
-    "title": "Configurações de cookies",
-    "description": "Os cookies nos ajudam a melhorar sua experiência, adaptar anúncios aos seus interesses e melhorar nosso site.",
-    "findOutMore": "Saiba mais sobre as diferentes categorias de cookies expandindo cada categoria abaixo. Leia nossa",
+    "title": "Definições de cookies",
+    "description": "Os cookies ajudam-nos a melhorar a sua experiência, adaptar anúncios aos seus interesses e melhorar o nosso site.",
+    "findOutMore": "Saiba mais sobre as diferentes categorias de cookies expandindo cada categoria abaixo. Leia a nossa",
     "cookiePolicyLink": "Política de Cookies",
-    "learnMoreText": "para saber mais sobre como usamos cookies e como ajustar suas preferências de cookies se mudar de ideia.",
+    "learnMoreText": "para saber mais sobre como utilizamos cookies e como ajustar as suas preferências de cookies caso mude de ideias.",
     "alwaysActive": "Sempre ativo",
-    "confirmChoices": "Confirmar minhas escolhas",
+    "confirmChoices": "Confirmar as minhas escolhas",
     "acceptAll": "Aceitar todos",
     "categories": {
       "essential": {
         "title": "Cookies essenciais",
-        "description": "Estes cookies são necessários para o funcionamento do site e não podem ser desativados. Geralmente, são definidos apenas em resposta a ações feitas por você, como definir suas preferências de privacidade, fazer login ou preencher formulários."
+        "description": "Estes cookies são necessários para o funcionamento do site e não podem ser desativados. Geralmente são definidos apenas em resposta a ações suas, como definir as suas preferências de privacidade, iniciar sessão ou preencher formulários."
       },
       "preferences": {
         "title": "Cookies de preferências",
-        "description": "Estes cookies permitem que o site se lembre das escolhas que você faz (como seu idioma ou região) e forneçam recursos aprimorados e mais personalizados."
+        "description": "Estes cookies permitem que o site se lembre das suas escolhas (como o idioma ou a região) e ofereçam funcionalidades melhoradas e mais personalizadas."
       },
       "analytics": {
         "title": "Cookies de análise",
-        "description": "Estes cookies nos ajudam a entender como os visitantes interagem com nosso site, coletando e relatando informações de forma anônima. Isso nos ajuda a melhorar nossos serviços."
+        "description": "Estes cookies ajudam-nos a compreender como os visitantes interagem com o nosso site, recolhendo e reportando informação de forma anónima. Isto ajuda-nos a melhorar os nossos serviços."
       },
       "advertising": {
         "title": "Cookies de publicidade",
-        "description": "Estes cookies são usados para tornar as mensagens publicitárias mais relevantes para você. Eles executam funções como impedir que o mesmo anúncio reapareça continuamente e garantir que os anúncios sejam exibidos corretamente."
+        "description": "Estes cookies são utilizados para tornar as mensagens publicitárias mais relevantes para si. Têm funções como impedir que o mesmo anúncio apareça repetidamente e garantir que os anúncios são apresentados corretamente."
       }
     }
   }

@@ -20,11 +20,19 @@ export async function generateMetadata({
 	params: Promise<{ locale: string }>
 }): Promise<Metadata> {
 	const { locale } = await params
-	const t = await getTranslations({ locale, namespace: "navigation" })
+	const t = await getTranslations({ locale, namespace: "support" })
 
 	return {
-		title: `Support | Plexos`,
-		description: "We're here to help, 24/7",
+		title: "Support — Help Centre",
+		description: t("heroSubtitle"),
+		alternates: {
+			canonical: "/support",
+			languages: { en: "/en/support", pt: "/pt/support" },
+		},
+		openGraph: {
+			title: "Plexos Support — We're Here to Help, 24/7",
+			description: t("heroSubtitle"),
+		},
 	}
 }
 

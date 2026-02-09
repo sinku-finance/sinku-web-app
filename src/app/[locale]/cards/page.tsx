@@ -17,8 +17,17 @@ export async function generateMetadata({
 	const t = await getTranslations({ locale, namespace: "cards" })
 
 	return {
-		title: `Cards | Plexos`,
+		title: "International Debit Cards",
 		description: t("heroSubtitle"),
+		alternates: {
+			canonical: "/cards",
+			languages: { en: "/en/cards", pt: "/pt/cards" },
+		},
+		openGraph: {
+			title: "Plexos Cards — One Card. No Borders. No Surprises.",
+			description: t("heroSubtitle"),
+			images: [{ url: "/cards/card-product.png", width: 1200, height: 630, alt: "Plexos international debit card" }],
+		},
 	}
 }
 

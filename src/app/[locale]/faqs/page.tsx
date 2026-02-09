@@ -2,8 +2,6 @@ import type { Metadata } from "next"
 import { Header } from "@/components/layouts/header/header"
 import { SecurityReportSection } from "@/components/layouts/security-report-section"
 import Link from "next/link"
-import Image from "next/image"
-import { useTranslations } from "next-intl"
 import { getTranslations } from "next-intl/server"
 import faqsData from "@/data/faqs.json"
 import {
@@ -22,8 +20,16 @@ export async function generateMetadata({
 	const t = await getTranslations({ locale, namespace: "navigation" })
 
 	return {
-		title: `${t("faqsTitle")} | Plexos`,
-		description: t("faqsTitle"),
+		title: t("faqsTitle"),
+		description: t("faqsSubtitle"),
+		alternates: {
+			canonical: "/faqs",
+			languages: { en: "/en/faqs", pt: "/pt/faqs" },
+		},
+		openGraph: {
+			title: `${t("faqsTitle")} — Plexos`,
+			description: t("faqsSubtitle"),
+		},
 	}
 }
 

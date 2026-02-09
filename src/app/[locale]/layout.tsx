@@ -10,37 +10,83 @@ import { CookieConsent } from "@/components/layouts/modals/cookies/cookie-consen
 import { CookieSettingsLink } from "@/components/layouts/modals/cookies/cookie-settings-link";
 import "../globals.css";
 
+const BASE_URL = process.env.NEXT_PUBLIC_BASE_URL || "https://plexos.app";
+
 const outfit = Outfit({
   variable: "--font-outfit",
   subsets: ["latin"],
 });
 
 export const metadata: Metadata = {
-  title: "Plexos — The International Card & Money App for Africa",
+  metadataBase: new URL(BASE_URL),
+  title: {
+    default: "Plexos — Introducing You to the Global Economy",
+    template: "%s | Plexos",
+  },
   description:
-    "Send money abroad, pay online worldwide, and hold multiple currencies — all from one app. Built for Cape Verde, Angola, Mozambique, and the diaspora. Zero monthly fees.",
+    "Send money abroad, pay online worldwide, and hold multiple currencies — all from one app. International debit cards, real exchange rates, and zero monthly fees.",
   keywords: [
-    "international debit card Africa",
-    "send money Cape Verde",
-    "send money Angola",
-    "send money Mozambique",
-    "remittance Africa",
-    "fintech Africa",
-    "digital wallet Africa",
-    "currency exchange",
+    "international debit card",
+    "send money abroad",
     "international payments",
-    "diaspora money transfer",
+    "multi-currency account",
+    "money transfer",
+    "currency exchange",
+    "digital wallet",
+    "fintech",
+    "Plexos",
+    "Mastercard international",
+    "cross-border payments",
+    "remittance",
   ],
   authors: [{ name: "Plexos" }],
+  creator: "Plexos Group Ltd",
+  publisher: "Plexos Group Ltd",
+  formatDetection: {
+    email: false,
+    address: false,
+    telephone: false,
+  },
   openGraph: {
-    title: "Plexos — The International Card & Money App for Africa",
-    description: "Send money abroad, pay online worldwide, and hold multiple currencies. Built for Portuguese-speaking Africa and the diaspora.",
+    title: "Plexos — Introducing You to the Global Economy",
+    description:
+      "Send money abroad, pay online worldwide, and hold multiple currencies — all from one app. Real exchange rates and zero monthly fees.",
     type: "website",
+    siteName: "Plexos",
+    locale: "en",
+    images: [
+      {
+        url: "/cards/card-in-hands.png",
+        width: 1200,
+        height: 630,
+        alt: "Plexos — Introducing You to the Global Economy",
+      },
+    ],
   },
   twitter: {
     card: "summary_large_image",
-    title: "Plexos — The International Card & Money App for Africa",
-    description: "Send money abroad, pay online worldwide, and hold multiple currencies. Built for Portuguese-speaking Africa and the diaspora.",
+    title: "Plexos — Introducing You to the Global Economy",
+    description:
+      "Send money abroad, pay online worldwide, and hold multiple currencies — all from one app. Real exchange rates and zero monthly fees.",
+    images: ["/cards/card-in-hands.png"],
+  },
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      "max-video-preview": -1,
+      "max-image-preview": "large",
+      "max-snippet": -1,
+    },
+  },
+  alternates: {
+    canonical: "/",
+    languages: {
+      en: "/en",
+      pt: "/pt",
+    },
   },
 };
 
