@@ -27,7 +27,7 @@ export async function generateMetadata({
 		openGraph: {
 			title: seo.ogTitle,
 			description: seo.ogDescription,
-			images: [{ url: "/cards/card-in-hands.png", width: 1200, height: 630, alt: seo.ogTitle }],
+			images: [{ url: "/cards/card-in-hands.png", width: 2048, height: 2048, alt: seo.ogTitle }],
 		},
 	}
 }

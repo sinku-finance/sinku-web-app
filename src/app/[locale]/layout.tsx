@@ -11,7 +11,7 @@ import { CookieSettingsLink } from "@/components/layouts/modals/cookies/cookie-s
 import { layoutSeo } from "@/config/seo";
 import "../globals.css";
 
-const BASE_URL = process.env.NEXT_PUBLIC_BASE_URL || "https://plexos.app";
+const BASE_URL = process.env.NEXT_PUBLIC_BASE_URL || "https://plexos.finance";
 
 const outfit = Outfit({
   variable: "--font-outfit",
@@ -52,8 +52,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       images: [
         {
           url: "/cards/card-in-hands.png",
-          width: 1200,
-          height: 630,
+          width: 2048,
+          height: 2048,
           alt: seo.ogTitle,
         },
       ],
