@@ -13,7 +13,7 @@ export function HeroSection() {
     <section 
       className="relative min-h-[100vh] w-full flex flex-col overflow-hidden"
       style={{ 
-        backgroundImage: "url('/banners/home-mobile.png')",
+        backgroundImage: "url('/banners/home-mobile.webp')",
         backgroundSize: "cover",
         backgroundPosition: "center center",
         backgroundRepeat: "no-repeat",
@@ -23,8 +23,8 @@ export function HeroSection() {
       <style jsx>{`
         @media (min-width: 768px) {
           section {
-            background-image: url('/banners/home-desktop.png') !important;
-            background-position: right center !important;
+            background-image: url('/banners/home-desktop.webp') !important;
+            background-position: right top !important;
             background-size: cover !important;
           }
         }

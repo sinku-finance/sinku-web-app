@@ -80,11 +80,10 @@ export function VirtualCardSection() {
 							className="relative w-full h-[300px] md:h-[500px] lg:h-[600px] rounded-2xl overflow-hidden"
 						>
 							<Image
-								src="/banners/cards.png"
+								src="/banners/cards.webp"
 								alt="Virtual Cards"
 								fill
 								className="object-cover"
-								priority
 							/>
 						</motion.div>
 

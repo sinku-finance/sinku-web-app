@@ -12,7 +12,7 @@ export function CardsBanner() {
 		<section
 			className="relative w-full min-h-[85vh] md:min-h-[90vh] lg:min-h-[95vh] overflow-hidden flex items-center"
 			style={{
-				backgroundImage: "url('/banners/cards.png')",
+				backgroundImage: "url('/banners/cards.webp')",
 				backgroundSize: "cover",
 				backgroundPosition: "center center",
 				backgroundRepeat: "no-repeat",

@@ -10,7 +10,7 @@ export function SupportBanner() {
 		<section
 			className="relative w-full min-h-[85vh] md:min-h-[90vh] lg:min-h-[95vh] overflow-hidden flex items-center"
 			style={{
-				backgroundImage: "url('/banners/support.png')",
+				backgroundImage: "url('/banners/support.webp')",
 				backgroundSize: "cover",
 				backgroundPosition: "center center",
 				backgroundRepeat: "no-repeat",

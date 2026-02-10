@@ -72,11 +72,10 @@ export function RewardsSection() {
               variants={rewardsAnimations.image.variants}
             >
               <Image
-                src="/cards/couple-with-card.png"
+                src="/cards/couple-with-card.webp"
                 alt="Couple using Plexos card"
                 fill
                 className="object-cover"
-                priority
               />
             </motion.div>
 
@@ -86,7 +85,7 @@ export function RewardsSection() {
               variants={rewardsAnimations.image.variants}
             >
               <Image
-                src="/cards/card-product.png"
+                src="/cards/card-product.webp"
                 alt="Plexos card"
                 fill
                 className="object-cover"

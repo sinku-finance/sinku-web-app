@@ -38,21 +38,19 @@ export function CardsCollectionSection() {
 						{/* Mobile image */}
 						<div className="relative w-full aspect-[16/9] rounded-2xl overflow-hidden md:hidden">
 							<Image
-								src="/cards/collection-mobile.png"
+								src="/cards/collection-mobile.webp"
 								alt="Collection of Plexos cards"
 								fill
 								className="object-cover object-center"
-								priority
 							/>
 						</div>
 						{/* Desktop image */}
 						<div className="relative w-full aspect-[21/9] rounded-2xl overflow-hidden hidden md:block">
 							<Image
-								src="/cards/collection-desktop.png"
+								src="/cards/collection-desktop.webp"
 								alt="Collection of Plexos cards"
 								fill
 								className="object-cover object-center"
-								priority
 							/>
 						</div>
 					</motion.div>

@@ -56,11 +56,10 @@ export function CardsSection() {
               variants={cardsAnimations.image.variants}
             >
               <Image
-                src="/cards/card-showcase-1.png"
+                src="/cards/card-showcase-1.webp"
                 alt="Plexos card with phone"
                 fill
                 className="object-cover"
-                priority
               />
             </motion.div>
 
@@ -70,11 +69,10 @@ export function CardsSection() {
               variants={cardsAnimations.image.variants}
             >
               <Image
-                src="/cards/card-showcase-2.png"
+                src="/cards/card-showcase-2.webp"
                 alt="Plexos card stack"
                 fill
                 className="object-cover"
-                priority
               />
             </motion.div>
           </div>

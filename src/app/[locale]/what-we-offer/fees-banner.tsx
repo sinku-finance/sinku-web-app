@@ -10,7 +10,7 @@ export function FeesBanner() {
 		<section
 			className="relative w-full min-h-[85vh] md:min-h-[90vh] lg:min-h-[95vh] overflow-hidden flex items-center"
 			style={{
-				backgroundImage: "url('/banners/fees.jpg')",
+				backgroundImage: "url('/banners/fees.webp')",
 				backgroundSize: "cover",
 				backgroundPosition: "center center",
 				backgroundRepeat: "no-repeat",

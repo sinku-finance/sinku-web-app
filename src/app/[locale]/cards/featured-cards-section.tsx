@@ -73,7 +73,7 @@ export function FeaturedCardsSection() {
 		{
 			id: "standard",
 			bgColor: "bg-surface-green",
-			image: "/cards/card-lateral-green.png",
+			image: "/cards/card-lateral-green.webp",
 			name: t("standardCard.name"),
 			badge: t("standardCard.badge"),
 			features: [
@@ -85,7 +85,7 @@ export function FeaturedCardsSection() {
 		{
 			id: "plus",
 			bgColor: "bg-surface-purple",
-			image: "/cards/card-lateral-white.png",
+			image: "/cards/card-lateral-white.webp",
 			name: t("plusCard.name"),
 			badge: t("plusCard.badge"),
 			features: [
@@ -97,7 +97,7 @@ export function FeaturedCardsSection() {
 		{
 			id: "premium",
 			bgColor: "bg-surface-blue",
-			image: "/cards/card-lateral-black.png",
+			image: "/cards/card-lateral-black.webp",
 			name: t("premiumCard.name"),
 			badge: t("premiumCard.badge"),
 			features: [

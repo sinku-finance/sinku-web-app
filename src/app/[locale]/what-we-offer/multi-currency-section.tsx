@@ -59,7 +59,7 @@ export function MultiCurrencySection() {
 							variants={feesAnimations.image.variants}
 						>
 							<Image
-								src="/cards/card-product-2.png"
+								src="/cards/card-product-2.webp"
 								alt="Plexos cards"
 								fill
 								className="object-cover rounded-2xl"

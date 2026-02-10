@@ -13,19 +13,19 @@ export function CardSecuritySection() {
 			id: "freeze",
 			title: t("features.freezeCard.title"),
 			bgColor: "bg-gray-600",
-			image: "/cards/card-freeze.png",
+			image: "/cards/card-freeze.webp",
 		},
 		{
 			id: "virtual",
 			title: t("features.virtualCard.title"),
 			bgColor: "bg-black",
-			image: "/cards/card-virtual.png",
+			image: "/cards/card-virtual.webp",
 		},
 		{
 			id: "controls",
 			title: t("features.controls.title"),
 			bgColor: "bg-black",
-			image: "/cards/card-controls.png",
+			image: "/cards/card-controls.webp",
 		},
 	]
 

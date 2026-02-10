@@ -64,11 +64,10 @@ export function ToolsSection() {
             variants={toolsAnimations.image.variants}
           >
             <Image
-              src="/home/tools-section.png"
+              src="/home/tools-section.webp"
               alt="People using Plexos"
               fill
               className="object-cover"
-              priority
             />
           </motion.div>
 

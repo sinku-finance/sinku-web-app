@@ -67,7 +67,7 @@ export default async function SupportPage({
 								{/* Left side - Image */}
 								<div className="relative w-full h-[400px] md:h-[500px] lg:h-[600px]">
 									<Image
-										src="/support/support-hero.png"
+										src="/support/support-hero.webp"
 										alt={t("talkToUs.title")}
 										fill
 										className="object-contain"
@@ -120,7 +120,7 @@ export default async function SupportPage({
 								{/* Right side - Image */}
 								<div className="relative w-full h-[400px] md:h-[500px] lg:h-[600px] rounded-2xl overflow-hidden">
 									<Image
-										src="/support/support-contact.png"
+										src="/support/support-contact.webp"
 										alt={t("readyAnswers.title")}
 										fill
 										className="object-cover"

@@ -80,11 +80,10 @@ export function AppSection() {
             >
               <div className="absolute inset-0 rounded-lg overflow-hidden">
                 <Image
-                  src="/home/app-persons.png"
+                  src="/home/app-persons.webp"
                   alt="People using Plexos app"
                   fill
                   className="object-cover"
-                  priority
                 />
               </div>
             </motion.div>
@@ -101,11 +100,10 @@ export function AppSection() {
         viewport={{ once: true, margin: "-50px", amount: 0.1 }}
       >
         <Image
-          src="/home/app-mockup.png"
+          src="/home/app-mockup.webp"
           alt="Plexos app interface"
           fill
           className="object-contain object-bottom drop-shadow-2xl"
-          priority
         />
       </motion.div>
     </motion.section>

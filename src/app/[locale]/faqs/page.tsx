@@ -78,7 +78,7 @@ export default async function FAQsPage({
 			<section
 				className="relative w-full h-[50vh] md:h-[60vh] lg:h-[70vh] overflow-hidden"
 				style={{
-					backgroundImage: "url('/banners/faqs.png')",
+					backgroundImage: "url('/banners/faqs.webp')",
 					backgroundSize: "cover",
 					backgroundPosition: "center center",
 					backgroundRepeat: "no-repeat"
