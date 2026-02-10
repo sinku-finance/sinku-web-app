@@ -2,6 +2,7 @@
 
 import { useTranslations } from "next-intl"
 import { Button } from "@/components/ui/button"
+import Image from "next/image"
 import Link from "next/link"
 import { motion } from "framer-motion"
 import { feesAnimations } from "./animations"
@@ -52,15 +53,18 @@ export function MultiCurrencySection() {
 							</motion.div>
 						</motion.div>
 
-						{/* Image placeholder */}
+						{/* Card Product Image */}
 						<motion.div
-							className="relative w-full h-[300px] md:h-[450px] lg:h-[550px] rounded-2xl overflow-hidden bg-white/30 mt-12 md:mt-16"
+							className="relative w-full h-[350px] md:h-[500px] lg:h-[700px] rounded-2xl overflow-hidden mt-12 md:mt-16"
 							variants={feesAnimations.image.variants}
 						>
-							{/* Image placeholder - user will add later */}
-							<div className="absolute inset-0 flex items-center justify-center">
-								<div className="text-neutral-400 text-lg">Image placeholder</div>
-							</div>
+							<Image
+								src="/cards/card-product-2.png"
+								alt="Plexos cards"
+								fill
+								className="object-cover rounded-2xl"
+								style={{ objectPosition: "center 60%" }}
+							/>
 						</motion.div>
 					</div>
 				</div>

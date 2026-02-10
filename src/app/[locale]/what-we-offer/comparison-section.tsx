@@ -34,7 +34,7 @@ export function ComparisonSection({ locale }: ComparisonSectionProps) {
 		{
 			id: "plexos",
 			name: "Plexos",
-			logoImage: "/logo.png",
+			logoImage: "/favicon.png",
 			badge: t("cheapest"),
 			costToSend: "€0.00",
 			recipientGets: "11,077 CVE",
@@ -148,7 +148,7 @@ export function ComparisonSection({ locale }: ComparisonSectionProps) {
 															alt={provider.name}
 															width={40}
 															height={40}
-															className="w-full h-full object-contain p-1"
+															className="w-full h-full object-contain p-1.5"
 														/>
 													</div>
 												) : (
@@ -192,7 +192,7 @@ export function ComparisonSection({ locale }: ComparisonSectionProps) {
 															alt={provider.name}
 															width={40}
 															height={40}
-															className="w-full h-full object-contain p-1"
+															className="w-full h-full object-contain p-1.5"
 														/>
 													</div>
 												) : (

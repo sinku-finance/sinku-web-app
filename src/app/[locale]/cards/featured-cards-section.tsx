@@ -1,11 +1,70 @@
 "use client"
 
+import { useRef, type MouseEvent } from "react"
 import { Button } from "@/components/ui/button"
 import { useTranslations } from "next-intl"
 import { CheckCircle } from "iconoir-react"
 import Image from "next/image"
 import Link from "next/link"
-import { motion } from "framer-motion"
+import { motion, useMotionValue, useSpring } from "framer-motion"
+
+function Card3DImage({ src, alt }: { src: string; alt: string }) {
+	const ref = useRef<HTMLDivElement>(null)
+	const rotateX = useMotionValue(0)
+	const rotateY = useMotionValue(0)
+	const scale = useMotionValue(1)
+
+	const springRotateX = useSpring(rotateX, { stiffness: 200, damping: 20 })
+	const springRotateY = useSpring(rotateY, { stiffness: 200, damping: 20 })
+	const springScale = useSpring(scale, { stiffness: 200, damping: 20 })
+
+	const handleMouseMove = (e: MouseEvent<HTMLDivElement>) => {
+		if (!ref.current) return
+		const rect = ref.current.getBoundingClientRect()
+		const x = (e.clientX - rect.left) / rect.width - 0.5
+		const y = (e.clientY - rect.top) / rect.height - 0.5
+		rotateX.set(y * -20)
+		rotateY.set(x * 20)
+	}
+
+	const handleMouseEnter = () => {
+		scale.set(1.05)
+	}
+
+	const handleMouseLeave = () => {
+		rotateX.set(0)
+		rotateY.set(0)
+		scale.set(1)
+	}
+
+	return (
+		<div
+			ref={ref}
+			className="relative w-full h-[300px] md:h-[360px] mb-6"
+			style={{ perspective: "800px" }}
+			onMouseMove={handleMouseMove}
+			onMouseEnter={handleMouseEnter}
+			onMouseLeave={handleMouseLeave}
+		>
+			<motion.div
+				className="relative w-full h-full"
+				style={{
+					rotateX: springRotateX,
+					rotateY: springRotateY,
+					scale: springScale,
+					transformStyle: "preserve-3d",
+				}}
+			>
+				<Image
+					src={src}
+					alt={alt}
+					fill
+					className="object-cover object-center drop-shadow-2xl"
+				/>
+			</motion.div>
+		</div>
+	)
+}
 
 export function FeaturedCardsSection() {
 	const t = useTranslations("cards.featured")
@@ -14,7 +73,7 @@ export function FeaturedCardsSection() {
 		{
 			id: "standard",
 			bgColor: "bg-surface-green",
-			image: "/cards/card-green.png",
+			image: "/cards/card-lateral-green.png",
 			name: t("standardCard.name"),
 			badge: t("standardCard.badge"),
 			features: [
@@ -26,7 +85,7 @@ export function FeaturedCardsSection() {
 		{
 			id: "plus",
 			bgColor: "bg-surface-purple",
-			image: "/cards/card-purple.png",
+			image: "/cards/card-lateral-white.png",
 			name: t("plusCard.name"),
 			badge: t("plusCard.badge"),
 			features: [
@@ -38,7 +97,7 @@ export function FeaturedCardsSection() {
 		{
 			id: "premium",
 			bgColor: "bg-surface-blue",
-			image: "/cards/card-blue.png",
+			image: "/cards/card-lateral-black.png",
 			name: t("premiumCard.name"),
 			badge: t("premiumCard.badge"),
 			features: [
@@ -131,7 +190,7 @@ export function FeaturedCardsSection() {
 							{cards.map((card) => (
 								<motion.div
 									key={card.id}
-									className={`rounded-2xl overflow-hidden p-6 md:p-8 flex flex-col hover:scale-[1.02] transition-transform duration-300 ${card.bgColor}`}
+									className={`rounded-2xl overflow-hidden p-6 md:p-8 flex flex-col ${card.bgColor}`}
 									variants={{
 										hidden: { opacity: 0, y: 30, scale: 0.98 },
 										visible: {
@@ -152,19 +211,8 @@ export function FeaturedCardsSection() {
 										</span>
 									</div>
 
-									{/* Card Image */}
-									<div className="relative w-full aspect-[1.586/1] mb-6">
-										<div className="absolute inset-0 flex items-center justify-center">
-											<div className="relative w-full h-full max-w-[280px]">
-												<Image
-													src={card.image}
-													alt={card.name}
-													fill
-													className="object-contain"
-												/>
-											</div>
-										</div>
-									</div>
+								{/* Card Image with 3D hover */}
+								<Card3DImage src={card.image} alt={card.name} />
 
 									{/* Card Info */}
 									<div className="flex-1 flex flex-col">

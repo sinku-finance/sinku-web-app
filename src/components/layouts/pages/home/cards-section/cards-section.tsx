@@ -56,7 +56,7 @@ export function CardsSection() {
               variants={cardsAnimations.image.variants}
             >
               <Image
-                src="/cards/card-showcase-1.webp"
+                src="/cards/card-showcase-1.png"
                 alt="Plexos card with phone"
                 fill
                 className="object-cover"
