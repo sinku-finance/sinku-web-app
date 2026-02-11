@@ -60,7 +60,7 @@ export function ToolsSection() {
 
           {/* Image below content */}
           <motion.div
-            className="relative w-full h-[300px] md:h-[500px] lg:h-[600px] rounded-2xl overflow-hidden"
+            className="relative w-full h-[300px] md:h-[500px] lg:[550px] 2xl:h-[600px] rounded-2xl overflow-hidden"
             variants={toolsAnimations.image.variants}
           >
             <Image

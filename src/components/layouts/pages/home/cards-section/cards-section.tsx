@@ -52,7 +52,7 @@ export function CardsSection() {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 md:gap-8 lg:gap-12">
             {/* Card 1 */}
             <motion.div 
-              className="relative w-full h-[500px] md:h-[750px] lg:h-[900px] overflow-hidden rounded-2xl"
+              className="relative w-full h-[400px] md:h-[500px] lg:h-[650px] 2xl:h-[900px] overflow-hidden rounded-2xl"
               variants={cardsAnimations.image.variants}
             >
               <Image
@@ -65,7 +65,7 @@ export function CardsSection() {
 
             {/* Card 2 */}
             <motion.div 
-              className="relative w-full h-[500px] md:h-[750px] lg:h-[900px] overflow-hidden rounded-2xl"
+              className="relative w-full h-[400px] md:h-[500px] lg:h-[650px] 2xl:h-[900px] overflow-hidden rounded-2xl"
               variants={cardsAnimations.image.variants}
             >
               <Image

@@ -15,38 +15,35 @@ export function VirtualCardSection() {
 	const cards = [
 		{
 			id: "card1",
-			icon: "$+",
+			icon: "🔔",
+			image: "/services/Notification.png",
 			title: t("benefits.cards.card1.title"),
 			description: t("benefits.cards.card1.description"),
-			bgColor: "bg-black",
+			bgColor: "bg-white text-black",
 		},
 		{
 			id: "card2",
 			icon: "⚡",
+			image: "/services/instant-freeze.jpeg",
 			title: t("benefits.cards.card2.title"),
 			description: t("benefits.cards.card2.description"),
-			bgColor: "bg-green-700",
+			bgColor: "bg-black",
 		},
 		{
 			id: "card3",
 			icon: "🎛️",
 			title: t("benefits.cards.card3.title"),
 			description: t("benefits.cards.card3.description"),
-			bgColor: "bg-green-900",
+			bgColor: "bg-blue-600",
 		},
 	]
 
-	// Handle swipe to change cards
-	const handleDragEnd = (_event: any, info: any) => {
-		const threshold = 50
+	const handlePrev = () => {
+		setCurrentCard((prev) => (prev - 1 + cards.length) % cards.length)
+	}
 
-		if (info.offset.x > threshold && currentCard > 0) {
-			// Swipe right - go to previous card
-			setCurrentCard(currentCard - 1)
-		} else if (info.offset.x < -threshold && currentCard < cards.length - 1) {
-			// Swipe left - go to next card
-			setCurrentCard(currentCard + 1)
-		}
+	const handleNext = () => {
+		setCurrentCard((prev) => (prev + 1) % cards.length)
 	}
 
 	return (
@@ -150,17 +147,14 @@ export function VirtualCardSection() {
 							<p className="text-base md:text-lg text-gray-700 leading-relaxed mb-8">
 								{t("benefits.description")}
 							</p>
-							<Button
-								variant="primary"
-								size="lg"
-							>
+							<Button variant="primary" size="lg">
 								<Link href="/download-app">
 									{t("benefits.cta")}
 								</Link>
 							</Button>
 						</motion.div>
 
-						{/* Right Side - Card Stack */}
+						{/* Right Side - 3 Cards with center bigger */}
 						<motion.div
 							initial={{ opacity: 0, x: 30 }}
 							whileInView={{ opacity: 1, x: 0 }}
@@ -168,59 +162,66 @@ export function VirtualCardSection() {
 							transition={{ duration: 0.6 }}
 							className="relative"
 						>
-							{/* Cards Container */}
-							<div className="relative w-full h-[400px] md:h-[500px] flex justify-center md:justify-end items-center">
-								<div className="relative w-[280px] h-[360px] md:w-[450px] md:h-[550px]">
-									{cards.map((card, index) => {
-										const isActive = index === currentCard
-										const offset = isActive ? 0 : (currentCard - index) * 40
+							<div className="flex items-center justify-center gap-3 md:gap-4">
+								{cards.map((card, index) => {
+									const position = (index - currentCard + cards.length) % cards.length
+									const isCenter = position === 0
+									const isLeft = position === cards.length - 1
+									const isRight = position === 1
 
-										return (
-											<motion.div
-												key={card.id}
-												className={`absolute top-0 ${card.bgColor} rounded-2xl md:rounded-3xl p-6 md:p-8 flex flex-col text-white cursor-pointer shadow-2xl w-[280px] h-[360px] md:w-[450px] md:h-[550px]`}
-												animate={{
-													right: `${offset}px`,
-													scale: isActive ? 1 : 0.95,
-													opacity: isActive ? 1 : 0.7,
-												}}
-												transition={{
-													type: "spring",
-													stiffness: 300,
-													damping: 30
-												}}
-												style={{
-													zIndex: isActive ? 10 : 9 - Math.abs(currentCard - index),
-												}}
-												onClick={() => setCurrentCard(index)}
-												drag="x"
-												dragConstraints={{ left: 0, right: 0 }}
-												dragElastic={0.2}
-												onDragEnd={handleDragEnd}
-												whileTap={{ cursor: 'grabbing' }}
-											>
+									let order = 1
+									if (isLeft) order = 0
+									if (isCenter) order = 1
+									if (isRight) order = 2
+
+									return (
+										<motion.div
+											key={card.id}
+											className={`${card.bgColor} rounded-2xl p-4 md:p-6 flex flex-col cursor-pointer shadow-xl ${card.bgColor.includes("white") ? "text-black" : "text-white"}`}
+											animate={{
+												scale: isCenter ? 1 : 0.9,
+												opacity: isCenter ? 1 : 0.5,
+											}}
+											transition={{
+												type: "spring",
+												stiffness: 300,
+												damping: 30,
+											}}
+											style={{ order }}
+											onClick={() => setCurrentCard(index)}
+										>
+											<div className={`flex flex-col ${isCenter ? "w-[160px] h-[220px] md:w-[200px] md:h-[280px]" : "w-[120px] h-[180px] md:w-[150px] md:h-[230px]"} transition-all duration-300`}>
 												{/* Icon */}
-												<div className="flex items-center justify-center w-12 h-12 md:w-16 md:h-16 rounded-xl bg-white/10 mb-6 md:mb-8">
-													<span className="text-3xl md:text-4xl">{card.icon}</span>
+												<div className={`flex items-center justify-center w-8 h-8 md:w-10 md:h-10 rounded-lg mb-3 md:mb-4 ${card.bgColor.includes("white") ? "bg-black/10" : "bg-white/10"}`}>
+													<span className={`${isCenter ? "text-lg md:text-xl" : "text-sm md:text-base"}`}>{card.icon}</span>
 												</div>
+
+												{/* Card Image */}
+												{card.image && (
+													<div className="flex-1 flex items-center justify-center">
+														<div className={`relative w-full rounded-lg overflow-hidden ${isCenter ? "h-[60px] md:h-[90px]" : "h-[40px] md:h-[60px]"}`}>
+															<Image src={card.image} alt={card.title} fill className="object-contain rounded-lg" />
+														</div>
+													</div>
+												)}
 
 												{/* Content */}
 												<div className="mt-auto">
-													<h4 className="text-2xl md:text-3xl font-bold mb-3 md:mb-4 leading-tight">
+													<h4 className={`font-bold mb-1 md:mb-2 leading-tight ${isCenter ? "text-sm md:text-base" : "text-xs md:text-sm"}`}>
 														{card.title}
 													</h4>
-													<p className="text-base md:text-lg text-white/90 leading-relaxed">
+													<p className={`leading-relaxed ${card.bgColor.includes("white") ? "text-black/70" : "text-white/90"} ${isCenter ? "text-xs md:text-sm" : "text-[10px] md:text-xs"}`}>
 														{card.description}
 													</p>
 												</div>
-											</motion.div>
-										)
-									})}
-								</div>
+											</div>
+										</motion.div>
+									)
+								})}
 							</div>
 
 							{/* Dots Indicator */}
-							<div className="flex justify-center gap-2 mt-12 md:mt-16">
+							<div className="flex justify-center gap-2 mt-8 md:mt-10">
 								{cards.map((_, index) => (
 									<button
 										key={index}
@@ -228,7 +229,7 @@ export function VirtualCardSection() {
 										className={`h-2 rounded-full transition-all ${
 											index === currentCard
 												? "w-8 bg-black"
-												: "w-2 bg-gray-300"
+												: "w-2 bg-black/20"
 										}`}
 										aria-label={`Go to card ${index + 1}`}
 									/>
