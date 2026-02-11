@@ -14,7 +14,7 @@ export function CardsBanner() {
 			style={{
 				backgroundImage: "url('/banners/cards-banner.webp')",
 				backgroundSize: "cover",
-				backgroundPosition: "center center",
+				backgroundPosition: "20% center",
 				backgroundRepeat: "no-repeat",
 			}}
 		>
