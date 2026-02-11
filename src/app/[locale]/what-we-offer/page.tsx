@@ -48,7 +48,7 @@ export default async function WhatWeOfferPage({
 			{/* Hero Banner with Background Image */}
 			<FeesBanner />
 
-			<main className="relative bg-white overflow-hidden">
+			<main id="main-content" className="relative bg-white overflow-hidden">
 				{/* Hero - Payments */}
 				<PaymentsHeroSection />
 
@@ -64,8 +64,8 @@ export default async function WhatWeOfferPage({
 				{/* Comparison Section */}
 				<ComparisonSection locale={locale} />
 
-				{/* Account Fees Section */}
-				<AccountFeesSection locale={locale} />
+				{/* Account Fees Section - hidden for now */}
+				{/* <AccountFeesSection locale={locale} /> */}
 			</main>
 		</>
 	)

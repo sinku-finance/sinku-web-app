@@ -80,8 +80,13 @@ export function CookieConsent() {
 							className="fixed inset-0 bg-black/20 backdrop-blur-sm z-50 pointer-events-none"
 						/>
 
-						{/* Cookie Modal - Bottom Right */}
-						<div className="fixed bottom-6 right-6 z-50 max-w-md w-full px-6 md:px-0">
+						{/* Cookie Modal - Centered on mobile, bottom-right on desktop */}
+						<div
+							role="dialog"
+							aria-modal="true"
+							aria-labelledby="cookie-consent-title"
+							className="fixed bottom-6 left-1/2 -translate-x-1/2 md:left-auto md:translate-x-0 md:right-6 z-50 max-w-md w-full px-6 md:px-0"
+						>
 							<motion.div
 								initial={{ opacity: 0, scale: 0.95, y: 20 }}
 								animate={{ opacity: 1, scale: 1, y: 0 }}
@@ -89,7 +94,7 @@ export function CookieConsent() {
 								transition={{ duration: 0.3, ease: "easeOut" }}
 								className="bg-white rounded-2xl shadow-2xl p-8 md:p-10"
 							>
-								<h2 className="text-2xl md:text-3xl font-bold text-black mb-4">
+								<h2 id="cookie-consent-title" className="text-2xl md:text-3xl font-bold text-black mb-4">
 									{t("title")}
 								</h2>
 								<p className="text-sm md:text-base text-gray-700 mb-2 leading-relaxed">
@@ -130,7 +135,10 @@ export function CookieConsent() {
 			{/* Cookie Settings Modal */}
 			<CookieSettingsModal
 				isOpen={isSettingsOpen}
-				onClose={() => setIsSettingsOpen(false)}
+				onClose={() => {
+					setIsSettingsOpen(false)
+					setIsVisible(true)
+				}}
 				onSave={handleSavePreferences}
 			/>
 		</>

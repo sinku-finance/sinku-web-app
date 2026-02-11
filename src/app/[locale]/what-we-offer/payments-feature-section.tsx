@@ -47,11 +47,14 @@ export function PaymentsFeatureSection() {
 								className="relative"
 								variants={feesAnimations.image.variants}
 							>
-								<div className="relative w-full h-[350px] md:h-[450px] lg:h-[500px] rounded-2xl overflow-hidden bg-gray-100">
-									{/* Image placeholder - user will add later */}
-									<div className="absolute inset-0 flex items-center justify-center">
-										<div className="text-gray-300 text-lg">Image placeholder</div>
-									</div>
+								<div className="relative w-full h-[400px] md:h-[450px] lg:h-[520px] rounded-2xl overflow-hidden bg-gray-100">
+									<Image
+										src="/home/sending.webp"
+										alt="Sending money with Plexos"
+										fill
+										className="object-cover object-center"
+										sizes="(max-width: 1024px) 100vw, 50vw"
+									/>
 								</div>
 							</motion.div>
 						</motion.div>

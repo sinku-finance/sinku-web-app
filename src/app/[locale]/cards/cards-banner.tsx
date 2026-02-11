@@ -12,19 +12,19 @@ export function CardsBanner() {
 		<section
 			className="relative w-full min-h-[85vh] md:min-h-[90vh] lg:min-h-[95vh] overflow-hidden flex items-center"
 			style={{
-				backgroundImage: "url('/banners/cards.webp')",
+				backgroundImage: "url('/banners/cards-banner.webp')",
 				backgroundSize: "cover",
 				backgroundPosition: "center center",
 				backgroundRepeat: "no-repeat",
 			}}
 		>
 			{/* Overlay for better text readability */}
-			<div className="absolute inset-0 bg-gradient-to-r from-black/50 via-black/30 to-transparent" />
+			<div className="absolute inset-0 bg-gradient-to-l from-black/50 via-black/30 to-transparent" />
 
 			{/* Hero Content */}
 			<div className="relative z-10 flex-1 flex items-center px-6 md:px-10 lg:px-12">
-				<div className="w-full max-w-[1400px] mx-auto">
-					<div className="max-w-2xl lg:max-w-3xl text-center md:text-left">
+				<div className="w-full max-w-[1400px] mx-auto flex justify-end">
+					<div className="max-w-2xl lg:max-w-3xl text-center md:text-right">
 						<motion.h1
 							className="text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-6 md:mb-8 leading-tight"
 							initial={{ opacity: 0, y: 20 }}
@@ -37,7 +37,7 @@ export function CardsBanner() {
 							{t("heroTitle")}
 						</motion.h1>
 						<motion.p
-							className="text-lg md:text-xl text-white/90 leading-relaxed mb-8 max-w-xl mx-auto md:mx-0"
+							className="text-lg md:text-xl text-white/90 leading-relaxed mb-8 max-w-xl ml-auto md:mx-0 md:ml-auto"
 							initial={{ opacity: 0, y: 20 }}
 							animate={{ opacity: 1, y: 0 }}
 							transition={{
@@ -49,7 +49,7 @@ export function CardsBanner() {
 							{t("heroSubtitle")}
 						</motion.p>
 						<motion.div
-							className="flex justify-center md:justify-start"
+							className="flex justify-center md:justify-end"
 							initial={{ opacity: 0, y: 20 }}
 							animate={{ opacity: 1, y: 0 }}
 							transition={{

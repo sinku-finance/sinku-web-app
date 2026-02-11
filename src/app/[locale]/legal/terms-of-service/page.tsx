@@ -1,7 +1,6 @@
 import type { Metadata } from "next"
 import { Header } from "@/components/layouts/header/header"
-import { getTranslations } from "next-intl/server"
-import cookiePolicyData from "@/data/cookie-policy.json"
+import termsData from "@/data/terms-of-service.json"
 import { CountrySelector } from "@/components/ui/country-selector"
 import { AnimateIn } from "@/components/ui/animate-in"
 
@@ -11,29 +10,29 @@ export async function generateMetadata({
 	params: Promise<{ locale: string }>
 }): Promise<Metadata> {
 	const { locale } = await params
-	const policyData = cookiePolicyData[locale as keyof typeof cookiePolicyData] || cookiePolicyData.en
+	const data = termsData[locale as keyof typeof termsData] || termsData.en
 
 	return {
-		title: policyData.title,
-		description: policyData.sections[0].content[0],
+		title: data.title,
+		description: data.sections[0].content[0],
 		robots: {
 			index: false,
 			follow: true,
 		},
 		alternates: {
-			canonical: "/legal/cookies",
-			languages: { en: "/en/legal/cookies", pt: "/pt/legal/cookies" },
+			canonical: "/legal/terms-of-service",
+			languages: { en: "/en/legal/terms-of-service", pt: "/pt/legal/terms-of-service" },
 		},
 	}
 }
 
-export default async function CookiePolicyPage({
+export default async function TermsOfServicePage({
 	params,
 }: {
 	params: Promise<{ locale: string }>
 }) {
 	const { locale } = await params
-	const policyData = cookiePolicyData[locale as keyof typeof cookiePolicyData] || cookiePolicyData.en
+	const data = termsData[locale as keyof typeof termsData] || termsData.en
 
 	return (
 		<>
@@ -53,7 +52,7 @@ export default async function CookiePolicyPage({
 
 						<AnimateIn delay={0.1}>
 							<h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-black text-center mb-8">
-								{policyData.title}
+								{data.title}
 							</h1>
 						</AnimateIn>
 
@@ -68,7 +67,7 @@ export default async function CookiePolicyPage({
 				{/* Content */}
 				<div className="container mx-auto px-6 md:px-10 lg:px-12 py-12 md:py-20">
 					<div className="max-w-4xl mx-auto">
-						{policyData.sections.map((section, index) => (
+						{data.sections.map((section, index) => (
 							<AnimateIn key={section.id} className={index > 0 ? "mt-12 md:mt-16" : ""}>
 								<section>
 									<h2 className="text-2xl md:text-3xl font-bold text-black mb-6">
@@ -95,35 +94,6 @@ export default async function CookiePolicyPage({
 											))}
 										</div>
 									)}
-
-									{section.cookies && (
-										<div className="mt-8 overflow-x-auto">
-											<table className="min-w-full border border-gray-200 rounded-lg">
-												<thead className="bg-gray-50">
-													<tr>
-														<th className="px-6 py-4 text-left text-sm font-semibold text-black border-b border-gray-200">
-															Cookie name
-														</th>
-														<th className="px-6 py-4 text-left text-sm font-semibold text-black border-b border-gray-200">
-															Purpose
-														</th>
-													</tr>
-												</thead>
-												<tbody className="divide-y divide-gray-200">
-													{section.cookies.map((cookie, cIndex) => (
-														<tr key={cIndex} className="hover:bg-gray-50 transition-colors">
-															<td className="px-6 py-4 text-sm md:text-base font-medium text-black whitespace-nowrap">
-																{cookie.name}
-															</td>
-															<td className="px-6 py-4 text-sm md:text-base text-gray-700">
-																{cookie.purpose}
-															</td>
-														</tr>
-													))}
-												</tbody>
-											</table>
-										</div>
-									)}
 								</section>
 							</AnimateIn>
 						))}
@@ -131,7 +101,7 @@ export default async function CookiePolicyPage({
 						<AnimateIn>
 							<div className="mt-16 pt-8 border-t border-gray-200">
 								<p className="text-sm text-gray-500 text-center">
-									Last updated: January 2026
+									Last updated: {data.lastUpdated}
 								</p>
 							</div>
 						</AnimateIn>

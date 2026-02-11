@@ -1,0 +1,472 @@
+{
+  "en": {
+    "title": "Terms of Service",
+    "lastUpdated": "February 2026",
+    "sections": [
+      {
+        "id": "welcome",
+        "title": "Welcome to Plexos",
+        "content": [
+          "These Terms of Service ('Terms') govern your use of the Plexos mobile application, website, and all related services provided by Plexos Group Ltd and its affiliates ('Plexos', 'we', 'us', or 'our').",
+          "By creating a Plexos account, accessing our app, or using any of our services, you agree to be bound by these Terms. If you do not agree, please do not use our services.",
+          "Please read these Terms carefully. They contain important information about your rights and obligations."
+        ]
+      },
+      {
+        "id": "eligibility",
+        "title": "Eligibility",
+        "content": [
+          "To use Plexos, you must:"
+        ],
+        "subsections": [
+          {
+            "title": "Age requirement",
+            "content": "You must be at least 18 years old to open a Plexos account. We may ask you to verify your age as part of the registration process."
+          },
+          {
+            "title": "Residency",
+            "content": "You must be a resident of a country where Plexos is available. We currently operate across PALOP countries and are expanding to more African nations, as well as serving customers in Europe and the Americas. Check our website or app for the most up-to-date list of supported countries."
+          },
+          {
+            "title": "Identity verification",
+            "content": "You must provide accurate personal information and complete our identity verification process (KYC). This is a legal requirement that helps us prevent financial crime and protect our community. You may need to provide a government-issued ID and a selfie for verification."
+          }
+        ]
+      },
+      {
+        "id": "your-account",
+        "title": "Your Plexos account",
+        "content": [
+          "Your Plexos account is personal to you and gives you access to our financial services."
+        ],
+        "subsections": [
+          {
+            "title": "Account security",
+            "content": "You are responsible for keeping your account credentials secure, including your PIN, password, and any biometric access. Never share your login details with anyone. If you believe your account has been compromised, contact us immediately through the app.\n\nWe will never ask for your password or PIN by email, phone, or social media."
+          },
+          {
+            "title": "One account per person",
+            "content": "Each person may hold only one Plexos account. We reserve the right to close duplicate accounts."
+          },
+          {
+            "title": "Accurate information",
+            "content": "You must keep your personal information up to date. This includes your name, address, phone number, and email. You can update most details in the app under your profile settings. Providing false or misleading information may result in account suspension or closure."
+          }
+        ]
+      },
+      {
+        "id": "services",
+        "title": "Our services",
+        "content": [
+          "Plexos provides a range of financial services through our mobile app. The availability of specific features may vary by country and may change over time."
+        ],
+        "subsections": [
+          {
+            "title": "Plexos account",
+            "content": "Your Plexos account allows you to hold, send, and receive money. You can view your balance, transaction history, and account details at any time in the app."
+          },
+          {
+            "title": "Transfers",
+            "content": "You can send money to other Plexos users instantly within the app. Transfers between Plexos accounts are processed in real-time and are subject to our transfer limits and fair use policies."
+          },
+          {
+            "title": "Debit card",
+            "content": "We may issue you a Plexos debit card (physical or virtual) powered by Mastercard. Your card can be used for purchases anywhere Mastercard is accepted, both online and in-store, domestically and internationally. Card usage is subject to our card terms and any applicable spending limits."
+          },
+          {
+            "title": "Adding money",
+            "content": "You can add money to your Plexos account through various methods, including bank transfer, card top-up, and mobile money. Available top-up methods may vary by country. We may apply limits to the amounts you can add."
+          },
+          {
+            "title": "Currency exchange",
+            "content": "Where available, Plexos may offer currency exchange services at competitive rates. Exchange rates are displayed in the app before you confirm any transaction. Rates may fluctuate and a small markup may be applied. Some currency features may be marked as 'coming soon' and will be available in future updates."
+          }
+        ]
+      },
+      {
+        "id": "fees",
+        "title": "Fees and charges",
+        "content": [
+          "Plexos strives to keep fees transparent and fair. There are no monthly account fees for standard Plexos accounts.",
+          "Certain services may carry fees, such as ATM withdrawals beyond your free allowance, express card delivery, or specific transaction types. All applicable fees are disclosed before you confirm a transaction, and a full fee schedule is available in the app and on our website.",
+          "We may update our fees from time to time. We will notify you of any material changes at least 30 days in advance."
+        ]
+      },
+      {
+        "id": "acceptable-use",
+        "title": "Acceptable use",
+        "content": [
+          "You agree to use Plexos only for lawful purposes and in accordance with these Terms. You must not use our services to:"
+        ],
+        "subsections": [
+          {
+            "title": "Prohibited activities",
+            "content": "Engage in any illegal activity, including money laundering, terrorist financing, fraud, or tax evasion.\n\nSend or receive money related to illegal goods or services.\n\nCreate fake or misleading accounts, or use someone else's identity.\n\nAttempt to gain unauthorised access to our systems, other accounts, or any related infrastructure.\n\nCircumvent any security measures, transaction limits, or other controls we have in place.\n\nUse automated systems, bots, or scripts to interact with our services without our written permission.\n\nAbuse our referral programme or promotional offers."
+          },
+          {
+            "title": "Consequences",
+            "content": "If we reasonably believe you've violated these rules, we may suspend or restrict your account, decline transactions, close your account, and report suspicious activity to the relevant authorities. We may take these actions without prior notice where legally permitted."
+          }
+        ]
+      },
+      {
+        "id": "transaction-limits",
+        "title": "Transaction limits",
+        "content": [
+          "For security and regulatory reasons, we apply limits to various transaction types, including transfers, card spending, ATM withdrawals, and top-ups. These limits may depend on your verification level, account history, and the regulations that apply in your country.",
+          "You can view your current limits in the app. We may adjust limits at any time, and will notify you of any significant changes."
+        ]
+      },
+      {
+        "id": "security-fraud",
+        "title": "Security and fraud prevention",
+        "content": [
+          "We invest heavily in keeping your money and data safe."
+        ],
+        "subsections": [
+          {
+            "title": "Our commitments",
+            "content": "We use industry-standard encryption, real-time fraud monitoring, and secure data storage to protect your account. Our systems are regularly audited and tested for vulnerabilities."
+          },
+          {
+            "title": "Your responsibilities",
+            "content": "You must keep your device secure with a screen lock, keep the Plexos app updated to the latest version, never share your account credentials or one-time passcodes, contact us immediately if you suspect unauthorised activity, and be vigilant against phishing attempts or social engineering scams."
+          },
+          {
+            "title": "Unauthorised transactions",
+            "content": "If you notice a transaction you didn't authorise, report it through the app immediately. We will investigate and, where appropriate, refund the transaction. Your liability for unauthorised transactions may be limited depending on the circumstances and applicable law."
+          }
+        ]
+      },
+      {
+        "id": "intellectual-property",
+        "title": "Intellectual property",
+        "content": [
+          "The Plexos name, logo, app design, website, and all related content are owned by Plexos Group Ltd and are protected by intellectual property laws. You may not copy, modify, distribute, or create derivative works based on our materials without our prior written consent.",
+          "We grant you a limited, non-exclusive, non-transferable licence to use the Plexos app for your personal, non-commercial use in accordance with these Terms. This licence is revocable and can be terminated if you breach these Terms."
+        ]
+      },
+      {
+        "id": "account-suspension",
+        "title": "Account suspension and closure",
+        "content": [
+          "We hope you'll be a Plexos user for a long time, but there are circumstances where accounts may be suspended or closed."
+        ],
+        "subsections": [
+          {
+            "title": "When we may suspend or close your account",
+            "content": "We may suspend or close your account if we suspect fraudulent or illegal activity, if you breach these Terms, if required by law or regulation, if your account has been inactive for an extended period, or if we're unable to verify your identity.\n\nWhere possible, we'll notify you before taking action and explain the reason. In some cases (such as suspected fraud), we may act immediately without prior notice."
+          },
+          {
+            "title": "When you want to close your account",
+            "content": "You can close your account at any time through the app or by contacting our support team. Before closing, you'll need to withdraw any remaining balance. After closure, we'll retain certain data as required by law (see our Privacy Policy for details)."
+          },
+          {
+            "title": "Effect of closure",
+            "content": "When your account is closed, your access to Plexos services will end, your debit card will be cancelled, any pending transactions may be completed or reversed, and you must repay any amounts owed to us."
+          }
+        ]
+      },
+      {
+        "id": "liability",
+        "title": "Limitation of liability",
+        "content": [
+          "To the maximum extent permitted by applicable law, Plexos shall not be liable for any indirect, incidental, special, consequential, or punitive damages arising from your use of our services.",
+          "We are not responsible for losses caused by circumstances beyond our reasonable control, including internet or network failures, actions by third parties, natural disasters, or changes in laws and regulations.",
+          "Nothing in these Terms excludes or limits our liability for death or personal injury caused by our negligence, fraud or fraudulent misrepresentation, or any other liability that cannot be excluded by law."
+        ]
+      },
+      {
+        "id": "disputes",
+        "title": "Complaints and disputes",
+        "content": [
+          "If something goes wrong, we want to put it right."
+        ],
+        "subsections": [
+          {
+            "title": "How to complain",
+            "content": "You can raise a complaint through the in-app chat, by emailing support@plexos.com, or through any other channel we make available. We take all complaints seriously and aim to resolve them as quickly as possible."
+          },
+          {
+            "title": "Resolution timeline",
+            "content": "We will acknowledge your complaint promptly and aim to resolve it within 15 business days. If we need more time, we'll let you know and keep you updated on progress."
+          },
+          {
+            "title": "External resolution",
+            "content": "If you're not satisfied with our response, you may have the right to refer your complaint to the relevant financial ombudsman or regulatory body in your country."
+          }
+        ]
+      },
+      {
+        "id": "changes",
+        "title": "Changes to these Terms",
+        "content": [
+          "We may update these Terms from time to time to reflect changes in our services, legal requirements, or business operations. When we make material changes, we will notify you at least 30 days before they take effect through the app or by email.",
+          "If you do not agree with the updated Terms, you may close your account before they take effect. Continuing to use our services after the changes take effect means you accept the updated Terms."
+        ]
+      },
+      {
+        "id": "governing-law",
+        "title": "Governing law",
+        "content": [
+          "These Terms are governed by and construed in accordance with the laws of the jurisdiction where the Plexos entity providing your account is incorporated. The specific governing law applicable to you is set out in your account agreement.",
+          "Any disputes arising from these Terms that cannot be resolved through our complaints process may be referred to the courts of the relevant jurisdiction."
+        ]
+      },
+      {
+        "id": "general",
+        "title": "General provisions",
+        "content": [
+          "If any provision of these Terms is found to be invalid or unenforceable, the remaining provisions will continue in full force and effect.",
+          "Our failure to enforce any right or provision of these Terms does not constitute a waiver of that right or provision.",
+          "These Terms, together with our Privacy Policy, Cookie Policy, and any other agreements referenced herein, constitute the entire agreement between you and Plexos regarding our services."
+        ]
+      },
+      {
+        "id": "contact",
+        "title": "Contact us",
+        "content": [
+          "If you have questions about these Terms of Service, get in touch:",
+          "In-app chat: Go to your profile and tap 'Help'",
+          "Email: support@plexos.com",
+          "We're here to help and will do our best to respond promptly."
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "title": "Termos de Serviço",
+    "lastUpdated": "Fevereiro de 2026",
+    "sections": [
+      {
+        "id": "welcome",
+        "title": "Bem-vindo ao Plexos",
+        "content": [
+          "Estes Termos de Serviço ('Termos') regem a utilização da aplicação móvel Plexos, do website e de todos os serviços relacionados fornecidos pela Plexos Group Ltd e suas afiliadas ('Plexos', 'nós' ou 'nosso').",
+          "Ao criar uma conta Plexos, aceder ao nosso app ou utilizar qualquer um dos nossos serviços, concorda em ficar vinculado a estes Termos. Se não concordar, por favor não utilize os nossos serviços.",
+          "Leia estes Termos com atenção. Contêm informações importantes sobre os seus direitos e obrigações."
+        ]
+      },
+      {
+        "id": "eligibility",
+        "title": "Elegibilidade",
+        "content": [
+          "Para utilizar o Plexos, deve:"
+        ],
+        "subsections": [
+          {
+            "title": "Requisito de idade",
+            "content": "Deve ter pelo menos 18 anos para abrir uma conta Plexos. Podemos pedir-lhe que verifique a sua idade como parte do processo de registo."
+          },
+          {
+            "title": "Residência",
+            "content": "Deve ser residente num país onde o Plexos está disponível. Actualmente operamos nos países PALOP e estamos a expandir para mais nações africanas, além de servir clientes na Europa e nas Américas. Consulte o nosso website ou app para a lista mais actualizada de países suportados."
+          },
+          {
+            "title": "Verificação de identidade",
+            "content": "Deve fornecer informações pessoais precisas e completar o nosso processo de verificação de identidade (KYC). Este é um requisito legal que nos ajuda a prevenir crimes financeiros e a proteger a nossa comunidade. Poderá ter de fornecer um documento de identificação oficial e uma selfie para verificação."
+          }
+        ]
+      },
+      {
+        "id": "your-account",
+        "title": "A sua conta Plexos",
+        "content": [
+          "A sua conta Plexos é pessoal e dá-lhe acesso aos nossos serviços financeiros."
+        ],
+        "subsections": [
+          {
+            "title": "Segurança da conta",
+            "content": "É responsável por manter as credenciais da sua conta seguras, incluindo o seu PIN, palavra-passe e qualquer acesso biométrico. Nunca partilhe os seus dados de acesso com ninguém. Se acreditar que a sua conta foi comprometida, contacte-nos imediatamente através do app.\n\nNunca pediremos a sua palavra-passe ou PIN por e-mail, telefone ou redes sociais."
+          },
+          {
+            "title": "Uma conta por pessoa",
+            "content": "Cada pessoa pode ter apenas uma conta Plexos. Reservamo-nos o direito de encerrar contas duplicadas."
+          },
+          {
+            "title": "Informações precisas",
+            "content": "Deve manter as suas informações pessoais actualizadas. Isto inclui o seu nome, morada, número de telefone e e-mail. Pode actualizar a maioria dos dados no app nas definições do perfil. Fornecer informações falsas ou enganosas pode resultar na suspensão ou encerramento da conta."
+          }
+        ]
+      },
+      {
+        "id": "services",
+        "title": "Os nossos serviços",
+        "content": [
+          "O Plexos fornece uma gama de serviços financeiros através da nossa aplicação móvel. A disponibilidade de funcionalidades específicas pode variar por país e pode mudar ao longo do tempo."
+        ],
+        "subsections": [
+          {
+            "title": "Conta Plexos",
+            "content": "A sua conta Plexos permite-lhe manter, enviar e receber dinheiro. Pode ver o seu saldo, histórico de transacções e detalhes da conta a qualquer momento no app."
+          },
+          {
+            "title": "Transferências",
+            "content": "Pode enviar dinheiro para outros utilizadores Plexos instantaneamente dentro do app. As transferências entre contas Plexos são processadas em tempo real e estão sujeitas aos nossos limites de transferência e políticas de utilização justa."
+          },
+          {
+            "title": "Cartão de débito",
+            "content": "Podemos emitir-lhe um cartão de débito Plexos (físico ou virtual) da Mastercard. O seu cartão pode ser usado para compras onde quer que a Mastercard seja aceite, tanto online como em loja, nacional e internacionalmente. A utilização do cartão está sujeita aos termos do cartão e aos limites de gasto aplicáveis."
+          },
+          {
+            "title": "Adicionar dinheiro",
+            "content": "Pode adicionar dinheiro à sua conta Plexos através de vários métodos, incluindo transferência bancária, carregamento por cartão e dinheiro móvel. Os métodos de carregamento disponíveis podem variar por país. Podemos aplicar limites aos montantes que pode adicionar."
+          },
+          {
+            "title": "Câmbio de moeda",
+            "content": "Onde disponível, o Plexos pode oferecer serviços de câmbio de moeda a taxas competitivas. As taxas de câmbio são apresentadas no app antes de confirmar qualquer transacção. As taxas podem flutuar e uma pequena margem pode ser aplicada. Algumas funcionalidades de moeda podem estar marcadas como 'em breve' e estarão disponíveis em futuras actualizações."
+          }
+        ]
+      },
+      {
+        "id": "fees",
+        "title": "Taxas e encargos",
+        "content": [
+          "O Plexos esforça-se por manter as taxas transparentes e justas. Não há taxas mensais para contas Plexos padrão.",
+          "Certos serviços podem ter taxas, como levantamentos em ATM além da sua franquia gratuita, entrega expressa de cartão ou tipos de transacção específicos. Todas as taxas aplicáveis são divulgadas antes de confirmar uma transacção, e uma tabela completa de taxas está disponível no app e no nosso website.",
+          "Podemos actualizar as nossas taxas periodicamente. Notificá-lo-emos de quaisquer alterações materiais com pelo menos 30 dias de antecedência."
+        ]
+      },
+      {
+        "id": "acceptable-use",
+        "title": "Utilização aceitável",
+        "content": [
+          "Concorda em utilizar o Plexos apenas para fins lícitos e de acordo com estes Termos. Não deve utilizar os nossos serviços para:"
+        ],
+        "subsections": [
+          {
+            "title": "Actividades proibidas",
+            "content": "Participar em qualquer actividade ilegal, incluindo branqueamento de capitais, financiamento do terrorismo, fraude ou evasão fiscal.\n\nEnviar ou receber dinheiro relacionado com bens ou serviços ilegais.\n\nCriar contas falsas ou enganosas, ou utilizar a identidade de outra pessoa.\n\nTentar obter acesso não autorizado aos nossos sistemas, outras contas ou qualquer infraestrutura relacionada.\n\nContornar quaisquer medidas de segurança, limites de transacção ou outros controlos que tenhamos implementado.\n\nUtilizar sistemas automatizados, bots ou scripts para interagir com os nossos serviços sem a nossa permissão escrita.\n\nAbusar do nosso programa de referência ou ofertas promocionais."
+          },
+          {
+            "title": "Consequências",
+            "content": "Se acreditarmos razoavelmente que violou estas regras, podemos suspender ou restringir a sua conta, recusar transacções, encerrar a sua conta e reportar actividades suspeitas às autoridades competentes. Podemos tomar estas medidas sem aviso prévio quando legalmente permitido."
+          }
+        ]
+      },
+      {
+        "id": "transaction-limits",
+        "title": "Limites de transacção",
+        "content": [
+          "Por razões de segurança e regulatórias, aplicamos limites a vários tipos de transacção, incluindo transferências, gastos com cartão, levantamentos em ATM e carregamentos. Estes limites podem depender do seu nível de verificação, histórico da conta e dos regulamentos aplicáveis no seu país.",
+          "Pode consultar os seus limites actuais no app. Podemos ajustar os limites a qualquer momento e notificá-lo-emos de quaisquer alterações significativas."
+        ]
+      },
+      {
+        "id": "security-fraud",
+        "title": "Segurança e prevenção de fraude",
+        "content": [
+          "Investimos fortemente na segurança do seu dinheiro e dados."
+        ],
+        "subsections": [
+          {
+            "title": "Os nossos compromissos",
+            "content": "Utilizamos encriptação padrão da indústria, monitorização de fraude em tempo real e armazenamento seguro de dados para proteger a sua conta. Os nossos sistemas são regularmente auditados e testados para vulnerabilidades."
+          },
+          {
+            "title": "As suas responsabilidades",
+            "content": "Deve manter o seu dispositivo seguro com bloqueio de ecrã, manter o app Plexos actualizado para a versão mais recente, nunca partilhar as credenciais da sua conta ou códigos únicos, contactar-nos imediatamente se suspeitar de actividade não autorizada, e estar vigilante contra tentativas de phishing ou fraudes de engenharia social."
+          },
+          {
+            "title": "Transacções não autorizadas",
+            "content": "Se notar uma transacção que não autorizou, reporte-a através do app imediatamente. Investigaremos e, quando apropriado, reembolsaremos a transacção. A sua responsabilidade por transacções não autorizadas pode ser limitada dependendo das circunstâncias e da lei aplicável."
+          }
+        ]
+      },
+      {
+        "id": "intellectual-property",
+        "title": "Propriedade intelectual",
+        "content": [
+          "O nome Plexos, logótipo, design do app, website e todo o conteúdo relacionado são propriedade da Plexos Group Ltd e estão protegidos por leis de propriedade intelectual. Não pode copiar, modificar, distribuir ou criar obras derivadas baseadas nos nossos materiais sem o nosso consentimento prévio por escrito.",
+          "Concedemos-lhe uma licença limitada, não exclusiva e intransferível para utilizar o app Plexos para uso pessoal e não comercial, de acordo com estes Termos. Esta licença é revogável e pode ser terminada se violar estes Termos."
+        ]
+      },
+      {
+        "id": "account-suspension",
+        "title": "Suspensão e encerramento de conta",
+        "content": [
+          "Esperamos que seja utilizador do Plexos durante muito tempo, mas existem circunstâncias em que as contas podem ser suspensas ou encerradas."
+        ],
+        "subsections": [
+          {
+            "title": "Quando podemos suspender ou encerrar a sua conta",
+            "content": "Podemos suspender ou encerrar a sua conta se suspeitarmos de actividade fraudulenta ou ilegal, se violar estes Termos, se exigido por lei ou regulamento, se a sua conta estiver inactiva durante um período prolongado, ou se não conseguirmos verificar a sua identidade.\n\nQuando possível, notificá-lo-emos antes de agir e explicaremos o motivo. Em alguns casos (como suspeita de fraude), podemos agir imediatamente sem aviso prévio."
+          },
+          {
+            "title": "Quando pretende encerrar a sua conta",
+            "content": "Pode encerrar a sua conta a qualquer momento através do app ou contactando a nossa equipa de suporte. Antes do encerramento, terá de levantar qualquer saldo remanescente. Após o encerramento, reteremos determinados dados conforme exigido por lei (consulte a nossa Política de Privacidade para detalhes)."
+          },
+          {
+            "title": "Efeito do encerramento",
+            "content": "Quando a sua conta é encerrada, o acesso aos serviços Plexos terminará, o seu cartão de débito será cancelado, quaisquer transacções pendentes podem ser concluídas ou revertidas, e deve reembolsar quaisquer valores devidos."
+          }
+        ]
+      },
+      {
+        "id": "liability",
+        "title": "Limitação de responsabilidade",
+        "content": [
+          "Na medida máxima permitida pela lei aplicável, o Plexos não será responsável por quaisquer danos indirectos, incidentais, especiais, consequenciais ou punitivos decorrentes da utilização dos nossos serviços.",
+          "Não somos responsáveis por perdas causadas por circunstâncias fora do nosso controlo razoável, incluindo falhas de internet ou rede, acções de terceiros, desastres naturais ou alterações em leis e regulamentos.",
+          "Nada nestes Termos exclui ou limita a nossa responsabilidade por morte ou lesão pessoal causada pela nossa negligência, fraude ou declaração fraudulenta, ou qualquer outra responsabilidade que não possa ser excluída por lei."
+        ]
+      },
+      {
+        "id": "disputes",
+        "title": "Reclamações e litígios",
+        "content": [
+          "Se algo correr mal, queremos corrigir."
+        ],
+        "subsections": [
+          {
+            "title": "Como reclamar",
+            "content": "Pode apresentar uma reclamação através do chat no app, enviando e-mail para support@plexos.com, ou através de qualquer outro canal que disponibilizemos. Levamos todas as reclamações a sério e procuramos resolvê-las o mais rapidamente possível."
+          },
+          {
+            "title": "Prazo de resolução",
+            "content": "Acusaremos a recepção da sua reclamação prontamente e procuraremos resolvê-la no prazo de 15 dias úteis. Se precisarmos de mais tempo, informá-lo-emos e mantê-lo-emos actualizado sobre o progresso."
+          },
+          {
+            "title": "Resolução externa",
+            "content": "Se não estiver satisfeito com a nossa resposta, pode ter o direito de encaminhar a sua reclamação para o provedor financeiro ou entidade reguladora relevante no seu país."
+          }
+        ]
+      },
+      {
+        "id": "changes",
+        "title": "Alterações a estes Termos",
+        "content": [
+          "Podemos actualizar estes Termos periodicamente para reflectir alterações nos nossos serviços, requisitos legais ou operações comerciais. Quando fizermos alterações materiais, notificá-lo-emos com pelo menos 30 dias de antecedência através do app ou por e-mail.",
+          "Se não concordar com os Termos actualizados, pode encerrar a sua conta antes de entrarem em vigor. Continuar a utilizar os nossos serviços após as alterações entrarem em vigor significa que aceita os Termos actualizados."
+        ]
+      },
+      {
+        "id": "governing-law",
+        "title": "Lei aplicável",
+        "content": [
+          "Estes Termos são regidos e interpretados de acordo com as leis da jurisdição onde a entidade Plexos que fornece a sua conta está constituída. A lei aplicável específica está estabelecida no seu contrato de conta.",
+          "Quaisquer litígios decorrentes destes Termos que não possam ser resolvidos através do nosso processo de reclamação podem ser encaminhados para os tribunais da jurisdição competente."
+        ]
+      },
+      {
+        "id": "general",
+        "title": "Disposições gerais",
+        "content": [
+          "Se alguma disposição destes Termos for considerada inválida ou inexequível, as restantes disposições continuarão em pleno vigor e efeito.",
+          "A nossa não aplicação de qualquer direito ou disposição destes Termos não constitui uma renúncia a esse direito ou disposição.",
+          "Estes Termos, juntamente com a nossa Política de Privacidade, Política de Cookies e quaisquer outros acordos aqui referenciados, constituem o acordo integral entre si e o Plexos relativamente aos nossos serviços."
+        ]
+      },
+      {
+        "id": "contact",
+        "title": "Contacte-nos",
+        "content": [
+          "Se tiver questões sobre estes Termos de Serviço, entre em contacto:",
+          "Chat no app: Vá ao perfil e toque em 'Ajuda'",
+          "E-mail: support@plexos.com",
+          "Estamos aqui para ajudar e faremos o nosso melhor para responder prontamente."
+        ]
+      }
+    ]
+  }
+}

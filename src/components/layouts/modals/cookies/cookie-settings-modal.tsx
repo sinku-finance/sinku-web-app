@@ -62,25 +62,28 @@ export function CookieSettingsModal({ isOpen, onClose, onSave }: CookieSettingsM
 	}
 
 	const handleCloseSettings = () => {
-		// Don't allow closing settings without making a choice - user must confirm or accept all
-		// onClose() is intentionally not called here
+		onClose()
 	}
 
 	return (
 		<AnimatePresence>
 			{isOpen && (
 				<>
-					{/* Overlay - Non-clickable, user must make a choice */}
+					{/* Overlay */}
 					<motion.div
 						initial={{ opacity: 0 }}
 						animate={{ opacity: 1 }}
 						exit={{ opacity: 0 }}
 						transition={{ duration: 0.3 }}
-						className="fixed inset-0 bg-black/40 backdrop-blur-sm z-50 pointer-events-none"
+						className="fixed inset-0 bg-black/40 backdrop-blur-sm z-50"
+						onClick={handleCloseSettings}
 					/>
 
 					{/* Sliding Panel from Right */}
 					<motion.div
+						role="dialog"
+						aria-modal="true"
+						aria-label={t("title")}
 						initial={{ x: "100%" }}
 						animate={{ x: 0 }}
 						exit={{ x: "100%" }}
@@ -91,9 +94,8 @@ export function CookieSettingsModal({ isOpen, onClose, onSave }: CookieSettingsM
 						<div className="sticky top-0 bg-white border-b border-gray-200 p-6 flex items-center justify-between">
 							<button
 								onClick={handleCloseSettings}
-								className="w-10 h-10 flex items-center justify-center rounded-full hover:bg-gray-100 transition-colors opacity-50 cursor-not-allowed"
+								className="w-10 h-10 flex items-center justify-center rounded-full hover:bg-gray-100 transition-colors"
 								aria-label="Close"
-								disabled
 							>
 								<Xmark className="w-6 h-6 text-black" strokeWidth={2} />
 							</button>
@@ -150,6 +152,9 @@ export function CookieSettingsModal({ isOpen, onClose, onSave }: CookieSettingsM
 											<span className="text-base font-medium text-black">{t("categories.preferences.title")}</span>
 										</div>
 										<button
+											role="switch"
+											aria-checked={preferences.preferences}
+											aria-label={t("categories.preferences.title")}
 											onClick={(e) => {
 												e.stopPropagation()
 												handleToggle("preferences")
@@ -183,6 +188,9 @@ export function CookieSettingsModal({ isOpen, onClose, onSave }: CookieSettingsM
 											<span className="text-base font-medium text-black">{t("categories.analytics.title")}</span>
 										</div>
 										<button
+											role="switch"
+											aria-checked={preferences.analytics}
+											aria-label={t("categories.analytics.title")}
 											onClick={(e) => {
 												e.stopPropagation()
 												handleToggle("analytics")
@@ -216,6 +224,9 @@ export function CookieSettingsModal({ isOpen, onClose, onSave }: CookieSettingsM
 											<span className="text-base font-medium text-black">{t("categories.advertising.title")}</span>
 										</div>
 										<button
+											role="switch"
+											aria-checked={preferences.advertising}
+											aria-label={t("categories.advertising.title")}
 											onClick={(e) => {
 												e.stopPropagation()
 												handleToggle("advertising")

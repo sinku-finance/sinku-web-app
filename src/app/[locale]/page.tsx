@@ -33,7 +33,7 @@ export async function generateMetadata({
 
 export default function Home() {
 	return (
-		<main className="relative pb-24 md:pb-0">
+		<main id="main-content" className="relative pb-24 md:pb-0">
 			<HeroSection />
 			<ServicesSection />
 			<ToolsSection />

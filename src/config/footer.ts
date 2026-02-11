@@ -20,7 +20,7 @@ export const footerConfig = {
 
 	// Legal Links
 	legal: [
-		{ key: "termsOfService", href: "/terms-of-service" },
+		{ key: "termsOfService", href: "/legal/terms-of-service" },
 		{ key: "privacyPolicy", href: "/legal/privacy" },
 		{ key: "cookiePolicy", href: "/legal/cookies" },
 		{ key: "cookieSettings", href: "#cookie-settings" },
@@ -28,15 +28,16 @@ export const footerConfig = {
 
 	// Help Links
 	help: [
+		{ key: "helpCentre", href: "/help" },
 		{ key: "faqs", href: "/faqs" },
 		{ key: "support", href: "/support" },
 	],
 
 	// Social Media Links
 	social: {
-		twitter: "https://twitter.com/plexos",
-		instagram: "https://instagram.com/plexos",
-		linkedin: "https://linkedin.com/company/plexos",
+		// twitter: "https://twitter.com/plexos",
+		instagram: "https://www.instagram.com/plexos.finance/",
+		// linkedin: "https://linkedin.com/company/plexos",
 	},
 
 	// Company Info

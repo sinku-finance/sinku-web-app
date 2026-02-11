@@ -62,8 +62,11 @@ export function HowToGetCardSection() {
 									return (
 										<div
 											key={step.number}
+											role="button"
+											tabIndex={0}
 											className="relative cursor-pointer transition-all duration-500 ease-in-out"
 											onClick={() => setActiveStep(index + 1)}
+											onKeyDown={(e) => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); setActiveStep(index + 1) } }}
 											onMouseEnter={() => setActiveStep(index + 1)}
 										>
 											<div className="flex gap-6">

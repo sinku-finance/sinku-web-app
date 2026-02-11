@@ -61,7 +61,7 @@ export function ComparisonSection({ locale }: ComparisonSectionProps) {
 		{
 			id: "worldremit",
 			name: "WorldRemit",
-			logoImage: "/providers/worldremit.png",
+			logoImage: "/providers/worldremit.webp",
 			costToSend: "€2.99",
 			recipientGets: "10,778 CVE",
 			difference: "-179 CVE",
@@ -77,7 +77,7 @@ export function ComparisonSection({ locale }: ComparisonSectionProps) {
 		{
 			id: "western-union",
 			name: "Western Union",
-			logoImage: "/providers/western-union.png",
+			logoImage: "/providers/western-union.webp",
 			costToSend: "€5.90",
 			recipientGets: "10,477 CVE",
 			difference: "-480 CVE",

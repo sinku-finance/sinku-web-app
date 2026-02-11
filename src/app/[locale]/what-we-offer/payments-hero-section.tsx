@@ -21,24 +21,14 @@ export function PaymentsHeroSection() {
 				<div className="px-6 md:px-10 lg:px-12">
 					<div className="w-full max-w-[1400px] mx-auto">
 						<motion.div
-							className="flex flex-col lg:flex-row lg:justify-between lg:items-start gap-6 md:gap-8 mb-12 md:mb-16"
+							className="grid grid-cols-1 lg:grid-cols-2 gap-10 lg:gap-16 items-center"
 							variants={feesAnimations.header.variants}
 						>
-							{/* Left side tagline */}
-							<motion.div
-								className="lg:max-w-[140px]"
-								variants={feesAnimations.tagline.variants}
-							>
-								<p className="text-neutral-500 max-w-[200px] uppercase tracking-wide font-medium text-sm md:text-base">
+							{/* Left side - Text content */}
+							<motion.div variants={feesAnimations.titleSection.variants}>
+								<p className="text-neutral-500 uppercase tracking-wide font-medium text-sm md:text-base mb-6">
 									{t("tagline")}
 								</p>
-							</motion.div>
-
-							{/* Right side content */}
-							<motion.div
-								className="w-full lg:w-[600px] max-w-2xl lg:text-left"
-								variants={feesAnimations.titleSection.variants}
-							>
 								<h1 className="text-3xl md:text-5xl lg:text-6xl mb-4 md:mb-6 font-bold leading-[1.15]">
 									{t("heroTitle")}
 								</h1>
@@ -51,17 +41,21 @@ export function PaymentsHeroSection() {
 									</Link>
 								</Button>
 							</motion.div>
-						</motion.div>
 
-						{/* Hero image placeholder */}
-						<motion.div
-							className="relative w-full h-[300px] md:h-[450px] lg:h-[550px] rounded-2xl overflow-hidden bg-gray-100"
-							variants={feesAnimations.image.variants}
-						>
-							{/* Image placeholder - user will add later */}
-							<div className="absolute inset-0 flex items-center justify-center">
-								<div className="text-gray-300 text-lg">Image placeholder</div>
-							</div>
+							{/* Right side - Image */}
+							<motion.div
+								className="relative w-full h-[350px] md:h-[450px] lg:h-[550px] rounded-2xl overflow-hidden"
+								variants={feesAnimations.image.variants}
+							>
+								<Image
+									src="/home/app-persons.webp"
+									alt="People using Plexos app"
+									fill
+									className="object-cover object-center"
+									sizes="(max-width: 1024px) 100vw, 50vw"
+									priority
+								/>
+							</motion.div>
 						</motion.div>
 					</div>
 				</div>

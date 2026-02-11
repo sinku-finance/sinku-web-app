@@ -1,7 +1,6 @@
 import type { Metadata } from "next"
 import { Header } from "@/components/layouts/header/header"
-import { getTranslations } from "next-intl/server"
-import cookiePolicyData from "@/data/cookie-policy.json"
+import privacyPolicyData from "@/data/privacy-policy.json"
 import { CountrySelector } from "@/components/ui/country-selector"
 import { AnimateIn } from "@/components/ui/animate-in"
 
@@ -11,7 +10,7 @@ export async function generateMetadata({
 	params: Promise<{ locale: string }>
 }): Promise<Metadata> {
 	const { locale } = await params
-	const policyData = cookiePolicyData[locale as keyof typeof cookiePolicyData] || cookiePolicyData.en
+	const policyData = privacyPolicyData[locale as keyof typeof privacyPolicyData] || privacyPolicyData.en
 
 	return {
 		title: policyData.title,
@@ -21,19 +20,19 @@ export async function generateMetadata({
 			follow: true,
 		},
 		alternates: {
-			canonical: "/legal/cookies",
-			languages: { en: "/en/legal/cookies", pt: "/pt/legal/cookies" },
+			canonical: "/legal/privacy",
+			languages: { en: "/en/legal/privacy", pt: "/pt/legal/privacy" },
 		},
 	}
 }
 
-export default async function CookiePolicyPage({
+export default async function PrivacyPolicyPage({
 	params,
 }: {
 	params: Promise<{ locale: string }>
 }) {
 	const { locale } = await params
-	const policyData = cookiePolicyData[locale as keyof typeof cookiePolicyData] || cookiePolicyData.en
+	const policyData = privacyPolicyData[locale as keyof typeof privacyPolicyData] || privacyPolicyData.en
 
 	return (
 		<>
@@ -95,35 +94,6 @@ export default async function CookiePolicyPage({
 											))}
 										</div>
 									)}
-
-									{section.cookies && (
-										<div className="mt-8 overflow-x-auto">
-											<table className="min-w-full border border-gray-200 rounded-lg">
-												<thead className="bg-gray-50">
-													<tr>
-														<th className="px-6 py-4 text-left text-sm font-semibold text-black border-b border-gray-200">
-															Cookie name
-														</th>
-														<th className="px-6 py-4 text-left text-sm font-semibold text-black border-b border-gray-200">
-															Purpose
-														</th>
-													</tr>
-												</thead>
-												<tbody className="divide-y divide-gray-200">
-													{section.cookies.map((cookie, cIndex) => (
-														<tr key={cIndex} className="hover:bg-gray-50 transition-colors">
-															<td className="px-6 py-4 text-sm md:text-base font-medium text-black whitespace-nowrap">
-																{cookie.name}
-															</td>
-															<td className="px-6 py-4 text-sm md:text-base text-gray-700">
-																{cookie.purpose}
-															</td>
-														</tr>
-													))}
-												</tbody>
-											</table>
-										</div>
-									)}
 								</section>
 							</AnimateIn>
 						))}
@@ -131,7 +101,7 @@ export default async function CookiePolicyPage({
 						<AnimateIn>
 							<div className="mt-16 pt-8 border-t border-gray-200">
 								<p className="text-sm text-gray-500 text-center">
-									Last updated: January 2026
+									Last updated: {policyData.lastUpdated}
 								</p>
 							</div>
 						</AnimateIn>

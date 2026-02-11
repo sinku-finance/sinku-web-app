@@ -30,7 +30,7 @@ export default function DownloadAppPage() {
 	return (
 		<>
 			<Header />
-			<main className="relative bg-white overflow-hidden border-t border-gray-400">
+			<main id="main-content" className="relative bg-white overflow-hidden border-t border-gray-400">
 				<DownloadAppSection />
 			</main>
 		</>

@@ -218,6 +218,24 @@ export const pageSeo: Record<string, Record<string, LocaleSeo>> = {
 				"Tudo o que precisa de saber sobre o Plexos. Cartões, transferências, moedas, taxas e como começar.",
 		},
 	},
+	help: {
+		en: {
+			title: "Help Centre — Plexos",
+			description:
+				"Find answers to your questions about Plexos. Browse our Help Centre for guides on accounts, cards, payments, transfers, security, and more.",
+			ogTitle: "Plexos Help Centre",
+			ogDescription:
+				"Find answers to your questions about Plexos. Guides on accounts, cards, payments, transfers, and security.",
+		},
+		pt: {
+			title: "Centro de Ajuda — Plexos",
+			description:
+				"Encontre respostas para suas perguntas sobre o Plexos. Navegue pelo nosso Centro de Ajuda com guias sobre contas, cartões, pagamentos, transferências, segurança e mais.",
+			ogTitle: "Centro de Ajuda Plexos",
+			ogDescription:
+				"Encontre respostas para suas perguntas sobre o Plexos. Guias sobre contas, cartões, pagamentos, transferências e segurança.",
+		},
+	},
 	support: {
 		en: {
 			title: "Support — Help Centre",

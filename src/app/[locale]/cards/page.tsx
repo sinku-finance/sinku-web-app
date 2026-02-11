@@ -41,7 +41,7 @@ export default function CardsPage() {
 			{/* Hero Banner with Cards Image */}
 			<CardsBanner />
 
-			<main className="relative min-h-screen bg-white overflow-hidden">
+			<main id="main-content" className="relative min-h-screen bg-white overflow-hidden">
 				<FeaturedCardsSection />
 				<PlansSection />
 				<VirtualCardSection />

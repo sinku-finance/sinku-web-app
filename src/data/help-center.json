@@ -1,0 +1,1206 @@
+{
+  "en": {
+    "title": "How can we help?",
+    "subtitle": "Search below or browse topics to find what you need.",
+    "searchPlaceholder": "Tell us what you're looking for",
+    "topicsLabel": "Topics",
+    "viewAll": "View all",
+    "backToHelp": "Back to Help Centre",
+    "topics": [
+      {
+        "id": "profile-and-plan",
+        "title": "Profile and plan",
+        "articles": [
+          {
+            "id": "getting-started",
+            "title": "Getting started with Plexos",
+            "category": "Getting started with Plexos",
+            "content": [
+              { "type": "heading", "text": "Who can open an account?" },
+              { "type": "paragraph", "text": "Plexos is available to anyone aged 18 or older living in one of the countries we currently serve. We're focused on PALOP nations and expanding across Africa — check our website or the app for the latest list of supported countries." },
+              { "type": "paragraph", "text": "Support for younger users is on our roadmap and coming soon." },
+              { "type": "heading", "text": "One account per person" },
+              { "type": "paragraph", "text": "Each person can hold one Plexos account, no matter how many countries they're connected to." },
+              { "type": "heading", "text": "What you'll need to sign up" },
+              { "type": "paragraph", "text": "Have the following ready before you begin:" },
+              { "type": "list", "items": ["A working mobile phone number", "A valid email address", "Basic personal details — full name, date of birth, residential address, and nationality", "A government-issued ID (passport, national ID, or driver's licence)", "A quick selfie to confirm your identity"] },
+              { "type": "paragraph", "text": "We may ask a few extra questions about how you intend to use the account. This is standard procedure and won't affect your eligibility." }
+            ]
+          },
+          {
+            "id": "plexos-plans",
+            "title": "Plexos plans",
+            "category": "Plexos plans and benefits",
+            "content": [
+              { "type": "heading", "text": "Find the plan that fits your life" },
+              { "type": "paragraph", "text": "Plexos offers three tiers — Standard (free), Plus, and Premium. Each comes with its own set of perks, limits, and features." },
+              { "type": "paragraph", "text": "Head to the pricing page in the app or on our website to compare plans side by side and pick the one that works for you." }
+            ]
+          },
+          {
+            "id": "upgrade-plan",
+            "title": "Upgrade my plan",
+            "category": "Plexos plans and benefits",
+            "content": [
+              { "type": "heading", "text": "How to upgrade" },
+              { "type": "paragraph", "text": "Open the Plexos app, head to your profile, and tap 'Plans'. Pick the tier you'd like, review the pricing, and confirm. Your new benefits start immediately." },
+              { "type": "heading", "text": "When do I get charged?" },
+              { "type": "paragraph", "text": "Your first billing cycle begins the moment you upgrade. The monthly fee for the new plan is deducted from your Plexos balance right away." }
+            ]
+          },
+          {
+            "id": "plan-billing",
+            "title": "Plan billing",
+            "category": "Plexos plans and benefits",
+            "content": [
+              { "type": "heading", "text": "How billing works" },
+              { "type": "paragraph", "text": "Paid plans are billed monthly. The charge is automatically taken from your Plexos balance on the same date each month." },
+              { "type": "heading", "text": "What if I don't have enough balance?" },
+              { "type": "paragraph", "text": "If your balance is too low on billing day, we'll retry over the next few days. If it still can't be collected, your plan may revert to Standard." }
+            ]
+          },
+          {
+            "id": "downgrade-plan",
+            "title": "Downgrade my plan",
+            "category": "Plexos plans and benefits",
+            "content": [
+              { "type": "heading", "text": "How to downgrade" },
+              { "type": "paragraph", "text": "Go to your profile, tap 'Plans', and choose a lower tier. The change kicks in at the end of your current billing period — you keep all your current perks until then." },
+              { "type": "heading", "text": "Will I lose my perks?" },
+              { "type": "paragraph", "text": "Any benefits exclusive to your current plan will stop once the downgrade takes effect. Use them while you can before the cycle ends." }
+            ]
+          },
+          {
+            "id": "verify-identity",
+            "title": "I'm unable to verify my identity",
+            "category": "Submitting documents",
+            "content": [
+              { "type": "heading", "text": "Where do I submit proof of identity?" },
+              { "type": "paragraph", "text": "When identity verification is needed, you'll get an email, a push notification, and a banner on your home screen. Tap the prompt and follow the steps to upload your documents." },
+              { "type": "paragraph", "text": "No prompt? Check your email — we may already have everything we need." },
+              { "type": "heading", "text": "I don't have the right document" },
+              { "type": "list", "items": ["Accepted document types are listed on the in-app submission screen", "If you've applied for a document but it hasn't arrived, tap 'Request more time' in the app", "If that option isn't available, reach out to us via the in-app chat"] },
+              { "type": "heading", "text": "My document was turned down" },
+              { "type": "paragraph", "text": "Double-check that your document:" },
+              { "type": "list", "items": ["Is one of the accepted types", "Is not handwritten", "Is not expired, damaged, or hard to read", "Has details that match the information on your Plexos account"] },
+              { "type": "heading", "text": "How long does verification take?" },
+              { "type": "paragraph", "text": "Usually less than one business day. In some cases it can take up to seven days. We'll let you know as soon as the review is complete." }
+            ]
+          },
+          {
+            "id": "proof-of-address",
+            "title": "How do I provide proof of address?",
+            "category": "Submitting documents",
+            "content": [
+              { "type": "paragraph", "text": "If we need to confirm your residential address, you'll receive an email and in-app notification with instructions." },
+              { "type": "heading", "text": "What's accepted" },
+              { "type": "paragraph", "text": "Upload a PDF or clear photo of a physical document. Screenshots aren't accepted. The document must:" },
+              { "type": "list", "items": ["Be issued within the last 6 months", "Come from a government body, utility company, or financial institution", "Show a residential address — PO boxes, hotels, and business addresses won't work", "Have a name and address that match your Plexos account"] },
+              { "type": "heading", "text": "Upload tips" },
+              { "type": "paragraph", "text": "Make sure you're on the latest version of the app. Your document should be clear and fully legible — blurry uploads will be rejected." }
+            ]
+          },
+          {
+            "id": "source-of-funds",
+            "title": "Source of funds",
+            "category": "Submitting documents",
+            "content": [
+              { "type": "paragraph", "text": "Occasionally, we may need information about where your money comes from. If this happens, we'll notify you by email and in the app, along with any deadline." },
+              { "type": "paragraph", "text": "Sharing this information keeps your account running smoothly and helps us meet our obligation to prevent financial crime." },
+              { "type": "heading", "text": "What documents work?" },
+              { "type": "paragraph", "text": "The documents we accept depend on the source — salary slips, business income records, property sale documents, and similar. The in-app screen will show you what applies to your situation." }
+            ]
+          },
+          {
+            "id": "tax-information",
+            "title": "Update my tax information",
+            "category": "Submitting documents",
+            "content": [
+              { "type": "paragraph", "text": "As a regulated institution, we may need to collect your tax residence information and, in some cases, a tax identification number (TIN)." },
+              { "type": "heading", "text": "How to update in the app" },
+              { "type": "list", "items": ["Tap your profile icon", "Tap 'Account'", "Tap 'Personal details'", "Tap 'Tax residencies'", "Add a new country or update your TIN"] },
+              { "type": "heading", "text": "Why does Plexos need this?" },
+              { "type": "paragraph", "text": "Financial institutions are required by international standards (CRS and FATCA) to collect tax-related information from account holders." }
+            ]
+          },
+          {
+            "id": "expired-documents",
+            "title": "Update my expired documents",
+            "category": "Submitting documents",
+            "content": [
+              { "type": "paragraph", "text": "If any of your documents have expired, the app will prompt you to upload new ones. Typically, you'll need a current government-issued ID." },
+              { "type": "heading", "text": "What if I don't update them?" },
+              { "type": "paragraph", "text": "If you miss the deadline, some account features may be temporarily limited until the new documents are provided." },
+              { "type": "heading", "text": "I don't have a valid document right now" },
+              { "type": "paragraph", "text": "If your renewal is in progress, you may be able to request extra time. Contact us via the in-app chat and we'll do our best to help." }
+            ]
+          },
+          {
+            "id": "change-address",
+            "title": "Change my address",
+            "category": "Change personal details",
+            "content": [
+              { "type": "paragraph", "text": "Keep your address current — it's used for card delivery and compliance." },
+              { "type": "list", "items": ["Go to your profile and tap 'Personal details'", "Tap your address and enter the new one", "You may need to provide proof of your new address"] }
+            ]
+          },
+          {
+            "id": "change-phone",
+            "title": "Change my phone number",
+            "category": "Change personal details",
+            "content": [
+              { "type": "paragraph", "text": "Your phone number is tied to your account for security and login. To change it:" },
+              { "type": "list", "items": ["Go to your profile and tap 'Personal details'", "Tap your phone number and follow the verification steps", "You'll need access to both your old and new number"] },
+              { "type": "paragraph", "text": "Lost access to your old number? Contact support via the in-app chat." }
+            ]
+          },
+          {
+            "id": "change-email",
+            "title": "Change or verify my email",
+            "category": "Change personal details",
+            "content": [
+              { "type": "paragraph", "text": "Your email is used for important notifications and account recovery." },
+              { "type": "list", "items": ["Go to your profile and tap 'Personal details'", "Tap your email and enter the new address", "Check your new inbox for a verification link and confirm"] }
+            ]
+          },
+          {
+            "id": "supported-countries",
+            "title": "Where is Plexos available?",
+            "category": "Change personal details",
+            "content": [
+              { "type": "paragraph", "text": "Plexos is built in Africa, for Africa — and beyond. We're currently live across PALOP countries and expanding to more African nations, while also serving customers in Europe and the Americas." },
+              { "type": "paragraph", "text": "Whether you're in Luanda, Lisbon, or São Paulo, Plexos keeps your money connected across borders. Check the full list of supported regions on our website or inside the app." },
+              { "type": "paragraph", "text": "Not available where you are yet? Join the waitlist and we'll let you know the moment we launch in your country." }
+            ]
+          },
+          {
+            "id": "download-account-confirmation",
+            "title": "Download your account confirmation",
+            "category": "Download a document",
+            "content": [
+              { "type": "paragraph", "text": "Need proof you hold a Plexos account? Download a confirmation letter straight from the app." },
+              { "type": "list", "items": ["Go to your profile and tap 'Documents'", "Select 'Account confirmation'", "A PDF will be generated for you to save or share"] }
+            ]
+          },
+          {
+            "id": "download-statement",
+            "title": "Download a transaction statement",
+            "category": "Download a document",
+            "content": [
+              { "type": "paragraph", "text": "Transaction statements show a complete record of money in and out of your account." },
+              { "type": "list", "items": ["Go to your profile and tap 'Documents'", "Select 'Transaction statement'", "Pick the date range and currency, then download"] }
+            ]
+          },
+          {
+            "id": "change-passcode",
+            "title": "Change my passcode",
+            "category": "Login and security",
+            "content": [
+              { "type": "paragraph", "text": "Your passcode is the main lock on your Plexos app. Update it regularly for best security." },
+              { "type": "list", "items": ["Go to your profile and tap 'Security'", "Select 'Change passcode'", "Enter your current passcode, then choose a new one"] },
+              { "type": "paragraph", "text": "Pick something you'll remember but that's hard to guess. Avoid obvious sequences like 1234." }
+            ]
+          },
+          {
+            "id": "lost-stolen-device",
+            "title": "Lost or stolen device",
+            "category": "Login and security",
+            "content": [
+              { "type": "paragraph", "text": "If your phone is lost or stolen, act fast:" },
+              { "type": "list", "items": ["Log in from another device (if possible) and freeze your card immediately", "Contact support via email or another device to lock your account", "Change your passcode as soon as you regain access"] },
+              { "type": "paragraph", "text": "Your account is still protected by your passcode, biometric login, and our fraud monitoring — even without the phone." }
+            ]
+          },
+          {
+            "id": "login-trouble",
+            "title": "Trouble logging in",
+            "category": "Login and security",
+            "content": [
+              { "type": "paragraph", "text": "If you can't sign in:" },
+              { "type": "list", "items": ["Make sure you're on the latest version of the app", "Double-check your phone number and passcode", "Restart the app or your device", "Forgot your passcode? Tap 'Forgot passcode' on the login screen to reset it"] },
+              { "type": "paragraph", "text": "Still stuck? Our support team is ready to help." }
+            ]
+          },
+          {
+            "id": "selfie-authentication",
+            "title": "Trouble with selfie verification",
+            "category": "Login and security",
+            "content": [
+              { "type": "paragraph", "text": "Selfie checks confirm you're the account holder. If it's not working:" },
+              { "type": "list", "items": ["Find a spot with good, even lighting", "Remove glasses, hats, or anything covering your face", "Hold your phone at eye level and look directly at the camera", "Keep your face centred and hold still"] },
+              { "type": "paragraph", "text": "If it keeps failing, reach out to support — we may have an alternative verification option." }
+            ]
+          },
+          {
+            "id": "verification-code",
+            "title": "Not receiving my verification code",
+            "category": "Login and security",
+            "content": [
+              { "type": "paragraph", "text": "If your SMS code hasn't arrived:" },
+              { "type": "list", "items": ["Check you have mobile signal and aren't in airplane mode", "Wait a moment — codes can be delayed on busy networks", "Make sure your phone number is entered correctly with the right country code", "Try restarting your phone"] },
+              { "type": "paragraph", "text": "Still nothing? Your carrier may be blocking the message — contact them to check." }
+            ]
+          },
+          {
+            "id": "biometric-signin",
+            "title": "Sign in with Face ID or fingerprint",
+            "category": "Login and security",
+            "content": [
+              { "type": "paragraph", "text": "Speed up your login by enabling biometric authentication." },
+              { "type": "list", "items": ["Go to your profile and tap 'Security'", "Toggle on 'Biometric login'", "Confirm with your device's scanner"] },
+              { "type": "paragraph", "text": "Biometric login adds a layer on top of your passcode — it doesn't replace it." }
+            ]
+          },
+          {
+            "id": "manage-notifications",
+            "title": "Managing notifications",
+            "category": "Settings",
+            "content": [
+              { "type": "paragraph", "text": "Choose exactly which notifications you receive:" },
+              { "type": "list", "items": ["Go to your profile and tap 'Notifications'", "Toggle each notification type on or off"] },
+              { "type": "paragraph", "text": "We recommend keeping transaction and security alerts on so you always know what's happening on your account." }
+            ]
+          },
+          {
+            "id": "switch-language",
+            "title": "Switching languages",
+            "category": "Settings",
+            "content": [
+              { "type": "paragraph", "text": "The Plexos app is available in multiple languages including Portuguese and English." },
+              { "type": "list", "items": ["Go to your profile", "Tap 'App settings' or 'Language'", "Choose your preferred language"] },
+              { "type": "paragraph", "text": "The app refreshes in the new language instantly." }
+            ]
+          },
+          {
+            "id": "managing-data",
+            "title": "Managing my data",
+            "category": "More help with my profile",
+            "content": [
+              { "type": "paragraph", "text": "You have the right to access, correct, or request deletion of the personal data we hold." },
+              { "type": "paragraph", "text": "Go to your profile, tap 'Privacy', and explore the options — or contact support to submit a data request. Full details are in our Privacy Policy." }
+            ]
+          },
+          {
+            "id": "close-account",
+            "title": "How do I close my account?",
+            "category": "Closing your account",
+            "content": [
+              { "type": "paragraph", "text": "You can close your Plexos account directly from the app." },
+              { "type": "heading", "text": "Before you close" },
+              { "type": "list", "items": ["Transfer or withdraw your remaining balance", "Cancel any active subscriptions linked to Plexos", "Download any statements or documents you might need later"] },
+              { "type": "heading", "text": "How to close" },
+              { "type": "list", "items": ["Go to your profile", "Scroll to the bottom and tap 'Close account'", "Follow the prompts to confirm"] },
+              { "type": "paragraph", "text": "Closure is permanent. Your data will be kept for the period required by law, then securely deleted." }
+            ]
+          },
+          {
+            "id": "accessibility",
+            "title": "Accessibility at Plexos",
+            "category": "Accessibility",
+            "content": [
+              { "type": "paragraph", "text": "We're building Plexos to be usable by everyone. The app supports screen readers, dynamic text sizing, and high-contrast mode on both iOS and Android." },
+              { "type": "paragraph", "text": "If you hit an accessibility barrier, let us know through the in-app chat — your feedback shapes what we improve next." }
+            ]
+          },
+          {
+            "id": "contact-support",
+            "title": "How to reach Plexos Support",
+            "category": "Contact support",
+            "content": [
+              { "type": "paragraph", "text": "The quickest way to get help is through the in-app chat. Open the Plexos app, go to your profile, and tap 'Help' or 'Chat with us'." },
+              { "type": "paragraph", "text": "Our team can assist you in Portuguese and English." },
+              { "type": "heading", "text": "Other ways to reach us" },
+              { "type": "list", "items": ["Email: support@plexos.com", "Help Centre: browse articles for instant answers", "Social media: reach out through our official channels (never share sensitive account details publicly)"] }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "security-and-fraud",
+        "title": "Security and fraud",
+        "articles": [
+          {
+            "id": "official-app",
+            "title": "Always use the official Plexos app",
+            "category": "Keeping your device secure",
+            "content": [
+              { "type": "paragraph", "text": "For your protection, only download Plexos from the Apple App Store or Google Play Store. Versions from other sources could be tampered with." },
+              { "type": "paragraph", "text": "Not sure your app is genuine? Delete it and re-download from the official store." }
+            ]
+          },
+          {
+            "id": "os-updates",
+            "title": "Keep your device up to date",
+            "category": "Keeping your device secure",
+            "content": [
+              { "type": "paragraph", "text": "Running the latest operating system on your phone is one of the simplest ways to stay safe. Security patches fix known vulnerabilities before they can be exploited." },
+              { "type": "paragraph", "text": "If your OS is too old, parts of the Plexos app may stop working. We recommend turning on automatic updates." }
+            ]
+          },
+          {
+            "id": "rooted-jailbroken",
+            "title": "Rooted or jailbroken devices",
+            "category": "Keeping your device secure",
+            "content": [
+              { "type": "paragraph", "text": "Rooted (Android) or jailbroken (iOS) devices carry serious security risks — they allow apps to access data they normally couldn't." },
+              { "type": "paragraph", "text": "The Plexos app may not work on modified devices. If you need assistance, get in touch with our support team." }
+            ]
+          },
+          {
+            "id": "unsupported-device",
+            "title": "Why isn't Plexos working on my device?",
+            "category": "Keeping your device secure",
+            "content": [
+              { "type": "paragraph", "text": "We update our minimum device requirements periodically to maintain security. If your phone is no longer supported, it usually means the manufacturer has stopped providing security updates for it." },
+              { "type": "paragraph", "text": "Consider upgrading to a newer device or reach out to your phone manufacturer for options." }
+            ]
+          },
+          {
+            "id": "money-safety",
+            "title": "How Plexos keeps your money safe",
+            "category": "Plexos security",
+            "content": [
+              { "type": "paragraph", "text": "Your funds are held separately from Plexos's own money, in line with regulatory requirements. This ring-fencing ensures your balance is protected." },
+              { "type": "heading", "text": "Check which Plexos entity holds your account" },
+              { "type": "list", "items": ["Tap your profile icon", "Scroll to the very bottom", "The name of the Plexos entity is shown there"] }
+            ]
+          },
+          {
+            "id": "fraud-protection",
+            "title": "How we protect you against fraud",
+            "category": "Plexos security",
+            "content": [
+              { "type": "paragraph", "text": "We use real-time monitoring and machine learning to spot suspicious activity. If something looks off, we may pause a transaction and alert you." },
+              { "type": "heading", "text": "Built-in safeguards" },
+              { "type": "list", "items": ["Instant push notifications for every transaction", "Freeze your card in seconds from the app", "Disposable virtual card numbers for safer online shopping", "3D Secure verification for online payments"] }
+            ]
+          },
+          {
+            "id": "keep-account-safe",
+            "title": "Tips to keep your account safe",
+            "category": "Plexos security",
+            "content": [
+              { "type": "paragraph", "text": "We work hard to protect you, but a few habits on your side go a long way:" },
+              { "type": "list", "items": ["Never share your passcode, PIN, or verification codes with anyone — Plexos will never ask for them", "Enable biometric login for an extra layer of security", "Keep the app and your device software up to date", "Be cautious of unsolicited calls, emails, or texts claiming to be from Plexos", "Turn on transaction notifications so every payment is on your radar"] },
+              { "type": "paragraph", "text": "Something feel wrong? Trust your gut and contact us via the in-app chat." }
+            ]
+          },
+          {
+            "id": "safety-features",
+            "title": "Plexos safety features at a glance",
+            "category": "Plexos security",
+            "content": [
+              { "type": "heading", "text": "Card controls" },
+              { "type": "paragraph", "text": "Freeze and unfreeze your card instantly, toggle contactless or online payments on and off, and set spending limits — all from the app." },
+              { "type": "heading", "text": "Real-time alerts" },
+              { "type": "paragraph", "text": "Every transaction triggers a push notification. See something you don't recognise? Freeze your card and report it in seconds." },
+              { "type": "heading", "text": "Disposable virtual cards" },
+              { "type": "paragraph", "text": "Generate a one-time card number for online purchases. The details expire after one use, so your real card stays hidden." },
+              { "type": "heading", "text": "Passcode and biometrics" },
+              { "type": "paragraph", "text": "Your app is locked behind a passcode and optional biometric login. Even if someone picks up your phone, they can't get in without it." }
+            ]
+          },
+          {
+            "id": "report-fraud",
+            "title": "Report a fraudulent transaction",
+            "category": "Reporting fraud",
+            "content": [
+              { "type": "paragraph", "text": "If you spot a transaction you didn't make, act immediately:" },
+              { "type": "list", "items": ["Freeze or terminate your card in the app", "Find the transaction in your history and tap 'Get help'", "Select 'Report this payment as fraudulent'", "Give us as much detail as you can"] },
+              { "type": "paragraph", "text": "We'll investigate and keep you updated. We also recommend filing a report with your local police." }
+            ]
+          },
+          {
+            "id": "suspicious-contact",
+            "title": "Received a suspicious call, email, or message?",
+            "category": "Reporting fraud",
+            "content": [
+              { "type": "paragraph", "text": "Plexos will never call you out of the blue, ask you to share security codes, or request payments to a 'safe account'." },
+              { "type": "heading", "text": "How to stay safe" },
+              { "type": "list", "items": ["Verify any suspicious contact by reaching out to us via the in-app chat", "For emails, check the sender's address carefully for typos or unusual domains", "When in doubt, never share personal or financial information"] },
+              { "type": "paragraph", "text": "If you think you've been targeted by a scam, report it immediately through the app and contact your local authorities." }
+            ]
+          },
+          {
+            "id": "restricted-account",
+            "title": "My account was restricted",
+            "category": "Account restrictions",
+            "content": [
+              { "type": "paragraph", "text": "Restrictions can happen due to regulatory requirements, a security concern, or missing documentation." },
+              { "type": "heading", "text": "What to do" },
+              { "type": "list", "items": ["Check your email and in-app notifications for details", "If we've requested documents, submit them as soon as possible", "Contact support if you believe the restriction is an error"] },
+              { "type": "paragraph", "text": "We know it's frustrating — our team will work with you to resolve it quickly." }
+            ]
+          },
+          {
+            "id": "account-review",
+            "title": "Why is my account under review?",
+            "category": "Account restrictions",
+            "content": [
+              { "type": "paragraph", "text": "As a regulated institution, we carry out periodic reviews to stay compliant. During a review, some features may be temporarily limited." },
+              { "type": "paragraph", "text": "Usually no action is needed from your side. If we need anything, we'll reach out via email and in-app notification." }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "cards",
+        "title": "Cards",
+        "articles": [
+          {
+            "id": "order-card",
+            "title": "Order a physical debit card",
+            "category": "Ordering your card",
+            "content": [
+              { "type": "paragraph", "text": "Your Plexos debit card works internationally — use it anywhere Mastercard is accepted, in-store or online, at home or abroad." },
+              { "type": "heading", "text": "How to order" },
+              { "type": "list", "items": ["Open the Plexos app and go to 'Cards'", "Tap 'Order physical card'", "Choose your preferred design", "Confirm your delivery address and place the order"] },
+              { "type": "paragraph", "text": "Delivery times vary by country but typically take 7–14 business days. Some plans include a free card." }
+            ]
+          },
+          {
+            "id": "card-not-arrived",
+            "title": "My card hasn't arrived",
+            "category": "Ordering your card",
+            "content": [
+              { "type": "paragraph", "text": "If your card hasn't arrived within the expected window:" },
+              { "type": "list", "items": ["Check the delivery status in the app under 'Cards'", "Verify your delivery address is correct", "Allow a few extra days — postal services can vary across regions"] },
+              { "type": "paragraph", "text": "If it's been significantly longer than expected, report the card as undelivered in the app and we'll send a replacement." }
+            ]
+          },
+          {
+            "id": "card-fees",
+            "title": "Card fees",
+            "category": "Ordering your card",
+            "content": [
+              { "type": "paragraph", "text": "Fees depend on your plan. Most paid plans include at least one free physical debit card. Additional cards or special designs may have a small charge." },
+              { "type": "paragraph", "text": "Check the 'Cards' section in the app for current pricing before ordering." }
+            ]
+          },
+          {
+            "id": "activate-card",
+            "title": "Activate your card",
+            "category": "Ordering your card",
+            "content": [
+              { "type": "paragraph", "text": "When your card arrives, activate it before use:" },
+              { "type": "list", "items": ["Go to 'Cards' in the app", "Select the card that needs activating", "Follow the prompts — you may need to enter the last few digits of the card number"] },
+              { "type": "paragraph", "text": "Once activated, you're ready for contactless, chip, and online payments worldwide." }
+            ]
+          },
+          {
+            "id": "card-settings",
+            "title": "Card settings and controls",
+            "category": "Managing your card",
+            "content": [
+              { "type": "paragraph", "text": "Take full control of your card from the app:" },
+              { "type": "list", "items": ["Enable or disable online payments", "Toggle contactless on or off", "Allow or block ATM withdrawals", "Set a monthly spending limit"] },
+              { "type": "paragraph", "text": "All settings can be changed instantly from the 'Cards' section." }
+            ]
+          },
+          {
+            "id": "find-pin",
+            "title": "Finding your card PIN",
+            "category": "Managing your card",
+            "content": [
+              { "type": "paragraph", "text": "Your PIN lives inside the Plexos app:" },
+              { "type": "list", "items": ["Go to 'Cards'", "Select your card", "Tap 'Show PIN' and verify your identity"] },
+              { "type": "paragraph", "text": "Never write down or share your PIN with anyone." }
+            ]
+          },
+          {
+            "id": "freeze-card",
+            "title": "Freeze or unfreeze your card",
+            "category": "Managing your card",
+            "content": [
+              { "type": "paragraph", "text": "Misplaced your card? Freeze it instantly to block all transactions." },
+              { "type": "list", "items": ["Go to 'Cards' in the app", "Select the card", "Tap 'Freeze'"] },
+              { "type": "paragraph", "text": "Changed your mind? Unfreeze it any time and carry on as normal." }
+            ]
+          },
+          {
+            "id": "card-stolen",
+            "title": "My card was lost or stolen",
+            "category": "Lost or stolen cards",
+            "content": [
+              { "type": "paragraph", "text": "If your card has been lost or stolen, act right away:" },
+              { "type": "list", "items": ["Open the app and go to 'Cards'", "Select the card and tap 'Terminate' — this permanently disables it", "Order a replacement from the same screen"] },
+              { "type": "paragraph", "text": "If you notice unauthorised transactions, report them immediately through the app." }
+            ]
+          },
+          {
+            "id": "card-used-fraudulently",
+            "title": "Someone used my card without permission",
+            "category": "Lost or stolen cards",
+            "content": [
+              { "type": "paragraph", "text": "If you see transactions you didn't make:" },
+              { "type": "list", "items": ["Freeze or terminate your card immediately", "Tap the suspicious transaction and select 'Get help'", "Choose 'Report this payment as fraudulent'", "Follow the steps to submit your report"] },
+              { "type": "paragraph", "text": "We'll investigate and keep you posted. In many cases, fraudulent charges can be reversed." }
+            ]
+          },
+          {
+            "id": "card-not-working",
+            "title": "My card isn't working",
+            "category": "Card issues",
+            "content": [
+              { "type": "paragraph", "text": "If your card is being declined, try these steps:" },
+              { "type": "list", "items": ["Check it's activated and not frozen in the app", "Make sure the payment type (contactless, online, chip) is enabled", "Verify you have enough funds", "Clean the chip gently with a soft cloth", "Try a different terminal or ATM"] },
+              { "type": "paragraph", "text": "If nothing works, the card may be damaged. Order a replacement from the app." }
+            ]
+          },
+          {
+            "id": "card-expiring",
+            "title": "My card is about to expire",
+            "category": "Card issues",
+            "content": [
+              { "type": "paragraph", "text": "We'll automatically send a replacement before your card expires. You'll get a notification when it's on its way." },
+              { "type": "paragraph", "text": "Make sure your delivery address is current so the new card reaches you on time." }
+            ]
+          },
+          {
+            "id": "virtual-card",
+            "title": "What is a virtual card?",
+            "category": "Virtual cards",
+            "content": [
+              { "type": "paragraph", "text": "A virtual card is a digital debit card that lives only in the app. It has its own number, expiry, and CVV — perfect for online purchases without exposing your physical card details." },
+              { "type": "paragraph", "text": "You can also add it to Apple Pay or Google Pay for contactless payments with your phone." }
+            ]
+          },
+          {
+            "id": "create-virtual-card",
+            "title": "Create a virtual card",
+            "category": "Virtual cards",
+            "content": [
+              { "type": "list", "items": ["Go to 'Cards' in the app", "Tap 'Add new card'", "Select 'Virtual card'", "Your card is generated instantly"] },
+              { "type": "paragraph", "text": "Disposable virtual cards regenerate new details after every online transaction, giving you an extra layer of protection." }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "card-payments",
+        "title": "Payments and withdrawals",
+        "articles": [
+          {
+            "id": "payment-declined",
+            "title": "My payment was declined",
+            "category": "Card payments",
+            "content": [
+              { "type": "paragraph", "text": "A payment can be declined for a number of reasons:" },
+              { "type": "list", "items": ["Not enough funds in the right currency", "Online or contactless payments are switched off in card settings", "The card is frozen", "Our security system flagged the transaction", "The merchant doesn't accept Mastercard"] },
+              { "type": "paragraph", "text": "Open the transaction in the app for more details on why it was declined." }
+            ]
+          },
+          {
+            "id": "payment-pending",
+            "title": "My payment is pending",
+            "category": "Card payments",
+            "content": [
+              { "type": "paragraph", "text": "Pending payments are transactions the merchant has authorised but hasn't settled yet. Your funds are reserved but not charged." },
+              { "type": "paragraph", "text": "Most pending transactions clear within a few days. If one doesn't go through, the hold is released back to your account." }
+            ]
+          },
+          {
+            "id": "payment-amount-changed",
+            "title": "Why did the amount change?",
+            "category": "Card payments",
+            "content": [
+              { "type": "paragraph", "text": "The final charge can differ from what you first saw because of:" },
+              { "type": "list", "items": ["Exchange rate movements between authorisation and settlement", "A tip or gratuity added after the initial charge", "The merchant adjusting the amount (common at restaurants or petrol stations)", "A conversion fee on foreign currency payments"] }
+            ]
+          },
+          {
+            "id": "refund-help",
+            "title": "Help with a refund",
+            "category": "Card payments",
+            "content": [
+              { "type": "paragraph", "text": "Refunds are processed by the merchant and typically take 5–10 business days to land in your Plexos account." },
+              { "type": "heading", "text": "Still waiting?" },
+              { "type": "list", "items": ["Confirm with the merchant that the refund was actually issued", "Check your transaction history — it may show as a separate entry", "If it's been more than 10 business days, contact our support team with the original transaction details"] }
+            ]
+          },
+          {
+            "id": "dispute-payment",
+            "title": "Dispute a payment",
+            "category": "Card payments",
+            "content": [
+              { "type": "paragraph", "text": "Charged incorrectly or didn't receive what you paid for? You can raise a dispute." },
+              { "type": "list", "items": ["Find the transaction in the app", "Tap 'Get help' and follow the prompts", "Provide any evidence you have (receipts, emails with the merchant, etc.)"] },
+              { "type": "paragraph", "text": "Disputes typically take 45–90 days to resolve depending on the complexity." }
+            ]
+          },
+          {
+            "id": "block-merchant",
+            "title": "Block a merchant",
+            "category": "Card payments",
+            "content": [
+              { "type": "paragraph", "text": "Want to stop a specific merchant from charging your card?" },
+              { "type": "list", "items": ["Find a recent transaction from the merchant", "Tap it and select 'Block merchant'", "Future charges from them will be declined automatically"] },
+              { "type": "paragraph", "text": "To unblock, go to your blocked merchants list in card settings." }
+            ]
+          },
+          {
+            "id": "atm-withdrawals",
+            "title": "ATM withdrawal limits and fees",
+            "category": "Cash withdrawals",
+            "content": [
+              { "type": "paragraph", "text": "Each Plexos plan includes a monthly free ATM withdrawal allowance. Once you go over, a small fee is charged per withdrawal." },
+              { "type": "paragraph", "text": "Check your current limits in the app under 'Cards' > 'Limits'. Upgrading your plan increases your free allowance." }
+            ]
+          },
+          {
+            "id": "atm-declined",
+            "title": "ATM withdrawal declined",
+            "category": "Cash withdrawals",
+            "content": [
+              { "type": "paragraph", "text": "Possible reasons:" },
+              { "type": "list", "items": ["Not enough funds", "ATM withdrawals are turned off in card settings", "You've hit your daily or monthly limit", "The ATM itself has a limit", "Your card is frozen or expired"] }
+            ]
+          },
+          {
+            "id": "spending-abroad",
+            "title": "Using your card abroad",
+            "category": "Spending in other currencies",
+            "content": [
+              { "type": "paragraph", "text": "Your Plexos debit card works anywhere Mastercard is accepted around the world. When you pay in a different currency, we handle the conversion automatically at a competitive rate." },
+              { "type": "heading", "text": "Get the best deal" },
+              { "type": "list", "items": ["Always pay in the local currency — decline any offer to convert to your home currency at the till (this is called Dynamic Currency Conversion and the rate is usually worse)", "Be aware that a small markup may apply outside market hours (weekends and holidays)", "If you know you'll spend a lot in one currency, exchange some in advance inside the app"] }
+            ]
+          },
+          {
+            "id": "foreign-fees",
+            "title": "Foreign currency fees",
+            "category": "Spending in other currencies",
+            "content": [
+              { "type": "paragraph", "text": "During weekday market hours, Plexos uses competitive interbank rates for currency conversion. Depending on your plan, this may be fee-free up to a monthly limit." },
+              { "type": "paragraph", "text": "Outside market hours, a small markup protects against overnight volatility. The exact rate depends on your plan tier and the currencies involved." }
+            ]
+          },
+          {
+            "id": "contactless-issues",
+            "title": "Contactless payments not working",
+            "category": "More help with payments",
+            "content": [
+              { "type": "paragraph", "text": "If tap-to-pay isn't working:" },
+              { "type": "list", "items": ["Check that contactless is enabled in card settings", "Hold the card close to the reader for a few seconds", "Some terminals require a chip-and-PIN transaction now and then for security", "If using Apple Pay or Google Pay, try restarting your phone"] }
+            ]
+          },
+          {
+            "id": "3d-secure",
+            "title": "What is 3D Secure?",
+            "category": "More help with payments",
+            "content": [
+              { "type": "paragraph", "text": "3D Secure adds an extra verification step to online payments. When you buy something online, you may be asked to confirm the purchase in the Plexos app before it goes through." },
+              { "type": "paragraph", "text": "Keep push notifications on so you can approve payments quickly." }
+            ]
+          },
+          {
+            "id": "apple-google-pay",
+            "title": "Apple Pay and Google Pay",
+            "category": "More help with payments",
+            "content": [
+              { "type": "paragraph", "text": "Add your Plexos debit card to Apple Pay or Google Pay for fast contactless payments with your phone." },
+              { "type": "list", "items": ["Go to 'Cards' in the Plexos app", "Select your card", "Tap 'Add to Apple Pay' or 'Add to Google Pay'", "Follow the on-screen steps"] },
+              { "type": "paragraph", "text": "Availability may vary by country." }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "accounts",
+        "title": "Accounts and currencies",
+        "articles": [
+          {
+            "id": "multi-currency",
+            "title": "Holding money in different currencies",
+            "category": "Currency accounts",
+            "content": [
+              { "type": "paragraph", "text": "Multi-currency accounts are coming soon to Plexos. You'll be able to hold balances in multiple currencies from one account — ideal for anyone who sends or receives money across borders." },
+              { "type": "paragraph", "text": "Once available, you'll be able to add new currencies directly in the app, hold funds in each one, and exchange between them with competitive rates." },
+              { "type": "paragraph", "text": "Stay tuned — we'll notify you as soon as this feature goes live." }
+            ]
+          },
+          {
+            "id": "exchange-money",
+            "title": "How to exchange currencies",
+            "category": "Currency accounts",
+            "content": [
+              { "type": "paragraph", "text": "Converting between currencies takes seconds:" },
+              { "type": "list", "items": ["Go to the 'Accounts' tab", "Tap 'Exchange'", "Choose the currencies and enter the amount", "Review the rate and confirm"] },
+              { "type": "paragraph", "text": "The converted funds appear in your target currency instantly." }
+            ]
+          },
+          {
+            "id": "exchange-fees",
+            "title": "Exchange rates and fees",
+            "category": "Currency accounts",
+            "content": [
+              { "type": "paragraph", "text": "During market hours (weekdays), Plexos uses competitive interbank rates. Each plan includes a monthly fee-free exchange allowance — once you exceed it, a small percentage fee applies." },
+              { "type": "paragraph", "text": "Outside market hours, a small markup protects against weekend price swings. Check the app for your plan's exact limits and rates." }
+            ]
+          },
+          {
+            "id": "supported-currencies",
+            "title": "Supported currencies",
+            "category": "Currency accounts",
+            "content": [
+              { "type": "paragraph", "text": "We support a growing number of currencies including major international ones and select African currencies. The full list is available in the app under 'Accounts' > 'Add new currency'." },
+              { "type": "paragraph", "text": "Not all currencies have local receiving details available yet. We're adding more all the time." }
+            ]
+          },
+          {
+            "id": "negative-balance",
+            "title": "Why is my balance negative?",
+            "category": "Currency accounts",
+            "content": [
+              { "type": "paragraph", "text": "This can happen when a transaction settles for more than initially authorised — for example, a hotel hold or a fee charged after the payment." },
+              { "type": "paragraph", "text": "Add funds to cover the shortfall. If the negative balance doesn't make sense, contact support." }
+            ]
+          },
+          {
+            "id": "account-details",
+            "title": "Your account details",
+            "category": "Account information",
+            "content": [
+              { "type": "paragraph", "text": "To view the details others need to send you money:" },
+              { "type": "list", "items": ["Go to the 'Accounts' tab", "Tap the currency you want to receive in", "Your details will be displayed — tap to copy and share"] },
+              { "type": "paragraph", "text": "The type of details available (e.g. IBAN, account number) depends on the currency and your region." }
+            ]
+          },
+          {
+            "id": "analytics",
+            "title": "Spending insights and budgeting",
+            "category": "Account information",
+            "content": [
+              { "type": "paragraph", "text": "The 'Analytics' section gives you a clear picture of where your money goes. See spending broken down by category, time period, and merchant." },
+              { "type": "paragraph", "text": "Transactions are categorised automatically. To adjust a category, just tap any transaction and reassign it." }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "transfers",
+        "title": "Transfers",
+        "articles": [
+          {
+            "id": "send-to-plexos-user",
+            "title": "Send money to another Plexos user",
+            "category": "Sending money",
+            "content": [
+              { "type": "paragraph", "text": "Sending money to fellow Plexos users is instant and free — no bank details needed." },
+              { "type": "heading", "text": "How to send" },
+              { "type": "list", "items": ["Go to 'Transfers' in the app", "Tap 'Send to Plexos contact'", "Pick the person from your contacts or search by phone number / PlexTag", "Enter the amount and confirm"] }
+            ]
+          },
+          {
+            "id": "request-money",
+            "title": "Request money from a Plexos user",
+            "category": "Sending money",
+            "content": [
+              { "type": "paragraph", "text": "Need someone to pay you back? Send them a request directly in the app." },
+              { "type": "list", "items": ["Go to 'Transfers'", "Tap 'Request'", "Choose the contact", "Enter the amount and add a note if you like"] },
+              { "type": "paragraph", "text": "They'll get a notification and can approve the payment with one tap." }
+            ]
+          },
+          {
+            "id": "plextags",
+            "title": "PlexTags",
+            "category": "Sending money",
+            "content": [
+              { "type": "paragraph", "text": "Your PlexTag is a unique username other Plexos users can use to find and pay you — no need to share your phone number." },
+              { "type": "heading", "text": "Set up your PlexTag" },
+              { "type": "list", "items": ["Go to your profile", "Tap 'PlexTag'", "Pick a unique name and confirm"] }
+            ]
+          },
+          {
+            "id": "group-bills",
+            "title": "Split expenses with Group Bills",
+            "category": "Sending money",
+            "content": [
+              { "type": "paragraph", "text": "Splitting a meal, a trip, or rent? Group Bills makes it easy." },
+              { "type": "list", "items": ["Go to 'Transfers' and tap 'Group bill'", "Add participants from your Plexos contacts", "Enter the total amount", "Choose equal split or custom amounts", "Hit send — everyone gets notified"] }
+            ]
+          },
+          {
+            "id": "transfer-limits",
+            "title": "Transfer limits",
+            "category": "Sending money",
+            "content": [
+              { "type": "paragraph", "text": "There are daily and monthly limits on how much you can send to other Plexos users. These vary by plan." },
+              { "type": "paragraph", "text": "Check your current limits in the app under 'Transfers' > 'Limits'." }
+            ]
+          },
+          {
+            "id": "payment-links",
+            "title": "Payment links",
+            "category": "Receiving money",
+            "content": [
+              { "type": "paragraph", "text": "Payment links let you request money from anyone — even people who don't use Plexos. Generate a link and share it via WhatsApp, SMS, email, or social media." },
+              { "type": "heading", "text": "How to create one" },
+              { "type": "list", "items": ["Go to 'Transfers' and tap 'Payment link'", "Enter the amount and an optional note", "Share the link however you like"] },
+              { "type": "paragraph", "text": "The recipient pays using their card — no Plexos account required on their end." }
+            ]
+          },
+          {
+            "id": "transfer-not-received",
+            "title": "I sent money but it wasn't received",
+            "category": "Transfer issues",
+            "content": [
+              { "type": "paragraph", "text": "Transfers between Plexos users are normally instant. If the recipient says they haven't received it:" },
+              { "type": "list", "items": ["Check the transaction in your history — does it show as 'Completed'?", "Make sure you sent it to the right person (correct phone number or PlexTag)", "Ask the recipient to pull down to refresh their balance"] },
+              { "type": "paragraph", "text": "If everything looks correct and the funds are still missing, contact our support team." }
+            ]
+          },
+          {
+            "id": "wrong-person",
+            "title": "I sent money to the wrong person",
+            "category": "Transfer issues",
+            "content": [
+              { "type": "paragraph", "text": "Unfortunately, transfers to other Plexos users are instant and can't be automatically reversed." },
+              { "type": "paragraph", "text": "Your best option is to contact the recipient directly and ask them to send the money back. If that doesn't work, reach out to our support team and we'll do our best to help." }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "adding-money",
+        "title": "Adding money",
+        "articles": [
+          {
+            "id": "add-with-card",
+            "title": "Add money with a debit card",
+            "category": "Top up your account",
+            "content": [
+              { "type": "paragraph", "text": "The quickest way to fund your Plexos account is with a debit card." },
+              { "type": "list", "items": ["Tap 'Add money' in the app", "Select 'Card'", "Enter the amount", "Choose a saved card or add a new one", "Confirm the top-up"] },
+              { "type": "paragraph", "text": "Funds land instantly in most cases." }
+            ]
+          },
+          {
+            "id": "add-mobile-money",
+            "title": "Add money with mobile money",
+            "category": "Top up your account",
+            "content": [
+              { "type": "paragraph", "text": "In supported countries, you can top up your Plexos account directly from your mobile money wallet." },
+              { "type": "list", "items": ["Tap 'Add money' in the app", "Select 'Mobile money'", "Choose your provider", "Enter the amount and confirm on your phone"] },
+              { "type": "paragraph", "text": "Funds typically arrive within a few minutes. Availability depends on your country and mobile money provider." }
+            ]
+          },
+          {
+            "id": "add-apple-google-pay",
+            "title": "Add money with Apple Pay or Google Pay",
+            "category": "Top up your account",
+            "content": [
+              { "type": "paragraph", "text": "Where available, you can top up instantly using Apple Pay or Google Pay." },
+              { "type": "list", "items": ["Tap 'Add money' in the app", "Select 'Apple Pay' or 'Google Pay'", "Enter the amount and authenticate"] },
+              { "type": "paragraph", "text": "Funds are added instantly with no fees. Availability varies by country." }
+            ]
+          },
+          {
+            "id": "deposit-limits",
+            "title": "Top-up limits and fees",
+            "category": "Top up your account",
+            "content": [
+              { "type": "paragraph", "text": "Limits and fees depend on your plan and the method used to add funds." },
+              { "type": "list", "items": ["Debit card top-ups are usually free", "Mobile money top-ups may carry a small provider fee", "Daily and monthly limits apply — check them in the app under 'Add money'"] }
+            ]
+          },
+          {
+            "id": "topup-failed",
+            "title": "My top-up didn't work",
+            "category": "Top-up issues",
+            "content": [
+              { "type": "paragraph", "text": "If your top-up failed:" },
+              { "type": "list", "items": ["Check that the card or mobile money account has enough funds", "Make sure the card isn't expired", "Verify your bank or mobile provider isn't blocking the transaction", "Try a different payment method if available"] },
+              { "type": "paragraph", "text": "If the issue continues, contact your card issuer or mobile money provider for more details." }
+            ]
+          },
+          {
+            "id": "receive-via-card",
+            "title": "Receiving money to your Plexos card",
+            "category": "Other ways to add money",
+            "content": [
+              { "type": "paragraph", "text": "Some merchants can send funds directly to your Plexos debit card — for example, refunds or cashback. These typically appear in your account within a few business days." }
+            ]
+          },
+          {
+            "id": "receive-via-link",
+            "title": "Receive money through a payment link",
+            "category": "Other ways to add money",
+            "content": [
+              { "type": "paragraph", "text": "Share a payment link with anyone who needs to pay you. They can pay with their card — no Plexos account needed." },
+              { "type": "list", "items": ["Go to 'Transfers' and tap 'Payment link'", "Set the amount and share the link"] }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "referrals",
+        "title": "Referrals",
+        "articles": [
+          {
+            "id": "how-referrals-work",
+            "title": "How Plexos Referrals work",
+            "category": "Getting started with Referrals",
+            "content": [
+              { "type": "paragraph", "text": "Share your unique referral link with friends and family. When they sign up and complete the required steps, you both earn a reward." },
+              { "type": "heading", "text": "Find your referral link" },
+              { "type": "list", "items": ["Go to your profile", "Tap 'Refer a friend'", "Copy your link and share it via WhatsApp, SMS, or social media"] },
+              { "type": "paragraph", "text": "Reward amounts and conditions may vary depending on current promotions." }
+            ]
+          },
+          {
+            "id": "referral-reward",
+            "title": "Where's my referral reward?",
+            "category": "Getting started with Referrals",
+            "content": [
+              { "type": "paragraph", "text": "Rewards are credited once the invited person completes all the steps — usually signing up, verifying their identity, and making a qualifying transaction." },
+              { "type": "heading", "text": "Common reasons for delays" },
+              { "type": "list", "items": ["Your friend hasn't finished all the requirements yet", "The referral link wasn't used during sign-up", "The promotion may have ended or reached its limit", "Rewards can take up to 30 days after all conditions are met"] }
+            ]
+          },
+          {
+            "id": "invited-help",
+            "title": "I was invited and need help",
+            "category": "Getting started with Referrals",
+            "content": [
+              { "type": "paragraph", "text": "If you signed up through a friend's referral but haven't received your reward:" },
+              { "type": "list", "items": ["Make sure you completed identity verification and a qualifying transaction", "Confirm you used the referral link when signing up — it can't be applied afterwards", "Check that the promotion is still active"] },
+              { "type": "paragraph", "text": "Everything look right? Get in touch with support and we'll investigate." }
+            ]
+          },
+          {
+            "id": "referral-terms",
+            "title": "Referral programme terms",
+            "category": "More about Referrals",
+            "content": [
+              { "type": "paragraph", "text": "Key things to know:" },
+              { "type": "list", "items": ["There's a maximum number of referrals per person per promotion", "Both the referrer and invitee must meet eligibility criteria", "Rewards can change or end at any time", "Abuse of the referral system may lead to account restrictions"] },
+              { "type": "paragraph", "text": "Full terms are in the app under 'Refer a friend'." }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "other-topics",
+        "title": "Other topics",
+        "articles": [
+          {
+            "id": "data-privacy",
+            "title": "How Plexos handles your data",
+            "category": "Privacy and legal",
+            "content": [
+              { "type": "paragraph", "text": "We only collect data that's necessary to provide our services and meet regulatory obligations." },
+              { "type": "heading", "text": "Your rights" },
+              { "type": "list", "items": ["Access your personal data any time through the app", "Request corrections to inaccurate information", "Request deletion of your data (subject to legal retention requirements)", "Export your data in a portable format"] },
+              { "type": "paragraph", "text": "Full details are in our Privacy Policy, available in the app and on our website." }
+            ]
+          },
+          {
+            "id": "regulatory-info",
+            "title": "Regulatory information",
+            "category": "Privacy and legal",
+            "content": [
+              { "type": "paragraph", "text": "Plexos is authorised and regulated to provide financial services. The specific regulations that apply to you depend on the Plexos entity that holds your account." },
+              { "type": "paragraph", "text": "You can find your entity by scrolling to the bottom of your profile page in the app." }
+            ]
+          },
+          {
+            "id": "lost-passkey",
+            "title": "I lost access to my passkey",
+            "category": "Account access",
+            "content": [
+              { "type": "paragraph", "text": "If you can't use your passkey, you can reset it through the recovery process:" },
+              { "type": "list", "items": ["On the login screen, tap 'Can't log in?'", "Follow the identity verification steps", "Set up a new passkey once verified"] },
+              { "type": "paragraph", "text": "If recovery isn't working, contact support for help." }
+            ]
+          },
+          {
+            "id": "app-feedback",
+            "title": "Share feedback or report a bug",
+            "category": "Account access",
+            "content": [
+              { "type": "paragraph", "text": "We're building Plexos for our community and your feedback matters. If you've found a bug or have an idea for how we can improve, let us know:" },
+              { "type": "list", "items": ["Open the in-app chat and select 'Feedback'", "Or email us at feedback@plexos.com"] },
+              { "type": "paragraph", "text": "Every message is read by our team. Thank you for helping us build something better." }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "title": "Como podemos ajudar?",
+    "subtitle": "Pesquise abaixo ou explore os tópicos para encontrar o que precisa.",
+    "searchPlaceholder": "Diga-nos o que está procurando",
+    "topicsLabel": "Tópicos",
+    "viewAll": "Ver todos",
+    "backToHelp": "Voltar ao Centro de Ajuda",
+    "topics": [
+      {
+        "id": "profile-and-plan",
+        "title": "Perfil e plano",
+        "articles": [
+          {
+            "id": "getting-started",
+            "title": "Começar a usar o Plexos",
+            "category": "Começar a usar o Plexos",
+            "content": [
+              { "type": "heading", "text": "Quem pode abrir uma conta?" },
+              { "type": "paragraph", "text": "O Plexos está disponível para qualquer pessoa com 18 anos ou mais que viva num dos países que actualmente servimos. Estamos focados nos países da CPLP e a expandir por toda a África — consulte o nosso site ou o app para ver a lista actualizada." },
+              { "type": "paragraph", "text": "O suporte para utilizadores mais jovens está no nosso plano e será lançado em breve." },
+              { "type": "heading", "text": "Uma conta por pessoa" },
+              { "type": "paragraph", "text": "Cada pessoa pode ter apenas uma conta Plexos, independentemente dos países a que esteja ligada." },
+              { "type": "heading", "text": "O que vai precisar para se registar" },
+              { "type": "paragraph", "text": "Tenha o seguinte à mão:" },
+              { "type": "list", "items": ["Um número de telemóvel activo", "Um endereço de e-mail válido", "Dados pessoais básicos — nome completo, data de nascimento, morada e nacionalidade", "Um documento de identificação oficial (passaporte, BI ou carta de condução)", "Uma selfie rápida para confirmar a sua identidade"] },
+              { "type": "paragraph", "text": "Podemos fazer algumas perguntas adicionais sobre como pretende usar a conta. Isto é procedimento padrão e não afecta a sua elegibilidade." }
+            ]
+          },
+          { "id": "plexos-plans", "title": "Planos Plexos", "category": "Planos e benefícios Plexos", "content": [{ "type": "heading", "text": "Encontre o plano ideal para si" }, { "type": "paragraph", "text": "O Plexos oferece três opções — Standard (gratuito), Plus e Premium. Cada um com os seus benefícios, limites e funcionalidades." }, { "type": "paragraph", "text": "Consulte a página de preços no app ou no nosso site para comparar os planos lado a lado." }] },
+          { "id": "upgrade-plan", "title": "Fazer upgrade do plano", "category": "Planos e benefícios Plexos", "content": [{ "type": "heading", "text": "Como fazer upgrade" }, { "type": "paragraph", "text": "Abra o app, vá ao perfil e toque em 'Planos'. Escolha o nível desejado, reveja o preço e confirme. Os novos benefícios começam de imediato." }, { "type": "heading", "text": "Quando sou cobrado?" }, { "type": "paragraph", "text": "O primeiro ciclo de facturação começa no momento do upgrade. A mensalidade é debitada do seu saldo Plexos imediatamente." }] },
+          { "id": "plan-billing", "title": "Facturação do plano", "category": "Planos e benefícios Plexos", "content": [{ "type": "heading", "text": "Como funciona a facturação" }, { "type": "paragraph", "text": "Os planos pagos são cobrados mensalmente. O valor é deduzido automaticamente do seu saldo Plexos na mesma data todos os meses." }, { "type": "heading", "text": "E se não tiver saldo suficiente?" }, { "type": "paragraph", "text": "Se o saldo for insuficiente no dia da cobrança, tentaremos novamente nos dias seguintes. Se não for possível cobrar, o plano pode reverter para Standard." }] },
+          { "id": "downgrade-plan", "title": "Reduzir o meu plano", "category": "Planos e benefícios Plexos", "content": [{ "type": "heading", "text": "Como reduzir" }, { "type": "paragraph", "text": "Vá ao perfil, toque em 'Planos' e seleccione um nível inferior. A alteração entra em vigor no final do ciclo de facturação actual." }, { "type": "heading", "text": "Vou perder os benefícios?" }, { "type": "paragraph", "text": "Os benefícios exclusivos do plano actual terminam quando a redução entrar em vigor. Aproveite-os enquanto pode." }] },
+          { "id": "verify-identity", "title": "Não consigo verificar a minha identidade", "category": "Envio de documentos", "content": [{ "type": "heading", "text": "Onde envio o comprovativo de identidade?" }, { "type": "paragraph", "text": "Quando for necessário verificar a sua identidade, receberá um e-mail, uma notificação push e um banner no ecrã inicial. Toque no aviso e siga os passos." }, { "type": "paragraph", "text": "Sem aviso? Verifique o seu e-mail — talvez já tenhamos o que precisamos." }, { "type": "heading", "text": "Não tenho o documento certo" }, { "type": "list", "items": ["Os tipos aceites estão listados no ecrã de envio no app", "Se já pediu um documento mas não o recebeu, toque em 'Pedir mais tempo'", "Se essa opção não estiver disponível, contacte-nos pelo chat no app"] }, { "type": "heading", "text": "O meu documento foi rejeitado" }, { "type": "paragraph", "text": "Confirme que o documento:" }, { "type": "list", "items": ["É um tipo aceite", "Não é manuscrito", "Não está expirado, danificado ou ilegível", "Os dados correspondem aos da sua conta Plexos"] }, { "type": "heading", "text": "Quanto tempo demora a verificação?" }, { "type": "paragraph", "text": "Normalmente menos de um dia útil. Em alguns casos pode demorar até sete dias. Avisaremos assim que estiver concluída." }] },
+          { "id": "proof-of-address", "title": "Como forneço comprovativo de morada?", "category": "Envio de documentos", "content": [{ "type": "paragraph", "text": "Se precisarmos de confirmar a sua morada, receberá um e-mail e uma notificação no app com instruções." }, { "type": "heading", "text": "O que é aceite" }, { "type": "paragraph", "text": "Envie um PDF ou foto clara de um documento físico. Capturas de ecrã não são aceites. O documento deve:" }, { "type": "list", "items": ["Ter sido emitido nos últimos 6 meses", "Ser emitido por entidade governamental, empresa de serviços ou instituição financeira", "Mostrar morada residencial — apartados, hotéis e endereços comerciais não são aceites", "Ter nome e morada que correspondam à sua conta Plexos"] }] },
+          { "id": "source-of-funds", "title": "Origem dos fundos", "category": "Envio de documentos", "content": [{ "type": "paragraph", "text": "Ocasionalmente, podemos precisar de informações sobre a origem do seu dinheiro. Se isso acontecer, avisaremos por e-mail e no app." }, { "type": "paragraph", "text": "Partilhar esta informação mantém a sua conta a funcionar normalmente e ajuda-nos a prevenir crimes financeiros." }, { "type": "heading", "text": "Que documentos servem?" }, { "type": "paragraph", "text": "Depende da origem — recibos de salário, registos de rendimentos empresariais, documentos de venda de imóveis e similares. O ecrã no app indica o que se aplica à sua situação." }] },
+          { "id": "tax-information", "title": "Actualizar informações fiscais", "category": "Envio de documentos", "content": [{ "type": "paragraph", "text": "Enquanto instituição regulada, podemos precisar de recolher informações sobre a sua residência fiscal e, em alguns casos, o seu NIF." }, { "type": "heading", "text": "Como actualizar no app" }, { "type": "list", "items": ["Toque no ícone do perfil", "Toque em 'Conta'", "Toque em 'Dados pessoais'", "Toque em 'Residências fiscais'", "Adicione um novo país ou actualize o seu NIF"] }] },
+          { "id": "expired-documents", "title": "Actualizar documentos expirados", "category": "Envio de documentos", "content": [{ "type": "paragraph", "text": "Se algum documento expirou, o app pedirá que envie novos. Normalmente precisará de um documento de identificação actual." }, { "type": "heading", "text": "O que acontece se não actualizar?" }, { "type": "paragraph", "text": "Algumas funcionalidades podem ser temporariamente limitadas até fornecer os novos documentos." }, { "type": "heading", "text": "Não tenho documento válido agora" }, { "type": "paragraph", "text": "Se a renovação está em curso, pode pedir mais tempo. Contacte-nos pelo chat no app e faremos o possível para ajudar." }] },
+          { "id": "change-address", "title": "Alterar a minha morada", "category": "Alterar dados pessoais", "content": [{ "type": "paragraph", "text": "Mantenha a sua morada actualizada — é usada para entrega de cartões e fins regulatórios." }, { "type": "list", "items": ["Vá ao perfil e toque em 'Dados pessoais'", "Toque na morada e insira a nova", "Pode ser necessário fornecer comprovativo de morada"] }] },
+          { "id": "change-phone", "title": "Alterar o meu número de telefone", "category": "Alterar dados pessoais", "content": [{ "type": "paragraph", "text": "O seu número está ligado à conta para segurança e login." }, { "type": "list", "items": ["Vá ao perfil e toque em 'Dados pessoais'", "Toque no número e siga os passos de verificação", "Precisará de acesso ao número antigo e ao novo"] }, { "type": "paragraph", "text": "Perdeu acesso ao número antigo? Contacte o suporte pelo chat no app." }] },
+          { "id": "change-email", "title": "Alterar ou verificar o meu e-mail", "category": "Alterar dados pessoais", "content": [{ "type": "paragraph", "text": "O seu e-mail é usado para notificações importantes e recuperação de conta." }, { "type": "list", "items": ["Vá ao perfil e toque em 'Dados pessoais'", "Toque no e-mail e insira o novo endereço", "Verifique a nova caixa de entrada e confirme o link de verificação"] }] },
+          { "id": "supported-countries", "title": "Onde está o Plexos disponível?", "category": "Alterar dados pessoais", "content": [{ "type": "paragraph", "text": "O Plexos nasceu em África, para África — e além. Estamos actualmente presentes nos países da CPLP e a expandir para mais nações africanas, servindo também clientes na Europa e nas Américas." }, { "type": "paragraph", "text": "Quer esteja em Luanda, Lisboa ou São Paulo, o Plexos mantém o seu dinheiro ligado entre fronteiras. Consulte a lista completa de regiões suportadas no nosso site ou no app." }, { "type": "paragraph", "text": "Ainda não está disponível no seu país? Junte-se à lista de espera e avisaremos assim que lançarmos aí." }] },
+          { "id": "download-account-confirmation", "title": "Descarregar confirmação de conta", "category": "Descarregar um documento", "content": [{ "type": "paragraph", "text": "Precisa de provar que tem conta Plexos? Descarregue uma carta de confirmação directamente do app." }, { "type": "list", "items": ["Vá ao perfil e toque em 'Documentos'", "Seleccione 'Confirmação de conta'", "Um PDF será gerado para guardar ou partilhar"] }] },
+          { "id": "download-statement", "title": "Descarregar extrato de transacções", "category": "Descarregar um documento", "content": [{ "type": "paragraph", "text": "Os extratos mostram um registo completo de todas as movimentações da sua conta." }, { "type": "list", "items": ["Vá ao perfil e toque em 'Documentos'", "Seleccione 'Extrato de transacções'", "Escolha o período e a moeda, depois descarregue"] }] },
+          { "id": "change-passcode", "title": "Alterar o meu código de acesso", "category": "Login e segurança", "content": [{ "type": "paragraph", "text": "O código de acesso é a principal protecção do seu app Plexos. Actualize-o regularmente." }, { "type": "list", "items": ["Vá ao perfil e toque em 'Segurança'", "Seleccione 'Alterar código de acesso'", "Insira o actual e escolha um novo"] }, { "type": "paragraph", "text": "Escolha algo fácil de memorizar mas difícil de adivinhar. Evite sequências óbvias como 1234." }] },
+          { "id": "lost-stolen-device", "title": "Dispositivo perdido ou roubado", "category": "Login e segurança", "content": [{ "type": "paragraph", "text": "Se o seu telemóvel foi perdido ou roubado, aja rapidamente:" }, { "type": "list", "items": ["Inicie sessão noutro dispositivo (se possível) e congele o seu cartão", "Contacte o suporte por e-mail ou outro dispositivo para bloquear a conta", "Altere o código de acesso assim que recuperar o acesso"] }] },
+          { "id": "login-trouble", "title": "Dificuldade em iniciar sessão", "category": "Login e segurança", "content": [{ "type": "paragraph", "text": "Se não consegue entrar:" }, { "type": "list", "items": ["Verifique se está a usar a versão mais recente do app", "Confirme o número de telefone e código de acesso", "Reinicie o app ou o dispositivo", "Esqueceu o código? Toque em 'Esqueci o código' no ecrã de login"] }] },
+          { "id": "selfie-authentication", "title": "Problema com verificação por selfie", "category": "Login e segurança", "content": [{ "type": "paragraph", "text": "A verificação por selfie confirma que é o titular da conta. Se não funcionar:" }, { "type": "list", "items": ["Procure um local com boa iluminação uniforme", "Remova óculos, chapéus ou qualquer coisa que cubra o rosto", "Segure o telemóvel ao nível dos olhos e olhe para a câmara", "Mantenha o rosto centrado e fique imóvel"] }] },
+          { "id": "verification-code", "title": "Não recebi o código de verificação", "category": "Login e segurança", "content": [{ "type": "paragraph", "text": "Se o código SMS não chegou:" }, { "type": "list", "items": ["Verifique se tem rede e não está em modo avião", "Aguarde um momento — em redes com muito tráfego pode atrasar", "Confirme que o número está correcto com o código do país", "Reinicie o telemóvel"] }] },
+          { "id": "biometric-signin", "title": "Entrar com Face ID ou impressão digital", "category": "Login e segurança", "content": [{ "type": "paragraph", "text": "Acelere o login activando a autenticação biométrica." }, { "type": "list", "items": ["Vá ao perfil e toque em 'Segurança'", "Active 'Login biométrico'", "Confirme com o scanner do dispositivo"] }] },
+          { "id": "manage-notifications", "title": "Gerir notificações", "category": "Definições", "content": [{ "type": "paragraph", "text": "Escolha exactamente que notificações recebe:" }, { "type": "list", "items": ["Vá ao perfil e toque em 'Notificações'", "Active ou desactive cada tipo"] }, { "type": "paragraph", "text": "Recomendamos manter os alertas de transacções e segurança activos." }] },
+          { "id": "switch-language", "title": "Mudar o idioma", "category": "Definições", "content": [{ "type": "paragraph", "text": "O app Plexos está disponível em vários idiomas incluindo português e inglês." }, { "type": "list", "items": ["Vá ao perfil", "Toque em 'Definições do app' ou 'Idioma'", "Seleccione o idioma preferido"] }] },
+          { "id": "managing-data", "title": "Gerir os meus dados", "category": "Mais ajuda com o perfil", "content": [{ "type": "paragraph", "text": "Tem o direito de aceder, corrigir ou pedir a eliminação dos seus dados pessoais." }, { "type": "paragraph", "text": "Vá ao perfil, toque em 'Privacidade' e explore as opções. Detalhes completos na nossa Política de Privacidade." }] },
+          { "id": "close-account", "title": "Como fecho a minha conta?", "category": "Encerrar a conta", "content": [{ "type": "paragraph", "text": "Pode fechar a sua conta Plexos directamente no app." }, { "type": "heading", "text": "Antes de fechar" }, { "type": "list", "items": ["Transfira ou levante o saldo restante", "Cancele subscrições ligadas ao Plexos", "Descarregue extratos ou documentos que possa precisar"] }, { "type": "heading", "text": "Como fechar" }, { "type": "list", "items": ["Vá ao perfil", "Deslize até ao fundo e toque em 'Fechar conta'", "Siga as instruções para confirmar"] }, { "type": "paragraph", "text": "O encerramento é permanente. Os seus dados serão mantidos pelo período legalmente exigido e depois eliminados de forma segura." }] },
+          { "id": "accessibility", "title": "Acessibilidade no Plexos", "category": "Acessibilidade", "content": [{ "type": "paragraph", "text": "Estamos a construir o Plexos para ser usado por todos. O app suporta leitores de ecrã, tamanho dinâmico de texto e modo de alto contraste em iOS e Android." }, { "type": "paragraph", "text": "Se encontrar alguma barreira de acessibilidade, diga-nos pelo chat no app — o seu feedback orienta as nossas melhorias." }] },
+          { "id": "contact-support", "title": "Como contactar o Suporte Plexos", "category": "Contactar o suporte", "content": [{ "type": "paragraph", "text": "A forma mais rápida de obter ajuda é pelo chat no app. Abra o Plexos, vá ao perfil e toque em 'Ajuda' ou 'Fale connosco'." }, { "type": "paragraph", "text": "A nossa equipa pode ajudá-lo em português e inglês." }, { "type": "heading", "text": "Outras formas de contacto" }, { "type": "list", "items": ["E-mail: suporte@plexos.com", "Centro de Ajuda: consulte artigos para respostas rápidas", "Redes sociais: contacte-nos pelos canais oficiais (nunca partilhe dados sensíveis publicamente)"] }] }
+        ]
+      },
+      {
+        "id": "security-and-fraud",
+        "title": "Segurança e fraude",
+        "articles": [
+          { "id": "official-app", "title": "Use sempre o app oficial do Plexos", "category": "Manter o dispositivo seguro", "content": [{ "type": "paragraph", "text": "Para sua protecção, descarregue o Plexos apenas da App Store da Apple ou do Google Play Store. Versões de outras fontes podem estar comprometidas." }, { "type": "paragraph", "text": "Não tem a certeza se o seu app é genuíno? Elimine-o e descarregue novamente da loja oficial." }] },
+          { "id": "os-updates", "title": "Mantenha o seu dispositivo actualizado", "category": "Manter o dispositivo seguro", "content": [{ "type": "paragraph", "text": "Ter o sistema operativo actualizado é uma das formas mais simples de se proteger. As actualizações de segurança corrigem vulnerabilidades conhecidas." }, { "type": "paragraph", "text": "Se o seu SO for demasiado antigo, partes do app Plexos podem deixar de funcionar. Recomendamos activar as actualizações automáticas." }] },
+          { "id": "rooted-jailbroken", "title": "Dispositivos com root ou jailbreak", "category": "Manter o dispositivo seguro", "content": [{ "type": "paragraph", "text": "Dispositivos com root (Android) ou jailbreak (iOS) apresentam riscos sérios de segurança — permitem que apps acedam a dados que normalmente não poderiam." }, { "type": "paragraph", "text": "O app Plexos pode não funcionar em dispositivos modificados. Se precisar de ajuda, contacte o suporte." }] },
+          { "id": "unsupported-device", "title": "Porque é que o Plexos não funciona no meu dispositivo?", "category": "Manter o dispositivo seguro", "content": [{ "type": "paragraph", "text": "Actualizamos periodicamente os requisitos mínimos para manter a segurança. Se o seu telemóvel já não é suportado, normalmente significa que o fabricante deixou de fornecer actualizações de segurança." }, { "type": "paragraph", "text": "Considere actualizar para um dispositivo mais recente ou contacte o fabricante." }] },
+          { "id": "money-safety", "title": "Como o Plexos protege o seu dinheiro", "category": "Segurança Plexos", "content": [{ "type": "paragraph", "text": "Os seus fundos são mantidos separados do dinheiro do Plexos, conforme requisitos regulatórios. Esta segregação garante que o seu saldo está protegido." }, { "type": "heading", "text": "Verifique qual entidade Plexos detém a sua conta" }, { "type": "list", "items": ["Toque no ícone do perfil", "Deslize até ao fundo", "O nome da entidade Plexos aparece aí"] }] },
+          { "id": "fraud-protection", "title": "Como o protegemos contra fraudes", "category": "Segurança Plexos", "content": [{ "type": "paragraph", "text": "Usamos monitorização em tempo real e aprendizagem automática para detectar actividade suspeita. Se algo parecer invulgar, podemos pausar a transacção e alertá-lo." }, { "type": "heading", "text": "Protecções integradas" }, { "type": "list", "items": ["Notificações push instantâneas para cada transacção", "Congele o cartão em segundos pelo app", "Números de cartão virtual descartáveis para compras online mais seguras", "Verificação 3D Secure para pagamentos online"] }] },
+          { "id": "keep-account-safe", "title": "Dicas para manter a sua conta segura", "category": "Segurança Plexos", "content": [{ "type": "paragraph", "text": "Trabalhamos para o proteger, mas alguns hábitos seus fazem toda a diferença:" }, { "type": "list", "items": ["Nunca partilhe o seu código, PIN ou códigos de verificação — o Plexos nunca os pedirá", "Active o login biométrico para uma camada extra de segurança", "Mantenha o app e o software do dispositivo actualizados", "Desconfie de chamadas, e-mails ou mensagens não solicitadas que dizem ser do Plexos", "Active as notificações de transacções para que cada pagamento esteja no seu radar"] }] },
+          { "id": "safety-features", "title": "Funcionalidades de segurança do Plexos", "category": "Segurança Plexos", "content": [{ "type": "heading", "text": "Controlos de cartão" }, { "type": "paragraph", "text": "Congele e descongele o cartão instantaneamente, active ou desactive pagamentos por aproximação ou online, e defina limites de gastos — tudo pelo app." }, { "type": "heading", "text": "Alertas em tempo real" }, { "type": "paragraph", "text": "Cada transacção gera uma notificação push. Viu algo estranho? Congele o cartão e reporte em segundos." }, { "type": "heading", "text": "Cartões virtuais descartáveis" }, { "type": "paragraph", "text": "Gere um número de cartão de uso único para compras online. Os dados expiram após uma utilização." }, { "type": "heading", "text": "Código e biometria" }, { "type": "paragraph", "text": "O seu app está protegido por código de acesso e login biométrico opcional. Mesmo que alguém pegue no seu telemóvel, não consegue entrar sem isso." }] },
+          { "id": "report-fraud", "title": "Reportar uma transacção fraudulenta", "category": "Reportar fraude", "content": [{ "type": "paragraph", "text": "Se detectar uma transacção que não fez, aja imediatamente:" }, { "type": "list", "items": ["Congele ou cancele o cartão no app", "Encontre a transacção no histórico e toque em 'Obter ajuda'", "Seleccione 'Reportar como fraudulento'", "Forneça o máximo de detalhes possível"] }, { "type": "paragraph", "text": "Investigaremos e mantemo-lo informado. Recomendamos também apresentar queixa às autoridades." }] },
+          { "id": "suspicious-contact", "title": "Recebeu contacto suspeito?", "category": "Reportar fraude", "content": [{ "type": "paragraph", "text": "O Plexos nunca ligará sem aviso, pedirá códigos de segurança ou solicitará pagamentos para uma 'conta segura'." }, { "type": "heading", "text": "Como se proteger" }, { "type": "list", "items": ["Verifique qualquer contacto suspeito através do chat no app", "Para e-mails, verifique cuidadosamente o endereço do remetente", "Na dúvida, nunca partilhe informações pessoais ou financeiras"] }] },
+          { "id": "restricted-account", "title": "A minha conta foi restrita", "category": "Restrições de conta", "content": [{ "type": "paragraph", "text": "As restrições podem ocorrer devido a requisitos regulatórios, preocupações de segurança ou documentação em falta." }, { "type": "heading", "text": "O que fazer" }, { "type": "list", "items": ["Verifique o e-mail e notificações no app para detalhes", "Se pedimos documentos, envie-os o mais rápido possível", "Contacte o suporte se acreditar que é um erro"] }] },
+          { "id": "account-review", "title": "Porque está a minha conta em revisão?", "category": "Restrições de conta", "content": [{ "type": "paragraph", "text": "Enquanto instituição regulada, fazemos revisões periódicas para cumprir obrigações. Durante a revisão, algumas funcionalidades podem estar temporariamente limitadas." }, { "type": "paragraph", "text": "Normalmente não é necessária qualquer acção da sua parte. Se precisarmos de algo, avisaremos por e-mail e no app." }] }
+        ]
+      },
+      {
+        "id": "cards",
+        "title": "Cartões",
+        "articles": [
+          { "id": "order-card", "title": "Pedir um cartão de débito físico", "category": "Pedir o seu cartão", "content": [{ "type": "paragraph", "text": "O seu cartão de débito Plexos funciona internacionalmente — use-o em qualquer local que aceite Mastercard, em loja ou online, no país ou no estrangeiro." }, { "type": "heading", "text": "Como pedir" }, { "type": "list", "items": ["Abra o app e vá a 'Cartões'", "Toque em 'Pedir cartão físico'", "Escolha o design preferido", "Confirme a morada de entrega e faça o pedido"] }, { "type": "paragraph", "text": "O prazo de entrega varia por país mas normalmente demora 7–14 dias úteis. Alguns planos incluem um cartão gratuito." }] },
+          { "id": "card-not-arrived", "title": "O meu cartão não chegou", "category": "Pedir o seu cartão", "content": [{ "type": "paragraph", "text": "Se o cartão não chegou dentro do prazo:" }, { "type": "list", "items": ["Verifique o estado da entrega no app em 'Cartões'", "Confirme que a morada está correcta", "Aguarde mais uns dias — os serviços postais podem variar entre regiões"] }, { "type": "paragraph", "text": "Se a demora for significativa, reporte o cartão como não entregue no app e enviaremos outro." }] },
+          { "id": "card-fees", "title": "Taxas do cartão", "category": "Pedir o seu cartão", "content": [{ "type": "paragraph", "text": "As taxas dependem do seu plano. A maioria dos planos pagos inclui pelo menos um cartão de débito gratuito. Cartões adicionais ou designs especiais podem ter um pequeno custo." }] },
+          { "id": "activate-card", "title": "Activar o seu cartão", "category": "Pedir o seu cartão", "content": [{ "type": "paragraph", "text": "Quando o cartão chegar, active-o antes de usar:" }, { "type": "list", "items": ["Vá a 'Cartões' no app", "Seleccione o cartão que precisa de activação", "Siga as instruções — pode precisar de inserir os últimos dígitos do número do cartão"] }] },
+          { "id": "card-settings", "title": "Definições e controlos do cartão", "category": "Gerir o seu cartão", "content": [{ "type": "paragraph", "text": "Controle total do cartão pelo app:" }, { "type": "list", "items": ["Activar ou desactivar pagamentos online", "Ligar ou desligar pagamento por aproximação", "Permitir ou bloquear levantamentos em ATM", "Definir limite mensal de gastos"] }] },
+          { "id": "find-pin", "title": "Encontrar o PIN do cartão", "category": "Gerir o seu cartão", "content": [{ "type": "paragraph", "text": "O seu PIN está no app Plexos:" }, { "type": "list", "items": ["Vá a 'Cartões'", "Seleccione o seu cartão", "Toque em 'Mostrar PIN' e verifique a sua identidade"] }, { "type": "paragraph", "text": "Nunca anote nem partilhe o seu PIN." }] },
+          { "id": "freeze-card", "title": "Congelar ou descongelar o cartão", "category": "Gerir o seu cartão", "content": [{ "type": "paragraph", "text": "Não encontra o cartão? Congele-o instantaneamente para bloquear todas as transacções." }, { "type": "list", "items": ["Vá a 'Cartões' no app", "Seleccione o cartão", "Toque em 'Congelar'"] }, { "type": "paragraph", "text": "Encontrou? Descongele a qualquer momento e continue a usar." }] },
+          { "id": "card-stolen", "title": "O meu cartão foi perdido ou roubado", "category": "Cartões perdidos ou roubados", "content": [{ "type": "paragraph", "text": "Se o cartão foi perdido ou roubado, aja de imediato:" }, { "type": "list", "items": ["Abra o app e vá a 'Cartões'", "Seleccione o cartão e toque em 'Cancelar' — isto desactiva-o permanentemente", "Peça um substituto no mesmo ecrã"] }] },
+          { "id": "card-used-fraudulently", "title": "Alguém usou o meu cartão sem autorização", "category": "Cartões perdidos ou roubados", "content": [{ "type": "paragraph", "text": "Se vir transacções que não fez:" }, { "type": "list", "items": ["Congele ou cancele o cartão imediatamente", "Toque na transacção suspeita e seleccione 'Obter ajuda'", "Escolha 'Reportar como fraudulento'"] }] },
+          { "id": "card-not-working", "title": "O meu cartão não funciona", "category": "Problemas com o cartão", "content": [{ "type": "paragraph", "text": "Se o cartão está a ser recusado:" }, { "type": "list", "items": ["Verifique se está activado e não congelado", "Confirme que o tipo de pagamento está activo nas definições", "Verifique se tem fundos suficientes", "Limpe o chip com um pano macio", "Tente noutro terminal ou ATM"] }] },
+          { "id": "card-expiring", "title": "O meu cartão vai expirar", "category": "Problemas com o cartão", "content": [{ "type": "paragraph", "text": "Enviamos automaticamente um substituto antes da expiração. Receberá uma notificação quando estiver a caminho." }, { "type": "paragraph", "text": "Certifique-se de que a morada de entrega está actualizada." }] },
+          { "id": "virtual-card", "title": "O que é um cartão virtual?", "category": "Cartões virtuais", "content": [{ "type": "paragraph", "text": "Um cartão virtual é um cartão de débito digital que existe apenas no app. Tem número, validade e CVV próprios — perfeito para compras online sem expor os dados do cartão físico." }, { "type": "paragraph", "text": "Pode adicioná-lo ao Apple Pay ou Google Pay para pagamentos por aproximação com o telemóvel." }] },
+          { "id": "create-virtual-card", "title": "Criar um cartão virtual", "category": "Cartões virtuais", "content": [{ "type": "list", "items": ["Vá a 'Cartões' no app", "Toque em 'Adicionar novo cartão'", "Seleccione 'Cartão virtual'", "O cartão é gerado instantaneamente"] }, { "type": "paragraph", "text": "Cartões virtuais descartáveis geram novos dados após cada transacção online, dando-lhe uma camada extra de protecção." }] }
+        ]
+      },
+      {
+        "id": "card-payments",
+        "title": "Pagamentos e levantamentos",
+        "articles": [
+          { "id": "payment-declined", "title": "O meu pagamento foi recusado", "category": "Pagamentos com cartão", "content": [{ "type": "paragraph", "text": "Um pagamento pode ser recusado por vários motivos:" }, { "type": "list", "items": ["Fundos insuficientes na moeda correcta", "Pagamentos online ou por aproximação desactivados nas definições", "O cartão está congelado", "O nosso sistema de segurança sinalizou a transacção", "O comerciante não aceita Mastercard"] }] },
+          { "id": "payment-pending", "title": "O meu pagamento está pendente", "category": "Pagamentos com cartão", "content": [{ "type": "paragraph", "text": "Pagamentos pendentes são transacções autorizadas pelo comerciante mas ainda não liquidadas. Os fundos estão reservados mas não cobrados." }, { "type": "paragraph", "text": "A maioria é liquidada em poucos dias. Se não se concretizar, o valor reservado é devolvido à sua conta." }] },
+          { "id": "payment-amount-changed", "title": "Porque mudou o valor?", "category": "Pagamentos com cartão", "content": [{ "type": "paragraph", "text": "O valor final pode diferir devido a:" }, { "type": "list", "items": ["Variações cambiais entre autorização e liquidação", "Gorjeta adicionada após a cobrança inicial", "Ajuste do comerciante (comum em restaurantes ou bombas de gasolina)", "Taxa de conversão em pagamentos em moeda estrangeira"] }] },
+          { "id": "refund-help", "title": "Ajuda com um reembolso", "category": "Pagamentos com cartão", "content": [{ "type": "paragraph", "text": "Os reembolsos são processados pelo comerciante e normalmente demoram 5–10 dias úteis a aparecer na conta." }, { "type": "heading", "text": "Ainda à espera?" }, { "type": "list", "items": ["Confirme com o comerciante que o reembolso foi emitido", "Verifique o histórico — pode aparecer como entrada separada", "Se passaram mais de 10 dias úteis, contacte o suporte"] }] },
+          { "id": "dispute-payment", "title": "Contestar um pagamento", "category": "Pagamentos com cartão", "content": [{ "type": "paragraph", "text": "Cobrado incorrectamente ou não recebeu o que pagou? Pode abrir uma contestação." }, { "type": "list", "items": ["Encontre a transacção no app", "Toque em 'Obter ajuda' e siga os passos", "Forneça provas (recibos, emails com o comerciante, etc.)"] }, { "type": "paragraph", "text": "As contestações demoram normalmente 45–90 dias a resolver." }] },
+          { "id": "block-merchant", "title": "Bloquear um comerciante", "category": "Pagamentos com cartão", "content": [{ "type": "paragraph", "text": "Quer impedir um comerciante de cobrar o seu cartão?" }, { "type": "list", "items": ["Encontre uma transacção recente do comerciante", "Toque e seleccione 'Bloquear comerciante'", "Cobranças futuras serão automaticamente recusadas"] }] },
+          { "id": "atm-withdrawals", "title": "Limites e taxas de levantamento em ATM", "category": "Levantamentos em dinheiro", "content": [{ "type": "paragraph", "text": "Cada plano Plexos inclui uma franquia mensal de levantamentos gratuitos. Após exceder, aplica-se uma pequena taxa por levantamento." }, { "type": "paragraph", "text": "Verifique os seus limites no app em 'Cartões' > 'Limites'. Fazer upgrade do plano aumenta a sua franquia." }] },
+          { "id": "atm-declined", "title": "Levantamento em ATM recusado", "category": "Levantamentos em dinheiro", "content": [{ "type": "paragraph", "text": "Possíveis motivos:" }, { "type": "list", "items": ["Fundos insuficientes", "Levantamentos em ATM desactivados nas definições", "Atingiu o limite diário ou mensal", "O ATM tem limite próprio", "O cartão está congelado ou expirado"] }] },
+          { "id": "spending-abroad", "title": "Usar o cartão no estrangeiro", "category": "Gastar noutras moedas", "content": [{ "type": "paragraph", "text": "O seu cartão de débito Plexos funciona em qualquer local que aceite Mastercard no mundo. Quando paga noutra moeda, tratamos da conversão automaticamente com uma taxa competitiva." }, { "type": "heading", "text": "Obtenha a melhor taxa" }, { "type": "list", "items": ["Pague sempre na moeda local — recuse ofertas de converter na caixa (isso chama-se Conversão Dinâmica de Moeda e a taxa é normalmente pior)", "Pode aplicar-se um pequeno markup fora do horário de mercado (fins de semana e feriados)", "Se vai gastar muito numa moeda, troque antecipadamente no app"] }] },
+          { "id": "foreign-fees", "title": "Taxas em moeda estrangeira", "category": "Gastar noutras moedas", "content": [{ "type": "paragraph", "text": "Em dias úteis durante o horário de mercado, o Plexos usa taxas interbancárias competitivas. Dependendo do plano, pode ser gratuito até um limite mensal." }, { "type": "paragraph", "text": "Fora do horário de mercado, um pequeno markup protege contra volatilidade. A taxa exacta depende do plano e das moedas envolvidas." }] },
+          { "id": "contactless-issues", "title": "Pagamentos por aproximação não funcionam", "category": "Mais ajuda com pagamentos", "content": [{ "type": "paragraph", "text": "Se o tap-to-pay não funciona:" }, { "type": "list", "items": ["Verifique se a aproximação está activa nas definições", "Segure o cartão perto do leitor por alguns segundos", "Alguns terminais exigem chip-e-PIN periodicamente por segurança", "Se usa Apple Pay ou Google Pay, reinicie o telemóvel"] }] },
+          { "id": "3d-secure", "title": "O que é 3D Secure?", "category": "Mais ajuda com pagamentos", "content": [{ "type": "paragraph", "text": "O 3D Secure adiciona um passo extra de verificação a pagamentos online. Quando compra algo online, pode ser-lhe pedido para confirmar a compra no app Plexos antes de avançar." }, { "type": "paragraph", "text": "Mantenha as notificações push activas para aprovar pagamentos rapidamente." }] },
+          { "id": "apple-google-pay", "title": "Apple Pay e Google Pay", "category": "Mais ajuda com pagamentos", "content": [{ "type": "paragraph", "text": "Adicione o cartão de débito Plexos ao Apple Pay ou Google Pay para pagamentos rápidos por aproximação com o telemóvel." }, { "type": "list", "items": ["Vá a 'Cartões' no app", "Seleccione o cartão", "Toque em 'Adicionar ao Apple Pay' ou 'Adicionar ao Google Pay'", "Siga os passos no ecrã"] }, { "type": "paragraph", "text": "A disponibilidade pode variar por país." }] }
+        ]
+      },
+      {
+        "id": "accounts",
+        "title": "Contas e moedas",
+        "articles": [
+          { "id": "multi-currency", "title": "Ter dinheiro em várias moedas", "category": "Contas em moeda", "content": [{ "type": "paragraph", "text": "As contas multi-moeda estão a chegar em breve ao Plexos. Vai poder ter saldos em várias moedas numa só conta — ideal para quem envia ou recebe dinheiro entre países." }, { "type": "paragraph", "text": "Quando disponível, poderá adicionar novas moedas directamente no app, manter fundos em cada uma e trocar entre elas com taxas competitivas." }, { "type": "paragraph", "text": "Fique atento — avisaremos assim que esta funcionalidade estiver disponível." }] },
+          { "id": "exchange-money", "title": "Como trocar moedas", "category": "Contas em moeda", "content": [{ "type": "paragraph", "text": "Converter entre moedas demora segundos:" }, { "type": "list", "items": ["Vá ao separador 'Contas'", "Toque em 'Câmbio'", "Escolha as moedas e insira o montante", "Reveja a taxa e confirme"] }, { "type": "paragraph", "text": "Os fundos convertidos aparecem na moeda de destino instantaneamente." }] },
+          { "id": "exchange-fees", "title": "Taxas e câmbios", "category": "Contas em moeda", "content": [{ "type": "paragraph", "text": "Em dias úteis no horário de mercado, o Plexos usa taxas interbancárias competitivas. Cada plano inclui uma franquia mensal de câmbio gratuito — após exceder, aplica-se uma pequena taxa percentual." }, { "type": "paragraph", "text": "Fora do horário de mercado, um pequeno markup protege contra oscilações de fim de semana. Consulte o app para os limites exactos do seu plano." }] },
+          { "id": "supported-currencies", "title": "Moedas suportadas", "category": "Contas em moeda", "content": [{ "type": "paragraph", "text": "Suportamos um número crescente de moedas incluindo as principais internacionais e moedas africanas seleccionadas. A lista completa está no app em 'Contas' > 'Adicionar nova moeda'." }, { "type": "paragraph", "text": "Nem todas as moedas têm dados de recebimento locais disponíveis. Estamos a adicionar mais regularmente." }] },
+          { "id": "negative-balance", "title": "Porque é que o meu saldo está negativo?", "category": "Contas em moeda", "content": [{ "type": "paragraph", "text": "Pode acontecer quando uma transacção é liquidada por mais do que o autorizado inicialmente — por exemplo, uma reserva de hotel ou uma taxa aplicada após o pagamento." }, { "type": "paragraph", "text": "Adicione fundos para cobrir o défice. Se não fizer sentido, contacte o suporte." }] },
+          { "id": "account-details", "title": "Os seus dados de conta", "category": "Informações da conta", "content": [{ "type": "paragraph", "text": "Para ver os dados que outros precisam para lhe enviar dinheiro:" }, { "type": "list", "items": ["Vá ao separador 'Contas'", "Toque na moeda em que quer receber", "Os dados são exibidos — toque para copiar e partilhar"] }] },
+          { "id": "analytics", "title": "Análise de gastos e orçamento", "category": "Informações da conta", "content": [{ "type": "paragraph", "text": "A secção 'Análises' dá-lhe uma visão clara de para onde vai o seu dinheiro. Veja gastos por categoria, período e comerciante." }, { "type": "paragraph", "text": "As transacções são categorizadas automaticamente. Para ajustar uma categoria, basta tocar na transacção e reatribuir." }] }
+        ]
+      },
+      {
+        "id": "transfers",
+        "title": "Transferências",
+        "articles": [
+          { "id": "send-to-plexos-user", "title": "Enviar dinheiro para outro utilizador Plexos", "category": "Enviar dinheiro", "content": [{ "type": "paragraph", "text": "Enviar dinheiro a outros utilizadores Plexos é instantâneo e gratuito — sem necessidade de dados bancários." }, { "type": "heading", "text": "Como enviar" }, { "type": "list", "items": ["Vá a 'Transferências' no app", "Toque em 'Enviar para contacto Plexos'", "Escolha a pessoa dos seus contactos ou pesquise por número/PlexTag", "Insira o montante e confirme"] }] },
+          { "id": "request-money", "title": "Pedir dinheiro a um utilizador Plexos", "category": "Enviar dinheiro", "content": [{ "type": "paragraph", "text": "Alguém lhe deve dinheiro? Envie um pedido directamente no app." }, { "type": "list", "items": ["Vá a 'Transferências'", "Toque em 'Pedir'", "Escolha o contacto", "Insira o montante e adicione uma nota se quiser"] }, { "type": "paragraph", "text": "A pessoa recebe uma notificação e pode aprovar o pagamento com um toque." }] },
+          { "id": "plextags", "title": "PlexTags", "category": "Enviar dinheiro", "content": [{ "type": "paragraph", "text": "O seu PlexTag é um nome de utilizador único que outros podem usar para o encontrar e pagar — sem partilhar o número de telefone." }, { "type": "heading", "text": "Configure o seu PlexTag" }, { "type": "list", "items": ["Vá ao perfil", "Toque em 'PlexTag'", "Escolha um nome único e confirme"] }] },
+          { "id": "group-bills", "title": "Dividir despesas com Contas em Grupo", "category": "Enviar dinheiro", "content": [{ "type": "paragraph", "text": "Dividir uma refeição, uma viagem ou a renda? As Contas em Grupo facilitam tudo." }, { "type": "list", "items": ["Vá a 'Transferências' e toque em 'Conta em grupo'", "Adicione participantes dos seus contactos Plexos", "Insira o valor total", "Escolha divisão igual ou valores personalizados", "Envie — todos são notificados"] }] },
+          { "id": "transfer-limits", "title": "Limites de transferência", "category": "Enviar dinheiro", "content": [{ "type": "paragraph", "text": "Existem limites diários e mensais de quanto pode enviar a outros utilizadores Plexos. Variam por plano." }, { "type": "paragraph", "text": "Consulte os limites actuais no app em 'Transferências' > 'Limites'." }] },
+          { "id": "payment-links", "title": "Links de pagamento", "category": "Receber dinheiro", "content": [{ "type": "paragraph", "text": "Os links de pagamento permitem pedir dinheiro a qualquer pessoa — mesmo quem não usa Plexos. Gere um link e partilhe via WhatsApp, SMS, email ou redes sociais." }, { "type": "heading", "text": "Como criar" }, { "type": "list", "items": ["Vá a 'Transferências' e toque em 'Link de pagamento'", "Insira o montante e uma nota opcional", "Partilhe o link como quiser"] }, { "type": "paragraph", "text": "O destinatário paga com o cartão — sem precisar de conta Plexos." }] },
+          { "id": "transfer-not-received", "title": "Enviei dinheiro mas não foi recebido", "category": "Problemas com transferências", "content": [{ "type": "paragraph", "text": "Transferências entre utilizadores Plexos são normalmente instantâneas. Se o destinatário diz que não recebeu:" }, { "type": "list", "items": ["Verifique a transacção no histórico — aparece como 'Concluída'?", "Confirme que enviou para a pessoa certa (número ou PlexTag correcto)", "Peça ao destinatário para actualizar o saldo"] }, { "type": "paragraph", "text": "Se tudo estiver correcto e o dinheiro continuar em falta, contacte o suporte." }] },
+          { "id": "wrong-person", "title": "Enviei dinheiro para a pessoa errada", "category": "Problemas com transferências", "content": [{ "type": "paragraph", "text": "Infelizmente, as transferências entre utilizadores Plexos são instantâneas e não podem ser automaticamente revertidas." }, { "type": "paragraph", "text": "A melhor opção é contactar o destinatário directamente e pedir que devolva o dinheiro. Se isso não resultar, contacte o suporte e faremos o possível para ajudar." }] }
+        ]
+      },
+      {
+        "id": "adding-money",
+        "title": "Adicionar dinheiro",
+        "articles": [
+          { "id": "add-with-card", "title": "Adicionar dinheiro com cartão de débito", "category": "Carregar a sua conta", "content": [{ "type": "paragraph", "text": "A forma mais rápida de carregar a sua conta Plexos é com cartão de débito." }, { "type": "list", "items": ["Toque em 'Adicionar dinheiro' no app", "Seleccione 'Cartão'", "Insira o montante", "Escolha um cartão guardado ou adicione um novo", "Confirme o carregamento"] }, { "type": "paragraph", "text": "Os fundos chegam instantaneamente na maioria dos casos." }] },
+          { "id": "add-mobile-money", "title": "Adicionar dinheiro com dinheiro móvel", "category": "Carregar a sua conta", "content": [{ "type": "paragraph", "text": "Nos países suportados, pode carregar a sua conta Plexos directamente da sua carteira de dinheiro móvel." }, { "type": "list", "items": ["Toque em 'Adicionar dinheiro' no app", "Seleccione 'Dinheiro móvel'", "Escolha o seu operador", "Insira o montante e confirme no telemóvel"] }, { "type": "paragraph", "text": "Os fundos chegam normalmente em poucos minutos. A disponibilidade depende do país e do operador." }] },
+          { "id": "add-apple-google-pay", "title": "Adicionar dinheiro com Apple Pay ou Google Pay", "category": "Carregar a sua conta", "content": [{ "type": "paragraph", "text": "Onde disponível, pode carregar instantaneamente com Apple Pay ou Google Pay." }, { "type": "list", "items": ["Toque em 'Adicionar dinheiro' no app", "Seleccione 'Apple Pay' ou 'Google Pay'", "Insira o montante e autentique"] }, { "type": "paragraph", "text": "Sem taxas. A disponibilidade varia por país." }] },
+          { "id": "deposit-limits", "title": "Limites e taxas de carregamento", "category": "Carregar a sua conta", "content": [{ "type": "paragraph", "text": "Os limites e taxas dependem do plano e do método utilizado." }, { "type": "list", "items": ["Carregamentos com cartão de débito são normalmente gratuitos", "Carregamentos com dinheiro móvel podem ter uma pequena taxa do operador", "Aplicam-se limites diários e mensais — consulte no app em 'Adicionar dinheiro'"] }] },
+          { "id": "topup-failed", "title": "O meu carregamento falhou", "category": "Problemas com carregamento", "content": [{ "type": "paragraph", "text": "Se o carregamento falhou:" }, { "type": "list", "items": ["Verifique se o cartão ou conta de dinheiro móvel tem fundos suficientes", "Confirme que o cartão não está expirado", "Verifique se o banco ou operador não está a bloquear a transacção", "Tente outro método de pagamento se disponível"] }] },
+          { "id": "receive-via-card", "title": "Receber dinheiro no seu cartão Plexos", "category": "Outras formas de adicionar dinheiro", "content": [{ "type": "paragraph", "text": "Alguns comerciantes podem enviar fundos directamente para o seu cartão de débito Plexos — por exemplo, reembolsos ou cashback. Normalmente aparecem na conta em poucos dias úteis." }] },
+          { "id": "receive-via-link", "title": "Receber dinheiro por link de pagamento", "category": "Outras formas de adicionar dinheiro", "content": [{ "type": "paragraph", "text": "Partilhe um link de pagamento com quem lhe precisa pagar. Podem pagar com cartão — sem precisar de conta Plexos." }, { "type": "list", "items": ["Vá a 'Transferências' e toque em 'Link de pagamento'", "Defina o montante e partilhe o link"] }] }
+        ]
+      },
+      {
+        "id": "referrals",
+        "title": "Indicações",
+        "articles": [
+          { "id": "how-referrals-work", "title": "Como funcionam as indicações Plexos", "category": "Começar com indicações", "content": [{ "type": "paragraph", "text": "Partilhe o seu link de indicação com amigos e família. Quando se registam e completam os passos necessários, ambos ganham uma recompensa." }, { "type": "heading", "text": "Encontre o seu link" }, { "type": "list", "items": ["Vá ao perfil", "Toque em 'Indicar um amigo'", "Copie o link e partilhe via WhatsApp, SMS ou redes sociais"] }] },
+          { "id": "referral-reward", "title": "Onde está a minha recompensa?", "category": "Começar com indicações", "content": [{ "type": "paragraph", "text": "As recompensas são creditadas quando a pessoa convidada completa todos os passos — registo, verificação de identidade e transacção qualificada." }, { "type": "heading", "text": "Motivos comuns de atraso" }, { "type": "list", "items": ["O seu amigo ainda não completou todos os requisitos", "O link de indicação não foi usado no registo", "A promoção pode ter terminado ou atingido o limite", "As recompensas podem demorar até 30 dias após todas as condições serem cumpridas"] }] },
+          { "id": "invited-help", "title": "Fui convidado e preciso de ajuda", "category": "Começar com indicações", "content": [{ "type": "paragraph", "text": "Se se registou através de indicação mas não recebeu a recompensa:" }, { "type": "list", "items": ["Confirme que completou a verificação de identidade e uma transacção qualificada", "Verifique que usou o link de indicação no registo — não pode ser aplicado depois", "Confirme que a promoção ainda está activa"] }] },
+          { "id": "referral-terms", "title": "Termos do programa de indicação", "category": "Mais sobre indicações", "content": [{ "type": "paragraph", "text": "Pontos importantes:" }, { "type": "list", "items": ["Há um máximo de indicações por pessoa por promoção", "Ambos devem cumprir os critérios de elegibilidade", "As recompensas podem mudar ou terminar a qualquer momento", "Abuso do sistema pode resultar em restrições da conta"] }] }
+        ]
+      },
+      {
+        "id": "other-topics",
+        "title": "Outros tópicos",
+        "articles": [
+          { "id": "data-privacy", "title": "Como o Plexos trata os seus dados", "category": "Privacidade e legal", "content": [{ "type": "paragraph", "text": "Recolhemos apenas os dados necessários para prestar os nossos serviços e cumprir obrigações regulatórias." }, { "type": "heading", "text": "Os seus direitos" }, { "type": "list", "items": ["Aceda aos seus dados pessoais a qualquer momento pelo app", "Peça correcções de informações incorrectas", "Peça a eliminação dos seus dados (sujeito a requisitos legais de retenção)", "Exporte os seus dados em formato portátil"] }] },
+          { "id": "regulatory-info", "title": "Informação regulatória", "category": "Privacidade e legal", "content": [{ "type": "paragraph", "text": "O Plexos está autorizado e regulado para prestar serviços financeiros. As regulamentações específicas que se aplicam a si dependem da entidade Plexos que detém a sua conta." }, { "type": "paragraph", "text": "Pode encontrar a sua entidade no fundo da página de perfil no app." }] },
+          { "id": "lost-passkey", "title": "Perdi acesso à minha passkey", "category": "Acesso à conta", "content": [{ "type": "paragraph", "text": "Se não consegue usar a sua passkey, pode redefini-la:" }, { "type": "list", "items": ["No ecrã de login, toque em 'Não consegue entrar?'", "Siga os passos de verificação de identidade", "Configure uma nova passkey após verificação"] }] },
+          { "id": "app-feedback", "title": "Partilhar feedback ou reportar um bug", "category": "Acesso à conta", "content": [{ "type": "paragraph", "text": "Estamos a construir o Plexos para a nossa comunidade e o seu feedback é importante. Se encontrou um bug ou tem uma ideia de melhoria:" }, { "type": "list", "items": ["Abra o chat no app e seleccione 'Feedback'", "Ou envie-nos email para feedback@plexos.com"] }, { "type": "paragraph", "text": "Cada mensagem é lida pela nossa equipa. Obrigado por nos ajudar a construir algo melhor." }] }
+        ]
+      }
+    ]
+  }
+}
