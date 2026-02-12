@@ -131,7 +131,7 @@ export function VirtualCardSection() {
 			</div>
 
 			{/* Benefits Section - Split Layout */}
-			<div className="py-20 md:py-32 lg:py-40 px-6 md:px-10 lg:px-12 bg-surface-lavender">
+			<div className="min-h-[90vh] flex items-center py-20 md:py-32 lg:py-40 px-6 md:px-10 lg:px-12 bg-surface-lavender">
 				<div className="w-full max-w-[1400px] mx-auto">
 					<div className="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16 items-center">
 						{/* Left Side - Text Content */}
