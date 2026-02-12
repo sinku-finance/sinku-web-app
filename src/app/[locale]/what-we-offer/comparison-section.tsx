@@ -26,17 +26,17 @@ interface ComparisonSectionProps {
 export function ComparisonSection({ locale }: ComparisonSectionProps) {
 	const t = useTranslations("fees.comparison")
 
-	// Comparison data for EUR 100 international transfer
-	// Based on market rates: 1 EUR = 110.775 CVE
-	// Wise charges 1.09% fee (€1.09 for €100)
-	// Revolut charges 0.30% fee (€0.30 for €100) based on real data
+	// Comparison data for USD 100 international transfer
+	// Based on market rates: 1 USD = 110.775 CVE
+	// Wise charges 1.09% fee ($1.09 for $100)
+	// Revolut charges 0.30% fee ($0.30 for $100) based on real data
 	const providers: Provider[] = [
 		{
 			id: "plexos",
 			name: "Plexos",
 			logoImage: "/favicon.png",
 			badge: t("cheapest"),
-			costToSend: "€0.00",
+			costToSend: "$0.00",
 			recipientGets: "11,077 CVE",
 			difference: "+131 CVE",
 		},
@@ -44,7 +44,7 @@ export function ComparisonSection({ locale }: ComparisonSectionProps) {
 			id: "revolut",
 			name: "Revolut",
 			logoImage: "/providers/revolut.webp",
-			costToSend: "€0.30",
+			costToSend: "$0.30",
 			recipientGets: "10,946 CVE",
 			difference: "-11 CVE",
 			highlighted: true,
@@ -54,7 +54,7 @@ export function ComparisonSection({ locale }: ComparisonSectionProps) {
 			id: "wise",
 			name: "Wise",
 			logoImage: "/providers/wise.webp",
-			costToSend: "€1.09",
+			costToSend: "$1.09",
 			recipientGets: "10,957 CVE",
 			difference: "0 CVE",
 		},
@@ -62,7 +62,7 @@ export function ComparisonSection({ locale }: ComparisonSectionProps) {
 			id: "worldremit",
 			name: "WorldRemit",
 			logoImage: "/providers/worldremit.webp",
-			costToSend: "€2.99",
+			costToSend: "$2.99",
 			recipientGets: "10,778 CVE",
 			difference: "-179 CVE",
 		},
@@ -70,7 +70,7 @@ export function ComparisonSection({ locale }: ComparisonSectionProps) {
 			id: "moneygram",
 			name: "MoneyGram",
 			logoImage: "/providers/moneygram.jpg",
-			costToSend: "€4.99",
+			costToSend: "$4.99",
 			recipientGets: "10,578 CVE",
 			difference: "-379 CVE",
 		},
@@ -78,7 +78,7 @@ export function ComparisonSection({ locale }: ComparisonSectionProps) {
 			id: "western-union",
 			name: "Western Union",
 			logoImage: "/providers/western-union.webp",
-			costToSend: "€5.90",
+			costToSend: "$5.90",
 			recipientGets: "10,477 CVE",
 			difference: "-480 CVE",
 		},

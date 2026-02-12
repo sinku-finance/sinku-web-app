@@ -60,7 +60,7 @@
         "noFees": "Zero taxas mensais ou anuais",
         "cards": "Cartão Mastercard aceite em mais de 200 países",
         "benefits": "Ganhe cashback em cada compra",
-        "investments": "Guarde EUR, USD e mais — proteja o seu dinheiro da inflação local"
+        "investments": "Guarde USD, EUR, GBP e mais — proteja o seu dinheiro da inflação local"
       }
     }
   },
@@ -92,7 +92,7 @@
       },
       "multi-currency": {
         "title": "Guarde várias moedas",
-        "description": "Mantenha o seu dinheiro em EUR, USD e outras moedas principais. Proteja as suas poupanças da inflação local e troque quando a taxa estiver favorável."
+        "description": "Mantenha o seu dinheiro em USD, EUR, GBP e outras moedas principais. Proteja as suas poupanças da inflação local e troque quando a taxa estiver favorável."
       },
       "international-card": {
         "title": "Cartão de débito internacional",
@@ -197,13 +197,13 @@
     "multiCurrency": {
       "tagline": "Multi-moeda",
       "title": "Guarde, converta e gaste em mais de 30 moedas",
-      "description": "Pare de perder dinheiro com taxas de câmbio injustas. Guarde EUR, USD, GBP e mais — converta ao câmbio real e gaste no estrangeiro como um local. Veja a taxa antes de converter e fixe-a quando lhe convier.",
+      "description": "Pare de perder dinheiro com taxas de câmbio injustas. Guarde USD, EUR, GBP e mais — converta ao câmbio real e gaste no estrangeiro como um local. Veja a taxa antes de converter e fixe-a quando lhe convier.",
       "button": "Abrir conta"
     },
     "comparison": {
       "title": "Porquê pagar mais? Compare e veja.",
       "subtitle": "Fomos criados para ser a forma mais barata de enviar dinheiro. Veja como o Plexos se compara com os outros.",
-      "sendingAmount": "A enviar €100",
+      "sendingAmount": "A enviar $100",
       "costToSend": "Custo do envio",
       "recipientGets": "Destinatário recebe",
       "cheapest": "Mais barato",
@@ -257,7 +257,7 @@
     },
     "security": {
       "title": "Proteção para os seus cartões",
-      "subtitle": "Todas as contas têm proteção 24/7 com defesas proativas e uma equipa de especialistas. Só em 2024, ajudámos a prevenir mais de 746 M€ em fraudes.",
+      "subtitle": "Todas as contas têm proteção 24/7 com defesas proativas e uma equipa de especialistas. Só em 2024, ajudámos a prevenir mais de $746M em fraudes.",
       "learnMore": "Saiba mais",
       "features": {
         "freezeCard": {
@@ -314,7 +314,7 @@
         "features": {
           "feature1": "Limites de gastos mais altos no estrangeiro",
           "feature2": "Seguro de compra em cada transação",
-          "feature3": "Câmbio sem taxas até €5.000/mês"
+          "feature3": "Câmbio sem taxas até $5.000/mês"
         }
       },
       "premiumCard": {
@@ -336,12 +336,12 @@
       },
       "plus": {
         "name": "Plano Plus",
-        "fee": "Comissão de Manutenção: €3,99/mês",
+        "fee": "Comissão de Manutenção: $3,99/mês",
         "description": "Para quem quer mais: aceda a benefícios bancários adicionais, como melhores limites para gastos no estrangeiro e seguro para as suas compras, a um preço acessível."
       },
       "premium": {
         "name": "Plano Premium",
-        "fee": "Comissão de Manutenção: €8,99/mês",
+        "fee": "Comissão de Manutenção: $8,99/mês",
         "description": "Para elevar o seu dia a dia: aceda a subscrições exclusivas, melhores taxas de câmbio e câmbio de montantes ilimitados."
       }
     }

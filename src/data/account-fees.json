@@ -14,7 +14,7 @@
         "duration": "Instant",
         "senderFee": "Free",
         "receiverFee": "Free",
-        "limits": "10 — 2,500 EUR"
+        "limits": "10 — 2,500 USD"
       },
       {
         "id": "plexos-transfer",
@@ -23,7 +23,7 @@
         "duration": "Instant",
         "senderFee": "Free",
         "receiverFee": "Free",
-        "limits": "10 — 2,500 EUR"
+        "limits": "10 — 2,500 USD"
       },
       {
         "id": "google-pay",
@@ -32,7 +32,7 @@
         "duration": "Instant",
         "senderFee": "5%",
         "receiverFee": "Free",
-        "limits": "10 — 1,500 EUR"
+        "limits": "10 — 1,500 USD"
       },
       {
         "id": "apple-pay",
@@ -41,7 +41,7 @@
         "duration": "Instant",
         "senderFee": "Free",
         "receiverFee": "Free",
-        "limits": "10 — 1,500 EUR"
+        "limits": "10 — 1,500 USD"
       }
     ],
     "withdraw": [
@@ -52,7 +52,7 @@
         "duration": "Instant",
         "senderFee": "Free",
         "receiverFee": "Free",
-        "limits": "10 — 2,500 EUR"
+        "limits": "10 — 2,500 USD"
       },
       {
         "id": "atm-withdraw",
@@ -61,7 +61,7 @@
         "duration": "Instant",
         "senderFee": "Varies by country",
         "receiverFee": "Free",
-        "limits": "10 — 500 EUR"
+        "limits": "10 — 500 USD"
       }
     ],
     "labels": {
@@ -86,7 +86,7 @@
         "duration": "Instantâneo",
         "senderFee": "Grátis",
         "receiverFee": "Grátis",
-        "limits": "10 — 2.500 EUR"
+        "limits": "10 — 2.500 USD"
       },
       {
         "id": "plexos-transfer",
@@ -95,7 +95,7 @@
         "duration": "Instantâneo",
         "senderFee": "Grátis",
         "receiverFee": "Grátis",
-        "limits": "10 — 2.500 EUR"
+        "limits": "10 — 2.500 USD"
       },
       {
         "id": "google-pay",
@@ -104,7 +104,7 @@
         "duration": "Instantâneo",
         "senderFee": "5%",
         "receiverFee": "Grátis",
-        "limits": "10 — 1.500 EUR"
+        "limits": "10 — 1.500 USD"
       },
       {
         "id": "apple-pay",
@@ -113,7 +113,7 @@
         "duration": "Instantâneo",
         "senderFee": "Grátis",
         "receiverFee": "Grátis",
-        "limits": "10 — 1.500 EUR"
+        "limits": "10 — 1.500 USD"
       }
     ],
     "withdraw": [
@@ -124,7 +124,7 @@
         "duration": "Instantâneo",
         "senderFee": "Grátis",
         "receiverFee": "Grátis",
-        "limits": "10 — 2.500 EUR"
+        "limits": "10 — 2.500 USD"
       },
       {
         "id": "atm-withdraw",
@@ -133,7 +133,7 @@
         "duration": "Instantâneo",
         "senderFee": "Varia por país",
         "receiverFee": "Grátis",
-        "limits": "10 — 500 EUR"
+        "limits": "10 — 500 USD"
       }
     ],
     "labels": {

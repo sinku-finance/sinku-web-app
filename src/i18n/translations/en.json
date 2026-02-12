@@ -60,7 +60,7 @@
         "noFees": "Zero monthly or annual fees",
         "cards": "Mastercard debit card accepted in 200+ countries",
         "benefits": "Earn cashback on every purchase",
-        "investments": "Hold EUR, USD, and more — protect your money from local inflation"
+        "investments": "Hold USD, EUR, GBP, and more — protect your money from local inflation"
       }
     }
   },
@@ -92,7 +92,7 @@
       },
       "multi-currency": {
         "title": "Hold multiple currencies",
-        "description": "Keep your money in EUR, USD, and other major currencies. Protect your savings from local inflation and exchange when the rate is right."
+        "description": "Keep your money in USD, EUR, GBP, and other major currencies. Protect your savings from local inflation and exchange when the rate is right."
       },
       "international-card": {
         "title": "International debit card",
@@ -197,13 +197,13 @@
     "multiCurrency": {
       "tagline": "Multi-currency",
       "title": "Hold, convert, and spend in 30+ currencies",
-      "description": "Stop losing money on bad exchange rates. Hold EUR, USD, GBP, and more — convert at the real rate and spend abroad like a local. Preview the rate before you buy, and lock it in when it works for you.",
+      "description": "Stop losing money on bad exchange rates. Hold USD, EUR, GBP, and more — convert at the real rate and spend abroad like a local. Preview the rate before you buy, and lock it in when it works for you.",
       "button": "Open your account"
     },
     "comparison": {
       "title": "Why pay more? Compare and see.",
       "subtitle": "We're built to be the cheapest way to send money. See how Plexos stacks up against the rest.",
-      "sendingAmount": "Sending €100",
+      "sendingAmount": "Sending $100",
       "costToSend": "Cost to send",
       "recipientGets": "Recipient gets",
       "cheapest": "Cheapest",
@@ -257,7 +257,7 @@
     },
     "security": {
       "title": "Protection for your cards",
-      "subtitle": "All accounts have 24/7 protection with proactive defenses and a team of specialists. In 2024 alone, we helped prevent over 746M€ in fraud.",
+      "subtitle": "All accounts have 24/7 protection with proactive defenses and a team of specialists. In 2024 alone, we helped prevent over $746M in fraud.",
       "learnMore": "Learn more",
       "features": {
         "freezeCard": {
@@ -314,7 +314,7 @@
         "features": {
           "feature1": "Higher spending limits abroad",
           "feature2": "Purchase insurance on every transaction",
-          "feature3": "Fee-free currency exchange up to €5,000/mo"
+          "feature3": "Fee-free currency exchange up to $5,000/mo"
         }
       },
       "premiumCard": {
@@ -336,12 +336,12 @@
       },
       "plus": {
         "name": "Plus Plan",
-        "fee": "Account Fee: €3.99/month",
+        "fee": "Account Fee: $3.99/month",
         "description": "For the smart spender: unlock extra banking perks like higher limits for spending abroad and purchase insurance, at an affordable price."
       },
       "premium": {
         "name": "Premium Plan",
-        "fee": "Account Fee: €8.99/month",
+        "fee": "Account Fee: $8.99/month",
         "description": "For your daily upgrade: access exclusive subscriptions, better exchange rates, and unlimited currency exchange."
       }
     }
