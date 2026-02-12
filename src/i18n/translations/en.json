@@ -398,6 +398,31 @@
     "acceptAll": "Accept all",
     "rejectNonEssential": "Reject non-essential cookies"
   },
+  "referral": {
+    "title": "You were invited to Plexos",
+    "invitedBy": "invited you.",
+    "subtitle": "Send money globally at great exchange rates.",
+    "phonePlaceholder": "Phone number",
+    "selectCountry": "Select country",
+    "searchCountries": "Search countries...",
+    "noCountriesFound": "No countries found",
+    "continue": "Continue",
+    "disclaimer": "We will share very limited information about your account set-up and activity with the person who referred you to Plexos. This ensures that the appropriate parties can receive referral rewards if applicable.",
+    "errors": {
+      "phoneRequired": "Please enter your phone number",
+      "phoneInvalid": "Please enter a valid phone number",
+      "connectionError": "Connection error. Please check your internet and try again.",
+      "genericError": "Something went wrong. Please try again."
+    },
+    "success": {
+      "title": "You're all set!",
+      "message": "Referral claimed successfully. Download Plexos and complete your registration to activate your reward.",
+      "downloadOn": "Download on the",
+      "appStore": "App Store",
+      "getItOn": "Get it on",
+      "googlePlay": "Google Play"
+    }
+  },
   "cookieSettings": {
     "title": "Cookie settings",
     "description": "Cookies help us to enhance your experience, tailor ads to your interests, and improve our website.",

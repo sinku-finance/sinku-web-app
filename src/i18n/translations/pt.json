@@ -398,6 +398,31 @@
     "acceptAll": "Aceitar todos",
     "rejectNonEssential": "Rejeitar cookies não essenciais"
   },
+  "referral": {
+    "title": "Foste convidado para o Plexos",
+    "invitedBy": "convidou-te.",
+    "subtitle": "Envia dinheiro globalmente com excelentes taxas de câmbio.",
+    "phonePlaceholder": "Número de telefone",
+    "selectCountry": "Selecionar país",
+    "searchCountries": "Pesquisar países...",
+    "noCountriesFound": "Nenhum país encontrado",
+    "continue": "Continuar",
+    "disclaimer": "Partilharemos informações muito limitadas sobre a configuração e atividade da tua conta com a pessoa que te referiu para o Plexos. Isto garante que as partes apropriadas possam receber recompensas de referência, se aplicável.",
+    "errors": {
+      "phoneRequired": "Por favor, insere o teu número de telefone",
+      "phoneInvalid": "Por favor, insere um número de telefone válido",
+      "connectionError": "Erro de ligação. Verifica a tua internet e tenta novamente.",
+      "genericError": "Algo correu mal. Por favor, tenta novamente."
+    },
+    "success": {
+      "title": "Está tudo pronto!",
+      "message": "Referência ativada com sucesso. Faz download do Plexos e completa o teu registo para ativar a tua recompensa.",
+      "downloadOn": "Transferir na",
+      "appStore": "App Store",
+      "getItOn": "Disponível no",
+      "googlePlay": "Google Play"
+    }
+  },
   "cookieSettings": {
     "title": "Definições de cookies",
     "description": "Os cookies ajudam-nos a melhorar a sua experiência, adaptar anúncios aos seus interesses e melhorar o nosso site.",
