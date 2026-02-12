@@ -91,7 +91,7 @@ export function ReferralClaimSection({ referralCode }: ReferralClaimSectionProps
 				>
 					{/* Title */}
 					<motion.h1
-						className="text-4xl sm:text-5xl md:text-6xl font-bold text-black leading-tight mb-4 whitespace-nowrap"
+						className="text-4xl sm:text-5xl md:text-6xl font-bold text-black leading-tight mb-4 sm:whitespace-nowrap"
 						variants={{
 							hidden: { opacity: 0, y: 20 },
 							visible: { opacity: 1, y: 0, transition: { duration: 0.6, ease: [0.16, 1, 0.3, 1] } },
