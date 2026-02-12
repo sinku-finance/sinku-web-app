@@ -75,7 +75,7 @@ export function ReferralClaimSection({ referralCode }: ReferralClaimSectionProps
 
 	return (
 		<>
-			<section className="min-h-[calc(100vh-65px)] flex flex-col items-center justify-center px-6 py-20">
+			<section className="min-h-[120vh] sm:min-h-[calc(100vh-65px)] flex flex-col items-center justify-center px-6 py-20">
 				{/* Content */}
 				<motion.div
 					className="w-full text-center"

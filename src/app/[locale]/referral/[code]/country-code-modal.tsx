@@ -16,9 +16,9 @@ interface CountryCodeDropdownProps {
 }
 
 const dropdownAnimations = {
-	initial: { opacity: 0, y: -8, scale: 0.96 },
+	initial: { opacity: 0, y: 8, scale: 0.96 },
 	animate: { opacity: 1, y: 0, scale: 1 },
-	exit: { opacity: 0, y: -8, scale: 0.95 },
+	exit: { opacity: 0, y: 8, scale: 0.95 },
 	transition: {
 		duration: 0.2,
 		ease: [0.32, 0.72, 0, 1] as const,
