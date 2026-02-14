@@ -22,28 +22,28 @@ export function ToolsSection() {
       <div className="px-6 md:px-10 lg:px-12">
         <div className="w-full max-w-[1400px] mx-auto">
           <motion.div
-            className="flex flex-col lg:flex-row lg:justify-between lg:items-center gap-8 md:gap-12 mb-12 md:mb-16"
+            className="flex flex-col lg:flex-row lg:justify-between lg:items-start gap-6 md:gap-8 mb-12 md:mb-16"
             variants={toolsAnimations.content.variants}
           >
             {/* Left side - small tagline */}
             <motion.div
-              className="lg:max-w-[280px]"
+              className="lg:max-w-[140px]"
               variants={toolsAnimations.tagline.variants}
             >
-              <p className="text-neutral-500 uppercase tracking-wide font-medium text-sm md:text-base">
+              <p className="text-neutral-500 max-w-[200px] leading-relaxed font-medium text-sm md:text-base uppercase tracking-wide">
                 {t("tagline")}
               </p>
             </motion.div>
 
             {/* Right side - main content */}
             <motion.div 
-              className="flex-1 max-w-3xl"
+              className="w-full lg:w-[600px] max-w-2xl lg:text-left"
               variants={toolsAnimations.mainContent.variants}
             >
-              <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold mb-4 md:mb-5 leading-tight">
+              <h2 className="text-3xl md:text-5xl mb-4 md:mb-6 font-bold leading-[1.1]">
                 {t("title")}
               </h2>
-              <p className="text-sm md:text-base text-neutral-700 mb-5 md:mb-6 leading-relaxed">
+              <p className="text-sm md:text-base text-neutral-600 mb-5 md:mb-6 leading-relaxed">
                 {t("subtitle")}
               </p>
               <Button
