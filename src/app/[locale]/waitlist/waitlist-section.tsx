@@ -89,7 +89,7 @@ export function WaitlistSection() {
 		setErrors({})
 
 		try {
-			const response = await fetch("http://localhost:8082/api/v1/waitlist/signup", {
+			const response = await fetch(`${process.env.NEXT_PUBLIC_API_URL}/api/v1/waitlist/signup`, {
 				method: "POST",
 				headers: {
 					"Content-Type": "application/json",

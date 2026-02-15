@@ -45,7 +45,7 @@ export function ReferralClaimSection({ referralCode }: ReferralClaimSectionProps
 		setError(null)
 
 		try {
-			const response = await fetch("http://localhost:8082/api/v1/referrals/claim", {
+			const response = await fetch(`${process.env.NEXT_PUBLIC_API_URL}/api/v1/referrals/claim`, {
 				method: "POST",
 				headers: {
 					"Content-Type": "application/json",
