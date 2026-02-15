@@ -25,8 +25,8 @@
     "otherRegions": "Outras Regiões"
   },
   "hero": {
-    "title": "O Seu Dinheiro. Em Todo o Lado.",
-    "subtitle": "O cartão internacional e app financeira para o mundo moderno. Pague online, envie dinheiro para o estrangeiro e guarde várias moedas — tudo a partir do seu telemóvel.",
+    "title": "O Seu Dinheiro. Sem Fronteiras.",
+    "subtitle": "O cartão internacional e app financeira feita para o mundo real. Pague online, receba de qualquer lugar e movimente dinheiro entre países — com câmbio real e zero taxas escondidas.",
     "appStore": {
       "downloadOn": "Disponível na",
       "appStore": "App Store",
@@ -35,47 +35,47 @@
     }
   },
   "services": {
-    "tagline": "Uma app. Sem fronteiras.",
-    "title": "Tudo o que o seu banco local não lhe dá",
-    "subtitle": "Pagamentos internacionais, transferências entre países e um cartão que funciona em todo o mundo — sem as taxas que lhe comem o dinheiro.",
+    "tagline": "Uma app. Zero limites.",
+    "title": "O acesso financeiro que merece",
+    "subtitle": "Pagamentos internacionais, transferências sem taxas e um cartão aceite no mundo inteiro. Feito para quem precisa que o seu dinheiro se mova tão livremente quanto você.",
     "viewAll": "Abrir Conta",
     "cards": {
       "title": "Cartão de Débito Internacional",
       "tagline": "Pague em qualquer lugar, de qualquer lugar",
-      "description": "Compre na Amazon, pague a Netflix, reserve voos — use o seu cartão Plexos onde o Mastercard for aceite, online e em loja."
+      "description": "Compre no mundo inteiro, subscreva qualquer serviço, reserve voos — o seu cartão Plexos funciona onde o Mastercard é aceite. Sem mais pagamentos recusados ou regiões indisponíveis."
     },
     "savings": {
       "title": "Enviar e Receber Dinheiro",
-      "description": "Envie dinheiro para a família noutro país em segundos. Sem filas, sem taxas abusivas. Receba pagamentos de qualquer parte do mundo."
+      "description": "Envie dinheiro para a família noutro país em segundos. Receba pagamentos de clientes em qualquer parte do mundo. Sem filas, sem intermediários, sem taxas abusivas a comer o seu dinheiro."
     },
     "business": {
       "title": "Transferências Globais",
-      "description": "Transfira dinheiro entre países com câmbio real. Até 5x mais barato do que bancos tradicionais e serviços de remessa."
+      "description": "Movimente dinheiro entre países com o câmbio real. Até 5x mais barato que bancos tradicionais e serviços de remessa. O seu dinheiro chega rápido — e inteiro."
     },
-    "bottomText": "Quer esteja a pagar uma subscrição no estrangeiro, a enviar dinheiro para casa, ou a comprar online de qualquer lugar — o Plexos funciona onde o seu banco local para.",
+    "bottomText": "Quer seja freelancer a receber do estrangeiro, esteja a apoiar a família, ou simplesmente a tentar pagar por uma subscrição — o Plexos liga-o à economia global, sem exceções.",
     "account": {
-      "title": "Uma conta que o liga à economia global",
-      "subtitle": "Tudo o que precisa num só lugar — feito para a forma como vive, gasta e faz o seu dinheiro crescer sem fronteiras.",
+      "title": "Uma conta que abre o mundo",
+      "subtitle": "Tudo o que precisa num só lugar — feito para a forma como vive, trabalha e faz o seu dinheiro crescer sem fronteiras.",
       "features": {
         "noFees": "Zero taxas mensais ou anuais",
         "cards": "Cartão Mastercard aceite em mais de 200 países",
         "benefits": "Ganhe cashback em cada compra",
-        "investments": "Guarde USD, EUR, GBP e mais — proteja o seu dinheiro da inflação local"
+        "investments": "Guarde USD, EUR, GBP e mais — proteja as suas poupanças das flutuações cambiais"
       }
     }
   },
   "tools": {
-    "tagline": "O seu dinheiro. O seu controlo.",
-    "title": "Gira o seu dinheiro em tempo real, de qualquer parte do mundo.",
-    "subtitle": "Notificações instantâneas, análise de gastos e controlo total do seu cartão — direto na app. Sem balcões, sem burocracia.",
+    "tagline": "O seu dinheiro. As suas regras.",
+    "title": "Controlo total, de qualquer parte do mundo.",
+    "subtitle": "Notificações instantâneas, análise de gastos e controlo completo do seu cartão — direto na app. Sem balcões, sem burocracia, sem esperas.",
     "button": "Veja Como Funciona"
   },
   "rewards": {
     "title": "Ganhe 2% de Volta em Cada Compra",
-    "subtitle": "1% de cashback quando compra, mais 1% de bónus quando paga. Sem anuidade, sem limites — só dinheiro de volta no seu bolso.",
+    "subtitle": "1% de cashback quando compra, mais 1% de bónus quando paga. Sem anuidade, sem limites — dinheiro real de volta no seu bolso.",
     "primaryButton": "Obter o Seu Cartão",
     "secondaryButton": "Ver Todos os Benefícios",
-    "bottomText": "Cada compra põe dinheiro de volta no seu bolso. Sem pontos para resgatar, sem complicações — apenas cashback automático em tudo o que comprar, onde quer que pague."
+    "bottomText": "Cada compra põe dinheiro de volta onde pertence. Sem pontos para resgatar, sem complicações — apenas cashback automático em tudo o que comprar, onde quer que pague."
   },
   "app": {
     "title": "Uma app. Todas as suas contas. Controlo total.",
@@ -84,23 +84,23 @@
     "ratingText": "Utilizado por milhares de pessoas em vários países."
   },
   "features": {
-    "title": "Tudo o que precisa num só lugar",
+    "title": "Tudo o que precisa, nada do que não precisa",
     "items": {
       "send-abroad": {
-        "title": "Envie dinheiro para o estrangeiro a taxas baixas",
-        "description": "Transfira dinheiro para qualquer país em segundos. Câmbio real, taxas até 5x mais baixas do que bancos tradicionais e serviços de remessa."
+        "title": "Envie dinheiro para casa a taxas reais",
+        "description": "Transfira dinheiro para qualquer país em segundos. Câmbio real, taxas até 5x mais baixas que serviços de remessa e bancos tradicionais. A sua família recebe mais, sempre."
       },
       "multi-currency": {
-        "title": "Guarde várias moedas",
-        "description": "Mantenha o seu dinheiro em USD, EUR, GBP e outras moedas principais. Proteja as suas poupanças da inflação local e troque quando a taxa estiver favorável."
+        "title": "Guarde várias moedas, proteja o seu dinheiro",
+        "description": "Mantenha o seu dinheiro em USD, EUR, GBP e outras moedas principais. Proteja as suas poupanças da inflação local e das flutuações cambiais — troque quando a taxa estiver favorável."
       },
       "international-card": {
-        "title": "Cartão de débito internacional",
-        "description": "Um cartão Mastercard aceite em mais de 200 países. Pague online, em loja ou levante dinheiro no estrangeiro sem taxas escondidas."
+        "title": "Um cartão que realmente funciona no mundo",
+        "description": "Um cartão Mastercard aceite em mais de 200 países. Pague subscrições, compre online ou levante dinheiro no estrangeiro — sem mais mensagens de 'cartão não suportado'."
       },
       "pay-friends": {
-        "title": "Pague a amigos instantaneamente",
-        "description": "Envie dinheiro para outros utilizadores Plexos de graça, instantaneamente. Divida contas, pague a um amigo ou envie um presente — sem dados bancários."
+        "title": "Envie dinheiro para qualquer pessoa, instantaneamente",
+        "description": "Transfira dinheiro para outros utilizadores Plexos de graça, em segundos. Divida contas, pague a um amigo ou envie um presente — sem dados bancários, sem esperas."
       },
       "real-time": {
         "title": "Notificações em tempo real",
@@ -115,14 +115,14 @@
         "description": "Gere um cartão virtual para compras online. Os dados do seu cartão real ficam ocultos, protegendo-o contra fraude."
       },
       "no-fees": {
-        "title": "Sem taxas escondidas",
-        "description": "Zero taxas mensais, zero anuidade, zero surpresas. Preços transparentes em cada transação, sempre."
+        "title": "Preços transparentes. Sempre.",
+        "description": "Zero taxas mensais, zero anuidade, zero surpresas. O que vê é o que paga — em cada transação, sempre."
       }
     }
   },
   "homeCards": {
-    "title": "Um Cartão Que Vai Querer Ter Sempre Consigo",
-    "subtitle": "Escolha entre vários designs de cartão que refletem quem é. Cada cartão Plexos funciona mundialmente com Mastercard — para pagar com estilo e confiança.",
+    "title": "Um Cartão Que Funciona Em Todo o Lado",
+    "subtitle": "Escolha entre vários designs de cartão que refletem quem é. Cada cartão Plexos funciona mundialmente com Mastercard — aceite em milhões de comerciantes, online e em loja.",
     "details": {
       "title": "O seu cartão faz mais do que imagina",
       "subtitle": "Pague com Apple Pay, leia um QR code ou toque para pagar contactless. Acompanhe cada transação, bloqueie cobranças suspeitas e agende pagamentos futuros — tudo na app.",
@@ -163,12 +163,14 @@
   "fees": {
     "title": "Pagamentos",
     "tagline": "Pagamentos",
-    "heroTitle": "Envie dinheiro instantaneamente",
-    "heroSubtitle": "Transfira dinheiro para amigos, família ou qualquer pessoa — instantaneamente e sem custos. Sem taxas ocultas, sem esperas. Basta tocar, enviar, pronto.",
+    "bannerTitle": "Pagamentos sem fronteiras",
+    "bannerSubtitle": "Envie, receba e gira dinheiro pelo mundo — com zero taxas entre utilizadores Plexos e câmbio real em cada transferência.",
+    "heroTitle": "Movimente o seu dinheiro livremente",
+    "heroSubtitle": "Envie dinheiro para qualquer pessoa, em qualquer lugar do mundo — instantaneamente e com zero taxas entre utilizadores Plexos. Sem intermediários, sem atrasos, sem cobranças escondidas.",
     "heroButton": "Começar a enviar",
     "feature": {
-      "title": "Pague a amigos e família, de forma rápida e gratuita",
-      "description": "Envie dinheiro entre contas Plexos em segundos, com zero taxas de transferência. Escolha entre transferências bancárias, pagamentos na app ou de cartão para cartão — envie, receba e gira tudo numa única app.",
+      "title": "Pague a amigos e família, de forma instantânea e gratuita",
+      "description": "Envie dinheiro entre contas Plexos em segundos, com zero taxas de transferência. Quer seja para alguém ao lado ou do outro lado do oceano — envie, receba e gira tudo numa única app.",
       "disclaimer": "Podem aplicar-se taxas para determinados métodos de pagamento. Aplicam-se os Termos e Condições.",
       "button": "Começar a enviar",
       "pills": {
@@ -178,31 +180,31 @@
       }
     },
     "methods": {
-      "title": "Métodos de pagamento que se adaptam a si",
+      "title": "Métodos de pagamento feitos para a sua realidade",
       "cards": {
         "contacts": {
           "title": "Envie para os seus contactos",
-          "description": "Ambos na Plexos? Basta procurar o nome na app e tocar em Enviar. Instantâneo, grátis e sem esforço."
+          "description": "Ambos na Plexos? Basta procurar o nome e tocar em Enviar. Instantâneo, grátis e sem esforço — não importa onde estejam."
         },
         "links": {
           "title": "Partilhe um link de pagamento",
-          "description": "Envie o seu link de pagamento único para acertar contas. Não precisa de dados bancários — basta partilhar e receber."
+          "description": "Gere o seu link de pagamento único e partilhe onde quiser. Receba sem partilhar dados bancários — perfeito para freelancers, vendedores e projetos pessoais."
         },
         "global": {
           "title": "Envie dinheiro para o mundo",
-          "description": "Transfira dinheiro entre países com câmbio real. Grátis entre utilizadores Plexos e até 5x mais barato do que bancos para todos os outros."
+          "description": "Transfira dinheiro entre países com câmbio real. Grátis entre utilizadores Plexos e até 5x mais barato que bancos para todos os outros."
         }
       }
     },
     "multiCurrency": {
       "tagline": "Multi-moeda",
       "title": "Guarde, converta e gaste em mais de 30 moedas",
-      "description": "Pare de perder dinheiro com taxas de câmbio injustas. Guarde USD, EUR, GBP e mais — converta ao câmbio real e gaste no estrangeiro como um local. Veja a taxa antes de converter e fixe-a quando lhe convier.",
+      "description": "Pare de perder dinheiro com câmbios injustos. Guarde USD, EUR, GBP e mais — converta ao câmbio real e gaste internacionalmente como um local. Veja a taxa antes de converter e fixe-a quando lhe convier.",
       "button": "Abrir conta"
     },
     "comparison": {
-      "title": "Porquê pagar mais? Compare e veja.",
-      "subtitle": "Fomos criados para ser a forma mais barata de enviar dinheiro. Veja como o Plexos se compara com os outros.",
+      "title": "Porquê pagar mais? Compare e poupe.",
+      "subtitle": "Feito para ser a forma mais acessível de movimentar dinheiro. Veja como o Plexos se compara com a concorrência.",
       "sendingAmount": "A enviar $100",
       "costToSend": "Custo do envio",
       "recipientGets": "Destinatário recebe",
@@ -367,6 +369,7 @@
     "links": {
       "signUp": "Criar conta",
       "login": "Entrar",
+      "waitlist": "Lista de Espera",
       "plexosCard": "Cartões Plexos",
       "whatWeOffer": "O Que Oferecemos",
       "about": "Sobre",
@@ -421,6 +424,35 @@
       "appStore": "App Store",
       "getItOn": "Disponível no",
       "googlePlay": "Google Play"
+    }
+  },
+  "waitlist": {
+    "tagline": "Em Breve",
+    "title": "Envie e receba dinheiro sem taxas",
+    "subtitle": "Um cartão internacional e app financeira que finalmente funciona para si. Transfira dinheiro sem taxas, receba pagamentos de qualquer lugar e pague o que quiser online — sem mais cartões bloqueados ou cobranças injustas.",
+    "emailPlaceholder": "O seu email",
+    "phonePlaceholder": "Número de telefone",
+    "selectCountry": "Selecionar país",
+    "searchCountries": "Pesquisar países...",
+    "noCountriesFound": "Nenhum país encontrado",
+    "submit": "Entrar na Lista de Espera",
+    "disclaimer": "Usaremos os seus dados apenas para enviar atualizações sobre o lançamento. Sem spam, nunca. Pode cancelar a qualquer momento.",
+    "features": {
+      "transfers": "Transferências sem taxas",
+      "card": "Cartão Mastercard internacional"
+    },
+    "errors": {
+      "emailRequired": "Por favor, insira o seu email",
+      "emailInvalid": "Por favor, insira um email válido",
+      "phoneRequired": "Por favor, insira o seu número de telefone",
+      "phoneInvalid": "Por favor, insira um número de telefone válido",
+      "genericError": "Algo correu mal. Por favor, tente novamente."
+    },
+    "success": {
+      "title": "Está na lista",
+      "message": "Vamos notificá-lo assim que o Plexos for lançado. Fique atento à sua caixa de entrada.",
+      "shareTitle": "Espalhe a palavra",
+      "shareMessage": "Conhece alguém que precisa disto? Partilhe o Plexos."
     }
   },
   "cookieSettings": {

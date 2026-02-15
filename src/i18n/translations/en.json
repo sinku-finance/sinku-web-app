@@ -25,8 +25,8 @@
     "otherRegions": "Other Regions"
   },
   "hero": {
-    "title": "Your Money. Everywhere.",
-    "subtitle": "The international card and money app for the modern world. Pay online, send money abroad, and hold multiple currencies — all from your phone.",
+    "title": "Your Money. No Borders.",
+    "subtitle": "The international card and money app built for the real world. Pay online, get paid from anywhere, and move money across borders — with real exchange rates and zero hidden fees.",
     "appStore": {
       "downloadOn": "Download on",
       "appStore": "App Store",
@@ -35,47 +35,47 @@
     }
   },
   "services": {
-    "tagline": "One app. No borders.",
-    "title": "Everything your local bank won't give you",
-    "subtitle": "International payments, cross-border transfers, and a card that works everywhere — without the fees that eat your money.",
+    "tagline": "One app. Zero limits.",
+    "title": "The financial access you deserve",
+    "subtitle": "International payments, zero-fee transfers, and a card accepted worldwide. Built for people who need their money to move as freely as they do.",
     "viewAll": "Open Your Account",
     "cards": {
       "title": "International Debit Card",
       "tagline": "Pay Anywhere, From Anywhere",
-      "description": "Shop on Amazon, pay for Netflix, book flights — use your Plexos card anywhere Mastercard is accepted, online and in-store."
+      "description": "Shop globally, subscribe to any service, book flights — your Plexos card works anywhere Mastercard is accepted. No more declined payments or unavailable regions."
     },
     "savings": {
       "title": "Send & Receive Money",
-      "description": "Send money to family across borders in seconds. Skip the queues, skip the fees. Receive payments from anywhere in the world."
+      "description": "Send money to family across borders in seconds. Receive payments from clients worldwide. No queues at agencies, no middlemen, no excessive fees eating into your money."
     },
     "business": {
       "title": "Global Transfers",
-      "description": "Transfer money between countries at real exchange rates. Up to 5x cheaper than traditional banks and remittance services."
+      "description": "Move money between countries at the real exchange rate. Up to 5x cheaper than traditional banks and remittance services. Your money arrives fast — and whole."
     },
-    "bottomText": "Whether you're paying for a subscription abroad, sending money home, or shopping online from anywhere — Plexos works where your local bank stops.",
+    "bottomText": "Whether you're a freelancer getting paid from overseas, supporting family back home, or simply trying to pay for a subscription — Plexos connects you to the global economy, without exceptions.",
     "account": {
-      "title": "One account that connects you to the global economy",
-      "subtitle": "Everything you need in one place — built for the way you live, spend, and grow your money across borders.",
+      "title": "One account that opens the world",
+      "subtitle": "Everything you need in one place — built for the way you live, work, and grow your money across borders.",
       "features": {
         "noFees": "Zero monthly or annual fees",
         "cards": "Mastercard debit card accepted in 200+ countries",
         "benefits": "Earn cashback on every purchase",
-        "investments": "Hold USD, EUR, GBP, and more — protect your money from local inflation"
+        "investments": "Hold USD, EUR, GBP, and more — protect your savings from local currency fluctuations"
       }
     }
   },
   "tools": {
-    "tagline": "Your money. Your control.",
-    "title": "Manage your money in real time, from anywhere in the world.",
-    "subtitle": "Instant notifications, spending insights, and full control over your card — right from the app. No branch visits, no paperwork.",
+    "tagline": "Your money. Your rules.",
+    "title": "Full control, from anywhere in the world.",
+    "subtitle": "Instant notifications, spending insights, and complete control over your card — right from the app. No branch visits, no paperwork, no waiting.",
     "button": "See How It Works"
   },
   "rewards": {
     "title": "Earn 2% Back on Every Purchase",
-    "subtitle": "1% cashback when you buy, plus 1% bonus when you pay. No annual fees, no caps — just money back in your pocket.",
+    "subtitle": "1% cashback when you buy, plus 1% bonus when you pay. No annual fees, no caps — just real money back in your pocket.",
     "primaryButton": "Get Your Card",
     "secondaryButton": "See All Benefits",
-    "bottomText": "Every purchase puts money back in your pocket. No points to redeem, no hoops to jump through — just automatic cashback on everything you buy, everywhere you pay."
+    "bottomText": "Every purchase puts money back where it belongs. No points to redeem, no hoops to jump through — just automatic cashback on everything you buy, everywhere you pay."
   },
   "app": {
     "title": "One app. All your accounts. Total control.",
@@ -84,23 +84,23 @@
     "ratingText": "Trusted by thousands of users across multiple countries."
   },
   "features": {
-    "title": "Everything you need in one place",
+    "title": "Everything you need, nothing you don't",
     "items": {
       "send-abroad": {
-        "title": "Send money abroad at low rates",
-        "description": "Transfer money to any country in seconds. Real exchange rates, fees up to 5x lower than traditional banks and remittance services."
+        "title": "Send money home at real rates",
+        "description": "Transfer money to any country in seconds. Real exchange rates, fees up to 5x lower than remittance services and traditional banks. Your family gets more, every time."
       },
       "multi-currency": {
-        "title": "Hold multiple currencies",
-        "description": "Keep your money in USD, EUR, GBP, and other major currencies. Protect your savings from local inflation and exchange when the rate is right."
+        "title": "Hold multiple currencies, protect your money",
+        "description": "Keep your money in USD, EUR, GBP, and other major currencies. Shield your savings from local inflation and currency fluctuations — convert when the rate is right."
       },
       "international-card": {
-        "title": "International debit card",
-        "description": "A Mastercard card accepted in 200+ countries. Pay online, in-store, or withdraw cash abroad without the hidden fees."
+        "title": "A card that actually works internationally",
+        "description": "A Mastercard debit card accepted in 200+ countries. Pay for subscriptions, shop online, or withdraw cash abroad — no more 'card not supported' messages."
       },
       "pay-friends": {
-        "title": "Pay friends instantly",
-        "description": "Send money to other Plexos users for free, instantly. Split bills, pay back a friend, or send a gift — no bank details needed."
+        "title": "Send money to anyone, instantly",
+        "description": "Transfer money to other Plexos users for free, in seconds. Split bills, pay back a friend, or send a gift — no bank details, no waiting."
       },
       "real-time": {
         "title": "Real-time notifications",
@@ -115,14 +115,14 @@
         "description": "Generate a virtual card for online shopping. Your real card details stay hidden, protecting you from fraud."
       },
       "no-fees": {
-        "title": "No hidden fees",
-        "description": "Zero monthly fees, zero annual fees, zero surprises. Transparent pricing on every transaction, always."
+        "title": "Transparent pricing. Always.",
+        "description": "Zero monthly fees, zero annual fees, zero surprises. What you see is what you pay — on every transaction, every time."
       }
     }
   },
   "homeCards": {
-    "title": "A Card You'll Actually Want to Carry",
-    "subtitle": "Choose from a range of card designs made to reflect who you are. Every Plexos card works worldwide with Mastercard — so you look good and pay with confidence.",
+    "title": "A Card That Works Everywhere You Go",
+    "subtitle": "Choose from a range of card designs that reflect who you are. Every Plexos card works worldwide with Mastercard — accepted at millions of merchants, online and in-store.",
     "details": {
       "title": "Your card does more than you think",
       "subtitle": "Pay with Apple Pay, scan a QR code, or tap to pay contactless. Track every transaction, block suspicious charges, and schedule future payments — all from the app.",
@@ -163,12 +163,14 @@
   "fees": {
     "title": "Payments",
     "tagline": "Payments",
-    "heroTitle": "Send money instantly",
-    "heroSubtitle": "Transfer money to friends, family, or anyone — instantly and for free. No hidden fees, no waiting. Just tap, send, done.",
+    "bannerTitle": "Payments without borders",
+    "bannerSubtitle": "Send, receive, and manage money across the world — with zero fees between Plexos users and real exchange rates on every transfer.",
+    "heroTitle": "Move money freely",
+    "heroSubtitle": "Send money to anyone, anywhere in the world — instantly and with zero fees between Plexos users. No middlemen, no delays, no hidden charges.",
     "heroButton": "Start sending",
     "feature": {
       "title": "Pay friends and family, instantly and for free",
-      "description": "Send money between Plexos accounts in seconds, with zero transfer fees. Choose from bank transfers, in-app payments, or card-to-card — send, receive, and manage everything from one app.",
+      "description": "Send money between Plexos accounts in seconds, with zero transfer fees. Whether it's to someone next door or across the ocean — send, receive, and manage everything from one app.",
       "disclaimer": "Fees may apply for certain payment methods. Terms and Conditions apply.",
       "button": "Start sending",
       "pills": {
@@ -178,15 +180,15 @@
       }
     },
     "methods": {
-      "title": "Payment methods that work for you",
+      "title": "Payment methods built for the way you live",
       "cards": {
         "contacts": {
           "title": "Send to your contacts",
-          "description": "Both on Plexos? Just search their name in the app and tap Send. Instant, free, and effortless."
+          "description": "Both on Plexos? Just search their name and tap Send. Instant, free, and effortless — no matter where they are."
         },
         "links": {
           "title": "Share a payment link",
-          "description": "Send your unique payment link to settle up. No account details needed — just share and get paid."
+          "description": "Generate your unique payment link and share it anywhere. Get paid without sharing bank details — perfect for freelancers, sellers, and side hustles."
         },
         "global": {
           "title": "Send money worldwide",
@@ -197,12 +199,12 @@
     "multiCurrency": {
       "tagline": "Multi-currency",
       "title": "Hold, convert, and spend in 30+ currencies",
-      "description": "Stop losing money on bad exchange rates. Hold USD, EUR, GBP, and more — convert at the real rate and spend abroad like a local. Preview the rate before you buy, and lock it in when it works for you.",
+      "description": "Stop losing money to unfair exchange rates. Hold USD, EUR, GBP, and more — convert at the real rate and spend internationally like a local. Preview rates before you convert and lock them in when it works for you.",
       "button": "Open your account"
     },
     "comparison": {
-      "title": "Why pay more? Compare and see.",
-      "subtitle": "We're built to be the cheapest way to send money. See how Plexos stacks up against the rest.",
+      "title": "Why pay more? Compare and save.",
+      "subtitle": "Built to be the most affordable way to move money. See how Plexos stacks up against the competition.",
       "sendingAmount": "Sending $100",
       "costToSend": "Cost to send",
       "recipientGets": "Recipient gets",
@@ -367,6 +369,7 @@
     "links": {
       "signUp": "Sign up",
       "login": "Log in",
+      "waitlist": "Join Waitlist",
       "plexosCard": "Plexos Cards",
       "whatWeOffer": "What We Offer",
       "about": "About",
@@ -421,6 +424,35 @@
       "appStore": "App Store",
       "getItOn": "Get it on",
       "googlePlay": "Google Play"
+    }
+  },
+  "waitlist": {
+    "tagline": "Coming Soon",
+    "title": "Send and receive money without the fees",
+    "subtitle": "An international card and money app that finally works for you. Transfer money with zero fees, receive payments from anywhere, and pay for anything online — no more blocked cards or unfair charges.",
+    "emailPlaceholder": "Your email address",
+    "phonePlaceholder": "Phone number",
+    "selectCountry": "Select country",
+    "searchCountries": "Search countries...",
+    "noCountriesFound": "No countries found",
+    "submit": "Join the Waitlist",
+    "disclaimer": "We'll only use your info to send you launch updates. No spam, ever. You can unsubscribe at any time.",
+    "features": {
+      "transfers": "Zero-fee transfers",
+      "card": "International Mastercard card"
+    },
+    "errors": {
+      "emailRequired": "Please enter your email address",
+      "emailInvalid": "Please enter a valid email address",
+      "phoneRequired": "Please enter your phone number",
+      "phoneInvalid": "Please enter a valid phone number",
+      "genericError": "Something went wrong. Please try again."
+    },
+    "success": {
+      "title": "You're on the list",
+      "message": "We'll notify you as soon as Plexos launches. Keep an eye on your inbox.",
+      "shareTitle": "Spread the word",
+      "shareMessage": "Know someone who needs this? Share Plexos with them."
     }
   },
   "cookieSettings": {

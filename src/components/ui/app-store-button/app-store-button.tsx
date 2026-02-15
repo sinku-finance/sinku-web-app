@@ -13,6 +13,8 @@ type AppStoreButtonProps = {
 	className?: string
 }
 
+// TODO: Once the app is live on the stores, revert to using the `href` prop
+// and add back target="_blank" rel="noopener noreferrer"
 export function AppStoreButton({ store, href, className }: AppStoreButtonProps) {
 	const t = useTranslations("hero.appStore")
 
@@ -28,9 +30,7 @@ export function AppStoreButton({ store, href, className }: AppStoreButtonProps) 
 			className={cn(" border-black", className)}
 		>
 			<Link 
-				href={href} 
-				target="_blank" 
-				rel="noopener noreferrer"
+				href="/waitlist"
 				className="flex items-center gap-2"
 			>
 				<Icon className="w-6 h-6 shrink-0" />

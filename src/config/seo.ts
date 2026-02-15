@@ -236,6 +236,24 @@ export const pageSeo: Record<string, Record<string, LocaleSeo>> = {
 				"Encontre respostas para suas perguntas sobre o Plexos. Guias sobre contas, cartões, pagamentos, transferências e segurança.",
 		},
 	},
+	waitlist: {
+		en: {
+			title: "Join the Waitlist — Be the First to Try Plexos",
+			description:
+				"Sign up for early access to Plexos — the international money app with zero-fee transfers, multi-currency accounts, and Mastercard debit cards. Be the first to know when we launch.",
+			ogTitle: "Join the Plexos Waitlist — Coming Soon",
+			ogDescription:
+				"Be the first to experience borderless finance. Sign up for early access to international cards, zero-fee transfers, and multi-currency accounts.",
+		},
+		pt: {
+			title: "Lista de Espera — Seja o Primeiro a Experimentar o Plexos",
+			description:
+				"Registe-se para acesso antecipado ao Plexos — a app financeira internacional com transferências sem taxas, contas multi-moeda e cartões Mastercard. Seja o primeiro a saber quando lançarmos.",
+			ogTitle: "Junte-se à Lista de Espera Plexos — Em Breve",
+			ogDescription:
+				"Seja o primeiro a experimentar finanças sem fronteiras. Registe-se para acesso antecipado a cartões internacionais, transferências sem taxas e contas multi-moeda.",
+		},
+	},
 	support: {
 		en: {
 			title: "Support — Help Centre",

@@ -44,7 +44,7 @@ export function FeesBanner() {
 								ease: [0.25, 0.46, 0.45, 0.94],
 							}}
 						>
-							{t("heroTitle")}
+							{t("bannerTitle")}
 						</motion.h1>
 						<motion.p
 							className="text-lg md:text-xl text-white/90 leading-relaxed mb-8 max-w-xl ml-auto md:mx-0 md:ml-auto"
@@ -56,7 +56,7 @@ export function FeesBanner() {
 								ease: [0.25, 0.46, 0.45, 0.94],
 							}}
 						>
-							{t("heroSubtitle")}
+							{t("bannerSubtitle")}
 						</motion.p>
 					</div>
 				</div>
