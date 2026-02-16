@@ -8,6 +8,7 @@ import { SendDollars, CreditCard, Check } from "iconoir-react"
 import { cn } from "@/lib/utils"
 import { phoneCountries, getFlagPath, type PhoneCountry } from "@/data/phone-countries"
 import { WaitlistCountryDropdown } from "./country-dropdown"
+import { API_URL } from "@/config/api"
 
 const stagger = {
 	hidden: { opacity: 0 },
@@ -89,7 +90,7 @@ export function WaitlistSection() {
 		setErrors({})
 
 		try {
-			const response = await fetch(`${process.env.NEXT_PUBLIC_API_URL}/api/v1/waitlist/signup`, {
+			const response = await fetch(`${API_URL}/api/v1/waitlist/signup`, {
 				method: "POST",
 				headers: {
 					"Content-Type": "application/json",

@@ -7,6 +7,7 @@ import { useTranslations } from "next-intl"
 import { cn } from "@/lib/utils"
 import { phoneCountries, getFlagPath, type PhoneCountry } from "@/data/phone-countries"
 import { CountryCodeDropdown } from "./country-code-modal"
+import { API_URL } from "@/config/api"
 import { SuccessModal } from "./success-modal"
 
 interface ReferralClaimSectionProps {
@@ -45,7 +46,7 @@ export function ReferralClaimSection({ referralCode }: ReferralClaimSectionProps
 		setError(null)
 
 		try {
-			const response = await fetch(`${process.env.NEXT_PUBLIC_API_URL}/api/v1/referrals/claim`, {
+			const response = await fetch(`${API_URL}/api/v1/referrals/claim`, {
 				method: "POST",
 				headers: {
 					"Content-Type": "application/json",
