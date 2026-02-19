@@ -26,7 +26,7 @@
   },
   "hero": {
     "title": "O Seu Dinheiro. Sem Fronteiras.",
-    "subtitle": "O cartão internacional e app financeira feita para o mundo real. Pague online, receba de qualquer lugar e movimente dinheiro entre países — com câmbio real e zero taxas escondidas.",
+    "subtitle": "O cartão internacional e app financeira feita para o mundo real. Pague online, receba de qualquer lugar e movimente dinheiro entre países — com câmbio real e sem taxas escondidas.",
     "appStore": {
       "downloadOn": "Disponível na",
       "appStore": "App Store",
@@ -37,7 +37,7 @@
   "services": {
     "tagline": "Uma app. Zero limites.",
     "title": "O acesso financeiro que merece",
-    "subtitle": "Pagamentos internacionais, transferências sem taxas e um cartão aceite no mundo inteiro. Feito para quem precisa que o seu dinheiro se mova tão livremente quanto você.",
+    "subtitle": "Pagamentos internacionais, transferências com taxas baixas e um cartão aceite no mundo inteiro. Feito para quem precisa que o seu dinheiro se mova tão livremente quanto você.",
     "viewAll": "Abrir Conta",
     "cards": {
       "title": "Cartão de Débito Internacional",
@@ -57,7 +57,7 @@
       "title": "Uma conta que abre o mundo",
       "subtitle": "Tudo o que precisa num só lugar — feito para a forma como vive, trabalha e faz o seu dinheiro crescer sem fronteiras.",
       "features": {
-        "noFees": "Zero taxas mensais ou anuais",
+        "noFees": "Sem taxas mensais ou anuais",
         "cards": "Cartão Mastercard aceite em mais de 200 países",
         "benefits": "Ganhe cashback em cada compra",
         "investments": "Guarde USD, EUR, GBP e mais — proteja as suas poupanças das flutuações cambiais"
@@ -88,7 +88,7 @@
     "items": {
       "send-abroad": {
         "title": "Envie dinheiro para casa a taxas reais",
-        "description": "Transfira dinheiro para qualquer país em segundos. Câmbio real, taxas até 5x mais baixas que serviços de remessa e bancos tradicionais. A sua família recebe mais, sempre."
+        "description": "Transfira dinheiro para qualquer país em segundos. Câmbio real, taxas até 5x mais baixas que bancos tradicionais e serviços de remessa. Transferências na app entre utilizadores Plexos são instantâneas e de baixo custo. A sua família recebe mais, sempre."
       },
       "multi-currency": {
         "title": "Guarde várias moedas, proteja o seu dinheiro",
@@ -116,7 +116,7 @@
       },
       "no-fees": {
         "title": "Preços transparentes. Sempre.",
-        "description": "Zero taxas mensais, zero anuidade, zero surpresas. O que vê é o que paga — em cada transação, sempre."
+        "description": "Sem taxas mensais, sem anuidade, sem surpresas. O que vê é o que paga — em cada transação, sempre."
       }
     }
   },
@@ -164,13 +164,13 @@
     "title": "Pagamentos",
     "tagline": "Pagamentos",
     "bannerTitle": "Pagamentos sem fronteiras",
-    "bannerSubtitle": "Envie, receba e gira dinheiro pelo mundo — com zero taxas entre utilizadores Plexos e câmbio real em cada transferência.",
+    "bannerSubtitle": "Envie, receba e gira dinheiro pelo mundo — com taxas baixas entre utilizadores Plexos e câmbio real em cada transferência.",
     "heroTitle": "Movimente o seu dinheiro livremente",
-    "heroSubtitle": "Envie dinheiro para qualquer pessoa, em qualquer lugar do mundo — instantaneamente e com zero taxas entre utilizadores Plexos. Sem intermediários, sem atrasos, sem cobranças escondidas.",
+    "heroSubtitle": "Envie dinheiro para qualquer pessoa, em qualquer lugar do mundo — instantaneamente e com taxas baixas entre utilizadores Plexos. Sem intermediários, sem atrasos, sem cobranças escondidas.",
     "heroButton": "Começar a enviar",
     "feature": {
-      "title": "Pague a amigos e família, de forma instantânea e gratuita",
-      "description": "Envie dinheiro entre contas Plexos em segundos, com zero taxas de transferência. Quer seja para alguém ao lado ou do outro lado do oceano — envie, receba e gira tudo numa única app.",
+      "title": "Pague a amigos e família, de forma instantânea",
+      "description": "Envie dinheiro entre utilizadores Plexos em segundos, com taxas baixas em cada transferência P2P na app. Quer seja para alguém ao lado ou do outro lado do oceano — envie, receba e gira tudo numa única app.",
       "disclaimer": "Podem aplicar-se taxas para determinados métodos de pagamento. Aplicam-se os Termos e Condições.",
       "button": "Começar a enviar",
       "pills": {
@@ -210,7 +210,7 @@
       "recipientGets": "Destinatário recebe",
       "cheapest": "Mais barato",
       "sendMoney": "Enviar dinheiro",
-      "disclaimer": "As informações acima aplicam-se ao enviar dinheiro na moeda nacional da conta do destinatário. A lista de fornecedores não é exaustiva e planeamos adicionar mais em breve. Para todos os fornecedores, estamos a mostrar os custos com base apenas nos planos Standard/Básico. As taxas de câmbio e taxas de transferência apresentadas são ilustrativas e atualizadas apenas a cada minuto. Verifique sempre a taxa aplicável e as taxas de transferência na app antes de realizar a sua transferência. Transferências na app com Plexos têm taxa zero."
+      "disclaimer": "As informações acima aplicam-se ao enviar dinheiro na moeda nacional da conta do destinatário. A lista de fornecedores não é exaustiva e planeamos adicionar mais em breve. Para todos os fornecedores, estamos a mostrar os custos com base apenas nos planos Standard/Básico. As taxas de câmbio e taxas de transferência apresentadas são ilustrativas e atualizadas apenas a cada minuto. Verifique sempre a taxa aplicável e as taxas de transferência na app antes de realizar a sua transferência. Transferências P2P na app entre utilizadores Plexos têm taxas baixas."
     }
   },
   "cards": {
@@ -305,8 +305,8 @@
         "name": "Plexos Standard",
         "badge": "Grátis",
         "features": {
-          "feature1": "Zero taxas mensais — grátis para sempre",
-          "feature2": "Transferências na app grátis para utilizadores Plexos",
+          "feature1": "Sem taxas mensais — grátis para sempre",
+          "feature2": "Transferências na app com taxas baixas para utilizadores Plexos",
           "feature3": "Aceite em mais de 60M de comerciantes no mundo"
         }
       },
@@ -428,8 +428,8 @@
   },
   "waitlist": {
     "tagline": "Em Breve",
-    "title": "Envie e receba dinheiro sem taxas",
-    "subtitle": "Um cartão internacional e app financeira que finalmente funciona para si. Transfira dinheiro sem taxas, receba pagamentos de qualquer lugar e pague o que quiser online — sem mais cartões bloqueados ou cobranças injustas.",
+    "title": "Envie e receba dinheiro com taxas baixas",
+    "subtitle": "Um cartão internacional e app financeira que finalmente funciona para si. Transfira dinheiro a baixo custo, receba pagamentos de qualquer lugar e pague o que quiser online — sem mais cartões bloqueados ou cobranças injustas.",
     "emailPlaceholder": "O seu email",
     "phonePlaceholder": "Número de telefone",
     "selectCountry": "Selecionar país",
@@ -438,7 +438,7 @@
     "submit": "Entrar na Lista de Espera",
     "disclaimer": "Usaremos os seus dados apenas para enviar atualizações sobre o lançamento. Sem spam, nunca. Pode cancelar a qualquer momento.",
     "features": {
-      "transfers": "Transferências sem taxas",
+      "transfers": "Transferências com taxas baixas",
       "card": "Cartão Mastercard internacional"
     },
     "errors": {

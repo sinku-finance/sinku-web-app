@@ -1,6 +1,6 @@
 "use client"
 
-import { useState, useCallback } from "react"
+import { useState, useCallback, useRef, useEffect } from "react"
 import Image from "next/image"
 import { motion, AnimatePresence } from "framer-motion"
 import { useTranslations } from "next-intl"
@@ -50,6 +50,13 @@ export function WaitlistSection() {
 	const [isSubmitted, setIsSubmitted] = useState(false)
 	const [isLoading, setIsLoading] = useState(false)
 	const [errors, setErrors] = useState<{ email?: string; phone?: string }>({})
+	const sectionRef = useRef<HTMLElement>(null)
+
+	useEffect(() => {
+		if (isSubmitted) {
+			window.scrollTo({ top: 0, behavior: "smooth" })
+		}
+	}, [isSubmitted])
 
 	const validateEmail = (value: string) => {
 		return /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(value)
@@ -125,7 +132,7 @@ export function WaitlistSection() {
 	const isSubmitDisabled = isLoading
 
 	return (
-		<section className="min-h-screen flex flex-col items-center justify-center px-6 py-32 md:py-40 relative overflow-hidden">
+		<section ref={sectionRef} className="min-h-screen flex flex-col items-center justify-center px-6 py-32 md:py-40 relative overflow-hidden">
 			{/* Subtle background texture */}
 			<div className="absolute inset-0 pointer-events-none">
 				<div className="absolute top-0 left-1/2 -translate-x-1/2 w-[800px] h-[800px] bg-primary-50/40 rounded-full blur-[120px]" />
@@ -360,7 +367,7 @@ export function WaitlistSection() {
 							initial="hidden"
 							animate="visible"
 							variants={stagger}
-							className="text-center"
+							className="text-center min-h-screen flex flex-col items-center justify-center"
 						>
 							{/* Checkmark */}
 							<motion.div
@@ -421,7 +428,7 @@ export function WaitlistSection() {
 										Instagram
 									</a>
 									<a
-										href={`https://wa.me/?text=${encodeURIComponent("Check out Plexos — a new money app with zero-fee transfers and international cards: https://plexos.finance/waitlist")}`}
+										href={`https://wa.me/?text=${encodeURIComponent("Check out Plexos — a new money app with low-fee transfers and international cards: https://plexos.finance/waitlist")}`}
 										target="_blank"
 										rel="noopener noreferrer"
 										className="inline-flex items-center gap-2 px-5 py-2.5 rounded-xl bg-[#25D366] text-white text-sm font-medium hover:bg-[#20BD5A] transition-colors"

@@ -37,7 +37,7 @@
   "services": {
     "tagline": "One app. Zero limits.",
     "title": "The financial access you deserve",
-    "subtitle": "International payments, zero-fee transfers, and a card accepted worldwide. Built for people who need their money to move as freely as they do.",
+    "subtitle": "International payments, low-fee transfers, and a card accepted worldwide. Built for people who need their money to move as freely as they do.",
     "viewAll": "Open Your Account",
     "cards": {
       "title": "International Debit Card",
@@ -57,7 +57,7 @@
       "title": "One account that opens the world",
       "subtitle": "Everything you need in one place — built for the way you live, work, and grow your money across borders.",
       "features": {
-        "noFees": "Zero monthly or annual fees",
+        "noFees": "No monthly or annual fees",
         "cards": "Mastercard debit card accepted in 200+ countries",
         "benefits": "Earn cashback on every purchase",
         "investments": "Hold USD, EUR, GBP, and more — protect your savings from local currency fluctuations"
@@ -88,7 +88,7 @@
     "items": {
       "send-abroad": {
         "title": "Send money home at real rates",
-        "description": "Transfer money to any country in seconds. Real exchange rates, fees up to 5x lower than remittance services and traditional banks. Your family gets more, every time."
+        "description": "Transfer money to any country in seconds. Real exchange rates, fees up to 5x lower than traditional banks and remittance services. In-app transfers between Plexos users are instant and low-cost. Your family gets more, every time."
       },
       "multi-currency": {
         "title": "Hold multiple currencies, protect your money",
@@ -116,7 +116,7 @@
       },
       "no-fees": {
         "title": "Transparent pricing. Always.",
-        "description": "Zero monthly fees, zero annual fees, zero surprises. What you see is what you pay — on every transaction, every time."
+        "description": "No monthly fees, no annual fees, no surprises. What you see is what you pay — on every transaction, every time."
       }
     }
   },
@@ -164,13 +164,13 @@
     "title": "Payments",
     "tagline": "Payments",
     "bannerTitle": "Payments without borders",
-    "bannerSubtitle": "Send, receive, and manage money across the world — with zero fees between Plexos users and real exchange rates on every transfer.",
+    "bannerSubtitle": "Send, receive, and manage money across the world — with low fees between Plexos users and real exchange rates on every transfer.",
     "heroTitle": "Move money freely",
-    "heroSubtitle": "Send money to anyone, anywhere in the world — instantly and with zero fees between Plexos users. No middlemen, no delays, no hidden charges.",
+    "heroSubtitle": "Send money to anyone, anywhere in the world — instantly and with low fees between Plexos users. No middlemen, no delays, no hidden charges.",
     "heroButton": "Start sending",
     "feature": {
-      "title": "Pay friends and family, instantly and for free",
-      "description": "Send money between Plexos accounts in seconds, with zero transfer fees. Whether it's to someone next door or across the ocean — send, receive, and manage everything from one app.",
+      "title": "Pay friends and family, instantly",
+      "description": "Send money between Plexos users in seconds with low fees on every in-app P2P transfer. Whether it's to someone next door or across the ocean — send, receive, and manage everything from one app.",
       "disclaimer": "Fees may apply for certain payment methods. Terms and Conditions apply.",
       "button": "Start sending",
       "pills": {
@@ -210,7 +210,7 @@
       "recipientGets": "Recipient gets",
       "cheapest": "Cheapest",
       "sendMoney": "Send money",
-      "disclaimer": "The above information applies when sending money in the national currency of the recipient account. The list of providers is not exhaustive and we plan to add more soon. For all providers, we are showing the costs based on the Standard/Basic plans only. Exchange rates and transfer fees displayed are illustrative and only refreshed every minute. Always check the applicable rate and transfer fees in-app before carrying out your transfer. In-app transfers with Plexos have zero fees."
+      "disclaimer": "The above information applies when sending money in the national currency of the recipient account. The list of providers is not exhaustive and we plan to add more soon. For all providers, we are showing the costs based on the Standard/Basic plans only. Exchange rates and transfer fees displayed are illustrative and only refreshed every minute. Always check the applicable rate and transfer fees in-app before carrying out your transfer. In-app P2P transfers between Plexos users have low fees."
     }
   },
   "cards": {
@@ -305,8 +305,8 @@
         "name": "Plexos Standard",
         "badge": "Free",
         "features": {
-          "feature1": "Zero monthly fees — free forever",
-          "feature2": "Free in-app transfers to Plexos users",
+          "feature1": "No monthly fees — free forever",
+          "feature2": "Low-fee in-app transfers to Plexos users",
           "feature3": "Accepted at 60M+ merchants worldwide"
         }
       },
@@ -428,8 +428,8 @@
   },
   "waitlist": {
     "tagline": "Coming Soon",
-    "title": "Send and receive money without the fees",
-    "subtitle": "An international card and money app that finally works for you. Transfer money with zero fees, receive payments from anywhere, and pay for anything online — no more blocked cards or unfair charges.",
+    "title": "Send and receive money with low fees",
+    "subtitle": "An international card and money app that finally works for you. Transfer money at low cost, receive payments from anywhere, and pay for anything online — no more blocked cards or unfair charges.",
     "emailPlaceholder": "Your email address",
     "phonePlaceholder": "Phone number",
     "selectCountry": "Select country",
@@ -438,7 +438,7 @@
     "submit": "Join the Waitlist",
     "disclaimer": "We'll only use your info to send you launch updates. No spam, ever. You can unsubscribe at any time.",
     "features": {
-      "transfers": "Zero-fee transfers",
+      "transfers": "Low-fee transfers",
       "card": "International Mastercard card"
     },
     "errors": {

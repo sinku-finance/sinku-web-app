@@ -75,7 +75,7 @@ export const layoutSeo: Record<string, LayoutSeo> = {
 		defaultTitle: "Plexos — A Sua Porta de Entrada na Economia Global",
 		template: "%s | Plexos",
 		description:
-			"A sua app financeira completa. Envie dinheiro para o estrangeiro, pague online em todo o mundo e guarde várias moedas — com cartões de débito internacionais, câmbio real e zero taxas mensais. A alternativa inteligente aos bancos tradicionais.",
+			"A sua app financeira completa. Envie dinheiro para o estrangeiro, pague online em todo o mundo e guarde várias moedas — com cartões de débito internacionais, câmbio real e sem taxas mensais. A alternativa inteligente aos bancos tradicionais.",
 		keywords: [
 			"Plexos",
 			"app fintech",
@@ -120,10 +120,10 @@ export const layoutSeo: Record<string, LayoutSeo> = {
 		],
 		ogTitle: "Plexos — A Sua Porta de Entrada na Economia Global",
 		ogDescription:
-			"A sua app financeira completa — envie dinheiro, pague online, guarde várias moedas. Cartões de débito internacionais com câmbio real e zero taxas mensais.",
+			"A sua app financeira completa — envie dinheiro, pague online, guarde várias moedas. Cartões de débito internacionais com câmbio real e sem taxas mensais.",
 		twitterTitle: "Plexos — A Sua Porta de Entrada na Economia Global",
 		twitterDescription:
-			"A sua app financeira completa — envie dinheiro, pague online, guarde várias moedas. Cartões de débito internacionais com câmbio real e zero taxas mensais.",
+			"A sua app financeira completa — envie dinheiro, pague online, guarde várias moedas. Cartões de débito internacionais com câmbio real e sem taxas mensais.",
 	},
 }
 
@@ -132,18 +132,18 @@ export const pageSeo: Record<string, Record<string, LocaleSeo>> = {
 		en: {
 			title: "Plexos — Introducing You to the Global Economy",
 			description:
-				"The all-in-one money app that works like a bank — but better. International debit cards, instant money transfers, multi-currency accounts, cashback rewards, and zero monthly fees. Send, spend, and save worldwide.",
+				"The all-in-one money app that works like a bank — but better. International debit cards, instant money transfers, multi-currency accounts, cashback rewards, and no monthly fees. Send, spend, and save worldwide.",
 			ogTitle: "Plexos — Your Money. Everywhere.",
 			ogDescription:
-				"The all-in-one money app that works like a bank — but better. International debit cards, instant transfers, multi-currency accounts, and zero monthly fees.",
+				"The all-in-one money app that works like a bank — but better. International debit cards, instant transfers, multi-currency accounts, and no monthly fees.",
 		},
 		pt: {
 			title: "Plexos — A Sua Porta de Entrada na Economia Global",
 			description:
-				"A app financeira completa que funciona como um banco — mas melhor. Cartões de débito internacionais, transferências instantâneas, contas multi-moeda, cashback e zero taxas mensais. Envie, gaste e poupe em todo o mundo.",
+				"A app financeira completa que funciona como um banco — mas melhor. Cartões de débito internacionais, transferências instantâneas, contas multi-moeda, cashback e sem taxas mensais. Envie, gaste e poupe em todo o mundo.",
 			ogTitle: "Plexos — O Seu Dinheiro. Em Todo o Lado.",
 			ogDescription:
-				"A app financeira completa que funciona como um banco — mas melhor. Cartões de débito internacionais, transferências instantâneas, contas multi-moeda e zero taxas mensais.",
+				"A app financeira completa que funciona como um banco — mas melhor. Cartões de débito internacionais, transferências instantâneas, contas multi-moeda e sem taxas mensais.",
 		},
 	},
 	cards: {
@@ -176,7 +176,7 @@ export const pageSeo: Record<string, Record<string, LocaleSeo>> = {
 		pt: {
 			title: "O Que Oferecemos — Pagamentos, Transferências e Multi-Moeda",
 			description:
-				"Envie dinheiro instantaneamente para amigos e família em todo o mundo. Guarde mais de 30 moedas, troque ao câmbio real e pague com zero taxas ocultas. Até 5x mais barato do que os bancos tradicionais.",
+				"Envie dinheiro instantaneamente para amigos e família em todo o mundo. Guarde mais de 30 moedas, troque ao câmbio real e pague sem taxas ocultas. Até 5x mais barato do que os bancos tradicionais.",
 			ogTitle: "Plexos — Pagamentos Instantâneos, Transferências Globais e 30+ Moedas",
 			ogDescription:
 				"Envie dinheiro globalmente, guarde várias moedas e troque ao câmbio real. Pagamentos entre pessoas, transferências bancárias e cartão a cartão — tudo numa app fintech.",
@@ -240,18 +240,18 @@ export const pageSeo: Record<string, Record<string, LocaleSeo>> = {
 		en: {
 			title: "Join the Waitlist — Be the First to Try Plexos",
 			description:
-				"Sign up for early access to Plexos — the international money app with zero-fee transfers, multi-currency accounts, and Mastercard debit cards. Be the first to know when we launch.",
+				"Sign up for early access to Plexos — the international money app with low-fee transfers, multi-currency accounts, and Mastercard debit cards. Be the first to know when we launch.",
 			ogTitle: "Join the Plexos Waitlist — Coming Soon",
 			ogDescription:
-				"Be the first to experience borderless finance. Sign up for early access to international cards, zero-fee transfers, and multi-currency accounts.",
+				"Be the first to experience borderless finance. Sign up for early access to international cards, low-fee transfers, and multi-currency accounts.",
 		},
 		pt: {
 			title: "Lista de Espera — Seja o Primeiro a Experimentar o Plexos",
 			description:
-				"Registe-se para acesso antecipado ao Plexos — a app financeira internacional com transferências sem taxas, contas multi-moeda e cartões Mastercard. Seja o primeiro a saber quando lançarmos.",
+				"Registe-se para acesso antecipado ao Plexos — a app financeira internacional com transferências a baixo custo, contas multi-moeda e cartões Mastercard. Seja o primeiro a saber quando lançarmos.",
 			ogTitle: "Junte-se à Lista de Espera Plexos — Em Breve",
 			ogDescription:
-				"Seja o primeiro a experimentar finanças sem fronteiras. Registe-se para acesso antecipado a cartões internacionais, transferências sem taxas e contas multi-moeda.",
+				"Seja o primeiro a experimentar finanças sem fronteiras. Registe-se para acesso antecipado a cartões internacionais, transferências com taxas baixas e contas multi-moeda.",
 		},
 	},
 	support: {
