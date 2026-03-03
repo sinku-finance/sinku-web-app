@@ -53,7 +53,7 @@
     {
       "id": "is-bank",
       "question": "Is Plexos a bank?",
-      "answer": "No. Plexos is not a bank. We partner with licensed and regulated financial institutions to provide card issuance and compliance, while Plexos focuses on delivering a simple and powerful user experience."
+      "answer": "No. Plexos is not a bank or financial institution. Plexos is a technology platform that provides a user interface enabling access to services offered by independent third-party providers. Financial services, including payment card issuance and digital asset transfers, are provided by Rain (Signify Holdings Inc. / Nimbus LLC), and wallet functionality is powered by Privy. Plexos focuses on delivering a simple and powerful user experience."
     },
     {
       "id": "countries",
@@ -130,7 +130,7 @@
     {
       "id": "is-bank",
       "question": "O Plexos é um banco?",
-      "answer": "Não. O Plexos não é um banco. Trabalhamos com instituições financeiras licenciadas e regulamentadas para a emissão de cartões e conformidade, enquanto o Plexos se foca em oferecer uma experiência de utilizador simples e poderosa."
+      "answer": "Não. O Plexos não é um banco nem uma instituição financeira. O Plexos é uma plataforma tecnológica que disponibiliza uma interface de utilizador para acesso a serviços oferecidos por prestadores terceiros independentes. Os serviços financeiros, incluindo a emissão de cartões de pagamento e transferências de ativos digitais, são fornecidos pela Rain (Signify Holdings Inc. / Nimbus LLC), e a funcionalidade de carteira é fornecida pela Privy. O Plexos foca-se em oferecer uma experiência de utilizador simples e poderosa."
     },
     {
       "id": "countries",

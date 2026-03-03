@@ -45,10 +45,6 @@ export const footerConfig = {
 
 	// Company Info
 	company: {
-		name: "PLEXOS GROUP LTD",
-		registrationNumber: "12345678",
-		country: "England and Wales",
-		address: "123 Financial Street, London, EC1A 1BB, United Kingdom",
-		frnNumber: "987654",
+		name: "PLEXOS GLOBAL LTD",
 	},
 }

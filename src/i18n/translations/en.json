@@ -389,9 +389,11 @@
       "cookieSettings": "Cookie Settings"
     },
     "regulatory": {
-      "paragraph1": "To find out more about which Plexos entity you receive services from, please check our corresponding FAQ page. If you have any other questions, please reach out to us via the in-app chat in the Plexos app.",
-      "paragraph2": "Plexos Group Ltd is registered in England and Wales (No. 12345678), is authorised by the Financial Conduct Authority to offer e-money and payment services under the Electronic Money Regulations 2011 (FRN: 987654). Plexos is a trading name of Plexos Group Ltd.",
-      "paragraph3": "The registered address of Plexos Group Ltd is at 123 Financial Street, London, EC1A 1BB, United Kingdom. You can read more about our terms and policies on our website."
+      "paragraph1": "Plexos App is a technology platform and application developed by Plexos Global Ltd (Plexos), that provides a user interface enabling access to services offered by independent third-party providers. Plexos does not offer, hold, or transmit funds, crypto-assets, or provide any financial, custodial, or regulated services.",
+      "paragraph2": "All wallet functionality is powered by Privy, a non-custodial wallet infrastructure provider. Wallets are created and controlled solely by users and are not accessible by Plexos. All private keys remain under the exclusive control of the user.",
+      "paragraph3": "Any financial or payment-related services, including the issuance of payment cards, smart contract wallets, and processing of digital asset transfers, are provided solely by Signify Holdings Inc. and its subsidiary Nimbus LLC (Rain), a third-party licensed financial service provider. Rain operates under its own regulatory authorizations and is responsible for the compliance and performance of its services.",
+      "paragraph4": "By using Plexos App, you acknowledge and agree that Plexos acts solely as a software conduit and is not a financial institution or crypto-asset service provider under Regulation (EU) 2023/1114 (MiCAR) or any similar legislation. Any transactions, transfers, or financial operations are executed exclusively through third-party providers and are subject to their respective terms and policies.",
+      "paragraph5": "Please ensure you understand and agree to the terms and services of Rain, Privy, and any other applicable providers before using services accessed via Plexos App. The user is responsible for storing their own recovery phrase. If the recovery phrase is lost, the user might not be able to retrieve their private keys. All forms of investments carry risks, including the risk of losing all of the invested amount. Such activities may not be suitable for everyone."
     }
   },
   "cookies": {

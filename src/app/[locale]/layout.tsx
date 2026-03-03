@@ -36,8 +36,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     description: seo.description,
     keywords: seo.keywords,
     authors: [{ name: "Plexos" }],
-    creator: "Plexos Group Ltd",
-    publisher: "Plexos Group Ltd",
+    creator: "Plexos Global Ltd",
+    publisher: "Plexos Global Ltd",
     formatDetection: {
       email: false,
       address: false,

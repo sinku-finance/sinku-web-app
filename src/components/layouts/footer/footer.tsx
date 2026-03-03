@@ -73,6 +73,8 @@ export function Footer() {
 					<p>{t("regulatory.paragraph1")}</p>
 					<p>{t("regulatory.paragraph2")}</p>
 					<p>{t("regulatory.paragraph3")}</p>
+					<p>{t("regulatory.paragraph4")}</p>
+					<p>{t("regulatory.paragraph5")}</p>
 				</div>
 			</div>
 		</div>

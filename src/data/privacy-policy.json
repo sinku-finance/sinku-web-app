@@ -8,8 +8,8 @@
         "title": "Introduction",
         "content": [
           "At Plexos, protecting your personal data is fundamental to everything we do. This Privacy Policy explains what information we collect, why we collect it, how we use it, and the choices you have.",
-          "When we say 'Plexos', 'we', 'us', or 'our', we're referring to the Plexos entity that provides your account. You can find out which entity that is by scrolling to the bottom of your profile page in the app.",
-          "By using the Plexos app, website, or any of our services, you agree to the collection and use of your information in accordance with this policy."
+          "When we say 'Plexos', 'we', 'us', or 'our', we're referring to Plexos Global Ltd, the technology company that develops and operates the Plexos App. Plexos is a technology platform that provides a user interface enabling access to services offered by independent third-party providers, including Privy (wallet infrastructure) and Rain (financial services). Plexos does not itself offer, hold, or transmit funds or provide regulated financial services.",
+          "By using the Plexos app, website, or any of our services, you agree to the collection and use of your information in accordance with this policy. Please also review the privacy policies of our third-party service providers, as they may independently collect and process your data."
         ]
       },
       {
@@ -68,7 +68,7 @@
         "content": [
           "Depending on the type of data and the purpose, we rely on one or more of the following legal grounds to process your personal data:",
           "Contractual necessity — processing that is required to provide you with our services under the terms of your account agreement.",
-          "Legal obligation — processing that is necessary to comply with laws and regulations that apply to us as a regulated financial institution.",
+          "Legal obligation — processing that is necessary to comply with laws and regulations that apply to us and to the third-party financial service providers operating through our platform.",
           "Legitimate interests — processing that serves our business purposes (such as fraud prevention, product improvement, and security) provided it doesn't override your rights and freedoms.",
           "Consent — where you've given us explicit permission, for example to send you marketing communications or to use certain cookies. You can withdraw consent at any time."
         ]
@@ -82,7 +82,7 @@
         "subsections": [
           {
             "title": "Service providers",
-            "content": "Third parties that help us run our business — such as cloud hosting providers, identity verification services, card issuers (Mastercard), payment processors, and customer support tools. These providers are contractually bound to protect your data and can only use it for the purposes we specify."
+            "content": "Third parties that help us run our business and deliver services through our platform — including Privy (non-custodial wallet infrastructure), Signify Holdings Inc. and Nimbus LLC / Rain (payment cards and financial services), cloud hosting providers, identity verification services, card networks (Mastercard), and customer support tools. These providers are contractually bound to protect your data and can only use it for the purposes we specify."
           },
           {
             "title": "Regulatory and legal authorities",
@@ -206,8 +206,8 @@
         "title": "Introdução",
         "content": [
           "No Plexos, proteger os seus dados pessoais é fundamental em tudo o que fazemos. Esta Política de Privacidade explica que informações recolhemos, porque as recolhemos, como as utilizamos e as opções que tem.",
-          "Quando dizemos 'Plexos', 'nós' ou 'nosso', referimo-nos à entidade Plexos que fornece a sua conta. Pode descobrir qual é essa entidade no fundo da página de perfil no app.",
-          "Ao utilizar o app Plexos, o website ou qualquer um dos nossos serviços, concorda com a recolha e utilização das suas informações de acordo com esta política."
+          "Quando dizemos 'Plexos', 'nós' ou 'nosso', referimo-nos à Plexos Global Ltd, a empresa de tecnologia que desenvolve e opera a Plexos App. A Plexos é uma plataforma tecnológica que disponibiliza uma interface de utilizador para acesso a serviços oferecidos por prestadores terceiros independentes, incluindo a Privy (infraestrutura de carteiras) e a Rain (serviços financeiros). A Plexos não oferece, detém ou transmite fundos nem presta serviços financeiros regulados.",
+          "Ao utilizar a app Plexos, o website ou qualquer um dos nossos serviços, concorda com a recolha e utilização das suas informações de acordo com esta política. Consulte também as políticas de privacidade dos nossos prestadores de serviços terceiros, pois podem recolher e tratar os seus dados de forma independente."
         ]
       },
       {
@@ -266,7 +266,7 @@
         "content": [
           "Dependendo do tipo de dados e da finalidade, baseamo-nos numa ou mais das seguintes bases legais para tratar os seus dados pessoais:",
           "Necessidade contratual — tratamento necessário para lhe fornecer os nossos serviços ao abrigo dos termos do seu contrato de conta.",
-          "Obrigação legal — tratamento necessário para cumprir leis e regulamentos que se aplicam a nós enquanto instituição financeira regulada.",
+          "Obrigação legal — tratamento necessário para cumprir leis e regulamentos que se aplicam a nós e aos prestadores de serviços financeiros terceiros que operam através da nossa plataforma.",
           "Interesses legítimos — tratamento que serve os nossos propósitos comerciais (como prevenção de fraude, melhoria do produto e segurança) desde que não prevaleça sobre os seus direitos e liberdades.",
           "Consentimento — quando nos deu permissão explícita, por exemplo para enviar comunicações de marketing ou utilizar certos cookies. Pode retirar o consentimento a qualquer momento."
         ]
@@ -280,7 +280,7 @@
         "subsections": [
           {
             "title": "Prestadores de serviços",
-            "content": "Terceiros que nos ajudam a operar o negócio — como fornecedores de alojamento em nuvem, serviços de verificação de identidade, emissores de cartões (Mastercard), processadores de pagamentos e ferramentas de suporte ao cliente. Estes fornecedores estão contratualmente obrigados a proteger os seus dados e só podem utilizá-los para os fins que especificamos."
+            "content": "Terceiros que nos ajudam a operar o negócio e fornecer serviços através da nossa plataforma — incluindo a Privy (infraestrutura de carteiras não custodiais), a Signify Holdings Inc. e Nimbus LLC / Rain (cartões de pagamento e serviços financeiros), fornecedores de alojamento em nuvem, serviços de verificação de identidade, redes de cartões (Mastercard) e ferramentas de suporte ao cliente. Estes fornecedores estão contratualmente obrigados a proteger os seus dados e só podem utilizá-los para os fins que especificamos."
           },
           {
             "title": "Autoridades reguladoras e legais",

@@ -7,8 +7,8 @@
         "id": "welcome",
         "title": "Welcome to Plexos",
         "content": [
-          "These Terms of Service ('Terms') govern your use of the Plexos mobile application, website, and all related services provided by Plexos Group Ltd and its affiliates ('Plexos', 'we', 'us', or 'our').",
-          "By creating a Plexos account, accessing our app, or using any of our services, you agree to be bound by these Terms. If you do not agree, please do not use our services.",
+          "These Terms of Service ('Terms') govern your use of the Plexos mobile application, website, and related technology platform provided by Plexos Global Ltd ('Plexos', 'we', 'us', or 'our'). Plexos is a technology platform that provides a user interface enabling access to services offered by independent third-party providers. Plexos does not itself offer, hold, or transmit funds, crypto-assets, or provide any financial, custodial, or regulated services.",
+          "By creating a Plexos account, accessing our app, or using any of our services, you agree to be bound by these Terms, as well as the terms and policies of the third-party providers whose services are accessed through the Plexos App, including Privy (wallet infrastructure) and Rain (financial services). If you do not agree, please do not use our services.",
           "Please read these Terms carefully. They contain important information about your rights and obligations."
         ]
       },
@@ -58,12 +58,12 @@
         "id": "services",
         "title": "Our services",
         "content": [
-          "Plexos provides a range of financial services through our mobile app. The availability of specific features may vary by country and may change over time."
+          "Plexos provides a technology platform through our mobile app that enables access to financial services offered by independent third-party providers. The availability of specific features may vary by country and may change over time. Plexos acts solely as a software conduit and is not a financial institution."
         ],
         "subsections": [
           {
             "title": "Plexos account",
-            "content": "Your Plexos account allows you to hold, send, and receive money. You can view your balance, transaction history, and account details at any time in the app."
+            "content": "Your Plexos account provides access to wallet and financial services through our third-party partners. All wallet functionality is powered by Privy, a non-custodial wallet infrastructure provider. Wallets are created and controlled solely by users and are not accessible by Plexos. You can view your balance, transaction history, and account details at any time in the app."
           },
           {
             "title": "Transfers",
@@ -71,7 +71,7 @@
           },
           {
             "title": "Debit card",
-            "content": "We may issue you a Plexos debit card (physical or virtual) powered by Mastercard. Your card can be used for purchases anywhere Mastercard is accepted, both online and in-store, domestically and internationally. Card usage is subject to our card terms and any applicable spending limits."
+            "content": "Through our partnership with Signify Holdings Inc. and its subsidiary Nimbus LLC (Rain), you may be issued a payment card (physical or virtual) powered by Mastercard. Rain is a third-party licensed financial service provider responsible for the issuance of payment cards and processing of transactions. Card usage is subject to Rain's terms and any applicable spending limits."
           },
           {
             "title": "Adding money",
@@ -142,7 +142,7 @@
         "id": "intellectual-property",
         "title": "Intellectual property",
         "content": [
-          "The Plexos name, logo, app design, website, and all related content are owned by Plexos Group Ltd and are protected by intellectual property laws. You may not copy, modify, distribute, or create derivative works based on our materials without our prior written consent.",
+          "The Plexos name, logo, app design, website, and all related content are owned by Plexos Global Ltd and are protected by intellectual property laws. You may not copy, modify, distribute, or create derivative works based on our materials without our prior written consent.",
           "We grant you a limited, non-exclusive, non-transferable licence to use the Plexos app for your personal, non-commercial use in accordance with these Terms. This licence is revocable and can be terminated if you breach these Terms."
         ]
       },
@@ -242,8 +242,8 @@
         "id": "welcome",
         "title": "Bem-vindo ao Plexos",
         "content": [
-          "Estes Termos de Serviço ('Termos') regem a utilização da aplicação móvel Plexos, do website e de todos os serviços relacionados fornecidos pela Plexos Group Ltd e suas afiliadas ('Plexos', 'nós' ou 'nosso').",
-          "Ao criar uma conta Plexos, aceder ao nosso app ou utilizar qualquer um dos nossos serviços, concorda em ficar vinculado a estes Termos. Se não concordar, por favor não utilize os nossos serviços.",
+          "Estes Termos de Serviço ('Termos') regem a utilização da aplicação móvel Plexos, do website e da plataforma tecnológica fornecida pela Plexos Global Ltd ('Plexos', 'nós' ou 'nosso'). A Plexos é uma plataforma tecnológica que disponibiliza uma interface de utilizador para acesso a serviços oferecidos por prestadores terceiros independentes. A Plexos não oferece, detém ou transmite fundos, criptoativos, nem presta quaisquer serviços financeiros, de custódia ou regulados.",
+          "Ao criar uma conta Plexos, aceder ao nosso app ou utilizar qualquer um dos nossos serviços, concorda em ficar vinculado a estes Termos, bem como aos termos e políticas dos prestadores terceiros cujos serviços são acedidos através da Plexos App, incluindo a Privy (infraestrutura de carteiras) e a Rain (serviços financeiros). Se não concordar, por favor não utilize os nossos serviços.",
           "Leia estes Termos com atenção. Contêm informações importantes sobre os seus direitos e obrigações."
         ]
       },
@@ -293,12 +293,12 @@
         "id": "services",
         "title": "Os nossos serviços",
         "content": [
-          "O Plexos fornece uma gama de serviços financeiros através da nossa aplicação móvel. A disponibilidade de funcionalidades específicas pode variar por país e pode mudar ao longo do tempo."
+          "A Plexos fornece uma plataforma tecnológica através da nossa aplicação móvel que permite o acesso a serviços financeiros oferecidos por prestadores terceiros independentes. A disponibilidade de funcionalidades específicas pode variar por país e pode mudar ao longo do tempo. A Plexos atua exclusivamente como um intermediário de software e não é uma instituição financeira."
         ],
         "subsections": [
           {
             "title": "Conta Plexos",
-            "content": "A sua conta Plexos permite-lhe manter, enviar e receber dinheiro. Pode ver o seu saldo, histórico de transacções e detalhes da conta a qualquer momento no app."
+            "content": "A sua conta Plexos permite-lhe aceder a serviços de carteira e financeiros através dos nossos parceiros terceiros. Toda a funcionalidade de carteira é fornecida pela Privy, um prestador de infraestrutura de carteiras não custodiais. As carteiras são criadas e controladas exclusivamente pelos utilizadores e não são acessíveis pela Plexos. Pode ver o seu saldo, histórico de transações e detalhes da conta a qualquer momento na app."
           },
           {
             "title": "Transferências",
@@ -306,7 +306,7 @@
           },
           {
             "title": "Cartão de débito",
-            "content": "Podemos emitir-lhe um cartão de débito Plexos (físico ou virtual) da Mastercard. O seu cartão pode ser usado para compras onde quer que a Mastercard seja aceite, tanto online como em loja, nacional e internacionalmente. A utilização do cartão está sujeita aos termos do cartão e aos limites de gasto aplicáveis."
+            "content": "Através da nossa parceria com a Signify Holdings Inc. e a sua subsidiária Nimbus LLC (Rain), poderá ser-lhe emitido um cartão de pagamento (físico ou virtual) da Mastercard. A Rain é um prestador de serviços financeiros licenciado responsável pela emissão de cartões de pagamento e processamento de transações. A utilização do cartão está sujeita aos termos da Rain e aos limites de gasto aplicáveis."
           },
           {
             "title": "Adicionar dinheiro",
@@ -377,7 +377,7 @@
         "id": "intellectual-property",
         "title": "Propriedade intelectual",
         "content": [
-          "O nome Plexos, logótipo, design do app, website e todo o conteúdo relacionado são propriedade da Plexos Group Ltd e estão protegidos por leis de propriedade intelectual. Não pode copiar, modificar, distribuir ou criar obras derivadas baseadas nos nossos materiais sem o nosso consentimento prévio por escrito.",
+          "O nome Plexos, logótipo, design do app, website e todo o conteúdo relacionado são propriedade da Plexos Global Ltd e estão protegidos por leis de propriedade intelectual. Não pode copiar, modificar, distribuir ou criar obras derivadas baseadas nos nossos materiais sem o nosso consentimento prévio por escrito.",
           "Concedemos-lhe uma licença limitada, não exclusiva e intransferível para utilizar o app Plexos para uso pessoal e não comercial, de acordo com estes Termos. Esta licença é revogável e pode ser terminada se violar estes Termos."
         ]
       },
