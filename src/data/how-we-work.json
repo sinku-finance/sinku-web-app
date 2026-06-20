@@ -1,0 +1,368 @@
+{
+  "en": {
+    "title": "How We Work",
+    "lastUpdated": "March 2026",
+    "sections": [
+      {
+        "id": "welcome",
+        "title": "Welcome to our transparency page",
+        "content": [
+          "At Sinku, we believe you should understand exactly how your financial technology works. We are not a bank, not a traditional financial institution. We are something new. We are the technology behind your financial freedom.",
+          "The purpose of this document is to explain, clearly and definitively, how Sinku operates, how our technology and partnerships work, and how we ensure that everything we do fully respects applicable laws and regulations."
+        ]
+      },
+      {
+        "id": "what-we-are",
+        "title": "1. What is Sinku?",
+        "content": [
+          "Sinku is a financial technology platform — not a bank and not a licensed financial institution.",
+          "We provide a mobile app that serves as a unified interface to access financial services delivered by independent, licensed third-party partners. When you use Sinku, you are using our software to interact with services provided by regulated partners like our licensed financial partner (for payment cards) and Privy (for wallet infrastructure).",
+          "Our platform operates on the principle that you should be in control of your finances. Sinku does not hold, control, or have custody of your funds. We provide the technology layer that makes accessing financial services simple, transparent, and accessible — no matter where you are."
+        ],
+        "subsections": [
+          {
+            "title": "What makes us different",
+            "content": "Unlike traditional banks and financial institutions that hold your money and act as intermediaries, Sinku is a technology company that connects you directly to financial services. Your funds are held by our regulated partners, not by us. This means:\n\nNo risk of Sinku going bankrupt and losing your funds — your assets are held by licensed, regulated institutions.\n\nFull transparency — you can see exactly where your money is and how it's being managed.\n\nLower costs — by removing unnecessary intermediaries, we can offer better rates and lower fees."
+          },
+          {
+            "title": "Our role",
+            "content": "Sinku acts as a software provider. We build and maintain the app you use, handle customer support, and ensure the best possible user experience. The financial services themselves — card issuance, payment processing, wallet management — are provided by our licensed partners under their own regulatory authorisations."
+          }
+        ]
+      },
+      {
+        "id": "how-technology-works",
+        "title": "2. How does our technology work?",
+        "content": [
+          "Sinku is built on a modern financial technology architecture that combines the best of traditional fintech with blockchain-based infrastructure. Here's how the key components work:"
+        ],
+        "subsections": [
+          {
+            "title": "Your wallet",
+            "content": "When you create a Sinku account, a digital wallet is created for you through our partner Privy. This wallet uses non-custodial technology, meaning that Sinku does not have access to your private keys. You maintain full control over your wallet and its contents.\n\nYour wallet security is protected by advanced cryptographic technology. Soon, with the adoption of Passkeys, your wallet credentials will be generated and stored exclusively on your phone or computer, giving you complete custody and control with maximum hardware security."
+          },
+          {
+            "title": "Transaction processing",
+            "content": "When you make a payment or transfer through Sinku, the process works as follows:\n\n1. You initiate the transaction in the app\n2. The transaction details are prepared by our software\n3. You authorise the transaction (the final validation happens on your device)\n4. The transaction is processed by our partner infrastructure\n5. Settlement occurs directly — your funds move without passing through Sinku accounts\n\nAt no point do your funds pass through accounts owned by Sinku. Our software simply facilitates the connection between you and the financial infrastructure."
+          },
+          {
+            "title": "Security architecture",
+            "content": "Our security architecture is built on two pillars:\n\nBackend security: For most services, communication occurs exclusively between the Sinku backend and our partners. Your browser or app does not interact directly with these services. All transmission is protected by transport-layer encryption (TLS).\n\nEnd-to-end encryption: For authentication services, Sinku does not access the communications between your device and our authentication partners. This interaction occurs end-to-end via TLS encryption, ensuring that access keys and sensitive authentication data remain isolated from our infrastructure."
+          }
+        ]
+      },
+      {
+        "id": "our-partners",
+        "title": "3. Our partners and regulatory framework",
+        "content": [
+          "Sinku does not operate in a regulatory vacuum. As a global platform, Sinku operates in strict compliance with the laws of the countries where we are present.",
+          "Our operations are governed by a framework of rules that ensure user safety, data privacy, and operational integrity. Although Sinku is a technology provider, we have an ethical and legal commitment to prevent our software from being used to facilitate illegal activities."
+        ],
+        "subsections": [
+          {
+            "title": "Licensed Partner — Payment cards and financial services",
+            "content": "Our licensed financial partner is responsible for issuing payment cards on the Visa and Mastercard networks. Our licensed partner operates under its own regulatory authorisations and is responsible for:\n\nCard issuance (virtual and physical)\nPayment processing\nCompliance with financial regulations\nKYC (Know Your Customer) verification for card services\n\nWhen you use your Sinku card, the transaction is processed through our licensed partner's infrastructure on the Visa or Mastercard network."
+          },
+          {
+            "title": "Privy — Wallet infrastructure",
+            "content": "Privy provides the non-custodial wallet infrastructure that powers your Sinku wallet. Privy is responsible for:\n\nWallet creation and management\nKey security and authentication\nWallet recovery mechanisms\n\nImportant: Privy's non-custodial model means that neither Sinku nor Privy can access your wallet's private keys. You are the sole controller of your wallet."
+          },
+          {
+            "title": "Compliance and anti-money laundering",
+            "content": "Our compliance policies are based on community protection and respect for global standards including:\n\nAnti-Money Laundering (AML) regulations\nCounter-Terrorist Financing (CTF) requirements\nEconomic sanctions compliance\nKnow Your Customer (KYC) procedures\n\nEverything that connects to the traditional financial system is regulated — our technology operates on top of these institutions to ensure that the final ownership remains yours."
+          }
+        ]
+      },
+      {
+        "id": "why-not-bank",
+        "title": "4. Why Sinku is not a bank",
+        "content": [
+          "To fully understand why Sinku is not a bank, it's important to understand the fundamental differences in our architecture:"
+        ],
+        "subsections": [
+          {
+            "title": "We are not custodians",
+            "content": "To be a custodian, an institution needs to control private keys or have the ability to move funds on behalf of clients. Our technology is non-custodial through Privy. Without the ability to control your keys, it is technically impossible for us to transfer, freeze, or confiscate your funds."
+          },
+          {
+            "title": "We are not intermediaries",
+            "content": "Traditional financial intermediaries act 'on behalf of' clients — they receive orders, manage resources, and execute transactions in your name. Sinku does not act on your behalf. We are the technology you use to access financial services directly.\n\nThink of Sinku like a web browser: it allows you to access your bank's website and make transactions, but the browser is not the bank and not the financial intermediary. It's simply the technology tool. Similarly, Sinku is the interface that connects you directly to financial services."
+          },
+          {
+            "title": "What we are",
+            "content": "We are a technology service provider. We understand that financial regulation exists — and rightly so — to mitigate risks associated with financial institutions (counterparty risk, insolvency, commingling). At Sinku, these risks don't apply in the same way: since your funds are not under our custody and we don't perform intermediation, the traditional prudential rules apply to our licensed partners, not to us.\n\nHowever, we work with regulated partners for all financial operations. Everything that touches the traditional financial system is regulated — our technology operates on top of these institutions to ensure your protection."
+          }
+        ]
+      },
+      {
+        "id": "the-card",
+        "title": "5. The Sinku Card",
+        "content": [
+          "The Sinku Card is not just a payment method — it's a tool for financial efficiency and freedom. It is designed to give you access to the global economy with transparency and control."
+        ],
+        "subsections": [
+          {
+            "title": "How it works",
+            "content": "Your Sinku Card is issued through our partnership with our licensed financial partner on the Visa and Mastercard networks. The card is built on the principle that you remain in control of your funds — before, during, and after each transaction.\n\nUnlike traditional cards where the issuing bank holds your money, with Sinku your funds remain in your wallet until the moment of payment. The card draws from your Sinku wallet to process each transaction."
+          },
+          {
+            "title": "Security features",
+            "content": "The card uses smart contract technology to apply security modules to your wallet:\n\nRoles Module: Acts as a shield for your account. It authorises the card system to move only a specific token to a single, secure destination. The card operates in an 'isolated corridor' without any power over the rest of your assets.\n\nDelay Module: To ensure security and accuracy of balances, non-card transactions may have a brief processing interval. This is essential to prevent processing conflicts and maintain the integrity of your wallet.\n\nTip: We recommend using your Sinku wallet like a 'spending vault'. Keep only the amount you plan to use day-to-day or while travelling."
+          },
+          {
+            "title": "Why we ask for identity verification",
+            "content": "Although your wallet is non-custodial, the Sinku Card connects to the Visa and Mastercard networks, which are traditional, regulated payment systems. For these networks to process your payments at millions of establishments worldwide, it is mandatory to comply with KYC (Know Your Customer) and anti-money laundering rules.\n\nWe request your identification documents (such as a government-issued ID and NIF/TIN) only to issue the card and comply with these requirements. This does not give us the power to control or confiscate your assets."
+          }
+        ]
+      },
+      {
+        "id": "self-custody",
+        "title": "6. Self-custody: your responsibility",
+        "content": [
+          "By choosing a non-custodial model, you eliminate the risk of an institution going bankrupt and taking your funds with it. However, you also assume full responsibility for the security of your access. It is essential that you understand the following:"
+        ],
+        "subsections": [
+          {
+            "title": "Key and credential management",
+            "content": "Since Sinku does not have access to your private key, we do not have the technical ability to recover your funds or reset your credentials if you lose access to your device or your backup credentials (recovery phrase/recovery keys)."
+          },
+          {
+            "title": "Transaction irreversibility",
+            "content": "Certain transactions processed through blockchain are immutable. Once you sign an operation (sending funds), it cannot be undone, cancelled, or reversed by Sinku."
+          },
+          {
+            "title": "Device security",
+            "content": "The protection of your assets ultimately depends on the security of your device. Keep your phone protected with a screen lock, keep the Sinku app updated, and never share your credentials. If your device is compromised by malware or accessed by third parties, your security may be at risk."
+          }
+        ]
+      },
+      {
+        "id": "what-if-sinku-stops",
+        "title": "7. What happens if Sinku stops operating?",
+        "content": [
+          "This is the ultimate proof of our non-custodial nature. If Sinku were to shut down today, your funds would remain safe because they are not with us — they are held by our licensed partners and secured by your wallet's private keys.",
+          "Your card-related funds, held through our licensed partner, would continue to be managed under our licensed partner's regulatory framework. Your wallet assets, secured through Privy's non-custodial infrastructure, would remain accessible using your private keys through any compatible wallet interface.",
+          "Sinku is the gateway to your financial services — but the keys and the assets are yours."
+        ]
+      },
+      {
+        "id": "tax-reporting",
+        "title": "8. Tax and reporting responsibilities",
+        "content": [
+          "As a technology service provider, Sinku does not perform tax reporting on behalf of individual users in the same way a traditional bank would. However, certain financial operations processed through our regulated partners may be subject to reporting requirements under applicable laws."
+        ],
+        "subsections": [
+          {
+            "title": "Your obligations",
+            "content": "You are solely responsible for determining and fulfilling any tax obligations arising from your use of Sinku services. This includes reporting any relevant transactions to your local tax authority and declaring any applicable taxes.\n\nThe specific tax reporting requirements depend on the laws of your country of residence. We recommend consulting a qualified tax professional for guidance on your obligations."
+          },
+          {
+            "title": "What data we hold",
+            "content": "We store your registration data (such as your email, phone number, and identification details like NIF/TIN). We do this for two practical reasons:\n\nPartner integration: So you can access services like card issuance (via our licensed partner) and other partner features that require identification.\n\nEase of access: So you don't need to fill in forms every time you open the app."
+          }
+        ]
+      },
+      {
+        "id": "security-commitment",
+        "title": "9. Our commitment to security",
+        "content": [
+          "Transparency demands that we are direct: while our technology and our partners' infrastructure are built to the highest security standards, no system is completely immune to risk. At Sinku, security is not a finished product — it is a continuous process.",
+          "We work tirelessly monitoring updates, following global audits, and reviewing systems to ensure the integrity of your assets is always protected. Our commitment is to provide you with the most secure, transparent, and accessible financial technology possible."
+        ]
+      },
+      {
+        "id": "contact",
+        "title": "Questions?",
+        "content": [
+          "If you have questions about how Sinku works, our technology, or our partners, get in touch:",
+          "In-app chat: Go to your profile and tap 'Help'",
+          "Email: support@sinku.io",
+          "We're here to help and committed to full transparency."
+        ]
+      }
+    ]
+  },
+  "pt": {
+    "title": "Como Funcionamos",
+    "lastUpdated": "Março de 2026",
+    "sections": [
+      {
+        "id": "welcome",
+        "title": "Bem-vindo à nossa página de transparência",
+        "content": [
+          "No Sinku, acreditamos que deve entender exactamente como a sua tecnologia financeira funciona. Não somos um banco, não somos uma instituição financeira tradicional. Somos algo novo. Somos a tecnologia por trás da sua liberdade financeira.",
+          "O objectivo deste documento é esclarecer, de forma clara e definitiva, como o Sinku opera, como a nossa tecnologia e parcerias funcionam, e como garantimos que tudo o que fazemos respeita integralmente a legislação aplicável."
+        ]
+      },
+      {
+        "id": "what-we-are",
+        "title": "1. O que é o Sinku?",
+        "content": [
+          "O Sinku é uma plataforma de tecnologia financeira — não um banco nem uma instituição financeira licenciada.",
+          "Disponibilizamos uma aplicação móvel que serve como interface unificada para aceder a serviços financeiros prestados por parceiros terceiros independentes e licenciados. Quando utiliza o Sinku, está a usar o nosso software para interagir com serviços fornecidos por parceiros regulados como o nosso parceiro financeiro licenciado (para cartões de pagamento) e a Privy (para infraestrutura de carteiras).",
+          "A nossa plataforma opera sob o princípio de que deve ter o controlo das suas finanças. O Sinku não detém, controla ou tem custódia dos seus fundos. Fornecemos a camada tecnológica que torna o acesso a serviços financeiros simples, transparente e acessível — independentemente de onde esteja."
+        ],
+        "subsections": [
+          {
+            "title": "O que nos torna diferentes",
+            "content": "Ao contrário dos bancos e instituições financeiras tradicionais que detêm o seu dinheiro e actuam como intermediários, o Sinku é uma empresa de tecnologia que o conecta directamente a serviços financeiros. Os seus fundos são detidos pelos nossos parceiros regulados, não por nós. Isto significa:\n\nSem risco de o Sinku falir e perder os seus fundos — os seus activos são detidos por instituições licenciadas e reguladas.\n\nTransparência total — pode ver exactamente onde está o seu dinheiro e como está a ser gerido.\n\nCustos mais baixos — ao remover intermediários desnecessários, podemos oferecer melhores taxas e taxas mais baixas."
+          },
+          {
+            "title": "O nosso papel",
+            "content": "O Sinku actua como fornecedor de software. Construímos e mantemos a app que utiliza, tratamos do suporte ao cliente e garantimos a melhor experiência de utilizador possível. Os serviços financeiros em si — emissão de cartões, processamento de pagamentos, gestão de carteiras — são fornecidos pelos nossos parceiros licenciados sob as suas próprias autorizações regulatórias."
+          }
+        ]
+      },
+      {
+        "id": "how-technology-works",
+        "title": "2. Como funciona a nossa tecnologia?",
+        "content": [
+          "O Sinku é construído sobre uma arquitectura moderna de tecnologia financeira que combina o melhor da fintech tradicional com infraestrutura baseada em blockchain. Eis como funcionam os componentes principais:"
+        ],
+        "subsections": [
+          {
+            "title": "A sua carteira",
+            "content": "Quando cria uma conta Sinku, é criada uma carteira digital para si através do nosso parceiro Privy. Esta carteira utiliza tecnologia não custodial, o que significa que o Sinku não tem acesso às suas chaves privadas. Mantém o controlo total sobre a sua carteira e o seu conteúdo.\n\nA segurança da sua carteira é protegida por tecnologia criptográfica avançada. Em breve, com a adopção de Passkeys, as credenciais da sua carteira serão geradas e armazenadas exclusivamente no seu telemóvel ou computador, dando-lhe custódia e controlo completos com a máxima segurança de hardware."
+          },
+          {
+            "title": "Processamento de transacções",
+            "content": "Quando faz um pagamento ou transferência através do Sinku, o processo funciona da seguinte forma:\n\n1. Inicia a transacção na app\n2. Os detalhes da transacção são preparados pelo nosso software\n3. Autoriza a transacção (a validação final acontece no seu dispositivo)\n4. A transacção é processada pela infraestrutura dos nossos parceiros\n5. A liquidação ocorre directamente — os seus fundos movem-se sem passar por contas do Sinku\n\nEm nenhum momento os seus fundos passam por contas de propriedade do Sinku. O nosso software simplesmente facilita a ligação entre si e a infraestrutura financeira."
+          },
+          {
+            "title": "Arquitectura de segurança",
+            "content": "A nossa arquitectura de segurança é construída sobre dois pilares:\n\nSegurança do backend: Para a maioria dos serviços, a comunicação ocorre exclusivamente entre o backend do Sinku e os nossos parceiros. O seu navegador ou app não interage directamente com estes serviços. Toda a transmissão é protegida por encriptação de camada de transporte (TLS).\n\nEncriptação ponta a ponta: Para serviços de autenticação, o Sinku não acede às comunicações entre o seu dispositivo e os nossos parceiros de autenticação. Esta interacção ocorre ponta a ponta via encriptação TLS, garantindo que as chaves de acesso e dados sensíveis de autenticação permanecem isolados da nossa infraestrutura."
+          }
+        ]
+      },
+      {
+        "id": "our-partners",
+        "title": "3. Os nossos parceiros e enquadramento regulatório",
+        "content": [
+          "O Sinku não opera num vácuo regulatório. Como plataforma global, o Sinku opera em estrita conformidade com as leis dos países onde estamos presentes.",
+          "As nossas operações são regidas por um enquadramento de regras que garante a segurança dos utilizadores, a privacidade de dados e a integridade operacional. Embora o Sinku seja um fornecedor de tecnologia, temos um compromisso ético e legal de evitar que o nosso software seja utilizado para facilitar actividades ilegais."
+        ],
+        "subsections": [
+          {
+            "title": "Parceiro Licenciado — Cartões de pagamento e serviços financeiros",
+            "content": "O nosso parceiro financeiro licenciado é responsável pela emissão de cartões de pagamento nas redes Visa e Mastercard. O nosso parceiro licenciado opera sob as suas próprias autorizações regulatórias e é responsável por:\n\nEmissão de cartões (virtuais e físicos)\nProcessamento de pagamentos\nConformidade com regulamentos financeiros\nVerificação KYC (Conheça o Seu Cliente) para serviços de cartão\n\nQuando utiliza o seu cartão Sinku, a transacção é processada através da infraestrutura do nosso parceiro licenciado na rede Visa ou Mastercard."
+          },
+          {
+            "title": "Privy — Infraestrutura de carteiras",
+            "content": "A Privy fornece a infraestrutura de carteiras não custodiais que alimenta a sua carteira Sinku. A Privy é responsável por:\n\nCriação e gestão de carteiras\nSegurança de chaves e autenticação\nMecanismos de recuperação de carteiras\n\nImportante: O modelo não custodial da Privy significa que nem o Sinku nem a Privy podem aceder às chaves privadas da sua carteira. Só o utilizador controla a sua carteira."
+          },
+          {
+            "title": "Conformidade e anti-branqueamento de capitais",
+            "content": "As nossas políticas de conformidade baseiam-se na protecção da comunidade e no respeito às normas globais incluindo:\n\nRegulamentos Anti-Branqueamento de Capitais (AML)\nRequisitos de Combate ao Financiamento do Terrorismo (CTF)\nConformidade com sanções económicas\nProcedimentos de Conheça o Seu Cliente (KYC)\n\nTudo o que se conecta ao sistema financeiro tradicional é regulado — a nossa tecnologia opera sobre estas instituições para garantir que a propriedade final permanece sua."
+          }
+        ]
+      },
+      {
+        "id": "why-not-bank",
+        "title": "4. Porque é que o Sinku não é um banco",
+        "content": [
+          "Para compreender plenamente porque é que o Sinku não é um banco, é importante entender as diferenças fundamentais na nossa arquitectura:"
+        ],
+        "subsections": [
+          {
+            "title": "Não somos custodiantes",
+            "content": "Para ser custodiante, uma instituição precisa de controlar chaves privadas ou ter a capacidade de movimentar fundos em nome dos clientes. A nossa tecnologia é não custodial através da Privy. Sem a capacidade de controlar as suas chaves, é tecnicamente impossível para nós transferir, congelar ou confiscar os seus fundos."
+          },
+          {
+            "title": "Não somos intermediários",
+            "content": "Os intermediários financeiros tradicionais actuam 'em nome de' clientes — recebem ordens, gerem recursos e executam transacções em seu nome. O Sinku não actua em seu nome. Somos a tecnologia que utiliza para aceder directamente a serviços financeiros.\n\nPense no Sinku como um navegador web: permite-lhe aceder ao website do seu banco e fazer transacções, mas o navegador não é o banco nem o intermediário financeiro. É simplesmente a ferramenta tecnológica. Da mesma forma, o Sinku é a interface que o conecta directamente a serviços financeiros."
+          },
+          {
+            "title": "O que somos então",
+            "content": "Somos um fornecedor de serviços de tecnologia. Entendemos que a regulação financeira existe — e com razão — para mitigar riscos associados a instituições financeiras (risco de contraparte, insolvência, mistura de fundos). No Sinku, estes riscos não se aplicam da mesma forma: como os seus fundos não estão sob a nossa custódia e não realizamos intermediação, as regras prudenciais tradicionais aplicam-se aos nossos parceiros licenciados, não a nós.\n\nNo entanto, trabalhamos com parceiros regulados para todas as operações financeiras. Tudo o que toca o sistema financeiro tradicional é regulado — a nossa tecnologia opera sobre estas instituições para garantir a sua protecção."
+          }
+        ]
+      },
+      {
+        "id": "the-card",
+        "title": "5. O Cartão Sinku",
+        "content": [
+          "O Cartão Sinku não é apenas um meio de pagamento — é uma ferramenta de eficiência financeira e liberdade. Foi concebido para lhe dar acesso à economia global com transparência e controlo."
+        ],
+        "subsections": [
+          {
+            "title": "Como funciona",
+            "content": "O seu Cartão Sinku é emitido através da nossa parceria com o nosso parceiro financeiro licenciado nas redes Visa e Mastercard. O cartão é construído sob o princípio de que mantém o controlo total dos seus fundos — antes, durante e depois de cada transacção.\n\nAo contrário dos cartões tradicionais em que o banco emissor detém o seu dinheiro, com o Sinku os seus fundos permanecem na sua carteira até ao momento do pagamento. O cartão retira da sua carteira Sinku para processar cada transacção."
+          },
+          {
+            "title": "Funcionalidades de segurança",
+            "content": "O cartão utiliza tecnologia de contratos inteligentes para aplicar módulos de segurança à sua carteira:\n\nMódulo de Funções: Actua como um escudo para a sua conta. Autoriza o sistema do cartão a movimentar apenas um token específico para um destino único e seguro. O cartão opera num 'corredor isolado' sem qualquer poder sobre o resto dos seus activos.\n\nMódulo de Atraso: Para garantir a segurança e precisão dos saldos, transacções fora do uso do cartão podem ter um breve intervalo de processamento. Isto é essencial para evitar conflitos de processamento e manter a integridade da sua carteira.\n\nDica: Recomendamos usar a sua carteira Sinku como um 'cofre de gastos'. Mantenha apenas o valor que pretende usar no dia a dia ou em viagens."
+          },
+          {
+            "title": "Porque pedimos verificação de identidade",
+            "content": "Embora a sua carteira seja não custodial, o Cartão Sinku conecta-se às redes Visa e Mastercard, que são sistemas de pagamento tradicionais e regulados. Para que estas redes processem os seus pagamentos em milhões de estabelecimentos pelo mundo, é obrigatório cumprir as normas de KYC (Conheça o Seu Cliente) e prevenção ao branqueamento de capitais.\n\nSolicitamos os seus documentos de identificação (como documento de identificação oficial e NIF) apenas para emitir o cartão e cumprir estes requisitos. Isto não nos dá o poder de controlar ou confiscar os seus activos."
+          }
+        ]
+      },
+      {
+        "id": "self-custody",
+        "title": "6. Auto-custódia: a sua responsabilidade",
+        "content": [
+          "Ao escolher um modelo não custodial, elimina o risco de uma instituição falir e levar os seus fundos consigo. No entanto, também assume total responsabilidade pela segurança do seu acesso. É fundamental que compreenda o seguinte:"
+        ],
+        "subsections": [
+          {
+            "title": "Gestão de chaves e credenciais",
+            "content": "Como o Sinku não tem acesso à sua chave privada, não temos a capacidade técnica de recuperar os seus fundos ou redefinir as suas credenciais se perder o acesso ao seu dispositivo ou às suas credenciais de backup (frase de recuperação/chaves de recuperação)."
+          },
+          {
+            "title": "Irreversibilidade de transacções",
+            "content": "Certas transacções processadas através de blockchain são imutáveis. Uma vez que assina uma operação (envio de fundos), não pode ser desfeita, cancelada ou revertida pelo Sinku."
+          },
+          {
+            "title": "Segurança do dispositivo",
+            "content": "A protecção dos seus activos depende, em última instância, da segurança do seu dispositivo. Mantenha o telemóvel protegido com bloqueio de ecrã, mantenha a app Sinku actualizada e nunca partilhe as suas credenciais. Se o seu dispositivo for comprometido por malware ou acedido por terceiros, a sua segurança pode estar em risco."
+          }
+        ]
+      },
+      {
+        "id": "what-if-sinku-stops",
+        "title": "7. O que acontece se o Sinku deixar de operar?",
+        "content": [
+          "Esta é a prova definitiva da nossa natureza não custodial. Se o Sinku encerrasse hoje, os seus fundos permaneceriam seguros porque não estão connosco — são detidos pelos nossos parceiros licenciados e protegidos pelas chaves privadas da sua carteira.",
+          "Os seus fundos relacionados com o cartão, detidos através do nosso parceiro licenciado, continuariam a ser geridos sob o enquadramento regulatório do nosso parceiro licenciado. Os activos da sua carteira, protegidos pela infraestrutura não custodial da Privy, permaneceriam acessíveis usando as suas chaves privadas através de qualquer interface de carteira compatível.",
+          "O Sinku é a porta de entrada para os seus serviços financeiros — mas as chaves e os activos são seus."
+        ]
+      },
+      {
+        "id": "tax-reporting",
+        "title": "8. Responsabilidades fiscais e de reporte",
+        "content": [
+          "Como fornecedor de serviços de tecnologia, o Sinku não realiza reportes fiscais em nome dos utilizadores individuais da mesma forma que um banco tradicional. No entanto, certas operações financeiras processadas através dos nossos parceiros regulados podem estar sujeitas a requisitos de reporte ao abrigo das leis aplicáveis."
+        ],
+        "subsections": [
+          {
+            "title": "As suas obrigações",
+            "content": "É exclusivamente responsável por determinar e cumprir quaisquer obrigações fiscais decorrentes da utilização dos serviços Sinku. Isto inclui reportar quaisquer transacções relevantes à autoridade fiscal do seu país e declarar quaisquer impostos aplicáveis.\n\nOs requisitos específicos de reporte fiscal dependem das leis do seu país de residência. Recomendamos consultar um profissional fiscal qualificado para orientação sobre as suas obrigações."
+          },
+          {
+            "title": "Que dados mantemos",
+            "content": "Armazenamos os seus dados de registo (como e-mail, número de telefone e dados de identificação como NIF). Fazemos isto por dois motivos práticos:\n\nIntegração com parceiros: Para que possa aceder a serviços como emissão de cartões (via o nosso parceiro licenciado) e outras funcionalidades de parceiros que exigem identificação.\n\nFacilidade de acesso: Para que não precise de preencher formulários cada vez que abre a app."
+          }
+        ]
+      },
+      {
+        "id": "security-commitment",
+        "title": "9. O nosso compromisso com a segurança",
+        "content": [
+          "A transparência exige que sejamos directos: embora a nossa tecnologia e a infraestrutura dos nossos parceiros sejam construídas com os mais elevados padrões de segurança, nenhum sistema é completamente imune a riscos. No Sinku, a segurança não é um produto acabado — é um processo contínuo.",
+          "Trabalhamos incansavelmente monitorizando actualizações, acompanhando auditorias globais e revendo sistemas para garantir que a integridade dos seus activos está sempre protegida. O nosso compromisso é fornecer-lhe a tecnologia financeira mais segura, transparente e acessível possível."
+        ]
+      },
+      {
+        "id": "contact",
+        "title": "Questões?",
+        "content": [
+          "Se tiver questões sobre como o Sinku funciona, a nossa tecnologia ou os nossos parceiros, entre em contacto:",
+          "Chat no app: Vá ao perfil e toque em 'Ajuda'",
+          "E-mail: support@sinku.io",
+          "Estamos aqui para ajudar e comprometidos com total transparência."
+        ]
+      }
+    ]
+  }
+}

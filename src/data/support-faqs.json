@@ -3,44 +3,44 @@
     {
       "id": "lost-access",
       "question": "I've lost access to my account or my card",
-      "answer": "Open your Plexos app and follow these steps:\n\nWhen logging in, tap Lost access to my phone number\nTap Forgot your passcode? and we'll help you regain access to your account via in-app chat\nIf you still can't access your account and chat, contact us at support@plexos.com.\n\nPlexos will never call you about your personal account without first alerting you via the in-app chat. If you need to block your card, you can do so instantly from the app."
+      "answer": "Open your Sinku app and follow these steps:\n\nWhen logging in, tap Lost access to my phone number\nTap Forgot your passcode? and we'll help you regain access to your account via in-app chat\nIf you still can't access your account and chat, contact us at support@sinku.io.\n\nSinku will never call you about your personal account without first alerting you via the in-app chat. If you need to block your card, you can do so instantly from the app."
     },
     {
       "id": "lost-passcode",
       "question": "I've lost my passcode",
-      "answer": "Open your Plexos app and follow these steps:\n\nEnter your phone number\nSelect Forgot your passcode?\nEnter your email\nIf your selfie and ID are recognised, you'll be prompted to change your information in-app. If not, you'll be directed to our support chat."
+      "answer": "Open your Sinku app and follow these steps:\n\nEnter your phone number\nSelect Forgot your passcode?\nEnter your email\nIf your selfie and ID are recognised, you'll be prompted to change your information in-app. If not, you'll be directed to our support chat."
     },
     {
       "id": "lost-phone-number",
       "question": "I've lost the phone number I used to sign up",
-      "answer": "Open your Plexos app and follow these steps:\n\nSelect Lost access to my phone number\nFill in the number you lost access to\nEnter your email\nEnter your passcode\nIf your selfie and ID are recognised, you'll be prompted to change your information in-app. If not, you'll be directed to our support chat."
+      "answer": "Open your Sinku app and follow these steps:\n\nSelect Lost access to my phone number\nFill in the number you lost access to\nEnter your email\nEnter your passcode\nIf your selfie and ID are recognised, you'll be prompted to change your information in-app. If not, you'll be directed to our support chat."
     },
     {
       "id": "lost-both",
       "question": "I've lost my passcode and the phone number I used to sign up",
-      "answer": "Open your Plexos app and follow these steps:\n\nEnter your phone number\nSelect Forgot your passcode?\nTake a verification selfie\nUpload your ID\nIf your selfie and ID are recognised, you'll be prompted to change your information in-app. If not, you'll be directed to our support chat."
+      "answer": "Open your Sinku app and follow these steps:\n\nEnter your phone number\nSelect Forgot your passcode?\nTake a verification selfie\nUpload your ID\nIf your selfie and ID are recognised, you'll be prompted to change your information in-app. If not, you'll be directed to our support chat."
     }
   ],
   "pt": [
     {
       "id": "lost-access",
       "question": "Perdi o acesso à minha conta ou ao meu cartão",
-      "answer": "Abra a app Plexos e siga estes passos:\n\nAo iniciar sessão, toque em Perdi o acesso ao meu número de telefone\nToque em Esqueceu a sua palavra-passe? e ajudamos a recuperar o acesso à sua conta através do chat na app\nSe ainda não conseguir aceder à sua conta e ao chat, contacte-nos em support@plexos.com.\n\nA Plexos nunca ligará para si sobre a sua conta pessoal sem antes alertá-lo através do chat na app. Se precisar de bloquear o seu cartão, pode fazê-lo instantaneamente na app."
+      "answer": "Abra a app Sinku e siga estes passos:\n\nAo iniciar sessão, toque em Perdi o acesso ao meu número de telefone\nToque em Esqueceu a sua palavra-passe? e ajudamos a recuperar o acesso à sua conta através do chat na app\nSe ainda não conseguir aceder à sua conta e ao chat, contacte-nos em support@sinku.io.\n\nA Sinku nunca ligará para si sobre a sua conta pessoal sem antes alertá-lo através do chat na app. Se precisar de bloquear o seu cartão, pode fazê-lo instantaneamente na app."
     },
     {
       "id": "lost-passcode",
       "question": "Perdi a minha palavra-passe",
-      "answer": "Abra a app Plexos e siga estes passos:\n\nIntroduza o seu número de telefone\nSelecione Esqueceu a sua palavra-passe?\nIntroduza o seu e-mail\nSe a sua selfie e documento de identidade forem reconhecidos, será solicitado a alterar as suas informações na app. Caso contrário, será direcionado para o nosso chat de suporte."
+      "answer": "Abra a app Sinku e siga estes passos:\n\nIntroduza o seu número de telefone\nSelecione Esqueceu a sua palavra-passe?\nIntroduza o seu e-mail\nSe a sua selfie e documento de identidade forem reconhecidos, será solicitado a alterar as suas informações na app. Caso contrário, será direcionado para o nosso chat de suporte."
     },
     {
       "id": "lost-phone-number",
       "question": "Perdi o número de telefone que usei para me registar",
-      "answer": "Abra a app Plexos e siga estes passos:\n\nSelecione Perdi o acesso ao meu número de telefone\nPreencha o número ao qual perdeu o acesso\nIntroduza o seu e-mail\nIntroduza a sua palavra-passe\nSe a sua selfie e documento de identidade forem reconhecidos, será solicitado a alterar as suas informações na app. Caso contrário, será direcionado para o nosso chat de suporte."
+      "answer": "Abra a app Sinku e siga estes passos:\n\nSelecione Perdi o acesso ao meu número de telefone\nPreencha o número ao qual perdeu o acesso\nIntroduza o seu e-mail\nIntroduza a sua palavra-passe\nSe a sua selfie e documento de identidade forem reconhecidos, será solicitado a alterar as suas informações na app. Caso contrário, será direcionado para o nosso chat de suporte."
     },
     {
       "id": "lost-both",
       "question": "Perdi a minha palavra-passe e o número de telefone que usei para me registar",
-      "answer": "Abra a app Plexos e siga estes passos:\n\nIntroduza o seu número de telefone\nSelecione Esqueceu a sua palavra-passe?\nTire uma selfie de verificação\nCarregue o seu documento de identidade\nSe a sua selfie e documento de identidade forem reconhecidos, será solicitado a alterar as suas informações na app. Caso contrário, será direcionado para o nosso chat de suporte."
+      "answer": "Abra a app Sinku e siga estes passos:\n\nIntroduza o seu número de telefone\nSelecione Esqueceu a sua palavra-passe?\nTire uma selfie de verificação\nCarregue o seu documento de identidade\nSe a sua selfie e documento de identidade forem reconhecidos, será solicitado a alterar as suas informações na app. Caso contrário, será direcionado para o nosso chat de suporte."
     }
   ]
 }

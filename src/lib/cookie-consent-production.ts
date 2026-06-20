@@ -23,13 +23,13 @@ export function setConsentCookie(data: CookieConsentData) {
 	const maxAge = 365 * 24 * 60 * 60
 	
 	// Set with security attributes
-	document.cookie = `plexos_consent=${encoded}; max-age=${maxAge}; path=/; secure; samesite=strict`
+	document.cookie = `sinku_consent=${encoded}; max-age=${maxAge}; path=/; secure; samesite=strict`
 }
 
 // Get consent from cookie
 export function getConsentCookie(): CookieConsentData | null {
 	const cookies = document.cookie.split(';')
-	const consentCookie = cookies.find(c => c.trim().startsWith('plexos_consent='))
+	const consentCookie = cookies.find(c => c.trim().startsWith('sinku_consent='))
 	
 	if (!consentCookie) return null
 	

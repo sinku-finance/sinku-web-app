@@ -1,25 +1,36 @@
 "use client";
 
-import { useState } from "react";
+import dynamic from "next/dynamic";
 import { Button } from "@/components/ui/button";
-import { ArrowRight, ArrowLeft } from "iconoir-react";
 import { useTranslations } from "next-intl";
 import Image from "next/image";
 import Link from "next/link";
 import { motion } from "framer-motion";
 import { servicesAnimations } from "./animations";
 
+// Heavy WebGL (three.js) — load client-only, separate chunk.
+const CardGradient = dynamic(
+  () => import("./card-gradient").then((m) => m.CardGradient),
+  { ssr: false },
+);
+
+// Each card keeps its own base hue; [color1, color2, color3].
+// Soft pastel tones (close to the original card surfaces) with gentle steps —
+// gives an even, soft gradient with no harsh light/dark washout.
+const CARD_COLORS = {
+  green: ["#E0FDEA", "#BBF0D0", "#9BE3BC"],
+  purple: ["#EDE8F5", "#DCD0F0", "#C9B8E8"],
+  blue: ["#E6F1FB", "#CFE3F6", "#B4D2F0"],
+} as const;
+
+// Server-rendered CSS fallback so each card paints as a gradient immediately
+// (no flash before the WebGL canvas mounts client-side).
+const fallback = (c: readonly [string, string, string]) => ({
+  backgroundImage: `linear-gradient(135deg, ${c[0]} 0%, ${c[1]} 55%, ${c[2]} 100%)`,
+});
+
 export function ServicesSection() {
   const t = useTranslations("services");
-  const [currentSlide, setCurrentSlide] = useState(0);
-
-  const handlePrev = () => {
-    setCurrentSlide((prev) => (prev > 0 ? prev - 1 : 0));
-  };
-
-  const handleNext = () => {
-    setCurrentSlide((prev) => (prev < 2 ? prev + 1 : prev));
-  };
 
   return (
     <motion.section
@@ -72,56 +83,68 @@ export function ServicesSection() {
         >
           {/* Debit & Credit Cards Card */}
           <motion.div
-            className="group rounded-2xl overflow-hidden min-h-[420px] md:min-h-[450px] p-6 md:p-8 flex flex-col text-center bg-surface-green transition-shadow duration-300 hover:shadow-lg"
+            className="group relative rounded-2xl overflow-hidden min-h-[420px] md:min-h-[450px] p-6 md:p-8 flex flex-col text-center transition-shadow duration-300 hover:shadow-lg"
+            style={fallback(CARD_COLORS.green)}
             variants={servicesAnimations.card.variants}
           >
-            <div className="flex-1 flex items-center justify-center overflow-hidden">
-              <Image src="/services/international-debit-card.webp" alt="International Debit Cards" width={400} height={400} className="object-contain transition-transform duration-500 group-hover:scale-105" />
-            </div>
-            <div className="flex-shrink-0 pb-3 md:pb-4">
-              <h3 className="text-black text-xl md:text-2xl font-bold mb-2 md:mb-3">
-                {t("cards.title")}
-              </h3>
-              <p className="text-gray-600 text-sm md:text-base leading-relaxed">
-                {t("cards.description")}
-              </p>
-            </div>
+            <CardGradient colors={CARD_COLORS.green} uTime={0} uSpeed={0.18} />
+            <motion.div className="relative z-10 flex flex-col flex-1" variants={servicesAnimations.cardContent.variants}>
+              <div className="flex-1 flex items-center justify-center overflow-hidden">
+                <Image src="/services/international-debit-card.webp" alt="International Debit Cards" width={400} height={400} className="object-contain transition-transform duration-500 group-hover:scale-105" />
+              </div>
+              <div className="flex-shrink-0 pb-3 md:pb-4">
+                <h3 className="text-black text-xl md:text-2xl font-bold mb-2 md:mb-3">
+                  {t("cards.title")}
+                </h3>
+                <p className="text-gray-700 text-sm md:text-base leading-relaxed">
+                  {t("cards.description")}
+                </p>
+              </div>
+            </motion.div>
           </motion.div>
 
           {/* Personal Savings Account Card */}
           <motion.div
-            className="group rounded-2xl overflow-hidden min-h-[420px] md:min-h-[450px] p-6 md:p-8 flex flex-col text-center bg-surface-purple transition-shadow duration-300 hover:shadow-lg"
+            className="group relative rounded-2xl overflow-hidden min-h-[420px] md:min-h-[450px] p-6 md:p-8 flex flex-col text-center transition-shadow duration-300 hover:shadow-lg"
+            style={fallback(CARD_COLORS.purple)}
             variants={servicesAnimations.card.variants}
           >
-            <div className="flex-1 flex items-center justify-center overflow-hidden">
-              <Image src="/services/send-receive-money.webp" alt="Send & Receive Money" width={400} height={400} className="object-contain transition-transform duration-500 group-hover:scale-105" />
-            </div>
-            <div className="flex-shrink-0 pb-3 md:pb-4">
-              <h3 className="text-black text-xl md:text-2xl font-bold mb-2 md:mb-3">
-                {t("savings.title")}
-              </h3>
-              <p className="text-gray-600 text-sm md:text-base leading-relaxed">
-                {t("savings.description")}
-              </p>
-            </div>
+            <CardGradient colors={CARD_COLORS.purple} uTime={7} uSpeed={0.22} />
+            <motion.div className="relative z-10 flex flex-col flex-1" variants={servicesAnimations.cardContent.variants}>
+              <div className="flex-1 flex items-center justify-center overflow-hidden">
+                <Image src="/services/send-receive-money.webp" alt="Send & Receive Money" width={400} height={400} className="object-contain transition-transform duration-500 group-hover:scale-105" />
+              </div>
+              <div className="flex-shrink-0 pb-3 md:pb-4">
+                <h3 className="text-black text-xl md:text-2xl font-bold mb-2 md:mb-3">
+                  {t("savings.title")}
+                </h3>
+                <p className="text-gray-700 text-sm md:text-base leading-relaxed">
+                  {t("savings.description")}
+                </p>
+              </div>
+            </motion.div>
           </motion.div>
 
           {/* Business Banking Card */}
           <motion.div
-            className="group rounded-2xl overflow-hidden min-h-[420px] md:min-h-[450px] p-6 md:p-8 flex flex-col text-center bg-surface-blue transition-shadow duration-300 hover:shadow-lg"
+            className="group relative rounded-2xl overflow-hidden min-h-[420px] md:min-h-[450px] p-6 md:p-8 flex flex-col text-center transition-shadow duration-300 hover:shadow-lg"
+            style={fallback(CARD_COLORS.blue)}
             variants={servicesAnimations.card.variants}
           >
-            <div className="flex-1 flex items-center justify-center overflow-hidden">
-              <Image src="/services/global-transfer.webp" alt="Transfer globally" width={400} height={400} className="object-contain transition-transform duration-500 group-hover:scale-105" />
-            </div>
-            <div className="flex-shrink-0 pb-3 md:pb-4">
-              <h3 className="text-black text-xl md:text-2xl font-bold mb-2 md:mb-3">
-                {t("business.title")}
-              </h3>
-              <p className="text-gray-600 text-sm md:text-base leading-relaxed">
-                {t("business.description")}
-              </p>
-            </div>
+            <CardGradient colors={CARD_COLORS.blue} uTime={14} uSpeed={0.2} />
+            <motion.div className="relative z-10 flex flex-col flex-1" variants={servicesAnimations.cardContent.variants}>
+              <div className="flex-1 flex items-center justify-center overflow-hidden">
+                <Image src="/services/global-transfer.webp" alt="Transfer globally" width={400} height={400} className="object-contain transition-transform duration-500 group-hover:scale-105" />
+              </div>
+              <div className="flex-shrink-0 pb-3 md:pb-4">
+                <h3 className="text-black text-xl md:text-2xl font-bold mb-2 md:mb-3">
+                  {t("business.title")}
+                </h3>
+                <p className="text-gray-700 text-sm md:text-base leading-relaxed">
+                  {t("business.description")}
+                </p>
+              </div>
+            </motion.div>
           </motion.div>
         </motion.div>
 

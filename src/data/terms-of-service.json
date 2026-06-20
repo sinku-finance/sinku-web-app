@@ -5,10 +5,10 @@
     "sections": [
       {
         "id": "welcome",
-        "title": "Welcome to Plexos",
+        "title": "Welcome to Sinku",
         "content": [
-          "These Terms of Service ('Terms') govern your use of the Plexos mobile application, website, and related technology platform provided by Plexos Global Ltd ('Plexos', 'we', 'us', or 'our'). Plexos is a technology platform that provides a user interface enabling access to services offered by independent third-party providers. Plexos does not itself offer, hold, or transmit funds, crypto-assets, or provide any financial, custodial, or regulated services.",
-          "By creating a Plexos account, accessing our app, or using any of our services, you agree to be bound by these Terms, as well as the terms and policies of the third-party providers whose services are accessed through the Plexos App, including Privy (wallet infrastructure) and Rain (financial services). If you do not agree, please do not use our services.",
+          "These Terms of Service ('Terms') govern your use of the Sinku mobile application, website, and related technology platform provided by MORABI, SOCIEDADE UNIPESSOAL LDA ('Sinku', 'we', 'us', or 'our'). Sinku is a financial technology company, not a bank. Sinku is a technology platform that provides a user interface enabling access to services offered by independent third-party providers. Sinku does not itself offer, hold, or transmit funds, crypto-assets, or provide any financial, custodial, or regulated services.",
+          "By creating a Sinku account, accessing our app, or using any of our services, you agree to be bound by these Terms, as well as the terms and policies of the third-party providers whose services are accessed through the Sinku App, including Privy (wallet infrastructure) and our licensed financial partner (financial and payment card services). If you do not agree, please do not use our services.",
           "Please read these Terms carefully. They contain important information about your rights and obligations."
         ]
       },
@@ -16,16 +16,16 @@
         "id": "eligibility",
         "title": "Eligibility",
         "content": [
-          "To use Plexos, you must:"
+          "To use Sinku, you must:"
         ],
         "subsections": [
           {
             "title": "Age requirement",
-            "content": "You must be at least 18 years old to open a Plexos account. We may ask you to verify your age as part of the registration process."
+            "content": "You must be at least 18 years old to open a Sinku account. We may ask you to verify your age as part of the registration process."
           },
           {
             "title": "Residency",
-            "content": "You must be a resident of a country where Plexos is available. We currently operate across PALOP countries and are expanding to more African nations, as well as serving customers in Europe and the Americas. Check our website or app for the most up-to-date list of supported countries."
+            "content": "You must be a resident of a country where Sinku is available. We currently operate across PALOP countries and are expanding to more African nations, as well as serving customers in Europe and the Americas. Check our website or app for the most up-to-date list of supported countries."
           },
           {
             "title": "Identity verification",
@@ -35,9 +35,9 @@
       },
       {
         "id": "your-account",
-        "title": "Your Plexos account",
+        "title": "Your Sinku account",
         "content": [
-          "Your Plexos account is personal to you and gives you access to our financial services."
+          "Your Sinku account is personal to you and gives you access to our financial services."
         ],
         "subsections": [
           {
@@ -46,7 +46,7 @@
           },
           {
             "title": "One account per person",
-            "content": "Each person may hold only one Plexos account. We reserve the right to close duplicate accounts."
+            "content": "Each person may hold only one Sinku account. We reserve the right to close duplicate accounts."
           },
           {
             "title": "Accurate information",
@@ -58,28 +58,28 @@
         "id": "services",
         "title": "Our services",
         "content": [
-          "Plexos provides a technology platform through our mobile app that enables access to financial services offered by independent third-party providers. The availability of specific features may vary by country and may change over time. Plexos acts solely as a software conduit and is not a financial institution."
+          "Sinku provides a technology platform through our mobile app that enables access to financial services offered by independent third-party providers. The availability of specific features may vary by country and may change over time. Sinku acts solely as a software conduit and is not a financial institution."
         ],
         "subsections": [
           {
-            "title": "Plexos account",
-            "content": "Your Plexos account provides access to wallet and financial services through our third-party partners. All wallet functionality is powered by Privy, a non-custodial wallet infrastructure provider. Wallets are created and controlled solely by users and are not accessible by Plexos. You can view your balance, transaction history, and account details at any time in the app."
+            "title": "Sinku account",
+            "content": "Your Sinku account provides access to wallet and financial services through our third-party partners. All wallet functionality is powered by Privy, a non-custodial wallet infrastructure provider. Wallets are created and controlled solely by users and are not accessible by Sinku. You can view your balance, transaction history, and account details at any time in the app."
           },
           {
             "title": "Transfers",
-            "content": "You can send money to other Plexos users instantly within the app. Transfers between Plexos accounts are processed in real-time and are subject to our transfer limits and fair use policies."
+            "content": "You can send money to other Sinku users instantly within the app. Transfers between Sinku accounts are processed in real-time and are subject to our transfer limits and fair use policies."
           },
           {
             "title": "Debit card",
-            "content": "Through our partnership with Signify Holdings Inc. and its subsidiary Nimbus LLC (Rain), you may be issued a payment card (physical or virtual) powered by Mastercard. Rain is a third-party licensed financial service provider responsible for the issuance of payment cards and processing of transactions. Card usage is subject to Rain's terms and any applicable spending limits."
+            "content": "Through our partnership with our licensed financial partner, you may be issued a payment card (physical or virtual) powered by Visa or Mastercard. Our licensed financial partner is a third-party licensed financial service provider responsible for the issuance of payment cards and processing of transactions. Card usage is subject to our licensed partner's terms and any applicable spending limits."
           },
           {
             "title": "Adding money",
-            "content": "You can add money to your Plexos account through various methods, including bank transfer, card top-up, and mobile money. Available top-up methods may vary by country. We may apply limits to the amounts you can add."
+            "content": "You can add money to your Sinku account through various methods, including bank transfer, card top-up, and mobile money. Available top-up methods may vary by country. We may apply limits to the amounts you can add."
           },
           {
             "title": "Currency exchange",
-            "content": "Where available, Plexos may offer currency exchange services at competitive rates. Exchange rates are displayed in the app before you confirm any transaction. Rates may fluctuate and a small markup may be applied. Some currency features may be marked as 'coming soon' and will be available in future updates."
+            "content": "Where available, Sinku may offer currency exchange services at competitive rates. Exchange rates are displayed in the app before you confirm any transaction. Rates may fluctuate and a small markup may be applied. Some currency features may be marked as 'coming soon' and will be available in future updates."
           }
         ]
       },
@@ -87,7 +87,7 @@
         "id": "fees",
         "title": "Fees and charges",
         "content": [
-          "Plexos strives to keep fees transparent and fair. There are no monthly account fees for standard Plexos accounts.",
+          "Sinku strives to keep fees transparent and fair. There are no monthly account fees for standard Sinku accounts.",
           "Certain services may carry fees, such as ATM withdrawals beyond your free allowance, express card delivery, or specific transaction types. All applicable fees are disclosed before you confirm a transaction, and a full fee schedule is available in the app and on our website.",
           "We may update our fees from time to time. We will notify you of any material changes at least 30 days in advance."
         ]
@@ -96,7 +96,7 @@
         "id": "acceptable-use",
         "title": "Acceptable use",
         "content": [
-          "You agree to use Plexos only for lawful purposes and in accordance with these Terms. You must not use our services to:"
+          "You agree to use Sinku only for lawful purposes and in accordance with these Terms. You must not use our services to:"
         ],
         "subsections": [
           {
@@ -130,7 +130,7 @@
           },
           {
             "title": "Your responsibilities",
-            "content": "You must keep your device secure with a screen lock, keep the Plexos app updated to the latest version, never share your account credentials or one-time passcodes, contact us immediately if you suspect unauthorised activity, and be vigilant against phishing attempts or social engineering scams."
+            "content": "You must keep your device secure with a screen lock, keep the Sinku app updated to the latest version, never share your account credentials or one-time passcodes, contact us immediately if you suspect unauthorised activity, and be vigilant against phishing attempts or social engineering scams."
           },
           {
             "title": "Unauthorised transactions",
@@ -142,15 +142,15 @@
         "id": "intellectual-property",
         "title": "Intellectual property",
         "content": [
-          "The Plexos name, logo, app design, website, and all related content are owned by Plexos Global Ltd and are protected by intellectual property laws. You may not copy, modify, distribute, or create derivative works based on our materials without our prior written consent.",
-          "We grant you a limited, non-exclusive, non-transferable licence to use the Plexos app for your personal, non-commercial use in accordance with these Terms. This licence is revocable and can be terminated if you breach these Terms."
+          "The Sinku name, logo, app design, website, and all related content are owned by MORABI, SOCIEDADE UNIPESSOAL LDA and are protected by intellectual property laws. You may not copy, modify, distribute, or create derivative works based on our materials without our prior written consent.",
+          "We grant you a limited, non-exclusive, non-transferable licence to use the Sinku app for your personal, non-commercial use in accordance with these Terms. This licence is revocable and can be terminated if you breach these Terms."
         ]
       },
       {
         "id": "account-suspension",
         "title": "Account suspension and closure",
         "content": [
-          "We hope you'll be a Plexos user for a long time, but there are circumstances where accounts may be suspended or closed."
+          "We hope you'll be a Sinku user for a long time, but there are circumstances where accounts may be suspended or closed."
         ],
         "subsections": [
           {
@@ -163,7 +163,7 @@
           },
           {
             "title": "Effect of closure",
-            "content": "When your account is closed, your access to Plexos services will end, your debit card will be cancelled, any pending transactions may be completed or reversed, and you must repay any amounts owed to us."
+            "content": "When your account is closed, your access to Sinku services will end, your debit card will be cancelled, any pending transactions may be completed or reversed, and you must repay any amounts owed to us."
           }
         ]
       },
@@ -171,7 +171,7 @@
         "id": "liability",
         "title": "Limitation of liability",
         "content": [
-          "To the maximum extent permitted by applicable law, Plexos shall not be liable for any indirect, incidental, special, consequential, or punitive damages arising from your use of our services.",
+          "To the maximum extent permitted by applicable law, Sinku shall not be liable for any indirect, incidental, special, consequential, or punitive damages arising from your use of our services.",
           "We are not responsible for losses caused by circumstances beyond our reasonable control, including internet or network failures, actions by third parties, natural disasters, or changes in laws and regulations.",
           "Nothing in these Terms excludes or limits our liability for death or personal injury caused by our negligence, fraud or fraudulent misrepresentation, or any other liability that cannot be excluded by law."
         ]
@@ -185,7 +185,7 @@
         "subsections": [
           {
             "title": "How to complain",
-            "content": "You can raise a complaint through the in-app chat, by emailing support@plexos.com, or through any other channel we make available. We take all complaints seriously and aim to resolve them as quickly as possible."
+            "content": "You can raise a complaint through the in-app chat, by emailing support@sinku.io, or through any other channel we make available. We take all complaints seriously and aim to resolve them as quickly as possible."
           },
           {
             "title": "Resolution timeline",
@@ -209,8 +209,123 @@
         "id": "governing-law",
         "title": "Governing law",
         "content": [
-          "These Terms are governed by and construed in accordance with the laws of the jurisdiction where the Plexos entity providing your account is incorporated. The specific governing law applicable to you is set out in your account agreement.",
+          "These Terms are governed by and construed in accordance with the laws of the jurisdiction where the Sinku entity providing your account is incorporated. The specific governing law applicable to you is set out in your account agreement.",
           "Any disputes arising from these Terms that cannot be resolved through our complaints process may be referred to the courts of the relevant jurisdiction."
+        ]
+      },
+      {
+        "id": "third-party-services",
+        "title": "Third-party services and infrastructure",
+        "content": [
+          "Sinku relies on independent third-party providers to deliver the financial services accessible through our platform. These providers include, but are not limited to:"
+        ],
+        "subsections": [
+          {
+            "title": "Our partners",
+            "content": "Licensed Partner — for payment card issuance and related financial services on the Visa network.\n\nPrivy — for non-custodial wallet infrastructure.\n\nOther providers we may integrate with from time to time to offer new features and services."
+          },
+          {
+            "title": "Partner terms",
+            "content": "By using Sinku, you acknowledge and agree that your use of third-party services is also subject to the terms, conditions, and privacy policies of those providers. Sinku is not responsible for the acts or omissions of any third-party provider, including any interruptions, errors, or delays in their services."
+          },
+          {
+            "title": "Service modifications",
+            "content": "Third-party providers may change, suspend, or discontinue their services at any time. If a third-party service you rely on becomes unavailable, we will use reasonable efforts to find an alternative, but we cannot guarantee uninterrupted access to all features."
+          }
+        ]
+      },
+      {
+        "id": "account-nature",
+        "title": "Nature of your account",
+        "content": [
+          "Your Sinku account is not a bank account, deposit account, or savings account. Sinku is a financial technology company, not a bank or licensed financial institution.",
+          "Funds accessible through the Sinku App are held and managed by our licensed third-party partners, not by Sinku. The protections available to you depend on the regulatory framework under which our partners operate.",
+          "Sinku does not provide investment advice, act as a fiduciary, or owe any fiduciary duty to you. Any information provided in the app is for informational purposes only and should not be considered financial, legal, or tax advice."
+        ]
+      },
+      {
+        "id": "wallet-self-custody",
+        "title": "Wallet and self-custody",
+        "content": [
+          "Wallet functionality within the Sinku App is powered by Privy, a non-custodial wallet infrastructure provider. This means:"
+        ],
+        "subsections": [
+          {
+            "title": "Your responsibility",
+            "content": "You are solely responsible for maintaining access to your wallet, including any recovery phrases, private keys, or authentication credentials. Sinku does not have access to your wallet's private keys and cannot recover them on your behalf."
+          },
+          {
+            "title": "Loss of access",
+            "content": "If you lose your recovery phrase, private keys, or authentication credentials, you may permanently lose access to the assets in your wallet. Neither Sinku nor Privy can restore access to a lost wallet. It is your responsibility to securely back up your credentials."
+          },
+          {
+            "title": "No custody",
+            "content": "Sinku does not hold, control, or have custody of the assets in your wallet. Transactions initiated through your wallet are irreversible once confirmed. You are responsible for verifying all transaction details before confirming."
+          }
+        ]
+      },
+      {
+        "id": "tax-responsibilities",
+        "title": "Tax responsibilities",
+        "content": [
+          "You are solely responsible for determining and fulfilling any tax obligations arising from your use of Sinku services, including but not limited to income tax, capital gains tax, value-added tax, or any other applicable taxes in your jurisdiction.",
+          "Sinku does not provide tax advice and is not responsible for calculating, withholding, or reporting taxes on your behalf, unless required by applicable law. You should consult a qualified tax professional regarding your tax obligations."
+        ]
+      },
+      {
+        "id": "service-availability",
+        "title": "Service availability",
+        "content": [
+          "We strive to ensure that Sinku is available at all times, but we do not guarantee uninterrupted or error-free access to our services.",
+          "Our services may be temporarily unavailable due to scheduled maintenance (we will try to notify you in advance), unscheduled technical issues, updates or upgrades to our systems, actions by our third-party partners, or events beyond our reasonable control.",
+          "We are not liable for any losses or damages resulting from service interruptions or unavailability."
+        ]
+      },
+      {
+        "id": "force-majeure",
+        "title": "Force majeure",
+        "content": [
+          "Sinku shall not be liable for any failure or delay in performing our obligations under these Terms if such failure or delay results from circumstances beyond our reasonable control, including but not limited to natural disasters, epidemics or pandemics, wars, terrorism, or civil unrest, government actions or regulatory changes, power outages, internet or telecommunications failures, cyberattacks, or failures of third-party service providers.",
+          "In the event of a force majeure, our obligations will be suspended for the duration of the event, and we will use reasonable efforts to resume services as soon as practicable."
+        ]
+      },
+      {
+        "id": "electronic-communications",
+        "title": "Electronic communications",
+        "content": [
+          "By creating a Sinku account, you consent to receive communications from us electronically, including via email, push notifications, in-app messages, and SMS.",
+          "These communications may include service updates and announcements, transaction confirmations and alerts, security notifications, marketing and promotional messages (which you may opt out of), and legal notices and changes to our Terms.",
+          "Electronic communications from Sinku satisfy any legal requirement that communications be made in writing. You are responsible for keeping your email address and phone number up to date."
+        ]
+      },
+      {
+        "id": "promotional-campaigns",
+        "title": "Promotional campaigns and referrals",
+        "content": [
+          "From time to time, Sinku may offer promotional campaigns, referral programmes, or special offers. These are subject to additional terms that will be communicated at the time of the promotion.",
+          "We reserve the right to modify, suspend, or terminate any promotional campaign or referral programme at any time without prior notice. Any abuse of promotions or referral programmes, including creating multiple accounts, may result in forfeiture of rewards and account suspension.",
+          "Promotional rewards and referral bonuses have no cash value outside the Sinku platform unless explicitly stated otherwise."
+        ]
+      },
+      {
+        "id": "compliance",
+        "title": "Compliance and anti-money laundering",
+        "content": [
+          "Sinku is committed to preventing the use of our platform for money laundering, terrorist financing, and other financial crimes."
+        ],
+        "subsections": [
+          {
+            "title": "Our obligations",
+            "content": "We maintain an anti-money laundering (AML) and counter-terrorist financing (CTF) compliance programme in accordance with applicable laws and regulations. This includes customer due diligence, transaction monitoring, and suspicious activity reporting."
+          },
+          {
+            "title": "Your obligations",
+            "content": "You agree to provide accurate and up-to-date identification and personal information, cooperate with any additional verification requests, not use Sinku for any illegal or prohibited purpose, and promptly report any suspicious activity you become aware of."
+          },
+          {
+            "title": "Regulatory cooperation",
+            "content": "We may be required to share information about you or your transactions with regulatory authorities, law enforcement, or other government agencies. We will comply with all lawful requests and may not be able to inform you when such disclosures are made."
+          }
         ]
       },
       {
@@ -219,7 +334,7 @@
         "content": [
           "If any provision of these Terms is found to be invalid or unenforceable, the remaining provisions will continue in full force and effect.",
           "Our failure to enforce any right or provision of these Terms does not constitute a waiver of that right or provision.",
-          "These Terms, together with our Privacy Policy, Cookie Policy, and any other agreements referenced herein, constitute the entire agreement between you and Plexos regarding our services."
+          "These Terms, together with our Privacy Policy, Cookie Policy, and any other agreements referenced herein, constitute the entire agreement between you and Sinku regarding our services."
         ]
       },
       {
@@ -228,7 +343,7 @@
         "content": [
           "If you have questions about these Terms of Service, get in touch:",
           "In-app chat: Go to your profile and tap 'Help'",
-          "Email: support@plexos.com",
+          "Email: support@sinku.io",
           "We're here to help and will do our best to respond promptly."
         ]
       }
@@ -240,10 +355,10 @@
     "sections": [
       {
         "id": "welcome",
-        "title": "Bem-vindo ao Plexos",
+        "title": "Bem-vindo ao Sinku",
         "content": [
-          "Estes Termos de Serviço ('Termos') regem a utilização da aplicação móvel Plexos, do website e da plataforma tecnológica fornecida pela Plexos Global Ltd ('Plexos', 'nós' ou 'nosso'). A Plexos é uma plataforma tecnológica que disponibiliza uma interface de utilizador para acesso a serviços oferecidos por prestadores terceiros independentes. A Plexos não oferece, detém ou transmite fundos, criptoativos, nem presta quaisquer serviços financeiros, de custódia ou regulados.",
-          "Ao criar uma conta Plexos, aceder ao nosso app ou utilizar qualquer um dos nossos serviços, concorda em ficar vinculado a estes Termos, bem como aos termos e políticas dos prestadores terceiros cujos serviços são acedidos através da Plexos App, incluindo a Privy (infraestrutura de carteiras) e a Rain (serviços financeiros). Se não concordar, por favor não utilize os nossos serviços.",
+          "Estes Termos de Serviço ('Termos') regem a utilização da aplicação móvel Sinku, do website e da plataforma tecnológica fornecida pela MORABI, SOCIEDADE UNIPESSOAL LDA ('Sinku', 'nós' ou 'nosso'). A Sinku é uma empresa de tecnologia financeira, não um banco. A Sinku é uma plataforma tecnológica que disponibiliza uma interface de utilizador para acesso a serviços oferecidos por prestadores terceiros independentes. A Sinku não oferece, detém ou transmite fundos, criptoativos, nem presta quaisquer serviços financeiros, de custódia ou regulados.",
+          "Ao criar uma conta Sinku, aceder ao nosso app ou utilizar qualquer um dos nossos serviços, concorda em ficar vinculado a estes Termos, bem como aos termos e políticas dos prestadores terceiros cujos serviços são acedidos através da Sinku App, incluindo a Privy (infraestrutura de carteiras) e o nosso parceiro financeiro licenciado (serviços financeiros e de cartões de pagamento). Se não concordar, por favor não utilize os nossos serviços.",
           "Leia estes Termos com atenção. Contêm informações importantes sobre os seus direitos e obrigações."
         ]
       },
@@ -251,16 +366,16 @@
         "id": "eligibility",
         "title": "Elegibilidade",
         "content": [
-          "Para utilizar o Plexos, deve:"
+          "Para utilizar o Sinku, deve:"
         ],
         "subsections": [
           {
             "title": "Requisito de idade",
-            "content": "Deve ter pelo menos 18 anos para abrir uma conta Plexos. Podemos pedir-lhe que verifique a sua idade como parte do processo de registo."
+            "content": "Deve ter pelo menos 18 anos para abrir uma conta Sinku. Podemos pedir-lhe que verifique a sua idade como parte do processo de registo."
           },
           {
             "title": "Residência",
-            "content": "Deve ser residente num país onde o Plexos está disponível. Actualmente operamos nos países PALOP e estamos a expandir para mais nações africanas, além de servir clientes na Europa e nas Américas. Consulte o nosso website ou app para a lista mais actualizada de países suportados."
+            "content": "Deve ser residente num país onde o Sinku está disponível. Actualmente operamos nos países PALOP e estamos a expandir para mais nações africanas, além de servir clientes na Europa e nas Américas. Consulte o nosso website ou app para a lista mais actualizada de países suportados."
           },
           {
             "title": "Verificação de identidade",
@@ -270,9 +385,9 @@
       },
       {
         "id": "your-account",
-        "title": "A sua conta Plexos",
+        "title": "A sua conta Sinku",
         "content": [
-          "A sua conta Plexos é pessoal e dá-lhe acesso aos nossos serviços financeiros."
+          "A sua conta Sinku é pessoal e dá-lhe acesso aos nossos serviços financeiros."
         ],
         "subsections": [
           {
@@ -281,7 +396,7 @@
           },
           {
             "title": "Uma conta por pessoa",
-            "content": "Cada pessoa pode ter apenas uma conta Plexos. Reservamo-nos o direito de encerrar contas duplicadas."
+            "content": "Cada pessoa pode ter apenas uma conta Sinku. Reservamo-nos o direito de encerrar contas duplicadas."
           },
           {
             "title": "Informações precisas",
@@ -293,28 +408,28 @@
         "id": "services",
         "title": "Os nossos serviços",
         "content": [
-          "A Plexos fornece uma plataforma tecnológica através da nossa aplicação móvel que permite o acesso a serviços financeiros oferecidos por prestadores terceiros independentes. A disponibilidade de funcionalidades específicas pode variar por país e pode mudar ao longo do tempo. A Plexos atua exclusivamente como um intermediário de software e não é uma instituição financeira."
+          "A Sinku fornece uma plataforma tecnológica através da nossa aplicação móvel que permite o acesso a serviços financeiros oferecidos por prestadores terceiros independentes. A disponibilidade de funcionalidades específicas pode variar por país e pode mudar ao longo do tempo. A Sinku atua exclusivamente como um intermediário de software e não é uma instituição financeira."
         ],
         "subsections": [
           {
-            "title": "Conta Plexos",
-            "content": "A sua conta Plexos permite-lhe aceder a serviços de carteira e financeiros através dos nossos parceiros terceiros. Toda a funcionalidade de carteira é fornecida pela Privy, um prestador de infraestrutura de carteiras não custodiais. As carteiras são criadas e controladas exclusivamente pelos utilizadores e não são acessíveis pela Plexos. Pode ver o seu saldo, histórico de transações e detalhes da conta a qualquer momento na app."
+            "title": "Conta Sinku",
+            "content": "A sua conta Sinku permite-lhe aceder a serviços de carteira e financeiros através dos nossos parceiros terceiros. Toda a funcionalidade de carteira é fornecida pela Privy, um prestador de infraestrutura de carteiras não custodiais. As carteiras são criadas e controladas exclusivamente pelos utilizadores e não são acessíveis pela Sinku. Pode ver o seu saldo, histórico de transações e detalhes da conta a qualquer momento na app."
           },
           {
             "title": "Transferências",
-            "content": "Pode enviar dinheiro para outros utilizadores Plexos instantaneamente dentro do app. As transferências entre contas Plexos são processadas em tempo real e estão sujeitas aos nossos limites de transferência e políticas de utilização justa."
+            "content": "Pode enviar dinheiro para outros utilizadores Sinku instantaneamente dentro do app. As transferências entre contas Sinku são processadas em tempo real e estão sujeitas aos nossos limites de transferência e políticas de utilização justa."
           },
           {
             "title": "Cartão de débito",
-            "content": "Através da nossa parceria com a Signify Holdings Inc. e a sua subsidiária Nimbus LLC (Rain), poderá ser-lhe emitido um cartão de pagamento (físico ou virtual) da Mastercard. A Rain é um prestador de serviços financeiros licenciado responsável pela emissão de cartões de pagamento e processamento de transações. A utilização do cartão está sujeita aos termos da Rain e aos limites de gasto aplicáveis."
+            "content": "Através da nossa parceria com o nosso parceiro financeiro licenciado, poderá ser-lhe emitido um cartão de pagamento (físico ou virtual) Visa ou Mastercard. O nosso parceiro financeiro licenciado é responsável pela emissão de cartões de pagamento e processamento de transações. A utilização do cartão está sujeita aos termos do nosso parceiro licenciado e aos limites de gasto aplicáveis."
           },
           {
             "title": "Adicionar dinheiro",
-            "content": "Pode adicionar dinheiro à sua conta Plexos através de vários métodos, incluindo transferência bancária, carregamento por cartão e dinheiro móvel. Os métodos de carregamento disponíveis podem variar por país. Podemos aplicar limites aos montantes que pode adicionar."
+            "content": "Pode adicionar dinheiro à sua conta Sinku através de vários métodos, incluindo transferência bancária, carregamento por cartão e dinheiro móvel. Os métodos de carregamento disponíveis podem variar por país. Podemos aplicar limites aos montantes que pode adicionar."
           },
           {
             "title": "Câmbio de moeda",
-            "content": "Onde disponível, o Plexos pode oferecer serviços de câmbio de moeda a taxas competitivas. As taxas de câmbio são apresentadas no app antes de confirmar qualquer transacção. As taxas podem flutuar e uma pequena margem pode ser aplicada. Algumas funcionalidades de moeda podem estar marcadas como 'em breve' e estarão disponíveis em futuras actualizações."
+            "content": "Onde disponível, o Sinku pode oferecer serviços de câmbio de moeda a taxas competitivas. As taxas de câmbio são apresentadas no app antes de confirmar qualquer transacção. As taxas podem flutuar e uma pequena margem pode ser aplicada. Algumas funcionalidades de moeda podem estar marcadas como 'em breve' e estarão disponíveis em futuras actualizações."
           }
         ]
       },
@@ -322,7 +437,7 @@
         "id": "fees",
         "title": "Taxas e encargos",
         "content": [
-          "O Plexos esforça-se por manter as taxas transparentes e justas. Não há taxas mensais para contas Plexos padrão.",
+          "O Sinku esforça-se por manter as taxas transparentes e justas. Não há taxas mensais para contas Sinku padrão.",
           "Certos serviços podem ter taxas, como levantamentos em ATM além da sua franquia gratuita, entrega expressa de cartão ou tipos de transacção específicos. Todas as taxas aplicáveis são divulgadas antes de confirmar uma transacção, e uma tabela completa de taxas está disponível no app e no nosso website.",
           "Podemos actualizar as nossas taxas periodicamente. Notificá-lo-emos de quaisquer alterações materiais com pelo menos 30 dias de antecedência."
         ]
@@ -331,7 +446,7 @@
         "id": "acceptable-use",
         "title": "Utilização aceitável",
         "content": [
-          "Concorda em utilizar o Plexos apenas para fins lícitos e de acordo com estes Termos. Não deve utilizar os nossos serviços para:"
+          "Concorda em utilizar o Sinku apenas para fins lícitos e de acordo com estes Termos. Não deve utilizar os nossos serviços para:"
         ],
         "subsections": [
           {
@@ -365,7 +480,7 @@
           },
           {
             "title": "As suas responsabilidades",
-            "content": "Deve manter o seu dispositivo seguro com bloqueio de ecrã, manter o app Plexos actualizado para a versão mais recente, nunca partilhar as credenciais da sua conta ou códigos únicos, contactar-nos imediatamente se suspeitar de actividade não autorizada, e estar vigilante contra tentativas de phishing ou fraudes de engenharia social."
+            "content": "Deve manter o seu dispositivo seguro com bloqueio de ecrã, manter o app Sinku actualizado para a versão mais recente, nunca partilhar as credenciais da sua conta ou códigos únicos, contactar-nos imediatamente se suspeitar de actividade não autorizada, e estar vigilante contra tentativas de phishing ou fraudes de engenharia social."
           },
           {
             "title": "Transacções não autorizadas",
@@ -377,15 +492,15 @@
         "id": "intellectual-property",
         "title": "Propriedade intelectual",
         "content": [
-          "O nome Plexos, logótipo, design do app, website e todo o conteúdo relacionado são propriedade da Plexos Global Ltd e estão protegidos por leis de propriedade intelectual. Não pode copiar, modificar, distribuir ou criar obras derivadas baseadas nos nossos materiais sem o nosso consentimento prévio por escrito.",
-          "Concedemos-lhe uma licença limitada, não exclusiva e intransferível para utilizar o app Plexos para uso pessoal e não comercial, de acordo com estes Termos. Esta licença é revogável e pode ser terminada se violar estes Termos."
+          "O nome Sinku, logótipo, design do app, website e todo o conteúdo relacionado são propriedade da MORABI, SOCIEDADE UNIPESSOAL LDA e estão protegidos por leis de propriedade intelectual. Não pode copiar, modificar, distribuir ou criar obras derivadas baseadas nos nossos materiais sem o nosso consentimento prévio por escrito.",
+          "Concedemos-lhe uma licença limitada, não exclusiva e intransferível para utilizar o app Sinku para uso pessoal e não comercial, de acordo com estes Termos. Esta licença é revogável e pode ser terminada se violar estes Termos."
         ]
       },
       {
         "id": "account-suspension",
         "title": "Suspensão e encerramento de conta",
         "content": [
-          "Esperamos que seja utilizador do Plexos durante muito tempo, mas existem circunstâncias em que as contas podem ser suspensas ou encerradas."
+          "Esperamos que seja utilizador do Sinku durante muito tempo, mas existem circunstâncias em que as contas podem ser suspensas ou encerradas."
         ],
         "subsections": [
           {
@@ -398,7 +513,7 @@
           },
           {
             "title": "Efeito do encerramento",
-            "content": "Quando a sua conta é encerrada, o acesso aos serviços Plexos terminará, o seu cartão de débito será cancelado, quaisquer transacções pendentes podem ser concluídas ou revertidas, e deve reembolsar quaisquer valores devidos."
+            "content": "Quando a sua conta é encerrada, o acesso aos serviços Sinku terminará, o seu cartão de débito será cancelado, quaisquer transacções pendentes podem ser concluídas ou revertidas, e deve reembolsar quaisquer valores devidos."
           }
         ]
       },
@@ -406,7 +521,7 @@
         "id": "liability",
         "title": "Limitação de responsabilidade",
         "content": [
-          "Na medida máxima permitida pela lei aplicável, o Plexos não será responsável por quaisquer danos indirectos, incidentais, especiais, consequenciais ou punitivos decorrentes da utilização dos nossos serviços.",
+          "Na medida máxima permitida pela lei aplicável, o Sinku não será responsável por quaisquer danos indirectos, incidentais, especiais, consequenciais ou punitivos decorrentes da utilização dos nossos serviços.",
           "Não somos responsáveis por perdas causadas por circunstâncias fora do nosso controlo razoável, incluindo falhas de internet ou rede, acções de terceiros, desastres naturais ou alterações em leis e regulamentos.",
           "Nada nestes Termos exclui ou limita a nossa responsabilidade por morte ou lesão pessoal causada pela nossa negligência, fraude ou declaração fraudulenta, ou qualquer outra responsabilidade que não possa ser excluída por lei."
         ]
@@ -420,7 +535,7 @@
         "subsections": [
           {
             "title": "Como reclamar",
-            "content": "Pode apresentar uma reclamação através do chat no app, enviando e-mail para support@plexos.com, ou através de qualquer outro canal que disponibilizemos. Levamos todas as reclamações a sério e procuramos resolvê-las o mais rapidamente possível."
+            "content": "Pode apresentar uma reclamação através do chat no app, enviando e-mail para support@sinku.io, ou através de qualquer outro canal que disponibilizemos. Levamos todas as reclamações a sério e procuramos resolvê-las o mais rapidamente possível."
           },
           {
             "title": "Prazo de resolução",
@@ -444,8 +559,123 @@
         "id": "governing-law",
         "title": "Lei aplicável",
         "content": [
-          "Estes Termos são regidos e interpretados de acordo com as leis da jurisdição onde a entidade Plexos que fornece a sua conta está constituída. A lei aplicável específica está estabelecida no seu contrato de conta.",
+          "Estes Termos são regidos e interpretados de acordo com as leis da jurisdição onde a entidade Sinku que fornece a sua conta está constituída. A lei aplicável específica está estabelecida no seu contrato de conta.",
           "Quaisquer litígios decorrentes destes Termos que não possam ser resolvidos através do nosso processo de reclamação podem ser encaminhados para os tribunais da jurisdição competente."
+        ]
+      },
+      {
+        "id": "third-party-services",
+        "title": "Serviços e infraestrutura de terceiros",
+        "content": [
+          "A Sinku depende de prestadores terceiros independentes para disponibilizar os serviços financeiros acessíveis através da nossa plataforma. Estes prestadores incluem, mas não se limitam a:"
+        ],
+        "subsections": [
+          {
+            "title": "Os nossos parceiros",
+            "content": "Parceiro Licenciado — para emissão de cartões de pagamento e serviços financeiros relacionados na rede Visa.\n\nPrivy — para infraestrutura de carteiras não custodiais.\n\nOutros prestadores com os quais possamos integrar pontualmente para oferecer novas funcionalidades e serviços."
+          },
+          {
+            "title": "Termos dos parceiros",
+            "content": "Ao utilizar o Sinku, reconhece e concorda que a sua utilização de serviços de terceiros está também sujeita aos termos, condições e políticas de privacidade desses prestadores. A Sinku não é responsável por actos ou omissões de qualquer prestador terceiro, incluindo quaisquer interrupções, erros ou atrasos nos seus serviços."
+          },
+          {
+            "title": "Modificações de serviço",
+            "content": "Os prestadores terceiros podem alterar, suspender ou descontinuar os seus serviços a qualquer momento. Se um serviço de terceiros do qual depende ficar indisponível, faremos esforços razoáveis para encontrar uma alternativa, mas não podemos garantir acesso ininterrupto a todas as funcionalidades."
+          }
+        ]
+      },
+      {
+        "id": "account-nature",
+        "title": "Natureza da sua conta",
+        "content": [
+          "A sua conta Sinku não é uma conta bancária, conta de depósito ou conta poupança. A Sinku é uma empresa de tecnologia financeira, não um banco ou instituição financeira licenciada.",
+          "Os fundos acessíveis através da Sinku App são mantidos e geridos pelos nossos parceiros terceiros licenciados, não pela Sinku. As protecções disponíveis para si dependem do enquadramento regulatório sob o qual os nossos parceiros operam.",
+          "A Sinku não fornece aconselhamento de investimento, não actua como fiduciário nem tem qualquer dever fiduciário para consigo. Qualquer informação fornecida no app é apenas para fins informativos e não deve ser considerada como aconselhamento financeiro, jurídico ou fiscal."
+        ]
+      },
+      {
+        "id": "wallet-self-custody",
+        "title": "Carteira e auto-custódia",
+        "content": [
+          "A funcionalidade de carteira dentro da Sinku App é fornecida pela Privy, um prestador de infraestrutura de carteiras não custodiais. Isto significa:"
+        ],
+        "subsections": [
+          {
+            "title": "A sua responsabilidade",
+            "content": "É exclusivamente responsável por manter o acesso à sua carteira, incluindo quaisquer frases de recuperação, chaves privadas ou credenciais de autenticação. A Sinku não tem acesso às chaves privadas da sua carteira e não pode recuperá-las em seu nome."
+          },
+          {
+            "title": "Perda de acesso",
+            "content": "Se perder a sua frase de recuperação, chaves privadas ou credenciais de autenticação, pode perder permanentemente o acesso aos activos na sua carteira. Nem a Sinku nem a Privy podem restaurar o acesso a uma carteira perdida. É da sua responsabilidade fazer uma cópia de segurança das suas credenciais."
+          },
+          {
+            "title": "Sem custódia",
+            "content": "A Sinku não detém, controla ou tem custódia dos activos na sua carteira. As transacções iniciadas através da sua carteira são irreversíveis após confirmação. É responsável por verificar todos os detalhes da transacção antes de confirmar."
+          }
+        ]
+      },
+      {
+        "id": "tax-responsibilities",
+        "title": "Responsabilidades fiscais",
+        "content": [
+          "É exclusivamente responsável por determinar e cumprir quaisquer obrigações fiscais decorrentes da utilização dos serviços Sinku, incluindo, mas não se limitando a, imposto sobre o rendimento, imposto sobre mais-valias, imposto sobre o valor acrescentado ou quaisquer outros impostos aplicáveis na sua jurisdição.",
+          "A Sinku não fornece aconselhamento fiscal e não é responsável por calcular, reter ou reportar impostos em seu nome, salvo se exigido pela lei aplicável. Deve consultar um profissional fiscal qualificado relativamente às suas obrigações fiscais."
+        ]
+      },
+      {
+        "id": "service-availability",
+        "title": "Disponibilidade do serviço",
+        "content": [
+          "Esforçamo-nos por garantir que o Sinku está disponível a todo o momento, mas não garantimos acesso ininterrupto ou livre de erros aos nossos serviços.",
+          "Os nossos serviços podem estar temporariamente indisponíveis devido a manutenção programada (tentaremos notificá-lo antecipadamente), problemas técnicos não programados, actualizações ou melhorias aos nossos sistemas, acções dos nossos parceiros terceiros, ou eventos fora do nosso controlo razoável.",
+          "Não somos responsáveis por quaisquer perdas ou danos resultantes de interrupções ou indisponibilidade do serviço."
+        ]
+      },
+      {
+        "id": "force-majeure",
+        "title": "Força maior",
+        "content": [
+          "A Sinku não será responsável por qualquer falha ou atraso no cumprimento das nossas obrigações ao abrigo destes Termos se tal falha ou atraso resultar de circunstâncias fora do nosso controlo razoável, incluindo, mas não se limitando a, desastres naturais, epidemias ou pandemias, guerras, terrorismo ou agitação civil, acções governamentais ou alterações regulatórias, cortes de energia, falhas de internet ou telecomunicações, ciberataques, ou falhas de prestadores de serviços terceiros.",
+          "Em caso de força maior, as nossas obrigações serão suspensas durante o evento, e faremos esforços razoáveis para retomar os serviços logo que possível."
+        ]
+      },
+      {
+        "id": "electronic-communications",
+        "title": "Comunicações electrónicas",
+        "content": [
+          "Ao criar uma conta Sinku, consente em receber comunicações nossas por via electrónica, incluindo por e-mail, notificações push, mensagens no app e SMS.",
+          "Estas comunicações podem incluir actualizações e anúncios de serviço, confirmações e alertas de transacções, notificações de segurança, mensagens de marketing e promocionais (das quais pode optar por não receber), e avisos legais e alterações aos nossos Termos.",
+          "As comunicações electrónicas da Sinku satisfazem qualquer requisito legal de que as comunicações sejam feitas por escrito. É responsável por manter o seu endereço de e-mail e número de telefone actualizados."
+        ]
+      },
+      {
+        "id": "promotional-campaigns",
+        "title": "Campanhas promocionais e referências",
+        "content": [
+          "Periodicamente, a Sinku pode oferecer campanhas promocionais, programas de referência ou ofertas especiais. Estas estão sujeitas a termos adicionais que serão comunicados no momento da promoção.",
+          "Reservamo-nos o direito de modificar, suspender ou terminar qualquer campanha promocional ou programa de referência a qualquer momento sem aviso prévio. Qualquer abuso de promoções ou programas de referência, incluindo a criação de múltiplas contas, pode resultar na perda de recompensas e suspensão da conta.",
+          "As recompensas promocionais e bónus de referência não têm valor em dinheiro fora da plataforma Sinku, salvo indicação explícita em contrário."
+        ]
+      },
+      {
+        "id": "compliance",
+        "title": "Conformidade e anti-branqueamento de capitais",
+        "content": [
+          "A Sinku está empenhada em prevenir a utilização da nossa plataforma para branqueamento de capitais, financiamento do terrorismo e outros crimes financeiros."
+        ],
+        "subsections": [
+          {
+            "title": "As nossas obrigações",
+            "content": "Mantemos um programa de conformidade anti-branqueamento de capitais (AML) e contra o financiamento do terrorismo (CTF) em conformidade com as leis e regulamentos aplicáveis. Isto inclui devida diligência do cliente, monitorização de transacções e reporte de actividades suspeitas."
+          },
+          {
+            "title": "As suas obrigações",
+            "content": "Concorda em fornecer informações de identificação e pessoais precisas e actualizadas, cooperar com quaisquer pedidos de verificação adicionais, não utilizar o Sinku para qualquer finalidade ilegal ou proibida, e reportar prontamente qualquer actividade suspeita de que tenha conhecimento."
+          },
+          {
+            "title": "Cooperação regulatória",
+            "content": "Podemos ser obrigados a partilhar informações sobre si ou as suas transacções com autoridades regulatórias, autoridades policiais ou outras agências governamentais. Cumpriremos todos os pedidos legais e poderemos não estar em posição de o informar quando tais divulgações forem feitas."
+          }
         ]
       },
       {
@@ -454,7 +684,7 @@
         "content": [
           "Se alguma disposição destes Termos for considerada inválida ou inexequível, as restantes disposições continuarão em pleno vigor e efeito.",
           "A nossa não aplicação de qualquer direito ou disposição destes Termos não constitui uma renúncia a esse direito ou disposição.",
-          "Estes Termos, juntamente com a nossa Política de Privacidade, Política de Cookies e quaisquer outros acordos aqui referenciados, constituem o acordo integral entre si e o Plexos relativamente aos nossos serviços."
+          "Estes Termos, juntamente com a nossa Política de Privacidade, Política de Cookies e quaisquer outros acordos aqui referenciados, constituem o acordo integral entre si e o Sinku relativamente aos nossos serviços."
         ]
       },
       {
@@ -463,7 +693,7 @@
         "content": [
           "Se tiver questões sobre estes Termos de Serviço, entre em contacto:",
           "Chat no app: Vá ao perfil e toque em 'Ajuda'",
-          "E-mail: support@plexos.com",
+          "E-mail: support@sinku.io",
           "Estamos aqui para ajudar e faremos o nosso melhor para responder prontamente."
         ]
       }

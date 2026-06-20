@@ -417,7 +417,7 @@ export function WaitlistSection() {
 								</p>
 								<div className="flex justify-center gap-3">
 									<a
-										href="https://www.instagram.com/plexos.finance/"
+										href="https://www.instagram.com/sinku.finance/"
 										target="_blank"
 										rel="noopener noreferrer"
 										className="inline-flex items-center gap-2 px-5 py-2.5 rounded-xl bg-gradient-to-br from-[#F58529] via-[#DD2A7B] to-[#8134AF] text-white text-sm font-medium hover:opacity-90 transition-opacity"
@@ -428,7 +428,7 @@ export function WaitlistSection() {
 										Instagram
 									</a>
 									<a
-										href={`https://wa.me/?text=${encodeURIComponent("Check out Plexos — a new money app with low-fee transfers and international cards: https://plexos.finance/waitlist")}`}
+										href={`https://wa.me/?text=${encodeURIComponent("Check out Sinku — a new money app with low-fee transfers and international cards: https://sinku.finance/waitlist")}`}
 										target="_blank"
 										rel="noopener noreferrer"
 										className="inline-flex items-center gap-2 px-5 py-2.5 rounded-xl bg-[#25D366] text-white text-sm font-medium hover:bg-[#20BD5A] transition-colors"

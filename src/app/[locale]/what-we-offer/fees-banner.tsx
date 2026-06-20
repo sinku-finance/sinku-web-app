@@ -8,11 +8,11 @@ export function FeesBanner() {
 	const t = useTranslations("fees")
 
 	return (
-		<section className="relative w-full min-h-[85vh] md:min-h-[90vh] lg:min-h-[95vh] overflow-hidden flex items-center">
+		<section className="relative w-full min-h-[85vh] md:min-h-[90vh] lg:min-h-[95vh] overflow-hidden flex items-end md:items-center">
 			{/* Mobile background image */}
 			<Image
 				src="/banners/what-we-offer-mobile.webp"
-				alt="Plexos card payment"
+				alt="Sinku card payment"
 				fill
 				className="object-cover object-center md:hidden"
 				priority
@@ -21,7 +21,7 @@ export function FeesBanner() {
 			{/* Desktop background image */}
 			<Image
 				src="/banners/what-we-offer-desktop.webp"
-				alt="Plexos card payment"
+				alt="Sinku card payment"
 				fill
 				className="object-cover object-top hidden md:block"
 				priority
@@ -32,8 +32,8 @@ export function FeesBanner() {
 			<div className="absolute inset-0 bg-gradient-to-l from-black/50 via-black/30 to-transparent" />
 
 			{/* Hero Content */}
-			<div className="relative z-10 flex-1 flex items-center px-6 md:px-10 lg:px-12">
-				<div className="w-full max-w-[1400px] mx-auto flex justify-end">
+			<div className="relative z-10 flex-1 flex items-end pb-16 md:pb-0 px-6 md:px-10 lg:px-12">
+				<div className="w-full max-w-[1400px] mx-auto flex md:justify-end">
 					<div className="max-w-2xl lg:max-w-3xl text-center md:text-right">
 						<motion.h1
 							className="text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-6 md:mb-8 leading-tight"

@@ -38,14 +38,6 @@ export function VirtualCardSection() {
 		},
 	]
 
-	const handlePrev = () => {
-		setCurrentCard((prev) => (prev - 1 + cards.length) % cards.length)
-	}
-
-	const handleNext = () => {
-		setCurrentCard((prev) => (prev + 1) % cards.length)
-	}
-
 	return (
 		<section className="w-full bg-white text-black">
 			{/* Banner Section */}
@@ -162,58 +154,49 @@ export function VirtualCardSection() {
 							transition={{ duration: 0.6 }}
 							className="relative"
 						>
-							<div className="flex items-center justify-center gap-3 md:gap-4">
+							<div className="flex items-end justify-center gap-3 md:gap-4">
 								{cards.map((card, index) => {
-									const position = (index - currentCard + cards.length) % cards.length
-									const isCenter = position === 0
-									const isLeft = position === cards.length - 1
-									const isRight = position === 1
-
-									let order = 1
-									if (isLeft) order = 0
-									if (isCenter) order = 1
-									if (isRight) order = 2
+									const isSelected = index === currentCard
 
 									return (
 										<motion.div
 											key={card.id}
-											className={`${card.bgColor} rounded-2xl p-4 md:p-6 flex flex-col cursor-pointer shadow-xl ${card.bgColor.includes("white") ? "text-black" : "text-white"}`}
+											className={`${card.bgColor} rounded-2xl p-4 md:p-6 flex flex-col cursor-pointer shadow-xl w-[150px] h-[230px] md:w-[180px] md:h-[280px] ${card.bgColor.includes("white") ? "text-black" : "text-white"}`}
 											animate={{
-												scale: isCenter ? 1 : 0.9,
-												opacity: isCenter ? 1 : 0.5,
+												opacity: isSelected ? 1 : 0.6,
+												scale: isSelected ? 1.08 : 1,
+												y: isSelected ? -16 : 0,
 											}}
 											transition={{
 												type: "spring",
 												stiffness: 300,
 												damping: 30,
 											}}
-											style={{ order }}
+											style={{ transformOrigin: "bottom center" }}
 											onClick={() => setCurrentCard(index)}
 										>
-											<div className={`flex flex-col ${isCenter ? "w-[160px] h-[220px] md:w-[200px] md:h-[280px]" : "w-[120px] h-[180px] md:w-[150px] md:h-[230px]"} transition-all duration-300`}>
-												{/* Icon */}
-												<div className={`flex items-center justify-center w-8 h-8 md:w-10 md:h-10 rounded-lg mb-3 md:mb-4 ${card.bgColor.includes("white") ? "bg-black/10" : "bg-white/10"}`}>
-													<span className={`${isCenter ? "text-lg md:text-xl" : "text-sm md:text-base"}`}>{card.icon}</span>
-												</div>
+											{/* Icon */}
+											<div className={`flex items-center justify-center w-8 h-8 md:w-10 md:h-10 rounded-lg mb-3 md:mb-4 ${card.bgColor.includes("white") ? "bg-black/10" : "bg-white/10"}`}>
+												<span className="text-base md:text-lg">{card.icon}</span>
+											</div>
 
-												{/* Card Image */}
-												{card.image && (
-													<div className="flex-1 flex items-center justify-center">
-														<div className={`relative w-full rounded-lg overflow-hidden ${isCenter ? "h-[60px] md:h-[90px]" : "h-[40px] md:h-[60px]"}`}>
-															<Image src={card.image} alt={card.title} fill className="object-contain rounded-lg" />
-														</div>
+											{/* Card Image */}
+											{card.image && (
+												<div className="flex-1 flex items-center justify-center">
+													<div className="relative w-full h-[50px] md:h-[70px] rounded-lg overflow-hidden">
+														<Image src={card.image} alt={card.title} fill className="object-contain rounded-lg" />
 													</div>
-												)}
-
-												{/* Content */}
-												<div className="mt-auto">
-													<h4 className={`font-bold mb-1 md:mb-2 leading-tight ${isCenter ? "text-sm md:text-base" : "text-xs md:text-sm"}`}>
-														{card.title}
-													</h4>
-													<p className={`leading-relaxed ${card.bgColor.includes("white") ? "text-black/70" : "text-white/90"} ${isCenter ? "text-xs md:text-sm" : "text-[10px] md:text-xs"}`}>
-														{card.description}
-													</p>
 												</div>
+											)}
+
+											{/* Content */}
+											<div className="mt-auto">
+												<h4 className="font-bold text-xs md:text-sm mb-1 md:mb-2 leading-tight">
+													{card.title}
+												</h4>
+												<p className={`text-[10px] md:text-xs leading-relaxed ${card.bgColor.includes("white") ? "text-black/70" : "text-white/90"}`}>
+													{card.description}
+												</p>
 											</div>
 										</motion.div>
 									)

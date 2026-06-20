@@ -25,7 +25,7 @@ export function AccountFeesSection({ locale }: AccountFeesProps) {
 				return <Bank className="w-full h-full" strokeWidth={2} />
 			case "card":
 				return <CreditCard className="w-full h-full" strokeWidth={2} />
-			case "plexos":
+			case "sinku":
 				return <Wallet className="w-full h-full" strokeWidth={2} />
 			case "atm":
 				return <Cash className="w-full h-full" strokeWidth={2} />
@@ -69,7 +69,7 @@ export function AccountFeesSection({ locale }: AccountFeesProps) {
 							{/* Animated indicator */}
 							<motion.div
 								layoutId="activeTab"
-								className="absolute inset-y-1 rounded-full bg-green-500 shadow-lg"
+								className="absolute inset-y-1 rounded-full bg-primary-500 shadow-lg"
 								initial={false}
 								transition={{
 									type: "spring",

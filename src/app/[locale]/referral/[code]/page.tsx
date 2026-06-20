@@ -10,8 +10,8 @@ export async function generateMetadata({
 	const { code } = await params
 
 	return {
-		title: "You were invited to Plexos",
-		description: `Join Plexos — your friend ${code.replace(/_/g, " ")} invited you. Travel globally and send money abroad at great exchange rates.`,
+		title: "You were invited to Sinku",
+		description: `Join Sinku — your friend ${code.replace(/_/g, " ")} invited you. Travel globally and send money abroad at great exchange rates.`,
 		robots: {
 			index: false,
 			follow: false,

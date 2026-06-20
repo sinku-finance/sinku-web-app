@@ -13,14 +13,14 @@
         "articles": [
           {
             "id": "getting-started",
-            "title": "Getting started with Plexos",
-            "category": "Getting started with Plexos",
+            "title": "Getting started with Sinku",
+            "category": "Getting started with Sinku",
             "content": [
               { "type": "heading", "text": "Who can open an account?" },
-              { "type": "paragraph", "text": "Plexos is available to anyone aged 18 or older living in one of the countries we currently serve. We're focused on PALOP nations and expanding across Africa — check our website or the app for the latest list of supported countries." },
+              { "type": "paragraph", "text": "Sinku is available to anyone aged 18 or older living in one of the countries we currently serve. We're focused on PALOP nations and expanding across Africa — check our website or the app for the latest list of supported countries." },
               { "type": "paragraph", "text": "Support for younger users is on our roadmap and coming soon." },
               { "type": "heading", "text": "One account per person" },
-              { "type": "paragraph", "text": "Each person can hold one Plexos account, no matter how many countries they're connected to." },
+              { "type": "paragraph", "text": "Each person can hold one Sinku account, no matter how many countries they're connected to." },
               { "type": "heading", "text": "What you'll need to sign up" },
               { "type": "paragraph", "text": "Have the following ready before you begin:" },
               { "type": "list", "items": ["A working mobile phone number", "A valid email address", "Basic personal details — full name, date of birth, residential address, and nationality", "A government-issued ID (passport, national ID, or driver's licence)", "A quick selfie to confirm your identity"] },
@@ -28,33 +28,33 @@
             ]
           },
           {
-            "id": "plexos-plans",
-            "title": "Plexos plans",
-            "category": "Plexos plans and benefits",
+            "id": "sinku-plans",
+            "title": "Sinku plans",
+            "category": "Sinku plans and benefits",
             "content": [
               { "type": "heading", "text": "Find the plan that fits your life" },
-              { "type": "paragraph", "text": "Plexos offers three tiers — Standard (free), Plus, and Premium. Each comes with its own set of perks, limits, and features." },
+              { "type": "paragraph", "text": "Sinku offers three tiers — Standard (free), Plus, and Premium. Each comes with its own set of perks, limits, and features." },
               { "type": "paragraph", "text": "Head to the pricing page in the app or on our website to compare plans side by side and pick the one that works for you." }
             ]
           },
           {
             "id": "upgrade-plan",
             "title": "Upgrade my plan",
-            "category": "Plexos plans and benefits",
+            "category": "Sinku plans and benefits",
             "content": [
               { "type": "heading", "text": "How to upgrade" },
-              { "type": "paragraph", "text": "Open the Plexos app, head to your profile, and tap 'Plans'. Pick the tier you'd like, review the pricing, and confirm. Your new benefits start immediately." },
+              { "type": "paragraph", "text": "Open the Sinku app, head to your profile, and tap 'Plans'. Pick the tier you'd like, review the pricing, and confirm. Your new benefits start immediately." },
               { "type": "heading", "text": "When do I get charged?" },
-              { "type": "paragraph", "text": "Your first billing cycle begins the moment you upgrade. The monthly fee for the new plan is deducted from your Plexos balance right away." }
+              { "type": "paragraph", "text": "Your first billing cycle begins the moment you upgrade. The monthly fee for the new plan is deducted from your Sinku balance right away." }
             ]
           },
           {
             "id": "plan-billing",
             "title": "Plan billing",
-            "category": "Plexos plans and benefits",
+            "category": "Sinku plans and benefits",
             "content": [
               { "type": "heading", "text": "How billing works" },
-              { "type": "paragraph", "text": "Paid plans are billed monthly. The charge is automatically taken from your Plexos balance on the same date each month." },
+              { "type": "paragraph", "text": "Paid plans are billed monthly. The charge is automatically taken from your Sinku balance on the same date each month." },
               { "type": "heading", "text": "What if I don't have enough balance?" },
               { "type": "paragraph", "text": "If your balance is too low on billing day, we'll retry over the next few days. If it still can't be collected, your plan may revert to Standard." }
             ]
@@ -62,7 +62,7 @@
           {
             "id": "downgrade-plan",
             "title": "Downgrade my plan",
-            "category": "Plexos plans and benefits",
+            "category": "Sinku plans and benefits",
             "content": [
               { "type": "heading", "text": "How to downgrade" },
               { "type": "paragraph", "text": "Go to your profile, tap 'Plans', and choose a lower tier. The change kicks in at the end of your current billing period — you keep all your current perks until then." },
@@ -82,7 +82,7 @@
               { "type": "list", "items": ["Accepted document types are listed on the in-app submission screen", "If you've applied for a document but it hasn't arrived, tap 'Request more time' in the app", "If that option isn't available, reach out to us via the in-app chat"] },
               { "type": "heading", "text": "My document was turned down" },
               { "type": "paragraph", "text": "Double-check that your document:" },
-              { "type": "list", "items": ["Is one of the accepted types", "Is not handwritten", "Is not expired, damaged, or hard to read", "Has details that match the information on your Plexos account"] },
+              { "type": "list", "items": ["Is one of the accepted types", "Is not handwritten", "Is not expired, damaged, or hard to read", "Has details that match the information on your Sinku account"] },
               { "type": "heading", "text": "How long does verification take?" },
               { "type": "paragraph", "text": "Usually less than one business day. In some cases it can take up to seven days. We'll let you know as soon as the review is complete." }
             ]
@@ -95,7 +95,7 @@
               { "type": "paragraph", "text": "If we need to confirm your residential address, you'll receive an email and in-app notification with instructions." },
               { "type": "heading", "text": "What's accepted" },
               { "type": "paragraph", "text": "Upload a PDF or clear photo of a physical document. Screenshots aren't accepted. The document must:" },
-              { "type": "list", "items": ["Be issued within the last 6 months", "Come from a government body, utility company, or financial institution", "Show a residential address — PO boxes, hotels, and business addresses won't work", "Have a name and address that match your Plexos account"] },
+              { "type": "list", "items": ["Be issued within the last 6 months", "Come from a government body, utility company, or financial institution", "Show a residential address — PO boxes, hotels, and business addresses won't work", "Have a name and address that match your Sinku account"] },
               { "type": "heading", "text": "Upload tips" },
               { "type": "paragraph", "text": "Make sure you're on the latest version of the app. Your document should be clear and fully legible — blurry uploads will be rejected." }
             ]
@@ -116,11 +116,13 @@
             "title": "Update my tax information",
             "category": "Submitting documents",
             "content": [
-              { "type": "paragraph", "text": "Our third-party financial service providers may need to collect your tax residence information and, in some cases, a tax identification number (TIN)." },
+              { "type": "paragraph", "text": "Our third-party financial service providers may need to collect your tax residence information and, in some cases, a tax identification number (NIF/TIN)." },
               { "type": "heading", "text": "How to update in the app" },
-              { "type": "list", "items": ["Tap your profile icon", "Tap 'Account'", "Tap 'Personal details'", "Tap 'Tax residencies'", "Add a new country or update your TIN"] },
-              { "type": "heading", "text": "Why does Plexos need this?" },
-              { "type": "paragraph", "text": "Financial service providers are required by international standards (CRS and FATCA) to collect tax-related information from account holders." }
+              { "type": "list", "items": ["Tap your profile icon", "Tap 'Account'", "Tap 'Personal details'", "Tap 'Tax residencies'", "Add a new country or update your NIF/TIN"] },
+              { "type": "heading", "text": "Why does Sinku need this?" },
+              { "type": "paragraph", "text": "Financial service providers are required by international standards (CRS and FATCA) to collect tax-related information from account holders." },
+              { "type": "heading", "text": "Your tax responsibilities" },
+              { "type": "paragraph", "text": "You are solely responsible for determining and fulfilling any tax obligations arising from your use of Sinku services. Sinku does not provide tax advice and does not perform tax reporting on your behalf. We recommend consulting a qualified tax professional for guidance." }
             ]
           },
           {
@@ -165,11 +167,11 @@
           },
           {
             "id": "supported-countries",
-            "title": "Where is Plexos available?",
+            "title": "Where is Sinku available?",
             "category": "Change personal details",
             "content": [
-              { "type": "paragraph", "text": "Plexos is built in Africa, for Africa — and beyond. We're currently live across PALOP countries and expanding to more African nations, while also serving customers in Europe and the Americas." },
-              { "type": "paragraph", "text": "Whether you're in Luanda, Lisbon, or São Paulo, Plexos keeps your money connected across borders. Check the full list of supported regions on our website or inside the app." },
+              { "type": "paragraph", "text": "Sinku is built in Africa, for Africa — and beyond. We're currently live across PALOP countries and expanding to more African nations, while also serving customers in Europe and the Americas." },
+              { "type": "paragraph", "text": "Whether you're in Luanda, Lisbon, or São Paulo, Sinku keeps your money connected across borders. Check the full list of supported regions on our website or inside the app." },
               { "type": "paragraph", "text": "Not available where you are yet? Join the waitlist and we'll let you know the moment we launch in your country." }
             ]
           },
@@ -178,7 +180,7 @@
             "title": "Download your account confirmation",
             "category": "Download a document",
             "content": [
-              { "type": "paragraph", "text": "Need proof you hold a Plexos account? Download a confirmation letter straight from the app." },
+              { "type": "paragraph", "text": "Need proof you hold a Sinku account? Download a confirmation letter straight from the app." },
               { "type": "list", "items": ["Go to your profile and tap 'Documents'", "Select 'Account confirmation'", "A PDF will be generated for you to save or share"] }
             ]
           },
@@ -196,7 +198,7 @@
             "title": "Change my passcode",
             "category": "Login and security",
             "content": [
-              { "type": "paragraph", "text": "Your passcode is the main lock on your Plexos app. Update it regularly for best security." },
+              { "type": "paragraph", "text": "Your passcode is the main lock on your Sinku app. Update it regularly for best security." },
               { "type": "list", "items": ["Go to your profile and tap 'Security'", "Select 'Change passcode'", "Enter your current passcode, then choose a new one"] },
               { "type": "paragraph", "text": "Pick something you'll remember but that's hard to guess. Avoid obvious sequences like 1234." }
             ]
@@ -266,7 +268,7 @@
             "title": "Switching languages",
             "category": "Settings",
             "content": [
-              { "type": "paragraph", "text": "The Plexos app is available in multiple languages including Portuguese and English." },
+              { "type": "paragraph", "text": "The Sinku app is available in multiple languages including Portuguese and English." },
               { "type": "list", "items": ["Go to your profile", "Tap 'App settings' or 'Language'", "Choose your preferred language"] },
               { "type": "paragraph", "text": "The app refreshes in the new language instantly." }
             ]
@@ -285,9 +287,9 @@
             "title": "How do I close my account?",
             "category": "Closing your account",
             "content": [
-              { "type": "paragraph", "text": "You can close your Plexos account directly from the app." },
+              { "type": "paragraph", "text": "You can close your Sinku account directly from the app." },
               { "type": "heading", "text": "Before you close" },
-              { "type": "list", "items": ["Transfer or withdraw your remaining balance", "Cancel any active subscriptions linked to Plexos", "Download any statements or documents you might need later"] },
+              { "type": "list", "items": ["Transfer or withdraw your remaining balance", "Cancel any active subscriptions linked to Sinku", "Download any statements or documents you might need later"] },
               { "type": "heading", "text": "How to close" },
               { "type": "list", "items": ["Go to your profile", "Scroll to the bottom and tap 'Close account'", "Follow the prompts to confirm"] },
               { "type": "paragraph", "text": "Closure is permanent. Your data will be kept for the period required by law, then securely deleted." }
@@ -295,22 +297,22 @@
           },
           {
             "id": "accessibility",
-            "title": "Accessibility at Plexos",
+            "title": "Accessibility at Sinku",
             "category": "Accessibility",
             "content": [
-              { "type": "paragraph", "text": "We're building Plexos to be usable by everyone. The app supports screen readers, dynamic text sizing, and high-contrast mode on both iOS and Android." },
+              { "type": "paragraph", "text": "We're building Sinku to be usable by everyone. The app supports screen readers, dynamic text sizing, and high-contrast mode on both iOS and Android." },
               { "type": "paragraph", "text": "If you hit an accessibility barrier, let us know through the in-app chat — your feedback shapes what we improve next." }
             ]
           },
           {
             "id": "contact-support",
-            "title": "How to reach Plexos Support",
+            "title": "How to reach Sinku Support",
             "category": "Contact support",
             "content": [
-              { "type": "paragraph", "text": "The quickest way to get help is through the in-app chat. Open the Plexos app, go to your profile, and tap 'Help' or 'Chat with us'." },
+              { "type": "paragraph", "text": "The quickest way to get help is through the in-app chat. Open the Sinku app, go to your profile, and tap 'Help' or 'Chat with us'." },
               { "type": "paragraph", "text": "Our team can assist you in Portuguese and English." },
               { "type": "heading", "text": "Other ways to reach us" },
-              { "type": "list", "items": ["Email: support@plexos.com", "Help Centre: browse articles for instant answers", "Social media: reach out through our official channels (never share sensitive account details publicly)"] }
+              { "type": "list", "items": ["Email: support@sinku.io", "Help Centre: browse articles for instant answers", "Social media: reach out through our official channels (never share sensitive account details publicly)"] }
             ]
           }
         ]
@@ -321,10 +323,10 @@
         "articles": [
           {
             "id": "official-app",
-            "title": "Always use the official Plexos app",
+            "title": "Always use the official Sinku app",
             "category": "Keeping your device secure",
             "content": [
-              { "type": "paragraph", "text": "For your protection, only download Plexos from the Apple App Store or Google Play Store. Versions from other sources could be tampered with." },
+              { "type": "paragraph", "text": "For your protection, only download Sinku from the Apple App Store or Google Play Store. Versions from other sources could be tampered with." },
               { "type": "paragraph", "text": "Not sure your app is genuine? Delete it and re-download from the official store." }
             ]
           },
@@ -334,7 +336,7 @@
             "category": "Keeping your device secure",
             "content": [
               { "type": "paragraph", "text": "Running the latest operating system on your phone is one of the simplest ways to stay safe. Security patches fix known vulnerabilities before they can be exploited." },
-              { "type": "paragraph", "text": "If your OS is too old, parts of the Plexos app may stop working. We recommend turning on automatic updates." }
+              { "type": "paragraph", "text": "If your OS is too old, parts of the Sinku app may stop working. We recommend turning on automatic updates." }
             ]
           },
           {
@@ -343,12 +345,12 @@
             "category": "Keeping your device secure",
             "content": [
               { "type": "paragraph", "text": "Rooted (Android) or jailbroken (iOS) devices carry serious security risks — they allow apps to access data they normally couldn't." },
-              { "type": "paragraph", "text": "The Plexos app may not work on modified devices. If you need assistance, get in touch with our support team." }
+              { "type": "paragraph", "text": "The Sinku app may not work on modified devices. If you need assistance, get in touch with our support team." }
             ]
           },
           {
             "id": "unsupported-device",
-            "title": "Why isn't Plexos working on my device?",
+            "title": "Why isn't Sinku working on my device?",
             "category": "Keeping your device secure",
             "content": [
               { "type": "paragraph", "text": "We update our minimum device requirements periodically to maintain security. If your phone is no longer supported, it usually means the manufacturer has stopped providing security updates for it." },
@@ -357,38 +359,42 @@
           },
           {
             "id": "money-safety",
-            "title": "How Plexos keeps your money safe",
-            "category": "Plexos security",
+            "title": "How Sinku keeps your money safe",
+            "category": "Sinku security",
             "content": [
-              { "type": "paragraph", "text": "Your funds are held separately from Plexos's own money, in line with regulatory requirements. This ring-fencing ensures your balance is protected." },
-              { "type": "heading", "text": "Check which Plexos entity holds your account" },
-              { "type": "list", "items": ["Tap your profile icon", "Scroll to the very bottom", "The name of the Plexos entity is shown there"] }
+              { "type": "paragraph", "text": "Sinku is a technology platform — not a bank. We do not hold, control, or have custody of your funds. Your money is protected through our regulated partners and non-custodial wallet infrastructure:" },
+              { "type": "list", "items": ["Card funds are managed by our licensed financial partner operating under its own regulatory framework", "Wallet funds are secured through Privy's non-custodial infrastructure — only you hold the private keys to your wallet", "Smart contract security modules (Roles Module and Delay Module) protect card transactions", "Backend communications are encrypted with TLS and authentication uses end-to-end encryption"] },
+              { "type": "paragraph", "text": "Because Sinku does not hold your funds, there is no risk of losing your money if Sinku were to stop operating. Your card funds remain with our licensed partner and your wallet assets remain accessible with your private keys." },
+              { "type": "heading", "text": "Learn more" },
+              { "type": "paragraph", "text": "Visit our How We Work page for a full explanation of our technology, partners, and security architecture." }
             ]
           },
           {
             "id": "fraud-protection",
             "title": "How we protect you against fraud",
-            "category": "Plexos security",
+            "category": "Sinku security",
             "content": [
               { "type": "paragraph", "text": "We use real-time monitoring and machine learning to spot suspicious activity. If something looks off, we may pause a transaction and alert you." },
+              { "type": "heading", "text": "Smart contract security" },
+              { "type": "list", "items": ["Roles Module: Your card operates in an 'isolated corridor' — it can only move a specific token to one secure destination, with no power over the rest of your assets", "Delay Module: Non-card transactions have a brief processing interval to prevent conflicts and maintain wallet integrity"] },
               { "type": "heading", "text": "Built-in safeguards" },
-              { "type": "list", "items": ["Instant push notifications for every transaction", "Freeze your card in seconds from the app", "Disposable virtual card numbers for safer online shopping", "3D Secure verification for online payments"] }
+              { "type": "list", "items": ["Instant push notifications for every transaction", "Freeze your card in seconds from the app", "Disposable virtual card numbers for safer online shopping", "3D Secure verification for online payments", "End-to-end encryption for authentication — Sinku cannot access your authentication data"] }
             ]
           },
           {
             "id": "keep-account-safe",
             "title": "Tips to keep your account safe",
-            "category": "Plexos security",
+            "category": "Sinku security",
             "content": [
               { "type": "paragraph", "text": "We work hard to protect you, but a few habits on your side go a long way:" },
-              { "type": "list", "items": ["Never share your passcode, PIN, or verification codes with anyone — Plexos will never ask for them", "Enable biometric login for an extra layer of security", "Keep the app and your device software up to date", "Be cautious of unsolicited calls, emails, or texts claiming to be from Plexos", "Turn on transaction notifications so every payment is on your radar"] },
+              { "type": "list", "items": ["Never share your passcode, PIN, or verification codes with anyone — Sinku will never ask for them", "Enable biometric login for an extra layer of security", "Keep the app and your device software up to date", "Be cautious of unsolicited calls, emails, or texts claiming to be from Sinku", "Turn on transaction notifications so every payment is on your radar"] },
               { "type": "paragraph", "text": "Something feel wrong? Trust your gut and contact us via the in-app chat." }
             ]
           },
           {
             "id": "safety-features",
-            "title": "Plexos safety features at a glance",
-            "category": "Plexos security",
+            "title": "Sinku safety features at a glance",
+            "category": "Sinku security",
             "content": [
               { "type": "heading", "text": "Card controls" },
               { "type": "paragraph", "text": "Freeze and unfreeze your card instantly, toggle contactless or online payments on and off, and set spending limits — all from the app." },
@@ -415,7 +421,7 @@
             "title": "Received a suspicious call, email, or message?",
             "category": "Reporting fraud",
             "content": [
-              { "type": "paragraph", "text": "Plexos will never call you out of the blue, ask you to share security codes, or request payments to a 'safe account'." },
+              { "type": "paragraph", "text": "Sinku will never call you out of the blue, ask you to share security codes, or request payments to a 'safe account'." },
               { "type": "heading", "text": "How to stay safe" },
               { "type": "list", "items": ["Verify any suspicious contact by reaching out to us via the in-app chat", "For emails, check the sender's address carefully for typos or unusual domains", "When in doubt, never share personal or financial information"] },
               { "type": "paragraph", "text": "If you think you've been targeted by a scam, report it immediately through the app and contact your local authorities." }
@@ -452,9 +458,9 @@
             "title": "Order a physical debit card",
             "category": "Ordering your card",
             "content": [
-              { "type": "paragraph", "text": "Your Plexos debit card works internationally — use it anywhere Mastercard is accepted, in-store or online, at home or abroad." },
+              { "type": "paragraph", "text": "Your Sinku debit card works internationally — use it anywhere Visa or Mastercard is accepted, in-store or online, at home or abroad." },
               { "type": "heading", "text": "How to order" },
-              { "type": "list", "items": ["Open the Plexos app and go to 'Cards'", "Tap 'Order physical card'", "Choose your preferred design", "Confirm your delivery address and place the order"] },
+              { "type": "list", "items": ["Open the Sinku app and go to 'Cards'", "Tap 'Order physical card'", "Choose your preferred design", "Confirm your delivery address and place the order"] },
               { "type": "paragraph", "text": "Delivery times vary by country but typically take 7–14 business days. Some plans include a free card." }
             ]
           },
@@ -502,7 +508,7 @@
             "title": "Finding your card PIN",
             "category": "Managing your card",
             "content": [
-              { "type": "paragraph", "text": "Your PIN lives inside the Plexos app:" },
+              { "type": "paragraph", "text": "Your PIN lives inside the Sinku app:" },
               { "type": "list", "items": ["Go to 'Cards'", "Select your card", "Tap 'Show PIN' and verify your identity"] },
               { "type": "paragraph", "text": "Never write down or share your PIN with anyone." }
             ]
@@ -586,7 +592,7 @@
             "category": "Card payments",
             "content": [
               { "type": "paragraph", "text": "A payment can be declined for a number of reasons:" },
-              { "type": "list", "items": ["Not enough funds in the right currency", "Online or contactless payments are switched off in card settings", "The card is frozen", "Our security system flagged the transaction", "The merchant doesn't accept Mastercard"] },
+              { "type": "list", "items": ["Not enough funds in the right currency", "Online or contactless payments are switched off in card settings", "The card is frozen", "Our security system flagged the transaction", "The merchant doesn't accept Visa or Mastercard"] },
               { "type": "paragraph", "text": "Open the transaction in the app for more details on why it was declined." }
             ]
           },
@@ -613,7 +619,7 @@
             "title": "Help with a refund",
             "category": "Card payments",
             "content": [
-              { "type": "paragraph", "text": "Refunds are processed by the merchant and typically take 5–10 business days to land in your Plexos account." },
+              { "type": "paragraph", "text": "Refunds are processed by the merchant and typically take 5–10 business days to land in your Sinku account." },
               { "type": "heading", "text": "Still waiting?" },
               { "type": "list", "items": ["Confirm with the merchant that the refund was actually issued", "Check your transaction history — it may show as a separate entry", "If it's been more than 10 business days, contact our support team with the original transaction details"] }
             ]
@@ -643,7 +649,7 @@
             "title": "ATM withdrawal limits and fees",
             "category": "Cash withdrawals",
             "content": [
-              { "type": "paragraph", "text": "Each Plexos plan includes a monthly free ATM withdrawal allowance. Once you go over, a small fee is charged per withdrawal." },
+              { "type": "paragraph", "text": "Each Sinku plan includes a monthly free ATM withdrawal allowance. Once you go over, a small fee is charged per withdrawal." },
               { "type": "paragraph", "text": "Check your current limits in the app under 'Cards' > 'Limits'. Upgrading your plan increases your free allowance." }
             ]
           },
@@ -661,7 +667,7 @@
             "title": "Using your card abroad",
             "category": "Spending in other currencies",
             "content": [
-              { "type": "paragraph", "text": "Your Plexos debit card works anywhere Mastercard is accepted around the world. When you pay in a different currency, we handle the conversion automatically at a competitive rate." },
+              { "type": "paragraph", "text": "Your Sinku debit card works anywhere Visa or Mastercard is accepted around the world. When you pay in a different currency, we handle the conversion automatically at a competitive rate." },
               { "type": "heading", "text": "Get the best deal" },
               { "type": "list", "items": ["Always pay in the local currency — decline any offer to convert to your home currency at the till (this is called Dynamic Currency Conversion and the rate is usually worse)", "Be aware that a small markup may apply outside market hours (weekends and holidays)", "If you know you'll spend a lot in one currency, exchange some in advance inside the app"] }
             ]
@@ -671,7 +677,7 @@
             "title": "Foreign currency fees",
             "category": "Spending in other currencies",
             "content": [
-              { "type": "paragraph", "text": "During weekday market hours, Plexos uses competitive interbank rates for currency conversion. Depending on your plan, this may be fee-free up to a monthly limit." },
+              { "type": "paragraph", "text": "During weekday market hours, Sinku uses competitive interbank rates for currency conversion. Depending on your plan, this may be fee-free up to a monthly limit." },
               { "type": "paragraph", "text": "Outside market hours, a small markup protects against overnight volatility. The exact rate depends on your plan tier and the currencies involved." }
             ]
           },
@@ -689,7 +695,7 @@
             "title": "What is 3D Secure?",
             "category": "More help with payments",
             "content": [
-              { "type": "paragraph", "text": "3D Secure adds an extra verification step to online payments. When you buy something online, you may be asked to confirm the purchase in the Plexos app before it goes through." },
+              { "type": "paragraph", "text": "3D Secure adds an extra verification step to online payments. When you buy something online, you may be asked to confirm the purchase in the Sinku app before it goes through." },
               { "type": "paragraph", "text": "Keep push notifications on so you can approve payments quickly." }
             ]
           },
@@ -698,8 +704,8 @@
             "title": "Apple Pay and Google Pay",
             "category": "More help with payments",
             "content": [
-              { "type": "paragraph", "text": "Add your Plexos debit card to Apple Pay or Google Pay for fast contactless payments with your phone." },
-              { "type": "list", "items": ["Go to 'Cards' in the Plexos app", "Select your card", "Tap 'Add to Apple Pay' or 'Add to Google Pay'", "Follow the on-screen steps"] },
+              { "type": "paragraph", "text": "Add your Sinku debit card to Apple Pay or Google Pay for fast contactless payments with your phone." },
+              { "type": "list", "items": ["Go to 'Cards' in the Sinku app", "Select your card", "Tap 'Add to Apple Pay' or 'Add to Google Pay'", "Follow the on-screen steps"] },
               { "type": "paragraph", "text": "Availability may vary by country." }
             ]
           }
@@ -714,7 +720,7 @@
             "title": "Holding money in different currencies",
             "category": "Currency accounts",
             "content": [
-              { "type": "paragraph", "text": "Multi-currency accounts are coming soon to Plexos. You'll be able to hold balances in multiple currencies from one account — ideal for anyone who sends or receives money across borders." },
+              { "type": "paragraph", "text": "Multi-currency accounts are coming soon to Sinku. You'll be able to hold balances in multiple currencies from one account — ideal for anyone who sends or receives money across borders." },
               { "type": "paragraph", "text": "Once available, you'll be able to add new currencies directly in the app, hold funds in each one, and exchange between them with competitive rates." },
               { "type": "paragraph", "text": "Stay tuned — we'll notify you as soon as this feature goes live." }
             ]
@@ -734,7 +740,7 @@
             "title": "Exchange rates and fees",
             "category": "Currency accounts",
             "content": [
-              { "type": "paragraph", "text": "During market hours (weekdays), Plexos uses competitive interbank rates. Each plan includes a monthly fee-free exchange allowance — once you exceed it, a small percentage fee applies." },
+              { "type": "paragraph", "text": "During market hours (weekdays), Sinku uses competitive interbank rates. Each plan includes a monthly fee-free exchange allowance — once you exceed it, a small percentage fee applies." },
               { "type": "paragraph", "text": "Outside market hours, a small markup protects against weekend price swings. Check the app for your plan's exact limits and rates." }
             ]
           },
@@ -782,18 +788,18 @@
         "title": "Transfers",
         "articles": [
           {
-            "id": "send-to-plexos-user",
-            "title": "Send money to another Plexos user",
+            "id": "send-to-sinku-user",
+            "title": "Send money to another Sinku user",
             "category": "Sending money",
             "content": [
-              { "type": "paragraph", "text": "Sending money to fellow Plexos users is instant and free — no bank details needed." },
+              { "type": "paragraph", "text": "Sending money to fellow Sinku users is instant and easy — no bank details needed. Fees may apply for transfers between accounts in different countries and are always shown before you confirm." },
               { "type": "heading", "text": "How to send" },
-              { "type": "list", "items": ["Go to 'Transfers' in the app", "Tap 'Send to Plexos contact'", "Pick the person from your contacts or search by phone number / PlexTag", "Enter the amount and confirm"] }
+              { "type": "list", "items": ["Go to 'Transfers' in the app", "Tap 'Send to Sinku contact'", "Pick the person from your contacts or search by phone number / PlexTag", "Enter the amount and confirm"] }
             ]
           },
           {
             "id": "request-money",
-            "title": "Request money from a Plexos user",
+            "title": "Request money from a Sinku user",
             "category": "Sending money",
             "content": [
               { "type": "paragraph", "text": "Need someone to pay you back? Send them a request directly in the app." },
@@ -806,7 +812,7 @@
             "title": "PlexTags",
             "category": "Sending money",
             "content": [
-              { "type": "paragraph", "text": "Your PlexTag is a unique username other Plexos users can use to find and pay you — no need to share your phone number." },
+              { "type": "paragraph", "text": "Your PlexTag is a unique username other Sinku users can use to find and pay you — no need to share your phone number." },
               { "type": "heading", "text": "Set up your PlexTag" },
               { "type": "list", "items": ["Go to your profile", "Tap 'PlexTag'", "Pick a unique name and confirm"] }
             ]
@@ -817,7 +823,7 @@
             "category": "Sending money",
             "content": [
               { "type": "paragraph", "text": "Splitting a meal, a trip, or rent? Group Bills makes it easy." },
-              { "type": "list", "items": ["Go to 'Transfers' and tap 'Group bill'", "Add participants from your Plexos contacts", "Enter the total amount", "Choose equal split or custom amounts", "Hit send — everyone gets notified"] }
+              { "type": "list", "items": ["Go to 'Transfers' and tap 'Group bill'", "Add participants from your Sinku contacts", "Enter the total amount", "Choose equal split or custom amounts", "Hit send — everyone gets notified"] }
             ]
           },
           {
@@ -825,7 +831,7 @@
             "title": "Transfer limits",
             "category": "Sending money",
             "content": [
-              { "type": "paragraph", "text": "There are daily and monthly limits on how much you can send to other Plexos users. These vary by plan." },
+              { "type": "paragraph", "text": "There are daily and monthly limits on how much you can send to other Sinku users. These vary by plan." },
               { "type": "paragraph", "text": "Check your current limits in the app under 'Transfers' > 'Limits'." }
             ]
           },
@@ -834,10 +840,10 @@
             "title": "Payment links",
             "category": "Receiving money",
             "content": [
-              { "type": "paragraph", "text": "Payment links let you request money from anyone — even people who don't use Plexos. Generate a link and share it via WhatsApp, SMS, email, or social media." },
+              { "type": "paragraph", "text": "Payment links let you request money from anyone — even people who don't use Sinku. Generate a link and share it via WhatsApp, SMS, email, or social media." },
               { "type": "heading", "text": "How to create one" },
               { "type": "list", "items": ["Go to 'Transfers' and tap 'Payment link'", "Enter the amount and an optional note", "Share the link however you like"] },
-              { "type": "paragraph", "text": "The recipient pays using their card — no Plexos account required on their end." }
+              { "type": "paragraph", "text": "The recipient pays using their card — no Sinku account required on their end." }
             ]
           },
           {
@@ -845,7 +851,7 @@
             "title": "I sent money but it wasn't received",
             "category": "Transfer issues",
             "content": [
-              { "type": "paragraph", "text": "Transfers between Plexos users are normally instant. If the recipient says they haven't received it:" },
+              { "type": "paragraph", "text": "Transfers between Sinku users are normally instant. If the recipient says they haven't received it:" },
               { "type": "list", "items": ["Check the transaction in your history — does it show as 'Completed'?", "Make sure you sent it to the right person (correct phone number or PlexTag)", "Ask the recipient to pull down to refresh their balance"] },
               { "type": "paragraph", "text": "If everything looks correct and the funds are still missing, contact our support team." }
             ]
@@ -855,7 +861,7 @@
             "title": "I sent money to the wrong person",
             "category": "Transfer issues",
             "content": [
-              { "type": "paragraph", "text": "Unfortunately, transfers to other Plexos users are instant and can't be automatically reversed." },
+              { "type": "paragraph", "text": "Unfortunately, transfers to other Sinku users are instant and can't be automatically reversed." },
               { "type": "paragraph", "text": "Your best option is to contact the recipient directly and ask them to send the money back. If that doesn't work, reach out to our support team and we'll do our best to help." }
             ]
           }
@@ -870,7 +876,7 @@
             "title": "Add money with a debit card",
             "category": "Top up your account",
             "content": [
-              { "type": "paragraph", "text": "The quickest way to fund your Plexos account is with a debit card." },
+              { "type": "paragraph", "text": "The quickest way to fund your Sinku account is with a debit card." },
               { "type": "list", "items": ["Tap 'Add money' in the app", "Select 'Card'", "Enter the amount", "Choose a saved card or add a new one", "Confirm the top-up"] },
               { "type": "paragraph", "text": "Funds land instantly in most cases." }
             ]
@@ -880,7 +886,7 @@
             "title": "Add money with mobile money",
             "category": "Top up your account",
             "content": [
-              { "type": "paragraph", "text": "In supported countries, you can top up your Plexos account directly from your mobile money wallet." },
+              { "type": "paragraph", "text": "In supported countries, you can top up your Sinku account directly from your mobile money wallet." },
               { "type": "list", "items": ["Tap 'Add money' in the app", "Select 'Mobile money'", "Choose your provider", "Enter the amount and confirm on your phone"] },
               { "type": "paragraph", "text": "Funds typically arrive within a few minutes. Availability depends on your country and mobile money provider." }
             ]
@@ -916,10 +922,10 @@
           },
           {
             "id": "receive-via-card",
-            "title": "Receiving money to your Plexos card",
+            "title": "Receiving money to your Sinku card",
             "category": "Other ways to add money",
             "content": [
-              { "type": "paragraph", "text": "Some merchants can send funds directly to your Plexos debit card — for example, refunds or cashback. These typically appear in your account within a few business days." }
+              { "type": "paragraph", "text": "Some merchants can send funds directly to your Sinku debit card — for example, refunds or cashback. These typically appear in your account within a few business days." }
             ]
           },
           {
@@ -927,7 +933,7 @@
             "title": "Receive money through a payment link",
             "category": "Other ways to add money",
             "content": [
-              { "type": "paragraph", "text": "Share a payment link with anyone who needs to pay you. They can pay with their card — no Plexos account needed." },
+              { "type": "paragraph", "text": "Share a payment link with anyone who needs to pay you. They can pay with their card — no Sinku account needed." },
               { "type": "list", "items": ["Go to 'Transfers' and tap 'Payment link'", "Set the amount and share the link"] }
             ]
           }
@@ -939,7 +945,7 @@
         "articles": [
           {
             "id": "how-referrals-work",
-            "title": "How Plexos Referrals work",
+            "title": "How Sinku Referrals work",
             "category": "Getting started with Referrals",
             "content": [
               { "type": "paragraph", "text": "Share your unique referral link with friends and family. When they sign up and complete the required steps, you both earn a reward." },
@@ -986,12 +992,14 @@
         "articles": [
           {
             "id": "data-privacy",
-            "title": "How Plexos handles your data",
+            "title": "How Sinku handles your data",
             "category": "Privacy and legal",
             "content": [
-              { "type": "paragraph", "text": "We only collect data that's necessary to provide our services and meet regulatory obligations." },
+              { "type": "paragraph", "text": "We only collect data that's necessary to provide our services and meet regulatory obligations. Sinku stores your registration data such as your email, phone number, and identification details (like NIF/TIN) for two reasons:" },
+              { "type": "list", "items": ["Partner integration: So you can access services like card issuance (via our licensed partner) and other features that require identification", "Ease of access: So you don't need to fill in forms every time you open the app"] },
+              { "type": "paragraph", "text": "Important: Certain blockchain transactions are recorded on-chain and are publicly visible. Sinku does not control on-chain data. Your wallet address may be shared with partners to provide services like card issuance." },
               { "type": "heading", "text": "Your rights" },
-              { "type": "list", "items": ["Access your personal data any time through the app", "Request corrections to inaccurate information", "Request deletion of your data (subject to legal retention requirements)", "Export your data in a portable format"] },
+              { "type": "list", "items": ["Access your personal data any time through the app", "Request corrections to inaccurate information", "Request deletion of your data (subject to legal retention requirements)", "Export your data in a portable format", "If you are in the EU, you have additional rights under GDPR including the right to data portability and the right to object to processing"] },
               { "type": "paragraph", "text": "Full details are in our Privacy Policy, available in the app and on our website." }
             ]
           },
@@ -1000,8 +1008,11 @@
             "title": "Regulatory information",
             "category": "Privacy and legal",
             "content": [
-              { "type": "paragraph", "text": "Plexos is authorised and regulated to provide financial services. The specific regulations that apply to you depend on the Plexos entity that holds your account." },
-              { "type": "paragraph", "text": "You can find your entity by scrolling to the bottom of your profile page in the app." }
+              { "type": "paragraph", "text": "Sinku is a financial technology company, not a bank or licensed financial institution. We provide the technology layer that connects you to financial services delivered by independent, licensed partners:" },
+              { "type": "list", "items": ["Licensed Partner — for payment card issuance and financial services on the Visa and Mastercard networks", "Privy — for non-custodial wallet infrastructure (you hold the private keys, not Sinku)"] },
+              { "type": "paragraph", "text": "These partners operate under their own regulatory authorisations and are responsible for compliance with financial regulations, KYC verification, and anti-money laundering requirements." },
+              { "type": "paragraph", "text": "Sinku does not hold, control, or have custody of your funds. Our compliance policies are based on community protection and respect for global standards including AML, CTF, and KYC requirements." },
+              { "type": "paragraph", "text": "For a full explanation of our model, visit our How We Work transparency page." }
             ]
           },
           {
@@ -1019,8 +1030,8 @@
             "title": "Share feedback or report a bug",
             "category": "Account access",
             "content": [
-              { "type": "paragraph", "text": "We're building Plexos for our community and your feedback matters. If you've found a bug or have an idea for how we can improve, let us know:" },
-              { "type": "list", "items": ["Open the in-app chat and select 'Feedback'", "Or email us at feedback@plexos.com"] },
+              { "type": "paragraph", "text": "We're building Sinku for our community and your feedback matters. If you've found a bug or have an idea for how we can improve, let us know:" },
+              { "type": "list", "items": ["Open the in-app chat and select 'Feedback'", "Or email us at feedback@sinku.io"] },
               { "type": "paragraph", "text": "Every message is read by our team. Thank you for helping us build something better." }
             ]
           }
@@ -1042,63 +1053,63 @@
         "articles": [
           {
             "id": "getting-started",
-            "title": "Começar a usar o Plexos",
-            "category": "Começar a usar o Plexos",
+            "title": "Começar a usar o Sinku",
+            "category": "Começar a usar o Sinku",
             "content": [
               { "type": "heading", "text": "Quem pode abrir uma conta?" },
-              { "type": "paragraph", "text": "O Plexos está disponível para qualquer pessoa com 18 anos ou mais que viva num dos países que actualmente servimos. Estamos focados nos países da CPLP e a expandir por toda a África — consulte o nosso site ou o app para ver a lista actualizada." },
+              { "type": "paragraph", "text": "O Sinku está disponível para qualquer pessoa com 18 anos ou mais que viva num dos países que actualmente servimos. Estamos focados nos países da CPLP e a expandir por toda a África — consulte o nosso site ou o app para ver a lista actualizada." },
               { "type": "paragraph", "text": "O suporte para utilizadores mais jovens está no nosso plano e será lançado em breve." },
               { "type": "heading", "text": "Uma conta por pessoa" },
-              { "type": "paragraph", "text": "Cada pessoa pode ter apenas uma conta Plexos, independentemente dos países a que esteja ligada." },
+              { "type": "paragraph", "text": "Cada pessoa pode ter apenas uma conta Sinku, independentemente dos países a que esteja ligada." },
               { "type": "heading", "text": "O que vai precisar para se registar" },
               { "type": "paragraph", "text": "Tenha o seguinte à mão:" },
               { "type": "list", "items": ["Um número de telemóvel activo", "Um endereço de e-mail válido", "Dados pessoais básicos — nome completo, data de nascimento, morada e nacionalidade", "Um documento de identificação oficial (passaporte, BI ou carta de condução)", "Uma selfie rápida para confirmar a sua identidade"] },
               { "type": "paragraph", "text": "Podemos fazer algumas perguntas adicionais sobre como pretende usar a conta. Isto é procedimento padrão e não afecta a sua elegibilidade." }
             ]
           },
-          { "id": "plexos-plans", "title": "Planos Plexos", "category": "Planos e benefícios Plexos", "content": [{ "type": "heading", "text": "Encontre o plano ideal para si" }, { "type": "paragraph", "text": "O Plexos oferece três opções — Standard (gratuito), Plus e Premium. Cada um com os seus benefícios, limites e funcionalidades." }, { "type": "paragraph", "text": "Consulte a página de preços no app ou no nosso site para comparar os planos lado a lado." }] },
-          { "id": "upgrade-plan", "title": "Fazer upgrade do plano", "category": "Planos e benefícios Plexos", "content": [{ "type": "heading", "text": "Como fazer upgrade" }, { "type": "paragraph", "text": "Abra o app, vá ao perfil e toque em 'Planos'. Escolha o nível desejado, reveja o preço e confirme. Os novos benefícios começam de imediato." }, { "type": "heading", "text": "Quando sou cobrado?" }, { "type": "paragraph", "text": "O primeiro ciclo de facturação começa no momento do upgrade. A mensalidade é debitada do seu saldo Plexos imediatamente." }] },
-          { "id": "plan-billing", "title": "Facturação do plano", "category": "Planos e benefícios Plexos", "content": [{ "type": "heading", "text": "Como funciona a facturação" }, { "type": "paragraph", "text": "Os planos pagos são cobrados mensalmente. O valor é deduzido automaticamente do seu saldo Plexos na mesma data todos os meses." }, { "type": "heading", "text": "E se não tiver saldo suficiente?" }, { "type": "paragraph", "text": "Se o saldo for insuficiente no dia da cobrança, tentaremos novamente nos dias seguintes. Se não for possível cobrar, o plano pode reverter para Standard." }] },
-          { "id": "downgrade-plan", "title": "Reduzir o meu plano", "category": "Planos e benefícios Plexos", "content": [{ "type": "heading", "text": "Como reduzir" }, { "type": "paragraph", "text": "Vá ao perfil, toque em 'Planos' e seleccione um nível inferior. A alteração entra em vigor no final do ciclo de facturação actual." }, { "type": "heading", "text": "Vou perder os benefícios?" }, { "type": "paragraph", "text": "Os benefícios exclusivos do plano actual terminam quando a redução entrar em vigor. Aproveite-os enquanto pode." }] },
-          { "id": "verify-identity", "title": "Não consigo verificar a minha identidade", "category": "Envio de documentos", "content": [{ "type": "heading", "text": "Onde envio o comprovativo de identidade?" }, { "type": "paragraph", "text": "Quando for necessário verificar a sua identidade, receberá um e-mail, uma notificação push e um banner no ecrã inicial. Toque no aviso e siga os passos." }, { "type": "paragraph", "text": "Sem aviso? Verifique o seu e-mail — talvez já tenhamos o que precisamos." }, { "type": "heading", "text": "Não tenho o documento certo" }, { "type": "list", "items": ["Os tipos aceites estão listados no ecrã de envio no app", "Se já pediu um documento mas não o recebeu, toque em 'Pedir mais tempo'", "Se essa opção não estiver disponível, contacte-nos pelo chat no app"] }, { "type": "heading", "text": "O meu documento foi rejeitado" }, { "type": "paragraph", "text": "Confirme que o documento:" }, { "type": "list", "items": ["É um tipo aceite", "Não é manuscrito", "Não está expirado, danificado ou ilegível", "Os dados correspondem aos da sua conta Plexos"] }, { "type": "heading", "text": "Quanto tempo demora a verificação?" }, { "type": "paragraph", "text": "Normalmente menos de um dia útil. Em alguns casos pode demorar até sete dias. Avisaremos assim que estiver concluída." }] },
-          { "id": "proof-of-address", "title": "Como forneço comprovativo de morada?", "category": "Envio de documentos", "content": [{ "type": "paragraph", "text": "Se precisarmos de confirmar a sua morada, receberá um e-mail e uma notificação no app com instruções." }, { "type": "heading", "text": "O que é aceite" }, { "type": "paragraph", "text": "Envie um PDF ou foto clara de um documento físico. Capturas de ecrã não são aceites. O documento deve:" }, { "type": "list", "items": ["Ter sido emitido nos últimos 6 meses", "Ser emitido por entidade governamental, empresa de serviços ou instituição financeira", "Mostrar morada residencial — apartados, hotéis e endereços comerciais não são aceites", "Ter nome e morada que correspondam à sua conta Plexos"] }] },
+          { "id": "sinku-plans", "title": "Planos Sinku", "category": "Planos e benefícios Sinku", "content": [{ "type": "heading", "text": "Encontre o plano ideal para si" }, { "type": "paragraph", "text": "O Sinku oferece três opções — Standard (gratuito), Plus e Premium. Cada um com os seus benefícios, limites e funcionalidades." }, { "type": "paragraph", "text": "Consulte a página de preços no app ou no nosso site para comparar os planos lado a lado." }] },
+          { "id": "upgrade-plan", "title": "Fazer upgrade do plano", "category": "Planos e benefícios Sinku", "content": [{ "type": "heading", "text": "Como fazer upgrade" }, { "type": "paragraph", "text": "Abra o app, vá ao perfil e toque em 'Planos'. Escolha o nível desejado, reveja o preço e confirme. Os novos benefícios começam de imediato." }, { "type": "heading", "text": "Quando sou cobrado?" }, { "type": "paragraph", "text": "O primeiro ciclo de facturação começa no momento do upgrade. A mensalidade é debitada do seu saldo Sinku imediatamente." }] },
+          { "id": "plan-billing", "title": "Facturação do plano", "category": "Planos e benefícios Sinku", "content": [{ "type": "heading", "text": "Como funciona a facturação" }, { "type": "paragraph", "text": "Os planos pagos são cobrados mensalmente. O valor é deduzido automaticamente do seu saldo Sinku na mesma data todos os meses." }, { "type": "heading", "text": "E se não tiver saldo suficiente?" }, { "type": "paragraph", "text": "Se o saldo for insuficiente no dia da cobrança, tentaremos novamente nos dias seguintes. Se não for possível cobrar, o plano pode reverter para Standard." }] },
+          { "id": "downgrade-plan", "title": "Reduzir o meu plano", "category": "Planos e benefícios Sinku", "content": [{ "type": "heading", "text": "Como reduzir" }, { "type": "paragraph", "text": "Vá ao perfil, toque em 'Planos' e seleccione um nível inferior. A alteração entra em vigor no final do ciclo de facturação actual." }, { "type": "heading", "text": "Vou perder os benefícios?" }, { "type": "paragraph", "text": "Os benefícios exclusivos do plano actual terminam quando a redução entrar em vigor. Aproveite-os enquanto pode." }] },
+          { "id": "verify-identity", "title": "Não consigo verificar a minha identidade", "category": "Envio de documentos", "content": [{ "type": "heading", "text": "Onde envio o comprovativo de identidade?" }, { "type": "paragraph", "text": "Quando for necessário verificar a sua identidade, receberá um e-mail, uma notificação push e um banner no ecrã inicial. Toque no aviso e siga os passos." }, { "type": "paragraph", "text": "Sem aviso? Verifique o seu e-mail — talvez já tenhamos o que precisamos." }, { "type": "heading", "text": "Não tenho o documento certo" }, { "type": "list", "items": ["Os tipos aceites estão listados no ecrã de envio no app", "Se já pediu um documento mas não o recebeu, toque em 'Pedir mais tempo'", "Se essa opção não estiver disponível, contacte-nos pelo chat no app"] }, { "type": "heading", "text": "O meu documento foi rejeitado" }, { "type": "paragraph", "text": "Confirme que o documento:" }, { "type": "list", "items": ["É um tipo aceite", "Não é manuscrito", "Não está expirado, danificado ou ilegível", "Os dados correspondem aos da sua conta Sinku"] }, { "type": "heading", "text": "Quanto tempo demora a verificação?" }, { "type": "paragraph", "text": "Normalmente menos de um dia útil. Em alguns casos pode demorar até sete dias. Avisaremos assim que estiver concluída." }] },
+          { "id": "proof-of-address", "title": "Como forneço comprovativo de morada?", "category": "Envio de documentos", "content": [{ "type": "paragraph", "text": "Se precisarmos de confirmar a sua morada, receberá um e-mail e uma notificação no app com instruções." }, { "type": "heading", "text": "O que é aceite" }, { "type": "paragraph", "text": "Envie um PDF ou foto clara de um documento físico. Capturas de ecrã não são aceites. O documento deve:" }, { "type": "list", "items": ["Ter sido emitido nos últimos 6 meses", "Ser emitido por entidade governamental, empresa de serviços ou instituição financeira", "Mostrar morada residencial — apartados, hotéis e endereços comerciais não são aceites", "Ter nome e morada que correspondam à sua conta Sinku"] }] },
           { "id": "source-of-funds", "title": "Origem dos fundos", "category": "Envio de documentos", "content": [{ "type": "paragraph", "text": "Ocasionalmente, podemos precisar de informações sobre a origem do seu dinheiro. Se isso acontecer, avisaremos por e-mail e no app." }, { "type": "paragraph", "text": "Partilhar esta informação mantém a sua conta a funcionar normalmente e ajuda-nos a prevenir crimes financeiros." }, { "type": "heading", "text": "Que documentos servem?" }, { "type": "paragraph", "text": "Depende da origem — recibos de salário, registos de rendimentos empresariais, documentos de venda de imóveis e similares. O ecrã no app indica o que se aplica à sua situação." }] },
-          { "id": "tax-information", "title": "Actualizar informações fiscais", "category": "Envio de documentos", "content": [{ "type": "paragraph", "text": "Os nossos prestadores de serviços financeiros terceiros podem precisar de recolher informações sobre a sua residência fiscal e, em alguns casos, o seu NIF." }, { "type": "heading", "text": "Como actualizar no app" }, { "type": "list", "items": ["Toque no ícone do perfil", "Toque em 'Conta'", "Toque em 'Dados pessoais'", "Toque em 'Residências fiscais'", "Adicione um novo país ou actualize o seu NIF"] }] },
+          { "id": "tax-information", "title": "Actualizar informações fiscais", "category": "Envio de documentos", "content": [{ "type": "paragraph", "text": "Os nossos prestadores de serviços financeiros terceiros podem precisar de recolher informações sobre a sua residência fiscal e, em alguns casos, o seu NIF." }, { "type": "heading", "text": "Como actualizar no app" }, { "type": "list", "items": ["Toque no ícone do perfil", "Toque em 'Conta'", "Toque em 'Dados pessoais'", "Toque em 'Residências fiscais'", "Adicione um novo país ou actualize o seu NIF"] }, { "type": "heading", "text": "As suas responsabilidades fiscais" }, { "type": "paragraph", "text": "É exclusivamente responsável por determinar e cumprir quaisquer obrigações fiscais decorrentes da utilização dos serviços Sinku. O Sinku não fornece aconselhamento fiscal e não realiza reportes fiscais em seu nome. Recomendamos consultar um profissional fiscal qualificado." }] },
           { "id": "expired-documents", "title": "Actualizar documentos expirados", "category": "Envio de documentos", "content": [{ "type": "paragraph", "text": "Se algum documento expirou, o app pedirá que envie novos. Normalmente precisará de um documento de identificação actual." }, { "type": "heading", "text": "O que acontece se não actualizar?" }, { "type": "paragraph", "text": "Algumas funcionalidades podem ser temporariamente limitadas até fornecer os novos documentos." }, { "type": "heading", "text": "Não tenho documento válido agora" }, { "type": "paragraph", "text": "Se a renovação está em curso, pode pedir mais tempo. Contacte-nos pelo chat no app e faremos o possível para ajudar." }] },
           { "id": "change-address", "title": "Alterar a minha morada", "category": "Alterar dados pessoais", "content": [{ "type": "paragraph", "text": "Mantenha a sua morada actualizada — é usada para entrega de cartões e fins regulatórios." }, { "type": "list", "items": ["Vá ao perfil e toque em 'Dados pessoais'", "Toque na morada e insira a nova", "Pode ser necessário fornecer comprovativo de morada"] }] },
           { "id": "change-phone", "title": "Alterar o meu número de telefone", "category": "Alterar dados pessoais", "content": [{ "type": "paragraph", "text": "O seu número está ligado à conta para segurança e login." }, { "type": "list", "items": ["Vá ao perfil e toque em 'Dados pessoais'", "Toque no número e siga os passos de verificação", "Precisará de acesso ao número antigo e ao novo"] }, { "type": "paragraph", "text": "Perdeu acesso ao número antigo? Contacte o suporte pelo chat no app." }] },
           { "id": "change-email", "title": "Alterar ou verificar o meu e-mail", "category": "Alterar dados pessoais", "content": [{ "type": "paragraph", "text": "O seu e-mail é usado para notificações importantes e recuperação de conta." }, { "type": "list", "items": ["Vá ao perfil e toque em 'Dados pessoais'", "Toque no e-mail e insira o novo endereço", "Verifique a nova caixa de entrada e confirme o link de verificação"] }] },
-          { "id": "supported-countries", "title": "Onde está o Plexos disponível?", "category": "Alterar dados pessoais", "content": [{ "type": "paragraph", "text": "O Plexos nasceu em África, para África — e além. Estamos actualmente presentes nos países da CPLP e a expandir para mais nações africanas, servindo também clientes na Europa e nas Américas." }, { "type": "paragraph", "text": "Quer esteja em Luanda, Lisboa ou São Paulo, o Plexos mantém o seu dinheiro ligado entre fronteiras. Consulte a lista completa de regiões suportadas no nosso site ou no app." }, { "type": "paragraph", "text": "Ainda não está disponível no seu país? Junte-se à lista de espera e avisaremos assim que lançarmos aí." }] },
-          { "id": "download-account-confirmation", "title": "Descarregar confirmação de conta", "category": "Descarregar um documento", "content": [{ "type": "paragraph", "text": "Precisa de provar que tem conta Plexos? Descarregue uma carta de confirmação directamente do app." }, { "type": "list", "items": ["Vá ao perfil e toque em 'Documentos'", "Seleccione 'Confirmação de conta'", "Um PDF será gerado para guardar ou partilhar"] }] },
+          { "id": "supported-countries", "title": "Onde está o Sinku disponível?", "category": "Alterar dados pessoais", "content": [{ "type": "paragraph", "text": "O Sinku nasceu em África, para África — e além. Estamos actualmente presentes nos países da CPLP e a expandir para mais nações africanas, servindo também clientes na Europa e nas Américas." }, { "type": "paragraph", "text": "Quer esteja em Luanda, Lisboa ou São Paulo, o Sinku mantém o seu dinheiro ligado entre fronteiras. Consulte a lista completa de regiões suportadas no nosso site ou no app." }, { "type": "paragraph", "text": "Ainda não está disponível no seu país? Junte-se à lista de espera e avisaremos assim que lançarmos aí." }] },
+          { "id": "download-account-confirmation", "title": "Descarregar confirmação de conta", "category": "Descarregar um documento", "content": [{ "type": "paragraph", "text": "Precisa de provar que tem conta Sinku? Descarregue uma carta de confirmação directamente do app." }, { "type": "list", "items": ["Vá ao perfil e toque em 'Documentos'", "Seleccione 'Confirmação de conta'", "Um PDF será gerado para guardar ou partilhar"] }] },
           { "id": "download-statement", "title": "Descarregar extrato de transacções", "category": "Descarregar um documento", "content": [{ "type": "paragraph", "text": "Os extratos mostram um registo completo de todas as movimentações da sua conta." }, { "type": "list", "items": ["Vá ao perfil e toque em 'Documentos'", "Seleccione 'Extrato de transacções'", "Escolha o período e a moeda, depois descarregue"] }] },
-          { "id": "change-passcode", "title": "Alterar o meu código de acesso", "category": "Login e segurança", "content": [{ "type": "paragraph", "text": "O código de acesso é a principal protecção do seu app Plexos. Actualize-o regularmente." }, { "type": "list", "items": ["Vá ao perfil e toque em 'Segurança'", "Seleccione 'Alterar código de acesso'", "Insira o actual e escolha um novo"] }, { "type": "paragraph", "text": "Escolha algo fácil de memorizar mas difícil de adivinhar. Evite sequências óbvias como 1234." }] },
+          { "id": "change-passcode", "title": "Alterar o meu código de acesso", "category": "Login e segurança", "content": [{ "type": "paragraph", "text": "O código de acesso é a principal protecção do seu app Sinku. Actualize-o regularmente." }, { "type": "list", "items": ["Vá ao perfil e toque em 'Segurança'", "Seleccione 'Alterar código de acesso'", "Insira o actual e escolha um novo"] }, { "type": "paragraph", "text": "Escolha algo fácil de memorizar mas difícil de adivinhar. Evite sequências óbvias como 1234." }] },
           { "id": "lost-stolen-device", "title": "Dispositivo perdido ou roubado", "category": "Login e segurança", "content": [{ "type": "paragraph", "text": "Se o seu telemóvel foi perdido ou roubado, aja rapidamente:" }, { "type": "list", "items": ["Inicie sessão noutro dispositivo (se possível) e congele o seu cartão", "Contacte o suporte por e-mail ou outro dispositivo para bloquear a conta", "Altere o código de acesso assim que recuperar o acesso"] }] },
           { "id": "login-trouble", "title": "Dificuldade em iniciar sessão", "category": "Login e segurança", "content": [{ "type": "paragraph", "text": "Se não consegue entrar:" }, { "type": "list", "items": ["Verifique se está a usar a versão mais recente do app", "Confirme o número de telefone e código de acesso", "Reinicie o app ou o dispositivo", "Esqueceu o código? Toque em 'Esqueci o código' no ecrã de login"] }] },
           { "id": "selfie-authentication", "title": "Problema com verificação por selfie", "category": "Login e segurança", "content": [{ "type": "paragraph", "text": "A verificação por selfie confirma que é o titular da conta. Se não funcionar:" }, { "type": "list", "items": ["Procure um local com boa iluminação uniforme", "Remova óculos, chapéus ou qualquer coisa que cubra o rosto", "Segure o telemóvel ao nível dos olhos e olhe para a câmara", "Mantenha o rosto centrado e fique imóvel"] }] },
           { "id": "verification-code", "title": "Não recebi o código de verificação", "category": "Login e segurança", "content": [{ "type": "paragraph", "text": "Se o código SMS não chegou:" }, { "type": "list", "items": ["Verifique se tem rede e não está em modo avião", "Aguarde um momento — em redes com muito tráfego pode atrasar", "Confirme que o número está correcto com o código do país", "Reinicie o telemóvel"] }] },
           { "id": "biometric-signin", "title": "Entrar com Face ID ou impressão digital", "category": "Login e segurança", "content": [{ "type": "paragraph", "text": "Acelere o login activando a autenticação biométrica." }, { "type": "list", "items": ["Vá ao perfil e toque em 'Segurança'", "Active 'Login biométrico'", "Confirme com o scanner do dispositivo"] }] },
           { "id": "manage-notifications", "title": "Gerir notificações", "category": "Definições", "content": [{ "type": "paragraph", "text": "Escolha exactamente que notificações recebe:" }, { "type": "list", "items": ["Vá ao perfil e toque em 'Notificações'", "Active ou desactive cada tipo"] }, { "type": "paragraph", "text": "Recomendamos manter os alertas de transacções e segurança activos." }] },
-          { "id": "switch-language", "title": "Mudar o idioma", "category": "Definições", "content": [{ "type": "paragraph", "text": "O app Plexos está disponível em vários idiomas incluindo português e inglês." }, { "type": "list", "items": ["Vá ao perfil", "Toque em 'Definições do app' ou 'Idioma'", "Seleccione o idioma preferido"] }] },
+          { "id": "switch-language", "title": "Mudar o idioma", "category": "Definições", "content": [{ "type": "paragraph", "text": "O app Sinku está disponível em vários idiomas incluindo português e inglês." }, { "type": "list", "items": ["Vá ao perfil", "Toque em 'Definições do app' ou 'Idioma'", "Seleccione o idioma preferido"] }] },
           { "id": "managing-data", "title": "Gerir os meus dados", "category": "Mais ajuda com o perfil", "content": [{ "type": "paragraph", "text": "Tem o direito de aceder, corrigir ou pedir a eliminação dos seus dados pessoais." }, { "type": "paragraph", "text": "Vá ao perfil, toque em 'Privacidade' e explore as opções. Detalhes completos na nossa Política de Privacidade." }] },
-          { "id": "close-account", "title": "Como fecho a minha conta?", "category": "Encerrar a conta", "content": [{ "type": "paragraph", "text": "Pode fechar a sua conta Plexos directamente no app." }, { "type": "heading", "text": "Antes de fechar" }, { "type": "list", "items": ["Transfira ou levante o saldo restante", "Cancele subscrições ligadas ao Plexos", "Descarregue extratos ou documentos que possa precisar"] }, { "type": "heading", "text": "Como fechar" }, { "type": "list", "items": ["Vá ao perfil", "Deslize até ao fundo e toque em 'Fechar conta'", "Siga as instruções para confirmar"] }, { "type": "paragraph", "text": "O encerramento é permanente. Os seus dados serão mantidos pelo período legalmente exigido e depois eliminados de forma segura." }] },
-          { "id": "accessibility", "title": "Acessibilidade no Plexos", "category": "Acessibilidade", "content": [{ "type": "paragraph", "text": "Estamos a construir o Plexos para ser usado por todos. O app suporta leitores de ecrã, tamanho dinâmico de texto e modo de alto contraste em iOS e Android." }, { "type": "paragraph", "text": "Se encontrar alguma barreira de acessibilidade, diga-nos pelo chat no app — o seu feedback orienta as nossas melhorias." }] },
-          { "id": "contact-support", "title": "Como contactar o Suporte Plexos", "category": "Contactar o suporte", "content": [{ "type": "paragraph", "text": "A forma mais rápida de obter ajuda é pelo chat no app. Abra o Plexos, vá ao perfil e toque em 'Ajuda' ou 'Fale connosco'." }, { "type": "paragraph", "text": "A nossa equipa pode ajudá-lo em português e inglês." }, { "type": "heading", "text": "Outras formas de contacto" }, { "type": "list", "items": ["E-mail: suporte@plexos.com", "Centro de Ajuda: consulte artigos para respostas rápidas", "Redes sociais: contacte-nos pelos canais oficiais (nunca partilhe dados sensíveis publicamente)"] }] }
+          { "id": "close-account", "title": "Como fecho a minha conta?", "category": "Encerrar a conta", "content": [{ "type": "paragraph", "text": "Pode fechar a sua conta Sinku directamente no app." }, { "type": "heading", "text": "Antes de fechar" }, { "type": "list", "items": ["Transfira ou levante o saldo restante", "Cancele subscrições ligadas ao Sinku", "Descarregue extratos ou documentos que possa precisar"] }, { "type": "heading", "text": "Como fechar" }, { "type": "list", "items": ["Vá ao perfil", "Deslize até ao fundo e toque em 'Fechar conta'", "Siga as instruções para confirmar"] }, { "type": "paragraph", "text": "O encerramento é permanente. Os seus dados serão mantidos pelo período legalmente exigido e depois eliminados de forma segura." }] },
+          { "id": "accessibility", "title": "Acessibilidade no Sinku", "category": "Acessibilidade", "content": [{ "type": "paragraph", "text": "Estamos a construir o Sinku para ser usado por todos. O app suporta leitores de ecrã, tamanho dinâmico de texto e modo de alto contraste em iOS e Android." }, { "type": "paragraph", "text": "Se encontrar alguma barreira de acessibilidade, diga-nos pelo chat no app — o seu feedback orienta as nossas melhorias." }] },
+          { "id": "contact-support", "title": "Como contactar o Suporte Sinku", "category": "Contactar o suporte", "content": [{ "type": "paragraph", "text": "A forma mais rápida de obter ajuda é pelo chat no app. Abra o Sinku, vá ao perfil e toque em 'Ajuda' ou 'Fale connosco'." }, { "type": "paragraph", "text": "A nossa equipa pode ajudá-lo em português e inglês." }, { "type": "heading", "text": "Outras formas de contacto" }, { "type": "list", "items": ["E-mail: suporte@sinku.io", "Centro de Ajuda: consulte artigos para respostas rápidas", "Redes sociais: contacte-nos pelos canais oficiais (nunca partilhe dados sensíveis publicamente)"] }] }
         ]
       },
       {
         "id": "security-and-fraud",
         "title": "Segurança e fraude",
         "articles": [
-          { "id": "official-app", "title": "Use sempre o app oficial do Plexos", "category": "Manter o dispositivo seguro", "content": [{ "type": "paragraph", "text": "Para sua protecção, descarregue o Plexos apenas da App Store da Apple ou do Google Play Store. Versões de outras fontes podem estar comprometidas." }, { "type": "paragraph", "text": "Não tem a certeza se o seu app é genuíno? Elimine-o e descarregue novamente da loja oficial." }] },
-          { "id": "os-updates", "title": "Mantenha o seu dispositivo actualizado", "category": "Manter o dispositivo seguro", "content": [{ "type": "paragraph", "text": "Ter o sistema operativo actualizado é uma das formas mais simples de se proteger. As actualizações de segurança corrigem vulnerabilidades conhecidas." }, { "type": "paragraph", "text": "Se o seu SO for demasiado antigo, partes do app Plexos podem deixar de funcionar. Recomendamos activar as actualizações automáticas." }] },
-          { "id": "rooted-jailbroken", "title": "Dispositivos com root ou jailbreak", "category": "Manter o dispositivo seguro", "content": [{ "type": "paragraph", "text": "Dispositivos com root (Android) ou jailbreak (iOS) apresentam riscos sérios de segurança — permitem que apps acedam a dados que normalmente não poderiam." }, { "type": "paragraph", "text": "O app Plexos pode não funcionar em dispositivos modificados. Se precisar de ajuda, contacte o suporte." }] },
-          { "id": "unsupported-device", "title": "Porque é que o Plexos não funciona no meu dispositivo?", "category": "Manter o dispositivo seguro", "content": [{ "type": "paragraph", "text": "Actualizamos periodicamente os requisitos mínimos para manter a segurança. Se o seu telemóvel já não é suportado, normalmente significa que o fabricante deixou de fornecer actualizações de segurança." }, { "type": "paragraph", "text": "Considere actualizar para um dispositivo mais recente ou contacte o fabricante." }] },
-          { "id": "money-safety", "title": "Como o Plexos protege o seu dinheiro", "category": "Segurança Plexos", "content": [{ "type": "paragraph", "text": "Os seus fundos são mantidos separados do dinheiro do Plexos, conforme requisitos regulatórios. Esta segregação garante que o seu saldo está protegido." }, { "type": "heading", "text": "Verifique qual entidade Plexos detém a sua conta" }, { "type": "list", "items": ["Toque no ícone do perfil", "Deslize até ao fundo", "O nome da entidade Plexos aparece aí"] }] },
-          { "id": "fraud-protection", "title": "Como o protegemos contra fraudes", "category": "Segurança Plexos", "content": [{ "type": "paragraph", "text": "Usamos monitorização em tempo real e aprendizagem automática para detectar actividade suspeita. Se algo parecer invulgar, podemos pausar a transacção e alertá-lo." }, { "type": "heading", "text": "Protecções integradas" }, { "type": "list", "items": ["Notificações push instantâneas para cada transacção", "Congele o cartão em segundos pelo app", "Números de cartão virtual descartáveis para compras online mais seguras", "Verificação 3D Secure para pagamentos online"] }] },
-          { "id": "keep-account-safe", "title": "Dicas para manter a sua conta segura", "category": "Segurança Plexos", "content": [{ "type": "paragraph", "text": "Trabalhamos para o proteger, mas alguns hábitos seus fazem toda a diferença:" }, { "type": "list", "items": ["Nunca partilhe o seu código, PIN ou códigos de verificação — o Plexos nunca os pedirá", "Active o login biométrico para uma camada extra de segurança", "Mantenha o app e o software do dispositivo actualizados", "Desconfie de chamadas, e-mails ou mensagens não solicitadas que dizem ser do Plexos", "Active as notificações de transacções para que cada pagamento esteja no seu radar"] }] },
-          { "id": "safety-features", "title": "Funcionalidades de segurança do Plexos", "category": "Segurança Plexos", "content": [{ "type": "heading", "text": "Controlos de cartão" }, { "type": "paragraph", "text": "Congele e descongele o cartão instantaneamente, active ou desactive pagamentos por aproximação ou online, e defina limites de gastos — tudo pelo app." }, { "type": "heading", "text": "Alertas em tempo real" }, { "type": "paragraph", "text": "Cada transacção gera uma notificação push. Viu algo estranho? Congele o cartão e reporte em segundos." }, { "type": "heading", "text": "Cartões virtuais descartáveis" }, { "type": "paragraph", "text": "Gere um número de cartão de uso único para compras online. Os dados expiram após uma utilização." }, { "type": "heading", "text": "Código e biometria" }, { "type": "paragraph", "text": "O seu app está protegido por código de acesso e login biométrico opcional. Mesmo que alguém pegue no seu telemóvel, não consegue entrar sem isso." }] },
+          { "id": "official-app", "title": "Use sempre o app oficial do Sinku", "category": "Manter o dispositivo seguro", "content": [{ "type": "paragraph", "text": "Para sua protecção, descarregue o Sinku apenas da App Store da Apple ou do Google Play Store. Versões de outras fontes podem estar comprometidas." }, { "type": "paragraph", "text": "Não tem a certeza se o seu app é genuíno? Elimine-o e descarregue novamente da loja oficial." }] },
+          { "id": "os-updates", "title": "Mantenha o seu dispositivo actualizado", "category": "Manter o dispositivo seguro", "content": [{ "type": "paragraph", "text": "Ter o sistema operativo actualizado é uma das formas mais simples de se proteger. As actualizações de segurança corrigem vulnerabilidades conhecidas." }, { "type": "paragraph", "text": "Se o seu SO for demasiado antigo, partes do app Sinku podem deixar de funcionar. Recomendamos activar as actualizações automáticas." }] },
+          { "id": "rooted-jailbroken", "title": "Dispositivos com root ou jailbreak", "category": "Manter o dispositivo seguro", "content": [{ "type": "paragraph", "text": "Dispositivos com root (Android) ou jailbreak (iOS) apresentam riscos sérios de segurança — permitem que apps acedam a dados que normalmente não poderiam." }, { "type": "paragraph", "text": "O app Sinku pode não funcionar em dispositivos modificados. Se precisar de ajuda, contacte o suporte." }] },
+          { "id": "unsupported-device", "title": "Porque é que o Sinku não funciona no meu dispositivo?", "category": "Manter o dispositivo seguro", "content": [{ "type": "paragraph", "text": "Actualizamos periodicamente os requisitos mínimos para manter a segurança. Se o seu telemóvel já não é suportado, normalmente significa que o fabricante deixou de fornecer actualizações de segurança." }, { "type": "paragraph", "text": "Considere actualizar para um dispositivo mais recente ou contacte o fabricante." }] },
+          { "id": "money-safety", "title": "Como o Sinku protege o seu dinheiro", "category": "Segurança Sinku", "content": [{ "type": "paragraph", "text": "O Sinku é uma plataforma tecnológica — não um banco. Não detemos, controlamos ou temos custódia dos seus fundos. O seu dinheiro é protegido através dos nossos parceiros regulados e infraestrutura de carteira não custodial:" }, { "type": "list", "items": ["Os fundos do cartão são geridos pelo nosso parceiro financeiro licenciado que opera sob o seu próprio enquadramento regulatório", "Os fundos da carteira são protegidos pela infraestrutura não custodial da Privy — apenas o utilizador detém as chaves privadas da sua carteira", "Módulos de segurança de contratos inteligentes (Roles Module e Delay Module) protegem as transacções com cartão", "As comunicações backend são encriptadas com TLS e a autenticação usa encriptação ponta-a-ponta"] }, { "type": "paragraph", "text": "Como o Sinku não detém os seus fundos, não existe risco de perder o seu dinheiro se o Sinku deixar de operar. Os fundos do cartão permanecem com o nosso parceiro licenciado e os activos da carteira permanecem acessíveis com as suas chaves privadas." }, { "type": "heading", "text": "Saiba mais" }, { "type": "paragraph", "text": "Visite a nossa página Como Funcionamos para uma explicação completa da nossa tecnologia, parceiros e arquitectura de segurança." }] },
+          { "id": "fraud-protection", "title": "Como o protegemos contra fraudes", "category": "Segurança Sinku", "content": [{ "type": "paragraph", "text": "Usamos monitorização em tempo real e aprendizagem automática para detectar actividade suspeita. Se algo parecer invulgar, podemos pausar a transacção e alertá-lo." }, { "type": "heading", "text": "Segurança por contratos inteligentes" }, { "type": "list", "items": ["Roles Module: O seu cartão opera num 'corredor isolado' — só pode mover um token específico para um destino seguro, sem poder sobre o resto dos seus activos", "Delay Module: Transacções não relacionadas com o cartão têm um breve intervalo de processamento para prevenir conflitos e manter a integridade da carteira"] }, { "type": "heading", "text": "Protecções integradas" }, { "type": "list", "items": ["Notificações push instantâneas para cada transacção", "Congele o cartão em segundos pelo app", "Números de cartão virtual descartáveis para compras online mais seguras", "Verificação 3D Secure para pagamentos online", "Encriptação ponta-a-ponta para autenticação — o Sinku não consegue aceder aos seus dados de autenticação"] }] },
+          { "id": "keep-account-safe", "title": "Dicas para manter a sua conta segura", "category": "Segurança Sinku", "content": [{ "type": "paragraph", "text": "Trabalhamos para o proteger, mas alguns hábitos seus fazem toda a diferença:" }, { "type": "list", "items": ["Nunca partilhe o seu código, PIN ou códigos de verificação — o Sinku nunca os pedirá", "Active o login biométrico para uma camada extra de segurança", "Mantenha o app e o software do dispositivo actualizados", "Desconfie de chamadas, e-mails ou mensagens não solicitadas que dizem ser do Sinku", "Active as notificações de transacções para que cada pagamento esteja no seu radar"] }] },
+          { "id": "safety-features", "title": "Funcionalidades de segurança do Sinku", "category": "Segurança Sinku", "content": [{ "type": "heading", "text": "Controlos de cartão" }, { "type": "paragraph", "text": "Congele e descongele o cartão instantaneamente, active ou desactive pagamentos por aproximação ou online, e defina limites de gastos — tudo pelo app." }, { "type": "heading", "text": "Alertas em tempo real" }, { "type": "paragraph", "text": "Cada transacção gera uma notificação push. Viu algo estranho? Congele o cartão e reporte em segundos." }, { "type": "heading", "text": "Cartões virtuais descartáveis" }, { "type": "paragraph", "text": "Gere um número de cartão de uso único para compras online. Os dados expiram após uma utilização." }, { "type": "heading", "text": "Código e biometria" }, { "type": "paragraph", "text": "O seu app está protegido por código de acesso e login biométrico opcional. Mesmo que alguém pegue no seu telemóvel, não consegue entrar sem isso." }] },
           { "id": "report-fraud", "title": "Reportar uma transacção fraudulenta", "category": "Reportar fraude", "content": [{ "type": "paragraph", "text": "Se detectar uma transacção que não fez, aja imediatamente:" }, { "type": "list", "items": ["Congele ou cancele o cartão no app", "Encontre a transacção no histórico e toque em 'Obter ajuda'", "Seleccione 'Reportar como fraudulento'", "Forneça o máximo de detalhes possível"] }, { "type": "paragraph", "text": "Investigaremos e mantemo-lo informado. Recomendamos também apresentar queixa às autoridades." }] },
-          { "id": "suspicious-contact", "title": "Recebeu contacto suspeito?", "category": "Reportar fraude", "content": [{ "type": "paragraph", "text": "O Plexos nunca ligará sem aviso, pedirá códigos de segurança ou solicitará pagamentos para uma 'conta segura'." }, { "type": "heading", "text": "Como se proteger" }, { "type": "list", "items": ["Verifique qualquer contacto suspeito através do chat no app", "Para e-mails, verifique cuidadosamente o endereço do remetente", "Na dúvida, nunca partilhe informações pessoais ou financeiras"] }] },
+          { "id": "suspicious-contact", "title": "Recebeu contacto suspeito?", "category": "Reportar fraude", "content": [{ "type": "paragraph", "text": "O Sinku nunca ligará sem aviso, pedirá códigos de segurança ou solicitará pagamentos para uma 'conta segura'." }, { "type": "heading", "text": "Como se proteger" }, { "type": "list", "items": ["Verifique qualquer contacto suspeito através do chat no app", "Para e-mails, verifique cuidadosamente o endereço do remetente", "Na dúvida, nunca partilhe informações pessoais ou financeiras"] }] },
           { "id": "restricted-account", "title": "A minha conta foi restrita", "category": "Restrições de conta", "content": [{ "type": "paragraph", "text": "As restrições podem ocorrer devido a requisitos regulatórios, preocupações de segurança ou documentação em falta." }, { "type": "heading", "text": "O que fazer" }, { "type": "list", "items": ["Verifique o e-mail e notificações no app para detalhes", "Se pedimos documentos, envie-os o mais rápido possível", "Contacte o suporte se acreditar que é um erro"] }] },
           { "id": "account-review", "title": "Porque está a minha conta em revisão?", "category": "Restrições de conta", "content": [{ "type": "paragraph", "text": "Os nossos prestadores de serviços financeiros terceiros fazem revisões periódicas para cumprir as suas obrigações regulatórias. Durante a revisão, algumas funcionalidades podem estar temporariamente limitadas." }, { "type": "paragraph", "text": "Normalmente não é necessária qualquer acção da sua parte. Se precisarmos de algo, avisaremos por e-mail e no app." }] }
         ]
@@ -1107,12 +1118,12 @@
         "id": "cards",
         "title": "Cartões",
         "articles": [
-          { "id": "order-card", "title": "Pedir um cartão de débito físico", "category": "Pedir o seu cartão", "content": [{ "type": "paragraph", "text": "O seu cartão de débito Plexos funciona internacionalmente — use-o em qualquer local que aceite Mastercard, em loja ou online, no país ou no estrangeiro." }, { "type": "heading", "text": "Como pedir" }, { "type": "list", "items": ["Abra o app e vá a 'Cartões'", "Toque em 'Pedir cartão físico'", "Escolha o design preferido", "Confirme a morada de entrega e faça o pedido"] }, { "type": "paragraph", "text": "O prazo de entrega varia por país mas normalmente demora 7–14 dias úteis. Alguns planos incluem um cartão gratuito." }] },
+          { "id": "order-card", "title": "Pedir um cartão de débito físico", "category": "Pedir o seu cartão", "content": [{ "type": "paragraph", "text": "O seu cartão de débito Sinku funciona internacionalmente — use-o em qualquer local que aceite Visa ou Mastercard, em loja ou online, no país ou no estrangeiro." }, { "type": "heading", "text": "Como pedir" }, { "type": "list", "items": ["Abra o app e vá a 'Cartões'", "Toque em 'Pedir cartão físico'", "Escolha o design preferido", "Confirme a morada de entrega e faça o pedido"] }, { "type": "paragraph", "text": "O prazo de entrega varia por país mas normalmente demora 7–14 dias úteis. Alguns planos incluem um cartão gratuito." }] },
           { "id": "card-not-arrived", "title": "O meu cartão não chegou", "category": "Pedir o seu cartão", "content": [{ "type": "paragraph", "text": "Se o cartão não chegou dentro do prazo:" }, { "type": "list", "items": ["Verifique o estado da entrega no app em 'Cartões'", "Confirme que a morada está correcta", "Aguarde mais uns dias — os serviços postais podem variar entre regiões"] }, { "type": "paragraph", "text": "Se a demora for significativa, reporte o cartão como não entregue no app e enviaremos outro." }] },
           { "id": "card-fees", "title": "Taxas do cartão", "category": "Pedir o seu cartão", "content": [{ "type": "paragraph", "text": "As taxas dependem do seu plano. A maioria dos planos pagos inclui pelo menos um cartão de débito gratuito. Cartões adicionais ou designs especiais podem ter um pequeno custo." }] },
           { "id": "activate-card", "title": "Activar o seu cartão", "category": "Pedir o seu cartão", "content": [{ "type": "paragraph", "text": "Quando o cartão chegar, active-o antes de usar:" }, { "type": "list", "items": ["Vá a 'Cartões' no app", "Seleccione o cartão que precisa de activação", "Siga as instruções — pode precisar de inserir os últimos dígitos do número do cartão"] }] },
           { "id": "card-settings", "title": "Definições e controlos do cartão", "category": "Gerir o seu cartão", "content": [{ "type": "paragraph", "text": "Controle total do cartão pelo app:" }, { "type": "list", "items": ["Activar ou desactivar pagamentos online", "Ligar ou desligar pagamento por aproximação", "Permitir ou bloquear levantamentos em ATM", "Definir limite mensal de gastos"] }] },
-          { "id": "find-pin", "title": "Encontrar o PIN do cartão", "category": "Gerir o seu cartão", "content": [{ "type": "paragraph", "text": "O seu PIN está no app Plexos:" }, { "type": "list", "items": ["Vá a 'Cartões'", "Seleccione o seu cartão", "Toque em 'Mostrar PIN' e verifique a sua identidade"] }, { "type": "paragraph", "text": "Nunca anote nem partilhe o seu PIN." }] },
+          { "id": "find-pin", "title": "Encontrar o PIN do cartão", "category": "Gerir o seu cartão", "content": [{ "type": "paragraph", "text": "O seu PIN está no app Sinku:" }, { "type": "list", "items": ["Vá a 'Cartões'", "Seleccione o seu cartão", "Toque em 'Mostrar PIN' e verifique a sua identidade"] }, { "type": "paragraph", "text": "Nunca anote nem partilhe o seu PIN." }] },
           { "id": "freeze-card", "title": "Congelar ou descongelar o cartão", "category": "Gerir o seu cartão", "content": [{ "type": "paragraph", "text": "Não encontra o cartão? Congele-o instantaneamente para bloquear todas as transacções." }, { "type": "list", "items": ["Vá a 'Cartões' no app", "Seleccione o cartão", "Toque em 'Congelar'"] }, { "type": "paragraph", "text": "Encontrou? Descongele a qualquer momento e continue a usar." }] },
           { "id": "card-stolen", "title": "O meu cartão foi perdido ou roubado", "category": "Cartões perdidos ou roubados", "content": [{ "type": "paragraph", "text": "Se o cartão foi perdido ou roubado, aja de imediato:" }, { "type": "list", "items": ["Abra o app e vá a 'Cartões'", "Seleccione o cartão e toque em 'Cancelar' — isto desactiva-o permanentemente", "Peça um substituto no mesmo ecrã"] }] },
           { "id": "card-used-fraudulently", "title": "Alguém usou o meu cartão sem autorização", "category": "Cartões perdidos ou roubados", "content": [{ "type": "paragraph", "text": "Se vir transacções que não fez:" }, { "type": "list", "items": ["Congele ou cancele o cartão imediatamente", "Toque na transacção suspeita e seleccione 'Obter ajuda'", "Escolha 'Reportar como fraudulento'"] }] },
@@ -1126,28 +1137,28 @@
         "id": "card-payments",
         "title": "Pagamentos e levantamentos",
         "articles": [
-          { "id": "payment-declined", "title": "O meu pagamento foi recusado", "category": "Pagamentos com cartão", "content": [{ "type": "paragraph", "text": "Um pagamento pode ser recusado por vários motivos:" }, { "type": "list", "items": ["Fundos insuficientes na moeda correcta", "Pagamentos online ou por aproximação desactivados nas definições", "O cartão está congelado", "O nosso sistema de segurança sinalizou a transacção", "O comerciante não aceita Mastercard"] }] },
+          { "id": "payment-declined", "title": "O meu pagamento foi recusado", "category": "Pagamentos com cartão", "content": [{ "type": "paragraph", "text": "Um pagamento pode ser recusado por vários motivos:" }, { "type": "list", "items": ["Fundos insuficientes na moeda correcta", "Pagamentos online ou por aproximação desactivados nas definições", "O cartão está congelado", "O nosso sistema de segurança sinalizou a transacção", "O comerciante não aceita Visa ou Mastercard"] }] },
           { "id": "payment-pending", "title": "O meu pagamento está pendente", "category": "Pagamentos com cartão", "content": [{ "type": "paragraph", "text": "Pagamentos pendentes são transacções autorizadas pelo comerciante mas ainda não liquidadas. Os fundos estão reservados mas não cobrados." }, { "type": "paragraph", "text": "A maioria é liquidada em poucos dias. Se não se concretizar, o valor reservado é devolvido à sua conta." }] },
           { "id": "payment-amount-changed", "title": "Porque mudou o valor?", "category": "Pagamentos com cartão", "content": [{ "type": "paragraph", "text": "O valor final pode diferir devido a:" }, { "type": "list", "items": ["Variações cambiais entre autorização e liquidação", "Gorjeta adicionada após a cobrança inicial", "Ajuste do comerciante (comum em restaurantes ou bombas de gasolina)", "Taxa de conversão em pagamentos em moeda estrangeira"] }] },
           { "id": "refund-help", "title": "Ajuda com um reembolso", "category": "Pagamentos com cartão", "content": [{ "type": "paragraph", "text": "Os reembolsos são processados pelo comerciante e normalmente demoram 5–10 dias úteis a aparecer na conta." }, { "type": "heading", "text": "Ainda à espera?" }, { "type": "list", "items": ["Confirme com o comerciante que o reembolso foi emitido", "Verifique o histórico — pode aparecer como entrada separada", "Se passaram mais de 10 dias úteis, contacte o suporte"] }] },
           { "id": "dispute-payment", "title": "Contestar um pagamento", "category": "Pagamentos com cartão", "content": [{ "type": "paragraph", "text": "Cobrado incorrectamente ou não recebeu o que pagou? Pode abrir uma contestação." }, { "type": "list", "items": ["Encontre a transacção no app", "Toque em 'Obter ajuda' e siga os passos", "Forneça provas (recibos, emails com o comerciante, etc.)"] }, { "type": "paragraph", "text": "As contestações demoram normalmente 45–90 dias a resolver." }] },
           { "id": "block-merchant", "title": "Bloquear um comerciante", "category": "Pagamentos com cartão", "content": [{ "type": "paragraph", "text": "Quer impedir um comerciante de cobrar o seu cartão?" }, { "type": "list", "items": ["Encontre uma transacção recente do comerciante", "Toque e seleccione 'Bloquear comerciante'", "Cobranças futuras serão automaticamente recusadas"] }] },
-          { "id": "atm-withdrawals", "title": "Limites e taxas de levantamento em ATM", "category": "Levantamentos em dinheiro", "content": [{ "type": "paragraph", "text": "Cada plano Plexos inclui uma franquia mensal de levantamentos gratuitos. Após exceder, aplica-se uma pequena taxa por levantamento." }, { "type": "paragraph", "text": "Verifique os seus limites no app em 'Cartões' > 'Limites'. Fazer upgrade do plano aumenta a sua franquia." }] },
+          { "id": "atm-withdrawals", "title": "Limites e taxas de levantamento em ATM", "category": "Levantamentos em dinheiro", "content": [{ "type": "paragraph", "text": "Cada plano Sinku inclui uma franquia mensal de levantamentos gratuitos. Após exceder, aplica-se uma pequena taxa por levantamento." }, { "type": "paragraph", "text": "Verifique os seus limites no app em 'Cartões' > 'Limites'. Fazer upgrade do plano aumenta a sua franquia." }] },
           { "id": "atm-declined", "title": "Levantamento em ATM recusado", "category": "Levantamentos em dinheiro", "content": [{ "type": "paragraph", "text": "Possíveis motivos:" }, { "type": "list", "items": ["Fundos insuficientes", "Levantamentos em ATM desactivados nas definições", "Atingiu o limite diário ou mensal", "O ATM tem limite próprio", "O cartão está congelado ou expirado"] }] },
-          { "id": "spending-abroad", "title": "Usar o cartão no estrangeiro", "category": "Gastar noutras moedas", "content": [{ "type": "paragraph", "text": "O seu cartão de débito Plexos funciona em qualquer local que aceite Mastercard no mundo. Quando paga noutra moeda, tratamos da conversão automaticamente com uma taxa competitiva." }, { "type": "heading", "text": "Obtenha a melhor taxa" }, { "type": "list", "items": ["Pague sempre na moeda local — recuse ofertas de converter na caixa (isso chama-se Conversão Dinâmica de Moeda e a taxa é normalmente pior)", "Pode aplicar-se um pequeno markup fora do horário de mercado (fins de semana e feriados)", "Se vai gastar muito numa moeda, troque antecipadamente no app"] }] },
-          { "id": "foreign-fees", "title": "Taxas em moeda estrangeira", "category": "Gastar noutras moedas", "content": [{ "type": "paragraph", "text": "Em dias úteis durante o horário de mercado, o Plexos usa taxas interbancárias competitivas. Dependendo do plano, pode ser gratuito até um limite mensal." }, { "type": "paragraph", "text": "Fora do horário de mercado, um pequeno markup protege contra volatilidade. A taxa exacta depende do plano e das moedas envolvidas." }] },
+          { "id": "spending-abroad", "title": "Usar o cartão no estrangeiro", "category": "Gastar noutras moedas", "content": [{ "type": "paragraph", "text": "O seu cartão de débito Sinku funciona em qualquer local que aceite Visa ou Mastercard no mundo. Quando paga noutra moeda, tratamos da conversão automaticamente com uma taxa competitiva." }, { "type": "heading", "text": "Obtenha a melhor taxa" }, { "type": "list", "items": ["Pague sempre na moeda local — recuse ofertas de converter na caixa (isso chama-se Conversão Dinâmica de Moeda e a taxa é normalmente pior)", "Pode aplicar-se um pequeno markup fora do horário de mercado (fins de semana e feriados)", "Se vai gastar muito numa moeda, troque antecipadamente no app"] }] },
+          { "id": "foreign-fees", "title": "Taxas em moeda estrangeira", "category": "Gastar noutras moedas", "content": [{ "type": "paragraph", "text": "Em dias úteis durante o horário de mercado, o Sinku usa taxas interbancárias competitivas. Dependendo do plano, pode ser gratuito até um limite mensal." }, { "type": "paragraph", "text": "Fora do horário de mercado, um pequeno markup protege contra volatilidade. A taxa exacta depende do plano e das moedas envolvidas." }] },
           { "id": "contactless-issues", "title": "Pagamentos por aproximação não funcionam", "category": "Mais ajuda com pagamentos", "content": [{ "type": "paragraph", "text": "Se o tap-to-pay não funciona:" }, { "type": "list", "items": ["Verifique se a aproximação está activa nas definições", "Segure o cartão perto do leitor por alguns segundos", "Alguns terminais exigem chip-e-PIN periodicamente por segurança", "Se usa Apple Pay ou Google Pay, reinicie o telemóvel"] }] },
-          { "id": "3d-secure", "title": "O que é 3D Secure?", "category": "Mais ajuda com pagamentos", "content": [{ "type": "paragraph", "text": "O 3D Secure adiciona um passo extra de verificação a pagamentos online. Quando compra algo online, pode ser-lhe pedido para confirmar a compra no app Plexos antes de avançar." }, { "type": "paragraph", "text": "Mantenha as notificações push activas para aprovar pagamentos rapidamente." }] },
-          { "id": "apple-google-pay", "title": "Apple Pay e Google Pay", "category": "Mais ajuda com pagamentos", "content": [{ "type": "paragraph", "text": "Adicione o cartão de débito Plexos ao Apple Pay ou Google Pay para pagamentos rápidos por aproximação com o telemóvel." }, { "type": "list", "items": ["Vá a 'Cartões' no app", "Seleccione o cartão", "Toque em 'Adicionar ao Apple Pay' ou 'Adicionar ao Google Pay'", "Siga os passos no ecrã"] }, { "type": "paragraph", "text": "A disponibilidade pode variar por país." }] }
+          { "id": "3d-secure", "title": "O que é 3D Secure?", "category": "Mais ajuda com pagamentos", "content": [{ "type": "paragraph", "text": "O 3D Secure adiciona um passo extra de verificação a pagamentos online. Quando compra algo online, pode ser-lhe pedido para confirmar a compra no app Sinku antes de avançar." }, { "type": "paragraph", "text": "Mantenha as notificações push activas para aprovar pagamentos rapidamente." }] },
+          { "id": "apple-google-pay", "title": "Apple Pay e Google Pay", "category": "Mais ajuda com pagamentos", "content": [{ "type": "paragraph", "text": "Adicione o cartão de débito Sinku ao Apple Pay ou Google Pay para pagamentos rápidos por aproximação com o telemóvel." }, { "type": "list", "items": ["Vá a 'Cartões' no app", "Seleccione o cartão", "Toque em 'Adicionar ao Apple Pay' ou 'Adicionar ao Google Pay'", "Siga os passos no ecrã"] }, { "type": "paragraph", "text": "A disponibilidade pode variar por país." }] }
         ]
       },
       {
         "id": "accounts",
         "title": "Contas e moedas",
         "articles": [
-          { "id": "multi-currency", "title": "Ter dinheiro em várias moedas", "category": "Contas em moeda", "content": [{ "type": "paragraph", "text": "As contas multi-moeda estão a chegar em breve ao Plexos. Vai poder ter saldos em várias moedas numa só conta — ideal para quem envia ou recebe dinheiro entre países." }, { "type": "paragraph", "text": "Quando disponível, poderá adicionar novas moedas directamente no app, manter fundos em cada uma e trocar entre elas com taxas competitivas." }, { "type": "paragraph", "text": "Fique atento — avisaremos assim que esta funcionalidade estiver disponível." }] },
+          { "id": "multi-currency", "title": "Ter dinheiro em várias moedas", "category": "Contas em moeda", "content": [{ "type": "paragraph", "text": "As contas multi-moeda estão a chegar em breve ao Sinku. Vai poder ter saldos em várias moedas numa só conta — ideal para quem envia ou recebe dinheiro entre países." }, { "type": "paragraph", "text": "Quando disponível, poderá adicionar novas moedas directamente no app, manter fundos em cada uma e trocar entre elas com taxas competitivas." }, { "type": "paragraph", "text": "Fique atento — avisaremos assim que esta funcionalidade estiver disponível." }] },
           { "id": "exchange-money", "title": "Como trocar moedas", "category": "Contas em moeda", "content": [{ "type": "paragraph", "text": "Converter entre moedas demora segundos:" }, { "type": "list", "items": ["Vá ao separador 'Contas'", "Toque em 'Câmbio'", "Escolha as moedas e insira o montante", "Reveja a taxa e confirme"] }, { "type": "paragraph", "text": "Os fundos convertidos aparecem na moeda de destino instantaneamente." }] },
-          { "id": "exchange-fees", "title": "Taxas e câmbios", "category": "Contas em moeda", "content": [{ "type": "paragraph", "text": "Em dias úteis no horário de mercado, o Plexos usa taxas interbancárias competitivas. Cada plano inclui uma franquia mensal de câmbio gratuito — após exceder, aplica-se uma pequena taxa percentual." }, { "type": "paragraph", "text": "Fora do horário de mercado, um pequeno markup protege contra oscilações de fim de semana. Consulte o app para os limites exactos do seu plano." }] },
+          { "id": "exchange-fees", "title": "Taxas e câmbios", "category": "Contas em moeda", "content": [{ "type": "paragraph", "text": "Em dias úteis no horário de mercado, o Sinku usa taxas interbancárias competitivas. Cada plano inclui uma franquia mensal de câmbio gratuito — após exceder, aplica-se uma pequena taxa percentual." }, { "type": "paragraph", "text": "Fora do horário de mercado, um pequeno markup protege contra oscilações de fim de semana. Consulte o app para os limites exactos do seu plano." }] },
           { "id": "supported-currencies", "title": "Moedas suportadas", "category": "Contas em moeda", "content": [{ "type": "paragraph", "text": "Suportamos um número crescente de moedas incluindo as principais internacionais e moedas africanas seleccionadas. A lista completa está no app em 'Contas' > 'Adicionar nova moeda'." }, { "type": "paragraph", "text": "Nem todas as moedas têm dados de recebimento locais disponíveis. Estamos a adicionar mais regularmente." }] },
           { "id": "negative-balance", "title": "Porque é que o meu saldo está negativo?", "category": "Contas em moeda", "content": [{ "type": "paragraph", "text": "Pode acontecer quando uma transacção é liquidada por mais do que o autorizado inicialmente — por exemplo, uma reserva de hotel ou uma taxa aplicada após o pagamento." }, { "type": "paragraph", "text": "Adicione fundos para cobrir o défice. Se não fizer sentido, contacte o suporte." }] },
           { "id": "account-details", "title": "Os seus dados de conta", "category": "Informações da conta", "content": [{ "type": "paragraph", "text": "Para ver os dados que outros precisam para lhe enviar dinheiro:" }, { "type": "list", "items": ["Vá ao separador 'Contas'", "Toque na moeda em que quer receber", "Os dados são exibidos — toque para copiar e partilhar"] }] },
@@ -1158,34 +1169,34 @@
         "id": "transfers",
         "title": "Transferências",
         "articles": [
-          { "id": "send-to-plexos-user", "title": "Enviar dinheiro para outro utilizador Plexos", "category": "Enviar dinheiro", "content": [{ "type": "paragraph", "text": "Enviar dinheiro a outros utilizadores Plexos é instantâneo e gratuito — sem necessidade de dados bancários." }, { "type": "heading", "text": "Como enviar" }, { "type": "list", "items": ["Vá a 'Transferências' no app", "Toque em 'Enviar para contacto Plexos'", "Escolha a pessoa dos seus contactos ou pesquise por número/PlexTag", "Insira o montante e confirme"] }] },
-          { "id": "request-money", "title": "Pedir dinheiro a um utilizador Plexos", "category": "Enviar dinheiro", "content": [{ "type": "paragraph", "text": "Alguém lhe deve dinheiro? Envie um pedido directamente no app." }, { "type": "list", "items": ["Vá a 'Transferências'", "Toque em 'Pedir'", "Escolha o contacto", "Insira o montante e adicione uma nota se quiser"] }, { "type": "paragraph", "text": "A pessoa recebe uma notificação e pode aprovar o pagamento com um toque." }] },
+          { "id": "send-to-sinku-user", "title": "Enviar dinheiro para outro utilizador Sinku", "category": "Enviar dinheiro", "content": [{ "type": "paragraph", "text": "Enviar dinheiro a outros utilizadores Sinku é instantâneo e fácil — sem necessidade de dados bancários. Podem aplicar-se taxas para transferências entre contas em países diferentes, sempre apresentadas antes de confirmar." }, { "type": "heading", "text": "Como enviar" }, { "type": "list", "items": ["Vá a 'Transferências' no app", "Toque em 'Enviar para contacto Sinku'", "Escolha a pessoa dos seus contactos ou pesquise por número/PlexTag", "Insira o montante e confirme"] }] },
+          { "id": "request-money", "title": "Pedir dinheiro a um utilizador Sinku", "category": "Enviar dinheiro", "content": [{ "type": "paragraph", "text": "Alguém lhe deve dinheiro? Envie um pedido directamente no app." }, { "type": "list", "items": ["Vá a 'Transferências'", "Toque em 'Pedir'", "Escolha o contacto", "Insira o montante e adicione uma nota se quiser"] }, { "type": "paragraph", "text": "A pessoa recebe uma notificação e pode aprovar o pagamento com um toque." }] },
           { "id": "plextags", "title": "PlexTags", "category": "Enviar dinheiro", "content": [{ "type": "paragraph", "text": "O seu PlexTag é um nome de utilizador único que outros podem usar para o encontrar e pagar — sem partilhar o número de telefone." }, { "type": "heading", "text": "Configure o seu PlexTag" }, { "type": "list", "items": ["Vá ao perfil", "Toque em 'PlexTag'", "Escolha um nome único e confirme"] }] },
-          { "id": "group-bills", "title": "Dividir despesas com Contas em Grupo", "category": "Enviar dinheiro", "content": [{ "type": "paragraph", "text": "Dividir uma refeição, uma viagem ou a renda? As Contas em Grupo facilitam tudo." }, { "type": "list", "items": ["Vá a 'Transferências' e toque em 'Conta em grupo'", "Adicione participantes dos seus contactos Plexos", "Insira o valor total", "Escolha divisão igual ou valores personalizados", "Envie — todos são notificados"] }] },
-          { "id": "transfer-limits", "title": "Limites de transferência", "category": "Enviar dinheiro", "content": [{ "type": "paragraph", "text": "Existem limites diários e mensais de quanto pode enviar a outros utilizadores Plexos. Variam por plano." }, { "type": "paragraph", "text": "Consulte os limites actuais no app em 'Transferências' > 'Limites'." }] },
-          { "id": "payment-links", "title": "Links de pagamento", "category": "Receber dinheiro", "content": [{ "type": "paragraph", "text": "Os links de pagamento permitem pedir dinheiro a qualquer pessoa — mesmo quem não usa Plexos. Gere um link e partilhe via WhatsApp, SMS, email ou redes sociais." }, { "type": "heading", "text": "Como criar" }, { "type": "list", "items": ["Vá a 'Transferências' e toque em 'Link de pagamento'", "Insira o montante e uma nota opcional", "Partilhe o link como quiser"] }, { "type": "paragraph", "text": "O destinatário paga com o cartão — sem precisar de conta Plexos." }] },
-          { "id": "transfer-not-received", "title": "Enviei dinheiro mas não foi recebido", "category": "Problemas com transferências", "content": [{ "type": "paragraph", "text": "Transferências entre utilizadores Plexos são normalmente instantâneas. Se o destinatário diz que não recebeu:" }, { "type": "list", "items": ["Verifique a transacção no histórico — aparece como 'Concluída'?", "Confirme que enviou para a pessoa certa (número ou PlexTag correcto)", "Peça ao destinatário para actualizar o saldo"] }, { "type": "paragraph", "text": "Se tudo estiver correcto e o dinheiro continuar em falta, contacte o suporte." }] },
-          { "id": "wrong-person", "title": "Enviei dinheiro para a pessoa errada", "category": "Problemas com transferências", "content": [{ "type": "paragraph", "text": "Infelizmente, as transferências entre utilizadores Plexos são instantâneas e não podem ser automaticamente revertidas." }, { "type": "paragraph", "text": "A melhor opção é contactar o destinatário directamente e pedir que devolva o dinheiro. Se isso não resultar, contacte o suporte e faremos o possível para ajudar." }] }
+          { "id": "group-bills", "title": "Dividir despesas com Contas em Grupo", "category": "Enviar dinheiro", "content": [{ "type": "paragraph", "text": "Dividir uma refeição, uma viagem ou a renda? As Contas em Grupo facilitam tudo." }, { "type": "list", "items": ["Vá a 'Transferências' e toque em 'Conta em grupo'", "Adicione participantes dos seus contactos Sinku", "Insira o valor total", "Escolha divisão igual ou valores personalizados", "Envie — todos são notificados"] }] },
+          { "id": "transfer-limits", "title": "Limites de transferência", "category": "Enviar dinheiro", "content": [{ "type": "paragraph", "text": "Existem limites diários e mensais de quanto pode enviar a outros utilizadores Sinku. Variam por plano." }, { "type": "paragraph", "text": "Consulte os limites actuais no app em 'Transferências' > 'Limites'." }] },
+          { "id": "payment-links", "title": "Links de pagamento", "category": "Receber dinheiro", "content": [{ "type": "paragraph", "text": "Os links de pagamento permitem pedir dinheiro a qualquer pessoa — mesmo quem não usa Sinku. Gere um link e partilhe via WhatsApp, SMS, email ou redes sociais." }, { "type": "heading", "text": "Como criar" }, { "type": "list", "items": ["Vá a 'Transferências' e toque em 'Link de pagamento'", "Insira o montante e uma nota opcional", "Partilhe o link como quiser"] }, { "type": "paragraph", "text": "O destinatário paga com o cartão — sem precisar de conta Sinku." }] },
+          { "id": "transfer-not-received", "title": "Enviei dinheiro mas não foi recebido", "category": "Problemas com transferências", "content": [{ "type": "paragraph", "text": "Transferências entre utilizadores Sinku são normalmente instantâneas. Se o destinatário diz que não recebeu:" }, { "type": "list", "items": ["Verifique a transacção no histórico — aparece como 'Concluída'?", "Confirme que enviou para a pessoa certa (número ou PlexTag correcto)", "Peça ao destinatário para actualizar o saldo"] }, { "type": "paragraph", "text": "Se tudo estiver correcto e o dinheiro continuar em falta, contacte o suporte." }] },
+          { "id": "wrong-person", "title": "Enviei dinheiro para a pessoa errada", "category": "Problemas com transferências", "content": [{ "type": "paragraph", "text": "Infelizmente, as transferências entre utilizadores Sinku são instantâneas e não podem ser automaticamente revertidas." }, { "type": "paragraph", "text": "A melhor opção é contactar o destinatário directamente e pedir que devolva o dinheiro. Se isso não resultar, contacte o suporte e faremos o possível para ajudar." }] }
         ]
       },
       {
         "id": "adding-money",
         "title": "Adicionar dinheiro",
         "articles": [
-          { "id": "add-with-card", "title": "Adicionar dinheiro com cartão de débito", "category": "Carregar a sua conta", "content": [{ "type": "paragraph", "text": "A forma mais rápida de carregar a sua conta Plexos é com cartão de débito." }, { "type": "list", "items": ["Toque em 'Adicionar dinheiro' no app", "Seleccione 'Cartão'", "Insira o montante", "Escolha um cartão guardado ou adicione um novo", "Confirme o carregamento"] }, { "type": "paragraph", "text": "Os fundos chegam instantaneamente na maioria dos casos." }] },
-          { "id": "add-mobile-money", "title": "Adicionar dinheiro com dinheiro móvel", "category": "Carregar a sua conta", "content": [{ "type": "paragraph", "text": "Nos países suportados, pode carregar a sua conta Plexos directamente da sua carteira de dinheiro móvel." }, { "type": "list", "items": ["Toque em 'Adicionar dinheiro' no app", "Seleccione 'Dinheiro móvel'", "Escolha o seu operador", "Insira o montante e confirme no telemóvel"] }, { "type": "paragraph", "text": "Os fundos chegam normalmente em poucos minutos. A disponibilidade depende do país e do operador." }] },
+          { "id": "add-with-card", "title": "Adicionar dinheiro com cartão de débito", "category": "Carregar a sua conta", "content": [{ "type": "paragraph", "text": "A forma mais rápida de carregar a sua conta Sinku é com cartão de débito." }, { "type": "list", "items": ["Toque em 'Adicionar dinheiro' no app", "Seleccione 'Cartão'", "Insira o montante", "Escolha um cartão guardado ou adicione um novo", "Confirme o carregamento"] }, { "type": "paragraph", "text": "Os fundos chegam instantaneamente na maioria dos casos." }] },
+          { "id": "add-mobile-money", "title": "Adicionar dinheiro com dinheiro móvel", "category": "Carregar a sua conta", "content": [{ "type": "paragraph", "text": "Nos países suportados, pode carregar a sua conta Sinku directamente da sua carteira de dinheiro móvel." }, { "type": "list", "items": ["Toque em 'Adicionar dinheiro' no app", "Seleccione 'Dinheiro móvel'", "Escolha o seu operador", "Insira o montante e confirme no telemóvel"] }, { "type": "paragraph", "text": "Os fundos chegam normalmente em poucos minutos. A disponibilidade depende do país e do operador." }] },
           { "id": "add-apple-google-pay", "title": "Adicionar dinheiro com Apple Pay ou Google Pay", "category": "Carregar a sua conta", "content": [{ "type": "paragraph", "text": "Onde disponível, pode carregar instantaneamente com Apple Pay ou Google Pay." }, { "type": "list", "items": ["Toque em 'Adicionar dinheiro' no app", "Seleccione 'Apple Pay' ou 'Google Pay'", "Insira o montante e autentique"] }, { "type": "paragraph", "text": "Sem taxas. A disponibilidade varia por país." }] },
           { "id": "deposit-limits", "title": "Limites e taxas de carregamento", "category": "Carregar a sua conta", "content": [{ "type": "paragraph", "text": "Os limites e taxas dependem do plano e do método utilizado." }, { "type": "list", "items": ["Carregamentos com cartão de débito são normalmente gratuitos", "Carregamentos com dinheiro móvel podem ter uma pequena taxa do operador", "Aplicam-se limites diários e mensais — consulte no app em 'Adicionar dinheiro'"] }] },
           { "id": "topup-failed", "title": "O meu carregamento falhou", "category": "Problemas com carregamento", "content": [{ "type": "paragraph", "text": "Se o carregamento falhou:" }, { "type": "list", "items": ["Verifique se o cartão ou conta de dinheiro móvel tem fundos suficientes", "Confirme que o cartão não está expirado", "Verifique se o banco ou operador não está a bloquear a transacção", "Tente outro método de pagamento se disponível"] }] },
-          { "id": "receive-via-card", "title": "Receber dinheiro no seu cartão Plexos", "category": "Outras formas de adicionar dinheiro", "content": [{ "type": "paragraph", "text": "Alguns comerciantes podem enviar fundos directamente para o seu cartão de débito Plexos — por exemplo, reembolsos ou cashback. Normalmente aparecem na conta em poucos dias úteis." }] },
-          { "id": "receive-via-link", "title": "Receber dinheiro por link de pagamento", "category": "Outras formas de adicionar dinheiro", "content": [{ "type": "paragraph", "text": "Partilhe um link de pagamento com quem lhe precisa pagar. Podem pagar com cartão — sem precisar de conta Plexos." }, { "type": "list", "items": ["Vá a 'Transferências' e toque em 'Link de pagamento'", "Defina o montante e partilhe o link"] }] }
+          { "id": "receive-via-card", "title": "Receber dinheiro no seu cartão Sinku", "category": "Outras formas de adicionar dinheiro", "content": [{ "type": "paragraph", "text": "Alguns comerciantes podem enviar fundos directamente para o seu cartão de débito Sinku — por exemplo, reembolsos ou cashback. Normalmente aparecem na conta em poucos dias úteis." }] },
+          { "id": "receive-via-link", "title": "Receber dinheiro por link de pagamento", "category": "Outras formas de adicionar dinheiro", "content": [{ "type": "paragraph", "text": "Partilhe um link de pagamento com quem lhe precisa pagar. Podem pagar com cartão — sem precisar de conta Sinku." }, { "type": "list", "items": ["Vá a 'Transferências' e toque em 'Link de pagamento'", "Defina o montante e partilhe o link"] }] }
         ]
       },
       {
         "id": "referrals",
         "title": "Indicações",
         "articles": [
-          { "id": "how-referrals-work", "title": "Como funcionam as indicações Plexos", "category": "Começar com indicações", "content": [{ "type": "paragraph", "text": "Partilhe o seu link de indicação com amigos e família. Quando se registam e completam os passos necessários, ambos ganham uma recompensa." }, { "type": "heading", "text": "Encontre o seu link" }, { "type": "list", "items": ["Vá ao perfil", "Toque em 'Indicar um amigo'", "Copie o link e partilhe via WhatsApp, SMS ou redes sociais"] }] },
+          { "id": "how-referrals-work", "title": "Como funcionam as indicações Sinku", "category": "Começar com indicações", "content": [{ "type": "paragraph", "text": "Partilhe o seu link de indicação com amigos e família. Quando se registam e completam os passos necessários, ambos ganham uma recompensa." }, { "type": "heading", "text": "Encontre o seu link" }, { "type": "list", "items": ["Vá ao perfil", "Toque em 'Indicar um amigo'", "Copie o link e partilhe via WhatsApp, SMS ou redes sociais"] }] },
           { "id": "referral-reward", "title": "Onde está a minha recompensa?", "category": "Começar com indicações", "content": [{ "type": "paragraph", "text": "As recompensas são creditadas quando a pessoa convidada completa todos os passos — registo, verificação de identidade e transacção qualificada." }, { "type": "heading", "text": "Motivos comuns de atraso" }, { "type": "list", "items": ["O seu amigo ainda não completou todos os requisitos", "O link de indicação não foi usado no registo", "A promoção pode ter terminado ou atingido o limite", "As recompensas podem demorar até 30 dias após todas as condições serem cumpridas"] }] },
           { "id": "invited-help", "title": "Fui convidado e preciso de ajuda", "category": "Começar com indicações", "content": [{ "type": "paragraph", "text": "Se se registou através de indicação mas não recebeu a recompensa:" }, { "type": "list", "items": ["Confirme que completou a verificação de identidade e uma transacção qualificada", "Verifique que usou o link de indicação no registo — não pode ser aplicado depois", "Confirme que a promoção ainda está activa"] }] },
           { "id": "referral-terms", "title": "Termos do programa de indicação", "category": "Mais sobre indicações", "content": [{ "type": "paragraph", "text": "Pontos importantes:" }, { "type": "list", "items": ["Há um máximo de indicações por pessoa por promoção", "Ambos devem cumprir os critérios de elegibilidade", "As recompensas podem mudar ou terminar a qualquer momento", "Abuso do sistema pode resultar em restrições da conta"] }] }
@@ -1195,10 +1206,10 @@
         "id": "other-topics",
         "title": "Outros tópicos",
         "articles": [
-          { "id": "data-privacy", "title": "Como o Plexos trata os seus dados", "category": "Privacidade e legal", "content": [{ "type": "paragraph", "text": "Recolhemos apenas os dados necessários para prestar os nossos serviços e cumprir obrigações regulatórias." }, { "type": "heading", "text": "Os seus direitos" }, { "type": "list", "items": ["Aceda aos seus dados pessoais a qualquer momento pelo app", "Peça correcções de informações incorrectas", "Peça a eliminação dos seus dados (sujeito a requisitos legais de retenção)", "Exporte os seus dados em formato portátil"] }] },
-          { "id": "regulatory-info", "title": "Informação regulatória", "category": "Privacidade e legal", "content": [{ "type": "paragraph", "text": "O Plexos está autorizado e regulado para prestar serviços financeiros. As regulamentações específicas que se aplicam a si dependem da entidade Plexos que detém a sua conta." }, { "type": "paragraph", "text": "Pode encontrar a sua entidade no fundo da página de perfil no app." }] },
+          { "id": "data-privacy", "title": "Como o Sinku trata os seus dados", "category": "Privacidade e legal", "content": [{ "type": "paragraph", "text": "Recolhemos apenas os dados necessários para prestar os nossos serviços e cumprir obrigações regulatórias. O Sinku armazena os seus dados de registo como email, número de telefone e dados de identificação (como NIF) por duas razões:" }, { "type": "list", "items": ["Integração com parceiros: Para que possa aceder a serviços como emissão de cartões (via o nosso parceiro licenciado) e outras funcionalidades que requerem identificação", "Facilidade de acesso: Para não precisar de preencher formulários cada vez que abre o app"] }, { "type": "paragraph", "text": "Importante: Certas transacções blockchain são registadas on-chain e são publicamente visíveis. O Sinku não controla dados on-chain. O seu endereço de carteira pode ser partilhado com parceiros para prestar serviços como a emissão de cartões." }, { "type": "heading", "text": "Os seus direitos" }, { "type": "list", "items": ["Aceda aos seus dados pessoais a qualquer momento pelo app", "Peça correcções de informações incorrectas", "Peça a eliminação dos seus dados (sujeito a requisitos legais de retenção)", "Exporte os seus dados em formato portátil", "Se estiver na UE, tem direitos adicionais ao abrigo do RGPD incluindo o direito à portabilidade dos dados e o direito de oposição ao tratamento"] }, { "type": "paragraph", "text": "Detalhes completos na nossa Política de Privacidade, disponível no app e no nosso site." }] },
+          { "id": "regulatory-info", "title": "Informação regulatória", "category": "Privacidade e legal", "content": [{ "type": "paragraph", "text": "O Sinku é uma empresa de tecnologia financeira, não um banco nem uma instituição financeira licenciada. Fornecemos a camada tecnológica que o conecta a serviços financeiros prestados por parceiros independentes e licenciados:" }, { "type": "list", "items": ["Parceiro Licenciado — para emissão de cartões de pagamento e serviços financeiros nas redes Visa e Mastercard", "Privy — para infraestrutura de carteiras não custodiais (o utilizador detém as chaves privadas, não o Sinku)"] }, { "type": "paragraph", "text": "Estes parceiros operam sob as suas próprias autorizações regulatórias e são responsáveis pela conformidade com regulamentações financeiras, verificação KYC e requisitos anti-lavagem de dinheiro." }, { "type": "paragraph", "text": "O Sinku não detém, controla ou tem custódia dos seus fundos. As nossas políticas de conformidade baseiam-se na protecção da comunidade e no respeito por padrões globais incluindo AML, CTF e requisitos KYC." }, { "type": "paragraph", "text": "Para uma explicação completa do nosso modelo, visite a nossa página de transparência Como Funcionamos." }] },
           { "id": "lost-passkey", "title": "Perdi acesso à minha passkey", "category": "Acesso à conta", "content": [{ "type": "paragraph", "text": "Se não consegue usar a sua passkey, pode redefini-la:" }, { "type": "list", "items": ["No ecrã de login, toque em 'Não consegue entrar?'", "Siga os passos de verificação de identidade", "Configure uma nova passkey após verificação"] }] },
-          { "id": "app-feedback", "title": "Partilhar feedback ou reportar um bug", "category": "Acesso à conta", "content": [{ "type": "paragraph", "text": "Estamos a construir o Plexos para a nossa comunidade e o seu feedback é importante. Se encontrou um bug ou tem uma ideia de melhoria:" }, { "type": "list", "items": ["Abra o chat no app e seleccione 'Feedback'", "Ou envie-nos email para feedback@plexos.com"] }, { "type": "paragraph", "text": "Cada mensagem é lida pela nossa equipa. Obrigado por nos ajudar a construir algo melhor." }] }
+          { "id": "app-feedback", "title": "Partilhar feedback ou reportar um bug", "category": "Acesso à conta", "content": [{ "type": "paragraph", "text": "Estamos a construir o Sinku para a nossa comunidade e o seu feedback é importante. Se encontrou um bug ou tem uma ideia de melhoria:" }, { "type": "list", "items": ["Abra o chat no app e seleccione 'Feedback'", "Ou envie-nos email para feedback@sinku.io"] }, { "type": "paragraph", "text": "Cada mensagem é lida pela nossa equipa. Obrigado por nos ajudar a construir algo melhor." }] }
         ]
       }
     ]

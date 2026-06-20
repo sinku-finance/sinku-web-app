@@ -46,11 +46,11 @@
         "cookies": [
           {
             "name": "Google Ads",
-            "purpose": "A cookie that shows us how effective our Plexos ad campaigns are by tracking how many users click through to our website from a particular ad, and the demographic of those users."
+            "purpose": "A cookie that shows us how effective our Sinku ad campaigns are by tracking how many users click through to our website from a particular ad, and the demographic of those users."
           },
           {
             "name": "Google Analytics",
-            "purpose": "Allows us to see how many users are on the Plexos website, which pages they are visiting and track how many visitors joined Plexos"
+            "purpose": "Allows us to see how many users are on the Sinku website, which pages they are visiting and track how many visitors joined Sinku"
           },
           {
             "name": "TV Squared Pixels",
@@ -58,31 +58,31 @@
           },
           {
             "name": "AppsFlyer",
-            "purpose": "Allows us to generate personalised links to help us understand the advertisements users have clicked on before joining Plexos."
+            "purpose": "Allows us to generate personalised links to help us understand the advertisements users have clicked on before joining Sinku."
           },
           {
             "name": "Microsoft Ads Pixel",
-            "purpose": "This is used by Plexos to help us decide which of our products, services and offers may be relevant for you based on your browsing history, as well as to tailor and measure how effective our ads on Bing are."
+            "purpose": "This is used by Sinku to help us decide which of our products, services and offers may be relevant for you based on your browsing history, as well as to tailor and measure how effective our ads on Bing are."
           },
           {
             "name": "Reddit Pixel",
-            "purpose": "This is used by Plexos to measure, optimise and build audiences for advertising campaigns served on Reddit."
+            "purpose": "This is used by Sinku to measure, optimise and build audiences for advertising campaigns served on Reddit."
           },
           {
             "name": "Tiktok Pixel",
-            "purpose": "This is used by Plexos to measure, optimise and build audiences for advertising campaigns served on Tiktok."
+            "purpose": "This is used by Sinku to measure, optimise and build audiences for advertising campaigns served on Tiktok."
           },
           {
             "name": "Meta Pixel",
-            "purpose": "This is used by Plexos to measure, optimise and build audiences for advertising campaigns served on Meta platforms."
+            "purpose": "This is used by Sinku to measure, optimise and build audiences for advertising campaigns served on Meta platforms."
           },
           {
             "name": "X (formerly Twitter) Pixel",
-            "purpose": "This is used by Plexos to measure, optimise and build audiences for advertising campaigns served on X (formerly Twitter)."
+            "purpose": "This is used by Sinku to measure, optimise and build audiences for advertising campaigns served on X (formerly Twitter)."
           },
           {
             "name": "LinkedIn Insights Tag",
-            "purpose": "This is used by Plexos to measure, optimise and build audiences for advertising campaigns served on LinkedIn."
+            "purpose": "This is used by Sinku to measure, optimise and build audiences for advertising campaigns served on LinkedIn."
           },
           {
             "name": "Vimeo",
@@ -155,11 +155,11 @@
         "cookies": [
           {
             "name": "Google Ads",
-            "purpose": "Um cookie que nos mostra quão eficazes são nossas campanhas publicitárias da Plexos, rastreando quantos usuários clicam em nosso site a partir de um anúncio específico e a demografia desses usuários."
+            "purpose": "Um cookie que nos mostra quão eficazes são nossas campanhas publicitárias da Sinku, rastreando quantos usuários clicam em nosso site a partir de um anúncio específico e a demografia desses usuários."
           },
           {
             "name": "Google Analytics",
-            "purpose": "Permite-nos ver quantos usuários estão no site da Plexos, quais páginas estão visitando e rastrear quantos visitantes se juntaram à Plexos"
+            "purpose": "Permite-nos ver quantos usuários estão no site da Sinku, quais páginas estão visitando e rastrear quantos visitantes se juntaram à Sinku"
           },
           {
             "name": "TV Squared Pixels",
@@ -167,31 +167,31 @@
           },
           {
             "name": "AppsFlyer",
-            "purpose": "Permite-nos gerar links personalizados para nos ajudar a entender os anúncios em que os usuários clicaram antes de se juntarem à Plexos."
+            "purpose": "Permite-nos gerar links personalizados para nos ajudar a entender os anúncios em que os usuários clicaram antes de se juntarem à Sinku."
           },
           {
             "name": "Microsoft Ads Pixel",
-            "purpose": "É usado pela Plexos para nos ajudar a decidir quais de nossos produtos, serviços e ofertas podem ser relevantes para você com base no seu histórico de navegação, além de personalizar e medir a eficácia de nossos anúncios no Bing."
+            "purpose": "É usado pela Sinku para nos ajudar a decidir quais de nossos produtos, serviços e ofertas podem ser relevantes para você com base no seu histórico de navegação, além de personalizar e medir a eficácia de nossos anúncios no Bing."
           },
           {
             "name": "Reddit Pixel",
-            "purpose": "É usado pela Plexos para medir, otimizar e construir públicos para campanhas publicitárias veiculadas no Reddit."
+            "purpose": "É usado pela Sinku para medir, otimizar e construir públicos para campanhas publicitárias veiculadas no Reddit."
           },
           {
             "name": "Tiktok Pixel",
-            "purpose": "É usado pela Plexos para medir, otimizar e construir públicos para campanhas publicitárias veiculadas no Tiktok."
+            "purpose": "É usado pela Sinku para medir, otimizar e construir públicos para campanhas publicitárias veiculadas no Tiktok."
           },
           {
             "name": "Meta Pixel",
-            "purpose": "É usado pela Plexos para medir, otimizar e construir públicos para campanhas publicitárias veiculadas nas plataformas Meta."
+            "purpose": "É usado pela Sinku para medir, otimizar e construir públicos para campanhas publicitárias veiculadas nas plataformas Meta."
           },
           {
             "name": "X (antigo Twitter) Pixel",
-            "purpose": "É usado pela Plexos para medir, otimizar e construir públicos para campanhas publicitárias veiculadas no X (antigo Twitter)."
+            "purpose": "É usado pela Sinku para medir, otimizar e construir públicos para campanhas publicitárias veiculadas no X (antigo Twitter)."
           },
           {
             "name": "LinkedIn Insights Tag",
-            "purpose": "É usado pela Plexos para medir, otimizar e construir públicos para campanhas publicitárias veiculadas no LinkedIn."
+            "purpose": "É usado pela Sinku para medir, otimizar e construir públicos para campanhas publicitárias veiculadas no LinkedIn."
           },
           {
             "name": "Vimeo",

@@ -69,10 +69,26 @@ export const servicesAnimations = {
 		},
 	},
 
+	// Card itself only fades — NO transform (scale/translate). Transforming the
+	// parent of a WebGL canvas mid-animation makes the gradient glitch.
 	card: {
 		variants: {
-			hidden: { 
-				opacity: 0, 
+			hidden: { opacity: 0 },
+			visible: {
+				opacity: 1,
+				transition: {
+					duration: 0.5,
+					ease: [0.25, 0.46, 0.45, 0.94] as const,
+				},
+			},
+		},
+	},
+
+	// The rise/scale lives on the inner content so it never touches the canvas.
+	cardContent: {
+		variants: {
+			hidden: {
+				opacity: 0,
 				y: 30,
 				scale: 0.98,
 			},

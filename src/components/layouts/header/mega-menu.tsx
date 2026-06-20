@@ -49,7 +49,7 @@ export function MegaMenu({ isOpen, onClose }: MegaMenuProps) {
 									<div className="relative w-28 h-28 rounded-lg overflow-hidden flex-shrink-0 bg-gray-50">
 										<Image
 											src="/qrcode.svg"
-											alt="QR Code to download Plexos app"
+											alt="QR Code to download Sinku app"
 											fill
 											className="object-contain p-1"
 										/>

@@ -6,7 +6,7 @@
   },
   "navigation": {
     "faqsTitle": "Perguntas Frequentes",
-    "faqsSubtitle": "Encontre respostas para as perguntas mais comuns sobre o Plexos.",
+    "faqsSubtitle": "Encontre respostas para as perguntas mais comuns sobre o Sinku.",
     "supportTitle": "Suporte",
     "supportSubtitle": "Estamos aqui para ajudar, 24/7"
   },
@@ -42,7 +42,7 @@
     "cards": {
       "title": "Cartão de Débito Internacional",
       "tagline": "Pague em qualquer lugar, de qualquer lugar",
-      "description": "Compre no mundo inteiro, subscreva qualquer serviço, reserve voos — o seu cartão Plexos funciona onde o Mastercard é aceite. Sem mais pagamentos recusados ou regiões indisponíveis."
+      "description": "Compre no mundo inteiro, subscreva qualquer serviço, reserve voos — o seu cartão Sinku funciona onde o Visa ou Mastercard é aceite. Sem mais pagamentos recusados ou regiões indisponíveis."
     },
     "savings": {
       "title": "Enviar e Receber Dinheiro",
@@ -52,13 +52,13 @@
       "title": "Transferências Globais",
       "description": "Movimente dinheiro entre países com o câmbio real. Até 5x mais barato que bancos tradicionais e serviços de remessa. O seu dinheiro chega rápido — e inteiro."
     },
-    "bottomText": "Quer seja freelancer a receber do estrangeiro, esteja a apoiar a família, ou simplesmente a tentar pagar por uma subscrição — o Plexos liga-o à economia global, sem exceções.",
+    "bottomText": "Quer seja freelancer a receber do estrangeiro, esteja a apoiar a família, ou simplesmente a tentar pagar por uma subscrição — o Sinku liga-o à economia global, sem exceções.",
     "account": {
       "title": "Uma conta que abre o mundo",
       "subtitle": "Tudo o que precisa num só lugar — feito para a forma como vive, trabalha e faz o seu dinheiro crescer sem fronteiras.",
       "features": {
         "noFees": "Sem taxas mensais ou anuais",
-        "cards": "Cartão Mastercard aceite em mais de 200 países",
+        "cards": "Cartão Visa e Mastercard aceite em mais de 200 países",
         "benefits": "Ganhe cashback em cada compra",
         "investments": "Guarde USD, EUR, GBP e mais — proteja as suas poupanças das flutuações cambiais"
       }
@@ -80,7 +80,7 @@
   "app": {
     "title": "Uma app. Todas as suas contas. Controlo total.",
     "subtitle": "Envie, gaste, poupe e gira o seu dinheiro a partir do telemóvel. Notificações em tempo real, transferências instantâneas e acesso seguro — a qualquer hora, em qualquer lugar.",
-    "qrText": "Leia o código para descarregar a app Plexos",
+    "qrText": "Leia o código para descarregar a app Sinku",
     "ratingText": "Utilizado por milhares de pessoas em vários países."
   },
   "features": {
@@ -88,7 +88,7 @@
     "items": {
       "send-abroad": {
         "title": "Envie dinheiro para casa a taxas reais",
-        "description": "Transfira dinheiro para qualquer país em segundos. Câmbio real, taxas até 5x mais baixas que bancos tradicionais e serviços de remessa. Transferências na app entre utilizadores Plexos são instantâneas e de baixo custo. A sua família recebe mais, sempre."
+        "description": "Transfira dinheiro para qualquer país em segundos. Câmbio real, taxas até 5x mais baixas que bancos tradicionais e serviços de remessa. Transferências na app entre utilizadores Sinku são instantâneas e de baixo custo. A sua família recebe mais, sempre."
       },
       "multi-currency": {
         "title": "Guarde várias moedas, proteja o seu dinheiro",
@@ -96,11 +96,11 @@
       },
       "international-card": {
         "title": "Um cartão que realmente funciona no mundo",
-        "description": "Um cartão Mastercard aceite em mais de 200 países. Pague subscrições, compre online ou levante dinheiro no estrangeiro — sem mais mensagens de 'cartão não suportado'."
+        "description": "Um cartão Visa e Mastercard aceite em mais de 200 países. Pague subscrições, compre online ou levante dinheiro no estrangeiro — sem mais mensagens de 'cartão não suportado'."
       },
       "pay-friends": {
         "title": "Envie dinheiro para qualquer pessoa, instantaneamente",
-        "description": "Transfira dinheiro para outros utilizadores Plexos de graça, em segundos. Divida contas, pague a um amigo ou envie um presente — sem dados bancários, sem esperas."
+        "description": "Transfira dinheiro para outros utilizadores Sinku em segundos. Divida contas, pague a um amigo ou envie um presente — sem dados bancários, sem esperas. Podem aplicar-se taxas para transferências internacionais, sempre mostradas antecipadamente."
       },
       "real-time": {
         "title": "Notificações em tempo real",
@@ -122,7 +122,7 @@
   },
   "homeCards": {
     "title": "Um Cartão Que Funciona Em Todo o Lado",
-    "subtitle": "Escolha entre vários designs de cartão que refletem quem é. Cada cartão Plexos funciona mundialmente com Mastercard — aceite em milhões de comerciantes, online e em loja.",
+    "subtitle": "Escolha entre vários designs de cartão que refletem quem é. Cada cartão Sinku funciona mundialmente com Visa e Mastercard — aceite em milhões de comerciantes, online e em loja.",
     "details": {
       "title": "O seu cartão faz mais do que imagina",
       "subtitle": "Pague com Apple Pay, leia um QR code ou toque para pagar contactless. Acompanhe cada transação, bloqueie cobranças suspeitas e agende pagamentos futuros — tudo na app.",
@@ -148,7 +148,7 @@
     },
     "readyAnswers": {
       "title": "Respostas prontas a usar",
-      "description": "Encontre respostas detalhadas para as perguntas mais comuns no nosso Centro de Ajuda, a fonte de conhecimento Plexos.",
+      "description": "Encontre respostas detalhadas para as perguntas mais comuns no nosso Centro de Ajuda, a fonte de conhecimento Sinku.",
       "button": "Visitar Centro de Ajuda"
     },
     "accountAccess": {
@@ -164,13 +164,13 @@
     "title": "Pagamentos",
     "tagline": "Pagamentos",
     "bannerTitle": "Pagamentos sem fronteiras",
-    "bannerSubtitle": "Envie, receba e gira dinheiro pelo mundo — com taxas baixas entre utilizadores Plexos e câmbio real em cada transferência.",
+    "bannerSubtitle": "Envie, receba e gira dinheiro pelo mundo — com taxas baixas entre utilizadores Sinku e câmbio real em cada transferência.",
     "heroTitle": "Movimente o seu dinheiro livremente",
-    "heroSubtitle": "Envie dinheiro para qualquer pessoa, em qualquer lugar do mundo — instantaneamente e com taxas baixas entre utilizadores Plexos. Sem intermediários, sem atrasos, sem cobranças escondidas.",
+    "heroSubtitle": "Envie dinheiro para qualquer pessoa, em qualquer lugar do mundo — instantaneamente e com taxas baixas entre utilizadores Sinku. Sem intermediários, sem atrasos, sem cobranças escondidas.",
     "heroButton": "Começar a enviar",
     "feature": {
       "title": "Pague a amigos e família, de forma instantânea",
-      "description": "Envie dinheiro entre utilizadores Plexos em segundos, com taxas baixas em cada transferência P2P na app. Quer seja para alguém ao lado ou do outro lado do oceano — envie, receba e gira tudo numa única app.",
+      "description": "Envie dinheiro entre utilizadores Sinku em segundos, com taxas baixas em cada transferência P2P na app. Quer seja para alguém ao lado ou do outro lado do oceano — envie, receba e gira tudo numa única app.",
       "disclaimer": "Podem aplicar-se taxas para determinados métodos de pagamento. Aplicam-se os Termos e Condições.",
       "button": "Começar a enviar",
       "pills": {
@@ -184,7 +184,7 @@
       "cards": {
         "contacts": {
           "title": "Envie para os seus contactos",
-          "description": "Ambos na Plexos? Basta procurar o nome e tocar em Enviar. Instantâneo, grátis e sem esforço — não importa onde estejam."
+          "description": "Ambos na Sinku? Basta procurar o nome e tocar em Enviar. Instantâneo e sem esforço — não importa onde estejam. Podem aplicar-se taxas para transferências internacionais, sempre mostradas antes de confirmar."
         },
         "links": {
           "title": "Partilhe um link de pagamento",
@@ -192,7 +192,7 @@
         },
         "global": {
           "title": "Envie dinheiro para o mundo",
-          "description": "Transfira dinheiro entre países com câmbio real. Grátis entre utilizadores Plexos e até 5x mais barato que bancos para todos os outros."
+          "description": "Transfira dinheiro entre países com câmbio real. Transferências com taxas baixas entre utilizadores Sinku e até 5x mais barato que bancos para todos os outros. Podem aplicar-se taxas para transferências internacionais — verá sempre o custo exato antes de confirmar."
         }
       }
     },
@@ -204,18 +204,37 @@
     },
     "comparison": {
       "title": "Porquê pagar mais? Compare e poupe.",
-      "subtitle": "Feito para ser a forma mais acessível de movimentar dinheiro. Veja como o Plexos se compara com a concorrência.",
+      "subtitle": "Feito para ser a forma mais acessível de movimentar dinheiro. Veja como o Sinku se compara com a concorrência.",
       "sendingAmount": "A enviar $100",
       "costToSend": "Custo do envio",
       "recipientGets": "Destinatário recebe",
       "cheapest": "Mais barato",
       "sendMoney": "Enviar dinheiro",
-      "disclaimer": "As informações acima aplicam-se ao enviar dinheiro na moeda nacional da conta do destinatário. A lista de fornecedores não é exaustiva e planeamos adicionar mais em breve. Para todos os fornecedores, estamos a mostrar os custos com base apenas nos planos Standard/Básico. As taxas de câmbio e taxas de transferência apresentadas são ilustrativas e atualizadas apenas a cada minuto. Verifique sempre a taxa aplicável e as taxas de transferência na app antes de realizar a sua transferência. Transferências P2P na app entre utilizadores Plexos têm taxas baixas."
+      "disclaimer": "As informações acima aplicam-se ao enviar dinheiro na moeda nacional da conta do destinatário. A lista de fornecedores não é exaustiva e planeamos adicionar mais em breve. Para todos os fornecedores, estamos a mostrar os custos com base apenas nos planos Standard/Básico. As taxas de câmbio e taxas de transferência apresentadas são ilustrativas e atualizadas apenas a cada minuto. Verifique sempre a taxa aplicável e as taxas de transferência na app antes de realizar a sua transferência. Transferências P2P na app entre utilizadores Sinku têm taxas baixas."
+    },
+    "calculator": {
+      "title": "Compare e poupe em cada transferência",
+      "subtitle": "Veja exatamente quanto mais o destinatário recebe com o Sinku vs. a concorrência.",
+      "from": "Envia de",
+      "to": "Destinatário em",
+      "youSend": "Você envia",
+      "bestRate": "Melhor taxa",
+      "transferFee": "Taxa de transferência",
+      "exchangeRate": "Taxa de câmbio",
+      "recipientGets": "Destinatário recebe",
+      "sendNow": "Enviar com Sinku",
+      "compareTo": "Comparar com",
+      "arrivalTime": "Tempo de chegada",
+      "compareTitle": "Veja como nos comparamos",
+      "compareSubtitle": "Veja o que o destinatário recebe com o Sinku vs. a concorrência na mesma transferência.",
+      "savingsMessage": "Poupa {amount} {currency} em comparação com {provider} nesta transferência",
+      "disclaimer": "As taxas de câmbio e comissões apresentadas são ilustrativas e atualizadas periodicamente. Verifique sempre a taxa e comissões aplicáveis na app antes de efetuar uma transferência. Transferências P2P na app entre utilizadores Sinku têm taxas baixas.",
+      "instantFootnote": "Transferências instantâneas do MoneyGram e Western Union podem não estar disponíveis aos domingos e feriados."
     }
   },
   "cards": {
     "heroTitle": "Um cartão. Sem fronteiras. Sem surpresas.",
-    "heroSubtitle": "Gaste no estrangeiro com a taxa de câmbio real, sem taxas escondidas, e pague onde o Mastercard é aceite — tudo a partir do seu telemóvel.",
+    "heroSubtitle": "Gaste no estrangeiro com a taxa de câmbio real, sem taxas escondidas, e pague onde o Visa ou Mastercard é aceite — tudo a partir do seu telemóvel.",
     "heroButton": "Peça o seu cartão",
     "virtual": {
       "title": "Praticamente indestrutível",
@@ -229,7 +248,7 @@
           "globalPayments": "Pague em mais de 60M de comerciantes em 150+ países",
           "lowFees": "Taxas de câmbio reais com custos até 8x menores",
           "noCash": "Sem necessidade de dinheiro físico — toque, pague, pronto",
-          "accepted": "Aceite em todo o lado onde o Mastercard funciona"
+          "accepted": "Aceite em todo o lado onde o Visa e Mastercard funcionam"
         }
       },
       "benefits": {
@@ -255,7 +274,7 @@
     "collection": {
       "title": "Cartões Que Combinam Com o Seu Estilo",
       "subtitle": "Descubra a nossa coleção exclusiva de cartões de edição limitada, colaborações e designs sazonais — feitos para se destacar onde quer que vá.",
-      "bottomText": "Quer esteja a pagar as compras ao virar da esquina ou a reservar um voo para o outro lado do mundo — o seu cartão Plexos foi feito para ir onde a vida o levar, sem taxas a travá-lo."
+      "bottomText": "Quer esteja a pagar as compras ao virar da esquina ou a reservar um voo para o outro lado do mundo — o seu cartão Sinku foi feito para ir onde a vida o levar, sem taxas a travá-lo."
     },
     "security": {
       "title": "Proteção para os seus cartões",
@@ -298,20 +317,20 @@
     "featured": {
       "tagline": "Cartões para todas as ocasiões.",
       "title": "Escolha o cartão que se adapta à sua vida",
-      "subtitle": "Quer esteja a comprar online, a viajar pelo mundo ou a construir as suas poupanças — há um cartão Plexos feito para si.",
+      "subtitle": "Quer esteja a comprar online, a viajar pelo mundo ou a construir as suas poupanças — há um cartão Sinku feito para si.",
       "cta": "Obter este cartão",
       "pricing": "Aplicam-se Termos e Condições",
       "standardCard": {
-        "name": "Plexos Standard",
+        "name": "Sinku Standard",
         "badge": "Grátis",
         "features": {
           "feature1": "Sem taxas mensais — grátis para sempre",
-          "feature2": "Transferências na app com taxas baixas para utilizadores Plexos",
+          "feature2": "Transferências na app com taxas baixas para utilizadores Sinku",
           "feature3": "Aceite em mais de 60M de comerciantes no mundo"
         }
       },
       "plusCard": {
-        "name": "Plexos Plus",
+        "name": "Sinku Plus",
         "badge": "Escolha inteligente",
         "features": {
           "feature1": "Limites de gastos mais altos no estrangeiro",
@@ -320,7 +339,7 @@
         }
       },
       "premiumCard": {
-        "name": "Plexos Premium",
+        "name": "Sinku Premium",
         "badge": "Melhor valor",
         "features": {
           "feature1": "Até 3% de cashback em cada compra",
@@ -328,6 +347,15 @@
           "feature3": "Suporte prioritário 24/7 e seguro de viagem"
         }
       }
+    },
+    "bento": {
+      "shopOnline": "Compre online e em loja com cartões virtuais e físicos",
+      "tapToPay": "Basta tocar com Apple ou Google Pay.",
+      "sendMoney": "Envie dinheiro para amigos num clique.",
+      "withdrawATM": "Levante dinheiro em ATMs no mundo inteiro",
+      "sentTo": "Enviou $100,00 para",
+      "sentName": "Maria Fernandes",
+      "sentStatus": "A chegar instantaneamente"
     },
     "plans": {
       "title": "Escolha o seu plano",
@@ -349,13 +377,18 @@
     }
   },
   "downloadApp": {
-    "title": "Descarregue a App Plexos",
-    "subtitle": "Tenha o controlo do seu dinheiro em qualquer lugar. Descarregue a app Plexos e comece a enviar, gastar e poupar — em segundos.",
+    "title": "Descarregue a App Sinku",
+    "subtitle": "Tenha o controlo do seu dinheiro em qualquer lugar. Descarregue a app Sinku e comece a enviar, gastar e poupar — em segundos.",
     "qrTitle": "Leia para descarregar",
     "qrDescription": "Aponte a câmara do telemóvel para o QR code para obter a app",
-    "qrAlt": "QR code para descarregar a app Plexos",
-    "imageAlt": "Interface da app Plexos num smartphone",
-    "imagePlaceholder": "Imagem da app em breve"
+    "qrAlt": "QR code para descarregar a app Sinku",
+    "imageAlt": "Interface da app Sinku num smartphone",
+    "imagePlaceholder": "Imagem da app em breve",
+    "floatingBanner": {
+      "title": "Descarregue o Sinku",
+      "subtitle": "Leia o código para obter a app",
+      "qrAlt": "QR code para descarregar o Sinku"
+    }
   },
   "footer": {
     "socialMedia": "Social",
@@ -370,7 +403,7 @@
       "signUp": "Criar conta",
       "login": "Entrar",
       "waitlist": "Lista de Espera",
-      "plexosCard": "Cartões Plexos",
+      "sinkuCard": "Cartões Sinku",
       "whatWeOffer": "O Que Oferecemos",
       "about": "Sobre",
       "newsroom": "Notícias",
@@ -384,16 +417,17 @@
       "termsOfService": "Termos de Serviço",
       "privacyPolicy": "Política de Privacidade",
       "cookiePolicy": "Política de Cookies",
+      "howWeWork": "Como Funcionamos",
       "riskDisclosure": "Divulgação de Riscos",
       "pricingDisclosure": "Divulgação de Preços",
       "cookieSettings": "Definições de Cookies"
     },
     "regulatory": {
-      "paragraph1": "Plexos App é uma plataforma tecnológica e aplicação desenvolvida pela Plexos Global Ltd (Plexos), que disponibiliza uma interface de utilizador para acesso a serviços oferecidos por prestadores terceiros independentes. A Plexos não oferece, detém ou transmite fundos, criptoativos, nem presta quaisquer serviços financeiros, de custódia ou regulados.",
-      "paragraph2": "Toda a funcionalidade de carteira é fornecida pela Privy, um prestador de infraestrutura de carteiras não custodiais. As carteiras são criadas e controladas exclusivamente pelos utilizadores e não são acessíveis pela Plexos. Todas as chaves privadas permanecem sob o controlo exclusivo do utilizador.",
-      "paragraph3": "Quaisquer serviços financeiros ou relacionados com pagamentos, incluindo a emissão de cartões de pagamento, carteiras de contratos inteligentes e processamento de transferências de ativos digitais, são prestados exclusivamente pela Signify Holdings Inc. e a sua subsidiária Nimbus LLC (Rain), um prestador de serviços financeiros licenciado. A Rain opera sob as suas próprias autorizações regulatórias e é responsável pela conformidade e desempenho dos seus serviços.",
-      "paragraph4": "Ao utilizar a Plexos App, reconhece e concorda que a Plexos atua exclusivamente como um intermediário de software e não é uma instituição financeira ou prestador de serviços de criptoativos nos termos do Regulamento (UE) 2023/1114 (MiCAR) ou de qualquer legislação similar. Quaisquer transações, transferências ou operações financeiras são executadas exclusivamente através de prestadores terceiros e estão sujeitas aos respetivos termos e políticas.",
-      "paragraph5": "Certifique-se de que compreende e concorda com os termos e serviços da Rain, Privy e quaisquer outros prestadores aplicáveis antes de utilizar os serviços acedidos através da Plexos App. O utilizador é responsável por guardar a sua própria frase de recuperação. Se a frase de recuperação for perdida, o utilizador poderá não conseguir recuperar as suas chaves privadas. Todas as formas de investimento comportam riscos, incluindo o risco de perder a totalidade do montante investido. Tais atividades podem não ser adequadas para todos."
+      "paragraph1": "A Sinku é uma empresa de tecnologia financeira, não um banco. A Sinku App é uma plataforma tecnológica e aplicação desenvolvida pela MORABI, SOCIEDADE UNIPESSOAL LDA (Sinku), que disponibiliza uma interface de utilizador para acesso a serviços oferecidos por prestadores terceiros independentes. A Sinku não oferece, detém ou transmite fundos, criptoativos, nem presta quaisquer serviços financeiros, de custódia ou regulados.",
+      "paragraph2": "Toda a funcionalidade de carteira é fornecida pela Privy, um prestador de infraestrutura de carteiras não custodiais. As carteiras são criadas e controladas exclusivamente pelos utilizadores e não são acessíveis pela Sinku. Todas as chaves privadas permanecem sob o controlo exclusivo do utilizador.",
+      "paragraph3": "Os serviços bancários e de cartões de pagamento são prestados por parceiros licenciados. A emissão de cartões de pagamento e serviços financeiros relacionados são fornecidos através do nosso parceiro financeiro licenciado. Os cartões são emitidos nas redes Visa e Mastercard. O nosso parceiro licenciado opera sob as suas próprias autorizações regulatórias e é responsável pela conformidade e desempenho dos seus serviços.",
+      "paragraph4": "Ao utilizar a Sinku App, reconhece e concorda que a Sinku atua exclusivamente como um intermediário de software e não é uma instituição financeira ou prestador de serviços de criptoativos nos termos do Regulamento (UE) 2023/1114 (MiCAR) ou de qualquer legislação similar. Quaisquer transações, transferências ou operações financeiras são executadas exclusivamente através de prestadores terceiros e estão sujeitas aos respetivos termos e políticas.",
+      "paragraph5": "Certifique-se de que compreende e concorda com os termos e serviços dos nossos parceiros licenciados, Privy e quaisquer outros prestadores aplicáveis antes de utilizar os serviços acedidos através da Sinku App. O utilizador é responsável por guardar a sua própria frase de recuperação. Se a frase de recuperação for perdida, o utilizador poderá não conseguir recuperar as suas chaves privadas. Todas as formas de investimento comportam riscos, incluindo o risco de perder a totalidade do montante investido. Tais atividades podem não ser adequadas para todos."
     }
   },
   "cookies": {
@@ -404,7 +438,7 @@
     "rejectNonEssential": "Rejeitar cookies não essenciais"
   },
   "referral": {
-    "title": "Foste convidado para o Plexos",
+    "title": "Foste convidado para o Sinku",
     "invitedBy": "convidou-te.",
     "subtitle": "Envia dinheiro globalmente com excelentes taxas de câmbio.",
     "phonePlaceholder": "Número de telefone",
@@ -412,7 +446,7 @@
     "searchCountries": "Pesquisar países...",
     "noCountriesFound": "Nenhum país encontrado",
     "continue": "Continuar",
-    "disclaimer": "Partilharemos informações muito limitadas sobre a configuração e atividade da tua conta com a pessoa que te referiu para o Plexos. Isto garante que as partes apropriadas possam receber recompensas de referência, se aplicável.",
+    "disclaimer": "Partilharemos informações muito limitadas sobre a configuração e atividade da tua conta com a pessoa que te referiu para o Sinku. Isto garante que as partes apropriadas possam receber recompensas de referência, se aplicável.",
     "errors": {
       "phoneRequired": "Por favor, insere o teu número de telefone",
       "phoneInvalid": "Por favor, insere um número de telefone válido",
@@ -421,7 +455,7 @@
     },
     "success": {
       "title": "Está tudo pronto!",
-      "message": "Referência ativada com sucesso. Faz download do Plexos e completa o teu registo para ativar a tua recompensa.",
+      "message": "Referência ativada com sucesso. Faz download do Sinku e completa o teu registo para ativar a tua recompensa.",
       "downloadOn": "Transferir na",
       "appStore": "App Store",
       "getItOn": "Disponível no",
@@ -441,7 +475,7 @@
     "disclaimer": "Usaremos os seus dados apenas para enviar atualizações sobre o lançamento. Sem spam, nunca. Pode cancelar a qualquer momento.",
     "features": {
       "transfers": "Transferências com taxas baixas",
-      "card": "Cartão Mastercard internacional"
+      "card": "Cartão Visa e Mastercard internacional"
     },
     "errors": {
       "emailRequired": "Por favor, insira o seu email",
@@ -452,9 +486,9 @@
     },
     "success": {
       "title": "Está na lista",
-      "message": "Vamos notificá-lo assim que o Plexos for lançado. Fique atento à sua caixa de entrada.",
+      "message": "Vamos notificá-lo assim que o Sinku for lançado. Fique atento à sua caixa de entrada.",
       "shareTitle": "Espalhe a palavra",
-      "shareMessage": "Conhece alguém que precisa disto? Partilhe o Plexos."
+      "shareMessage": "Conhece alguém que precisa disto? Partilhe o Sinku."
     }
   },
   "cookieSettings": {

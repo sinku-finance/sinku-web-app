@@ -40,7 +40,7 @@ function Card3DImage({ src, alt }: { src: string; alt: string }) {
 	return (
 		<div
 			ref={ref}
-			className="relative w-full h-[300px] md:h-[360px] mb-6"
+			className="relative w-full h-[350px] sm:h-[400px] md:h-[360px] mb-6"
 			style={{ perspective: "800px" }}
 			onMouseMove={handleMouseMove}
 			onMouseEnter={handleMouseEnter}
@@ -59,7 +59,7 @@ function Card3DImage({ src, alt }: { src: string; alt: string }) {
 					src={src}
 					alt={alt}
 					fill
-					className="object-cover object-center drop-shadow-2xl"
+					className="object-contain object-center drop-shadow-2xl"
 				/>
 			</motion.div>
 		</div>

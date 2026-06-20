@@ -26,7 +26,7 @@ export function setClientConsentCookie(preferences: ConsentPreferences) {
 	const maxAge = 365 * 24 * 60 * 60 // 1 year
 	
 	// NOT httponly - JavaScript needs to read this
-	document.cookie = `plexos_consent_prefs=${encoded}; max-age=${maxAge}; path=/; secure; samesite=strict`
+	document.cookie = `sinku_consent_prefs=${encoded}; max-age=${maxAge}; path=/; secure; samesite=strict`
 }
 
 /**
@@ -40,7 +40,7 @@ export async function setServerConsentCookie(record: ConsentAuditRecord) {
 		headers: { 'Content-Type': 'application/json' },
 		body: JSON.stringify(record),
 	})
-	// Server response sets: Set-Cookie: plexos_consent_record=xxx; HttpOnly; Secure; SameSite=Strict
+	// Server response sets: Set-Cookie: sinku_consent_record=xxx; HttpOnly; Secure; SameSite=Strict
 }
 
 /**
@@ -48,7 +48,7 @@ export async function setServerConsentCookie(record: ConsentAuditRecord) {
  */
 export function getClientConsent(): ConsentPreferences | null {
 	const cookies = document.cookie.split(';')
-	const consentCookie = cookies.find(c => c.trim().startsWith('plexos_consent_prefs='))
+	const consentCookie = cookies.find(c => c.trim().startsWith('sinku_consent_prefs='))
 	
 	if (!consentCookie) return null
 	

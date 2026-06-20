@@ -143,7 +143,7 @@ export function HowToGetCardSection() {
 									<div className="relative w-full aspect-square">
 										<Image
 											src="/cards/card-in-hands.webp"
-											alt="Plexos Card"
+											alt="Sinku Card"
 											fill
 											className="object-contain object-bottom"
 										/>

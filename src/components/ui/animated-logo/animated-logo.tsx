@@ -10,8 +10,8 @@ export function AnimatedLogo({ className }: AnimatedLogoProps) {
 		<div className={cn("inline-flex items-center justify-center", className)}>
 			<Image
 				src="/logo.png"
-				alt="Plexos"
-				width={141}
+				alt="Sinku"
+				width={151}
 				height={36}
 				className="h-9 w-auto"
 				priority

@@ -39,7 +39,7 @@ export function CardsCollectionSection() {
 						<div className="relative w-full aspect-[16/9] rounded-2xl overflow-hidden md:hidden">
 							<Image
 								src="/cards/collection-mobile.webp"
-								alt="Collection of Plexos cards"
+								alt="Collection of Sinku cards"
 								fill
 								className="object-cover object-center"
 							/>
@@ -48,7 +48,7 @@ export function CardsCollectionSection() {
 						<div className="relative w-full aspect-[21/9] rounded-2xl overflow-hidden hidden md:block">
 							<Image
 								src="/cards/collection-desktop.webp"
-								alt="Collection of Plexos cards"
+								alt="Collection of Sinku cards"
 								fill
 								className="object-cover object-center"
 							/>

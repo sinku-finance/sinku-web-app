@@ -22,9 +22,9 @@ export function CardsBanner() {
 			<div className="absolute inset-0 bg-gradient-to-l from-black/50 via-black/30 to-transparent" />
 
 			{/* Hero Content */}
-			<div className="relative z-10 flex-1 flex items-center px-6 md:px-10 lg:px-12">
+			<div className="relative z-10 flex-1 hidden md:flex items-center px-6 md:px-10 lg:px-12">
 				<div className="w-full max-w-[1400px] mx-auto flex justify-end">
-					<div className="max-w-2xl lg:max-w-3xl text-center md:text-right">
+					<div className="max-w-2xl lg:max-w-3xl text-right">
 						<motion.h1
 							className="text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-6 md:mb-8 leading-tight"
 							initial={{ opacity: 0, y: 20 }}

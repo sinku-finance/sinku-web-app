@@ -57,20 +57,20 @@ export function CardsSection() {
             >
               <Image
                 src="/cards/card-showcase-1.webp"
-                alt="Plexos card with phone"
+                alt="Sinku card with phone"
                 fill
                 className="object-cover"
               />
             </motion.div>
 
             {/* Card 2 */}
-            <motion.div 
+            <motion.div
               className="relative w-full h-[400px] md:h-[500px] lg:h-[650px] 2xl:h-[900px] overflow-hidden rounded-2xl"
               variants={cardsAnimations.image.variants}
             >
               <Image
                 src="/cards/card-showcase-2.webp"
-                alt="Plexos card stack"
+                alt="Sinku card stack"
                 fill
                 className="object-cover"
               />

@@ -50,7 +50,7 @@ export function PaymentsFeatureSection() {
 								<div className="relative w-full h-[400px] md:h-[450px] lg:h-[520px] rounded-2xl overflow-hidden bg-gray-100">
 									<Image
 										src="/home/sending.webp"
-										alt="Sending money with Plexos"
+										alt="Sending money with Sinku"
 										fill
 										className="object-cover object-center"
 										sizes="(max-width: 1024px) 100vw, 50vw"

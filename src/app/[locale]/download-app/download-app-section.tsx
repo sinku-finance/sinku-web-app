@@ -83,7 +83,7 @@ export function DownloadAppSection() {
 						>
 							<div className="absolute inset-0 flex flex-col items-center justify-center rounded-3xl">
 								<div className="w-16 h-16 mb-4 rounded-2xl flex items-center justify-center">
-									<Image src="/download-app/app-store.svg" alt="Plexos app interface" fill className="object-contain" />
+									<Image src="/download-app/app-store.svg" alt="Sinku app interface" fill className="object-contain" />
 								</div>
 								<p className="text-sm font-medium text-gray-400">
 									{t("imagePlaceholder")}

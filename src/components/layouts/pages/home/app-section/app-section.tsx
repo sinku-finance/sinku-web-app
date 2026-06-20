@@ -45,7 +45,7 @@ export function AppSection() {
                 <div className="relative w-20 h-20 md:w-24 md:h-24 rounded-lg overflow-hidden flex-shrink-0">
                   <Image
                     src="/qrcode.svg"
-                    alt="QR Code to download Plexos app"
+                    alt="QR Code to download Sinku app"
                     fill
                     className="object-contain"
                   />
@@ -81,7 +81,7 @@ export function AppSection() {
               <div className="absolute inset-0 rounded-lg overflow-hidden">
                 <Image
                   src="/home/app-persons.webp"
-                  alt="People using Plexos app"
+                  alt="People using Sinku app"
                   fill
                   className="object-cover"
                 />
@@ -101,7 +101,7 @@ export function AppSection() {
       >
         <Image
           src="/home/app-mockup.webp"
-          alt="Plexos app interface"
+          alt="Sinku app interface"
           fill
           className="object-contain object-bottom drop-shadow-2xl"
         />

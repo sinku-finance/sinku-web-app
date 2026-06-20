@@ -7,20 +7,20 @@
 	--background: #ffffff;
 	--foreground: #111111;
 
-	/* Primary (green brand) */
-	--primary-50: #E6F9F0;
-	--primary-100: #CCF3E1;
-	--primary-200: #99E7C3;
-	--primary-300: #66DBA5;
-	--primary-400: #33CF87;
-	--primary-500: #26D97F;
-	--primary-600: #1FAD66;
-	--primary-700: #1A8A56;
-	--primary-800: #155E3C;
-	--primary-900: #0F4429;
+	/* Primary (green brand) — Sinku "Verde Vivo", matches mobile app green scale */
+	--primary-50: #DFE4DF;
+	--primary-100: #E0FDEA;
+	--primary-200: #C1FBD6;
+	--primary-300: #9BF9C0;
+	--primary-400: #75FB90;
+	--primary-500: #01DE5B;
+	--primary-600: #00B83C;
+	--primary-700: #007A28;
+	--primary-800: #044B1E;
+	--primary-900: #062713;
 
 	/* Surface colors (section backgrounds) */
-	--surface-green: #D4F5D4;
+	--surface-green: #E0FDEA;
 	--surface-purple: #EDE8F5;
 	--surface-blue: #E0EEF8;
 	--surface-cyan: #E8F3F5;
@@ -67,6 +67,13 @@ select:focus-visible,
 textarea:focus-visible {
 	outline: 2px solid var(--primary-500);
 	outline-offset: 2px;
+}
+
+/* Remove focus outline for borderless inputs (e.g., calculator) */
+input[data-no-focus-ring]:focus,
+input[data-no-focus-ring]:focus-visible {
+	outline: none !important;
+	box-shadow: none !important;
 }
 
 /* Refined heading tracking */

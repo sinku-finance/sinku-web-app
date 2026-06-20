@@ -93,7 +93,7 @@ export function CardSecuritySection() {
 												) : (
 													<div className="w-full h-full bg-gradient-to-br from-gray-100 to-gray-200 flex items-center justify-center">
 														<div className="text-center p-4">
-															<div className="w-16 h-16 mx-auto mb-4 bg-green-500 rounded-full flex items-center justify-center">
+															<div className="w-16 h-16 mx-auto mb-4 bg-primary-500 rounded-full flex items-center justify-center">
 																<svg
 																	className="w-8 h-8 text-white"
 																	fill="none"

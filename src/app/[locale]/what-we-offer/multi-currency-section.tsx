@@ -60,7 +60,7 @@ export function MultiCurrencySection() {
 						>
 							<Image
 								src="/cards/card-product-2.webp"
-								alt="Plexos cards"
+								alt="Sinku cards"
 								fill
 								className="object-cover rounded-2xl"
 								style={{ objectPosition: "center 60%" }}

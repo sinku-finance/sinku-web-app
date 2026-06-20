@@ -23,7 +23,7 @@ export function Footer() {
 
 	return (
 		<footer className="bg-gray-50 text-black overflow-hidden">
-			{/* Large PLEXOS Logo */}
+			{/* Large SINKU Logo */}
 			<div className="relative w-full min-h-[22vh] md:min-h-[50vh] flex items-center justify-center py-8 md:py-12 overflow-hidden text-gray-200">
 				<LogoSvg className="h-auto w-full px-6 select-none" />
 			</div>

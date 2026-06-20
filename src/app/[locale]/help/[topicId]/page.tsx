@@ -44,7 +44,7 @@ export async function generateMetadata({
 	if (!topic) return { title: "Not Found" }
 
 	return {
-		title: `${topic.title} — Plexos Help Centre`,
+		title: `${topic.title} — Sinku Help Centre`,
 		description: `Get help with ${topic.title.toLowerCase()}. Browse articles and find answers to your questions.`,
 	}
 }

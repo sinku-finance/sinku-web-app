@@ -48,8 +48,8 @@ export function PaymentsHeroSection() {
 								variants={feesAnimations.image.variants}
 							>
 								<Image
-									src="/home/app-persons.webp"
-									alt="People using Plexos app"
+									src="/cards/gitl-card.png"
+									alt="Person holding Sinku card"
 									fill
 									className="object-cover object-center"
 									sizes="(max-width: 1024px) 100vw, 50vw"

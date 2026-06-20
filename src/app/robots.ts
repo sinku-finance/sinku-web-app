@@ -1,6 +1,6 @@
 import type { MetadataRoute } from "next";
 
-const BASE_URL = process.env.NEXT_PUBLIC_BASE_URL || "https://plexos.finance";
+const BASE_URL = process.env.NEXT_PUBLIC_BASE_URL || "https://sinku.finance";
 
 export default function robots(): MetadataRoute.Robots {
 	return {

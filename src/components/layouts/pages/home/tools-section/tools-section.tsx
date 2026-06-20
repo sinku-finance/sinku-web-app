@@ -65,7 +65,7 @@ export function ToolsSection() {
           >
             <Image
               src="/home/tools-section.webp"
-              alt="People using Plexos"
+              alt="People using Sinku"
               fill
               className="object-cover"
             />

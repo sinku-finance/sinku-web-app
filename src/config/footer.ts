@@ -10,7 +10,7 @@ export const footerConfig = {
 
 	// Discover Links
 	discover: [
-		{ key: "plexosCard", href: "/cards" },
+		{ key: "sinkuCard", href: "/cards" },
 		{ key: "whatWeOffer", href: "/what-we-offer" },
 	],
 
@@ -25,6 +25,7 @@ export const footerConfig = {
 	legal: [
 		{ key: "termsOfService", href: "/legal/terms-of-service" },
 		{ key: "privacyPolicy", href: "/legal/privacy" },
+		{ key: "howWeWork", href: "/legal/how-we-work" },
 		{ key: "cookiePolicy", href: "/legal/cookies" },
 		{ key: "cookieSettings", href: "#cookie-settings" },
 	],
@@ -38,13 +39,13 @@ export const footerConfig = {
 
 	// Social Media Links
 	social: {
-		// twitter: "https://twitter.com/plexos",
-		instagram: "https://www.instagram.com/plexos.finance/",
-		// linkedin: "https://linkedin.com/company/plexos",
+		// twitter: "https://twitter.com/sinku",
+		instagram: "https://www.instagram.com/sinku.finance/",
+		// linkedin: "https://linkedin.com/company/sinku",
 	},
 
 	// Company Info
 	company: {
-		name: "PLEXOS GLOBAL LTD",
+		name: "MORABI, SOCIEDADE UNIPESSOAL LDA",
 	},
 }

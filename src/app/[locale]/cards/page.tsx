@@ -2,8 +2,9 @@ import type { Metadata } from "next"
 import { Header } from "@/components/layouts/header/header"
 import { FeaturedCardsSection } from "./featured-cards-section"
 import { VirtualCardSection } from "./virtual-card-section"
-import { CardsCollectionSection } from "./cards-collection-section"
+// import { CardsCollectionSection } from "./cards-collection-section"
 import { HowToGetCardSection } from "./how-to-get-card-section"
+import { CardsBentoSection } from "./cards-bento-section"
 import { PlansSection } from "./plans-section"
 import { CardsBanner } from "./cards-banner"
 import { pageSeo } from "@/config/seo"
@@ -44,8 +45,9 @@ export default function CardsPage() {
 			<main id="main-content" className="relative min-h-screen bg-white overflow-hidden">
 				<FeaturedCardsSection />
 				<PlansSection />
+				<CardsBentoSection />
 				<VirtualCardSection />
-				<CardsCollectionSection />
+				{/* <CardsCollectionSection /> */}
 				<HowToGetCardSection />
 			</main>
 		</>

@@ -73,7 +73,7 @@ export function RewardsSection() {
             >
               <Image
                 src="/cards/couple-with-card.webp"
-                alt="Couple using Plexos card"
+                alt="Couple using Sinku card"
                 fill
                 className="object-cover"
               />
@@ -86,7 +86,7 @@ export function RewardsSection() {
             >
               <Image
                 src="/cards/card-product.webp"
-                alt="Plexos card"
+                alt="Sinku card"
                 fill
                 className="object-cover"
               />

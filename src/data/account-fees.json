@@ -17,9 +17,9 @@
         "limits": "10 — 2,500 USD"
       },
       {
-        "id": "plexos-transfer",
-        "name": "Plexos Transfer",
-        "icon": "plexos",
+        "id": "sinku-transfer",
+        "name": "Sinku Transfer",
+        "icon": "sinku",
         "duration": "Instant",
         "senderFee": "Free",
         "receiverFee": "Free",
@@ -89,9 +89,9 @@
         "limits": "10 — 2.500 USD"
       },
       {
-        "id": "plexos-transfer",
-        "name": "Transferência Plexos",
-        "icon": "plexos",
+        "id": "sinku-transfer",
+        "name": "Transferência Sinku",
+        "icon": "sinku",
         "duration": "Instantâneo",
         "senderFee": "Grátis",
         "receiverFee": "Grátis",

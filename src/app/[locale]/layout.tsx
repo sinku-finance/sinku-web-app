@@ -8,10 +8,11 @@ import type { Locale } from "@/i18n/config";
 import { Footer } from "@/components/layouts/footer";
 import { CookieConsent } from "@/components/layouts/modals/cookies/cookie-consent";
 import { CookieSettingsLink } from "@/components/layouts/modals/cookies/cookie-settings-link";
+import { FloatingDownloadBanner } from "@/components/layouts/floating-download-banner";
 import { layoutSeo } from "@/config/seo";
 import "../globals.css";
 
-const BASE_URL = process.env.NEXT_PUBLIC_BASE_URL || "https://plexos.finance";
+const BASE_URL = process.env.NEXT_PUBLIC_BASE_URL || "https://sinku.finance";
 
 const outfit = Outfit({
   variable: "--font-outfit",
@@ -35,9 +36,9 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     },
     description: seo.description,
     keywords: seo.keywords,
-    authors: [{ name: "Plexos" }],
-    creator: "Plexos Global Ltd",
-    publisher: "Plexos Global Ltd",
+    authors: [{ name: "Sinku" }],
+    creator: "MORABI, SOCIEDADE UNIPESSOAL LDA",
+    publisher: "MORABI, SOCIEDADE UNIPESSOAL LDA",
     formatDetection: {
       email: false,
       address: false,
@@ -47,7 +48,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       title: seo.ogTitle,
       description: seo.ogDescription,
       type: "website",
-      siteName: "Plexos",
+      siteName: "Sinku",
       locale,
       images: [
         {
@@ -105,6 +106,7 @@ export default async function LocaleLayout({ children, params }: Props) {
           </a>
           {children}
           <Footer />
+          <FloatingDownloadBanner />
           <CookieConsent />
           <CookieSettingsLink />
         </NextIntlClientProvider>

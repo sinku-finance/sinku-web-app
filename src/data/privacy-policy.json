@@ -7,9 +7,9 @@
         "id": "introduction",
         "title": "Introduction",
         "content": [
-          "At Plexos, protecting your personal data is fundamental to everything we do. This Privacy Policy explains what information we collect, why we collect it, how we use it, and the choices you have.",
-          "When we say 'Plexos', 'we', 'us', or 'our', we're referring to Plexos Global Ltd, the technology company that develops and operates the Plexos App. Plexos is a technology platform that provides a user interface enabling access to services offered by independent third-party providers, including Privy (wallet infrastructure) and Rain (financial services). Plexos does not itself offer, hold, or transmit funds or provide regulated financial services.",
-          "By using the Plexos app, website, or any of our services, you agree to the collection and use of your information in accordance with this policy. Please also review the privacy policies of our third-party service providers, as they may independently collect and process your data."
+          "At Sinku, protecting your personal data is fundamental to everything we do. This Privacy Policy explains what information we collect, why we collect it, how we use it, and the choices you have.",
+          "When we say 'Sinku', 'we', 'us', or 'our', we're referring to MORABI, SOCIEDADE UNIPESSOAL LDA, the financial technology company that develops and operates the Sinku App. Sinku is not a bank. Sinku is a technology platform that provides a user interface enabling access to services offered by independent third-party providers, including Privy (wallet infrastructure) and our licensed financial partner (payment card and financial services). Sinku does not itself offer, hold, or transmit funds or provide regulated financial services.",
+          "By using the Sinku app, website, or any of our services, you agree to the collection and use of your information in accordance with this policy. Please also review the privacy policies of our third-party service providers, as they may independently collect and process your data."
         ]
       },
       {
@@ -21,11 +21,11 @@
         "subsections": [
           {
             "title": "Information you provide",
-            "content": "When you sign up and use Plexos, we ask you for personal details such as your full name, date of birth, nationality, residential address, email address, phone number, and government-issued ID. We also collect a selfie for identity verification purposes.\n\nIf you contact our support team, we keep a record of that communication to help us resolve your issue and improve our service."
+            "content": "When you sign up and use Sinku, we ask you for personal details such as your full name, date of birth, nationality, residential address, email address, phone number, and government-issued ID. We also collect a selfie for identity verification purposes.\n\nIf you contact our support team, we keep a record of that communication to help us resolve your issue and improve our service."
           },
           {
             "title": "Information we collect automatically",
-            "content": "When you use the Plexos app or website, we automatically collect certain technical and usage data. This includes your device type, operating system, IP address, app version, browser type, language preferences, and how you interact with our services (such as pages visited and features used).\n\nWe also collect transaction data — including amounts, currencies, dates, and recipient details — as part of providing our payment services."
+            "content": "When you use the Sinku app or website, we automatically collect certain technical and usage data. This includes your device type, operating system, IP address, app version, browser type, language preferences, and how you interact with our services (such as pages visited and features used).\n\nWe also collect transaction data — including amounts, currencies, dates, and recipient details — as part of providing our payment services."
           },
           {
             "title": "Information from third parties",
@@ -54,7 +54,7 @@
           },
           {
             "title": "Improving our services",
-            "content": "To understand how people use Plexos so we can improve the app, fix bugs, develop new features, and make better decisions about our product. We may use aggregated, anonymised data for this purpose."
+            "content": "To understand how people use Sinku so we can improve the app, fix bugs, develop new features, and make better decisions about our product. We may use aggregated, anonymised data for this purpose."
           },
           {
             "title": "Communications",
@@ -82,7 +82,7 @@
         "subsections": [
           {
             "title": "Service providers",
-            "content": "Third parties that help us run our business and deliver services through our platform — including Privy (non-custodial wallet infrastructure), Signify Holdings Inc. and Nimbus LLC / Rain (payment cards and financial services), cloud hosting providers, identity verification services, card networks (Mastercard), and customer support tools. These providers are contractually bound to protect your data and can only use it for the purposes we specify."
+            "content": "Third parties that help us run our business and deliver services through our platform — including Privy (non-custodial wallet infrastructure), our licensed financial partner (payment cards and financial services), cloud hosting providers, identity verification services, card networks (Visa and Mastercard), and customer support tools. These providers are contractually bound to protect your data and can only use it for the purposes we specify."
           },
           {
             "title": "Regulatory and legal authorities",
@@ -93,8 +93,8 @@
             "content": "Banking partners and financial institutions involved in processing your transactions, delivering your card, or providing specific account features."
           },
           {
-            "title": "Within the Plexos group",
-            "content": "Other Plexos entities may access your data where necessary to provide services, ensure compliance, or support operations across our group."
+            "title": "Within the Sinku group",
+            "content": "Other Sinku entities may access your data where necessary to provide services, ensure compliance, or support operations across our group."
           }
         ]
       },
@@ -102,8 +102,8 @@
         "id": "international-transfers",
         "title": "International data transfers",
         "content": [
-          "Because Plexos operates across multiple countries, your data may be transferred to and processed in countries outside your country of residence. When this happens, we ensure appropriate safeguards are in place — such as standard contractual clauses or equivalent protections — to keep your data secure.",
-          "By using Plexos, you acknowledge that your data may be processed in jurisdictions that have different data protection laws from your own."
+          "Because Sinku operates across multiple countries, your data may be transferred to and processed in countries outside your country of residence. When this happens, we ensure appropriate safeguards are in place — such as standard contractual clauses or equivalent protections — to keep your data secure.",
+          "By using Sinku, you acknowledge that your data may be processed in jurisdictions that have different data protection laws from your own."
         ]
       },
       {
@@ -156,7 +156,7 @@
         "id": "exercising-rights",
         "title": "How to exercise your rights",
         "content": [
-          "You can exercise most of your data rights directly in the Plexos app by going to your profile and tapping 'Privacy'. You can also contact our support team via the in-app chat or by emailing support@plexos.com.",
+          "You can exercise most of your data rights directly in the Sinku app by going to your profile and tapping 'Privacy'. You can also contact our support team via the in-app chat or by emailing support@sinku.io.",
           "We'll respond to your request within 30 days. In some cases, we may need to verify your identity before processing your request."
         ]
       },
@@ -170,10 +170,73 @@
         ]
       },
       {
+        "id": "applicable-laws",
+        "title": "Applicable data protection laws",
+        "content": [
+          "Sinku operates across multiple jurisdictions. The processing of your personal data is governed by the data protection laws applicable in the country where you are located at the time of access. We are committed to respecting the principles of applicable data protection frameworks, including the General Data Protection Regulation (GDPR) for users in the European Union and European Economic Area, local data protection laws in PALOP countries and other African nations where we operate, and applicable privacy laws in the Americas and other regions where our services are available.",
+          "Regardless of your location, we apply a consistent standard of data protection based on internationally recognised best practices."
+        ]
+      },
+      {
+        "id": "partner-data-processing",
+        "title": "Partner data processing",
+        "content": [
+          "By using Sinku, you acknowledge and accept that the sharing of personal and transactional data between Sinku and its third-party partners is strictly necessary for the delivery of the services you have chosen (such as payment cards, currency exchange, and wallet functionality).",
+          "When you use services provided through our partners, your data may be processed by those partners as independent data controllers under their own privacy policies. We encourage you to review the privacy policies of our partners, including our licensed financial partner and Privy, for details on how they handle your data.",
+          "We only share the minimum data necessary for each partner to deliver their specific service, and we require all partners to maintain appropriate security and privacy safeguards."
+        ]
+      },
+      {
+        "id": "wallet-blockchain-data",
+        "title": "Wallet and blockchain data",
+        "content": [
+          "Wallet functionality within the Sinku App is powered by Privy, a non-custodial wallet infrastructure provider. You should be aware of the following regarding your data in this context:"
+        ],
+        "subsections": [
+          {
+            "title": "On-chain data",
+            "content": "Certain transactions made through the Sinku App may be recorded on public blockchains. By design, data recorded on a blockchain — including wallet addresses and transaction values — is immutable, transparent, and public in nature. The exercise of privacy rights such as deletion or rectification is not technically possible for on-chain records."
+          },
+          {
+            "title": "Wallet credentials",
+            "content": "Sinku does not have access to your wallet's private keys or recovery phrases. Any data related to your wallet authentication is processed by Privy under their own privacy and security policies. We do not store or have the ability to retrieve your private wallet credentials."
+          },
+          {
+            "title": "Wallet address sharing",
+            "content": "We may share your wallet address with infrastructure partners and blockchain analytics providers for the purpose of technical integration, asset settlement, and financial crime prevention."
+          }
+        ]
+      },
+      {
+        "id": "eu-rights",
+        "title": "Additional information for users in the European Union",
+        "content": [
+          "If you are located in the European Union or European Economic Area, the processing of your personal data is subject to the General Data Protection Regulation (GDPR). Our legal bases for processing your data include: (i) your consent for specific purposes such as marketing communications; (ii) contractual necessity to provide you with our services; (iii) compliance with legal obligations; and (iv) our legitimate interests, provided your fundamental rights and freedoms do not override those interests.",
+          "Under the GDPR, you have the right to: request access to and obtain a copy of your personal data, request rectification or erasure of your personal data, object to or restrict the processing of your data, request data portability, and withdraw your consent at any time. Please note that we cannot edit or delete information stored on a public blockchain, as such records are beyond our control.",
+          "To exercise any of your rights under the GDPR, contact us at support@sinku.io or through the in-app chat. You also have the right to lodge a complaint with your local data protection supervisory authority."
+        ]
+      },
+      {
+        "id": "electronic-communications",
+        "title": "Electronic communications",
+        "content": [
+          "By creating a Sinku account, you consent to receive all communications, contracts, and legal notices from us electronically. These include service updates, terms changes, security alerts, transaction confirmations, and support communications.",
+          "Electronic communications from Sinku satisfy any legal requirement that such communications be made in writing. You are responsible for keeping your email address and phone number up to date to ensure you receive all important notifications."
+        ]
+      },
+      {
+        "id": "business-transfers",
+        "title": "Business transfers",
+        "content": [
+          "In the event of a merger, acquisition, reorganisation, or sale of assets involving Sinku, your personal data may be transferred to the acquiring entity. Any such transfer will be conducted under the same privacy standards set out in this policy.",
+          "We will notify you of any change in ownership or use of your personal data, as well as any choices you may have regarding your data, before any such transfer takes effect."
+        ]
+      },
+      {
         "id": "children",
         "title": "Children's privacy",
         "content": [
-          "Plexos is currently available only to individuals aged 18 and over. We do not knowingly collect personal data from anyone under 18. If we discover that we've inadvertently collected data from a minor, we'll delete it promptly.",
+          "Sinku is currently available only to individuals aged 18 and over. We do not knowingly collect personal data from anyone under 18. If we discover that we've inadvertently collected data from a minor, we'll delete it promptly.",
           "Support for younger users is on our roadmap — when it launches, it will have its own age-appropriate privacy practices."
         ]
       },
@@ -190,7 +253,7 @@
         "title": "Contact us",
         "content": [
           "If you have questions about this Privacy Policy or how we handle your data, get in touch:",
-          "Email: support@plexos.com",
+          "Email: support@sinku.io",
           "In-app chat: Go to your profile and tap 'Help'",
           "If you're not satisfied with how we've handled a data protection concern, you may have the right to lodge a complaint with your local data protection authority."
         ]
@@ -205,9 +268,9 @@
         "id": "introduction",
         "title": "Introdução",
         "content": [
-          "No Plexos, proteger os seus dados pessoais é fundamental em tudo o que fazemos. Esta Política de Privacidade explica que informações recolhemos, porque as recolhemos, como as utilizamos e as opções que tem.",
-          "Quando dizemos 'Plexos', 'nós' ou 'nosso', referimo-nos à Plexos Global Ltd, a empresa de tecnologia que desenvolve e opera a Plexos App. A Plexos é uma plataforma tecnológica que disponibiliza uma interface de utilizador para acesso a serviços oferecidos por prestadores terceiros independentes, incluindo a Privy (infraestrutura de carteiras) e a Rain (serviços financeiros). A Plexos não oferece, detém ou transmite fundos nem presta serviços financeiros regulados.",
-          "Ao utilizar a app Plexos, o website ou qualquer um dos nossos serviços, concorda com a recolha e utilização das suas informações de acordo com esta política. Consulte também as políticas de privacidade dos nossos prestadores de serviços terceiros, pois podem recolher e tratar os seus dados de forma independente."
+          "No Sinku, proteger os seus dados pessoais é fundamental em tudo o que fazemos. Esta Política de Privacidade explica que informações recolhemos, porque as recolhemos, como as utilizamos e as opções que tem.",
+          "Quando dizemos 'Sinku', 'nós' ou 'nosso', referimo-nos à MORABI, SOCIEDADE UNIPESSOAL LDA, a empresa de tecnologia financeira que desenvolve e opera a Sinku App. A Sinku não é um banco. A Sinku é uma plataforma tecnológica que disponibiliza uma interface de utilizador para acesso a serviços oferecidos por prestadores terceiros independentes, incluindo a Privy (infraestrutura de carteiras) e o nosso parceiro financeiro licenciado (serviços de cartões de pagamento e serviços financeiros). A Sinku não oferece, detém ou transmite fundos nem presta serviços financeiros regulados.",
+          "Ao utilizar a app Sinku, o website ou qualquer um dos nossos serviços, concorda com a recolha e utilização das suas informações de acordo com esta política. Consulte também as políticas de privacidade dos nossos prestadores de serviços terceiros, pois podem recolher e tratar os seus dados de forma independente."
         ]
       },
       {
@@ -219,11 +282,11 @@
         "subsections": [
           {
             "title": "Informações que fornece",
-            "content": "Quando se regista e utiliza o Plexos, pedimos dados pessoais como o seu nome completo, data de nascimento, nacionalidade, morada, endereço de e-mail, número de telefone e documento de identificação oficial. Também recolhemos uma selfie para verificação de identidade.\n\nSe contactar a nossa equipa de suporte, mantemos um registo dessa comunicação para nos ajudar a resolver o seu problema e melhorar o nosso serviço."
+            "content": "Quando se regista e utiliza o Sinku, pedimos dados pessoais como o seu nome completo, data de nascimento, nacionalidade, morada, endereço de e-mail, número de telefone e documento de identificação oficial. Também recolhemos uma selfie para verificação de identidade.\n\nSe contactar a nossa equipa de suporte, mantemos um registo dessa comunicação para nos ajudar a resolver o seu problema e melhorar o nosso serviço."
           },
           {
             "title": "Informações que recolhemos automaticamente",
-            "content": "Quando utiliza o app ou website do Plexos, recolhemos automaticamente dados técnicos e de utilização. Isto inclui tipo de dispositivo, sistema operativo, endereço IP, versão do app, tipo de navegador, preferências de idioma e como interage com os nossos serviços.\n\nTambém recolhemos dados de transacções — incluindo montantes, moedas, datas e detalhes dos destinatários — como parte da prestação dos nossos serviços de pagamento."
+            "content": "Quando utiliza o app ou website do Sinku, recolhemos automaticamente dados técnicos e de utilização. Isto inclui tipo de dispositivo, sistema operativo, endereço IP, versão do app, tipo de navegador, preferências de idioma e como interage com os nossos serviços.\n\nTambém recolhemos dados de transacções — incluindo montantes, moedas, datas e detalhes dos destinatários — como parte da prestação dos nossos serviços de pagamento."
           },
           {
             "title": "Informações de terceiros",
@@ -252,7 +315,7 @@
           },
           {
             "title": "Melhorar os nossos serviços",
-            "content": "Para compreender como as pessoas usam o Plexos, de forma a melhorar o app, corrigir erros, desenvolver novas funcionalidades e tomar melhores decisões sobre o produto. Podemos utilizar dados agregados e anonimizados para este fim."
+            "content": "Para compreender como as pessoas usam o Sinku, de forma a melhorar o app, corrigir erros, desenvolver novas funcionalidades e tomar melhores decisões sobre o produto. Podemos utilizar dados agregados e anonimizados para este fim."
           },
           {
             "title": "Comunicações",
@@ -280,7 +343,7 @@
         "subsections": [
           {
             "title": "Prestadores de serviços",
-            "content": "Terceiros que nos ajudam a operar o negócio e fornecer serviços através da nossa plataforma — incluindo a Privy (infraestrutura de carteiras não custodiais), a Signify Holdings Inc. e Nimbus LLC / Rain (cartões de pagamento e serviços financeiros), fornecedores de alojamento em nuvem, serviços de verificação de identidade, redes de cartões (Mastercard) e ferramentas de suporte ao cliente. Estes fornecedores estão contratualmente obrigados a proteger os seus dados e só podem utilizá-los para os fins que especificamos."
+            "content": "Terceiros que nos ajudam a operar o negócio e fornecer serviços através da nossa plataforma — incluindo a Privy (infraestrutura de carteiras não custodiais), o nosso parceiro financeiro licenciado (cartões de pagamento e serviços financeiros), fornecedores de alojamento em nuvem, serviços de verificação de identidade, redes de cartões (Visa e Mastercard) e ferramentas de suporte ao cliente. Estes fornecedores estão contratualmente obrigados a proteger os seus dados e só podem utilizá-los para os fins que especificamos."
           },
           {
             "title": "Autoridades reguladoras e legais",
@@ -291,8 +354,8 @@
             "content": "Parceiros bancários e instituições financeiras envolvidas no processamento das suas transacções, entrega do seu cartão ou fornecimento de funcionalidades específicas da conta."
           },
           {
-            "title": "Dentro do grupo Plexos",
-            "content": "Outras entidades Plexos podem aceder aos seus dados quando necessário para prestar serviços, garantir conformidade ou apoiar operações dentro do nosso grupo."
+            "title": "Dentro do grupo Sinku",
+            "content": "Outras entidades Sinku podem aceder aos seus dados quando necessário para prestar serviços, garantir conformidade ou apoiar operações dentro do nosso grupo."
           }
         ]
       },
@@ -300,8 +363,8 @@
         "id": "international-transfers",
         "title": "Transferências internacionais de dados",
         "content": [
-          "Como o Plexos opera em vários países, os seus dados podem ser transferidos para e processados em países fora do seu país de residência. Quando isto acontece, garantimos que existem salvaguardas adequadas — como cláusulas contratuais padrão ou protecções equivalentes — para manter os seus dados seguros.",
-          "Ao utilizar o Plexos, reconhece que os seus dados podem ser processados em jurisdições com leis de protecção de dados diferentes das do seu país."
+          "Como o Sinku opera em vários países, os seus dados podem ser transferidos para e processados em países fora do seu país de residência. Quando isto acontece, garantimos que existem salvaguardas adequadas — como cláusulas contratuais padrão ou protecções equivalentes — para manter os seus dados seguros.",
+          "Ao utilizar o Sinku, reconhece que os seus dados podem ser processados em jurisdições com leis de protecção de dados diferentes das do seu país."
         ]
       },
       {
@@ -354,7 +417,7 @@
         "id": "exercising-rights",
         "title": "Como exercer os seus direitos",
         "content": [
-          "Pode exercer a maioria dos seus direitos de dados directamente no app Plexos, indo ao perfil e tocando em 'Privacidade'. Também pode contactar a nossa equipa de suporte pelo chat no app ou enviando e-mail para support@plexos.com.",
+          "Pode exercer a maioria dos seus direitos de dados directamente no app Sinku, indo ao perfil e tocando em 'Privacidade'. Também pode contactar a nossa equipa de suporte pelo chat no app ou enviando e-mail para support@sinku.io.",
           "Responderemos ao seu pedido dentro de 30 dias. Em alguns casos, podemos precisar de verificar a sua identidade antes de processar o pedido."
         ]
       },
@@ -368,10 +431,73 @@
         ]
       },
       {
+        "id": "applicable-laws",
+        "title": "Leis de protecção de dados aplicáveis",
+        "content": [
+          "A Sinku opera em múltiplas jurisdições. O tratamento dos seus dados pessoais é regido pelas leis de protecção de dados aplicáveis no país onde se encontra no momento do acesso. Comprometemo-nos a respeitar os princípios dos enquadramentos de protecção de dados aplicáveis, incluindo o Regulamento Geral sobre a Protecção de Dados (RGPD) para utilizadores na União Europeia e Espaço Económico Europeu, leis locais de protecção de dados nos países PALOP e outras nações africanas onde operamos, e leis de privacidade aplicáveis nas Américas e noutras regiões onde os nossos serviços estão disponíveis.",
+          "Independentemente da sua localização, aplicamos um padrão consistente de protecção de dados baseado em melhores práticas internacionalmente reconhecidas."
+        ]
+      },
+      {
+        "id": "partner-data-processing",
+        "title": "Tratamento de dados por parceiros",
+        "content": [
+          "Ao utilizar o Sinku, reconhece e aceita que a partilha de dados pessoais e transaccionais entre a Sinku e os seus parceiros terceiros é estritamente necessária para a prestação dos serviços que escolheu (como cartões de pagamento, câmbio de moeda e funcionalidade de carteira).",
+          "Quando utiliza serviços fornecidos através dos nossos parceiros, os seus dados podem ser tratados por esses parceiros como responsáveis pelo tratamento independentes ao abrigo das suas próprias políticas de privacidade. Encorajamo-lo a consultar as políticas de privacidade dos nossos parceiros, incluindo o nosso parceiro financeiro licenciado e a Privy, para detalhes sobre como tratam os seus dados.",
+          "Partilhamos apenas os dados mínimos necessários para cada parceiro fornecer o seu serviço específico, e exigimos que todos os parceiros mantenham salvaguardas adequadas de segurança e privacidade."
+        ]
+      },
+      {
+        "id": "wallet-blockchain-data",
+        "title": "Dados de carteira e blockchain",
+        "content": [
+          "A funcionalidade de carteira dentro da Sinku App é fornecida pela Privy, um prestador de infraestrutura de carteiras não custodiais. Deve estar ciente do seguinte relativamente aos seus dados neste contexto:"
+        ],
+        "subsections": [
+          {
+            "title": "Dados on-chain",
+            "content": "Certas transacções efectuadas através da Sinku App podem ser registadas em blockchains públicas. Por design, os dados gravados numa blockchain — incluindo endereços de carteira e valores de transacção — são imutáveis, transparentes e públicos por natureza. O exercício de direitos de privacidade como eliminação ou rectificação não é tecnicamente possível para registos on-chain."
+          },
+          {
+            "title": "Credenciais da carteira",
+            "content": "A Sinku não tem acesso às chaves privadas ou frases de recuperação da sua carteira. Quaisquer dados relacionados com a autenticação da sua carteira são processados pela Privy ao abrigo das suas próprias políticas de privacidade e segurança. Não armazenamos nem temos capacidade de recuperar as suas credenciais privadas de carteira."
+          },
+          {
+            "title": "Partilha de endereço de carteira",
+            "content": "Podemos partilhar o seu endereço de carteira com parceiros de infraestrutura e fornecedores de análise de blockchain para fins de integração técnica, liquidação de activos e prevenção de crimes financeiros."
+          }
+        ]
+      },
+      {
+        "id": "eu-rights",
+        "title": "Informações adicionais para utilizadores na União Europeia",
+        "content": [
+          "Se estiver localizado na União Europeia ou no Espaço Económico Europeu, o tratamento dos seus dados pessoais está sujeito ao Regulamento Geral sobre a Protecção de Dados (RGPD). As nossas bases legais para o tratamento dos seus dados incluem: (i) o seu consentimento para fins específicos como comunicações de marketing; (ii) necessidade contratual para lhe fornecer os nossos serviços; (iii) cumprimento de obrigações legais; e (iv) os nossos interesses legítimos, desde que os seus direitos e liberdades fundamentais não prevaleçam sobre esses interesses.",
+          "Ao abrigo do RGPD, tem o direito de: solicitar acesso e obter uma cópia dos seus dados pessoais, solicitar a rectificação ou eliminação dos seus dados pessoais, opor-se ou restringir o tratamento dos seus dados, solicitar a portabilidade dos dados e retirar o seu consentimento a qualquer momento. Note que não podemos editar ou eliminar informações armazenadas numa blockchain pública, pois tais registos estão fora do nosso controlo.",
+          "Para exercer qualquer um dos seus direitos ao abrigo do RGPD, contacte-nos em support@sinku.io ou através do chat no app. Tem também o direito de apresentar uma reclamação junto da autoridade de supervisão de protecção de dados do seu país."
+        ]
+      },
+      {
+        "id": "electronic-communications",
+        "title": "Comunicações electrónicas",
+        "content": [
+          "Ao criar uma conta Sinku, consente em receber todas as comunicações, contratos e avisos legais da nossa parte por via electrónica. Incluem actualizações de serviço, alterações de termos, alertas de segurança, confirmações de transacções e comunicações de suporte.",
+          "As comunicações electrónicas da Sinku satisfazem qualquer requisito legal de que tais comunicações sejam feitas por escrito. É responsável por manter o seu endereço de e-mail e número de telefone actualizados para garantir que recebe todas as notificações importantes."
+        ]
+      },
+      {
+        "id": "business-transfers",
+        "title": "Transferências empresariais",
+        "content": [
+          "Em caso de fusão, aquisição, reorganização ou venda de activos envolvendo a Sinku, os seus dados pessoais podem ser transferidos para a entidade adquirente. Qualquer transferência será conduzida sob os mesmos padrões de privacidade estabelecidos nesta política.",
+          "Notificá-lo-emos de qualquer alteração na propriedade ou utilização dos seus dados pessoais, bem como de quaisquer opções que possa ter relativamente aos seus dados, antes de tal transferência entrar em vigor."
+        ]
+      },
+      {
         "id": "children",
         "title": "Privacidade de menores",
         "content": [
-          "O Plexos está actualmente disponível apenas para indivíduos com 18 anos ou mais. Não recolhemos intencionalmente dados pessoais de menores de 18 anos. Se descobrirmos que recolhemos inadvertidamente dados de um menor, eliminaremos esses dados prontamente.",
+          "O Sinku está actualmente disponível apenas para indivíduos com 18 anos ou mais. Não recolhemos intencionalmente dados pessoais de menores de 18 anos. Se descobrirmos que recolhemos inadvertidamente dados de um menor, eliminaremos esses dados prontamente.",
           "O suporte para utilizadores mais jovens está no nosso plano — quando for lançado, terá as suas próprias práticas de privacidade adequadas à idade."
         ]
       },
@@ -388,7 +514,7 @@
         "title": "Contacte-nos",
         "content": [
           "Se tiver questões sobre esta Política de Privacidade ou sobre como tratamos os seus dados, entre em contacto:",
-          "E-mail: support@plexos.com",
+          "E-mail: support@sinku.io",
           "Chat no app: Vá ao perfil e toque em 'Ajuda'",
           "Se não estiver satisfeito com a forma como tratámos uma preocupação de protecção de dados, pode ter o direito de apresentar uma reclamação junto da autoridade de protecção de dados do seu país."
         ]

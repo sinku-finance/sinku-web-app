@@ -12,8 +12,8 @@ export function HeroSection() {
   return (
     <section 
       className="relative min-h-[100vh] w-full flex flex-col overflow-hidden"
-      style={{ 
-        backgroundImage: "url('/banners/home-mobile.webp')",
+      style={{
+        backgroundImage: "url('/banners/home-mobile.jpeg')",
         backgroundSize: "cover",
         backgroundPosition: "center center",
         backgroundRepeat: "no-repeat",
@@ -23,8 +23,8 @@ export function HeroSection() {
       <style jsx>{`
         @media (min-width: 768px) {
           section {
-            background-image: url('/banners/home-desktop.webp') !important;
-            background-position: right top !important;
+            background-image: url('/banners/home-desktop.jpeg') !important;
+            background-position: left top !important;
             background-size: cover !important;
           }
         }
@@ -36,7 +36,7 @@ export function HeroSection() {
 
       {/* Hero Content */}
       <div className="flex-1 flex items-start md:items-center justify-center px-6 md:px-10 lg:px-12 relative z-10">
-        <div className="w-full max-w-[1400px] mx-auto">
+        <div className="w-full max-w-[1400px] 2xl:max-w-[2100px] mx-auto">
           <motion.div 
             className="max-w-2xl lg:max-w-3xl text-center md:text-left mt-32 md:mt-0"
             {...heroAnimations.container}

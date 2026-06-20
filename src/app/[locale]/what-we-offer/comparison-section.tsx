@@ -32,8 +32,8 @@ export function ComparisonSection({ locale }: ComparisonSectionProps) {
 	// Revolut charges 0.30% fee ($0.30 for $100) based on real data
 	const providers: Provider[] = [
 		{
-			id: "plexos",
-			name: "Plexos",
+			id: "sinku",
+			name: "Sinku",
 			logoImage: "/favicon.png",
 			badge: t("cheapest"),
 			costToSend: "$0.00",
@@ -86,8 +86,8 @@ export function ComparisonSection({ locale }: ComparisonSectionProps) {
 
 	const getLogoStyle = (providerId: string) => {
 		switch (providerId) {
-			case "plexos":
-				return "bg-green-500 text-white"
+			case "sinku":
+				return "bg-primary-500 text-white"
 			case "wise":
 				return "bg-[#00B9FF] text-white"
 			case "revolut":
@@ -148,7 +148,7 @@ export function ComparisonSection({ locale }: ComparisonSectionProps) {
 															alt={provider.name}
 															width={40}
 															height={40}
-															className="w-full h-full object-contain p-1.5"
+															className="w-full h-full object-cover rounded-full"
 														/>
 													</div>
 												) : (
@@ -192,7 +192,7 @@ export function ComparisonSection({ locale }: ComparisonSectionProps) {
 															alt={provider.name}
 															width={40}
 															height={40}
-															className="w-full h-full object-contain p-1.5"
+															className="w-full h-full object-cover rounded-full"
 														/>
 													</div>
 												) : (
@@ -241,7 +241,7 @@ export function ComparisonSection({ locale }: ComparisonSectionProps) {
 													alt={provider.name}
 													width={48}
 													height={48}
-													className="w-full h-full object-contain p-1.5"
+													className="w-full h-full object-cover rounded-full"
 												/>
 											</div>
 										) : (

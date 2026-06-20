@@ -1,156 +1,286 @@
 {
   "en": [
     {
-      "id": "what-is-plexos",
-      "question": "What is Plexos?",
-      "answer": "Plexos is a digital financial app that helps you access the global economy. With Plexos, you can get virtual and physical international debit cards, make online and in-store payments, and send money globally — all from your phone."
+      "id": "what-is-sinku",
+      "question": "What is Sinku?",
+      "answer": "Sinku is a digital financial app that helps you access the global economy. With Sinku, you can get virtual and physical international debit cards, make online and in-store payments, and send money globally — all from your phone."
     },
     {
       "id": "who-can-use",
-      "question": "Who can use Plexos?",
-      "answer": "Plexos is designed for anyone who needs seamless access to international payments, including:\n\n• Freelancers and remote workers\n• Students\n• Online entrepreneurs\n• Anyone who sends or receives money across borders\n\nYou only need a smartphone and valid identification."
+      "question": "Who can use Sinku?",
+      "answer": "Sinku is designed for anyone who needs seamless access to international payments, including:\n\n• Freelancers and remote workers\n• Students\n• Online entrepreneurs\n• Anyone who sends or receives money across borders\n\nYou only need a smartphone and valid identification."
     },
     {
       "id": "what-cards",
-      "question": "What cards does Plexos offer?",
-      "answer": "Plexos offers:\n\n• Virtual international debit cards (available instantly)\n• Physical debit cards (delivered to you)\n\nBoth cards can be used for online payments, subscriptions, and international purchases."
+      "question": "What cards does Sinku offer?",
+      "answer": "Sinku offers:\n\n• Virtual international debit cards — create as many as you need, at no extra cost. Perfect for online purchases with added security\n• Physical debit cards (delivered to you)\n\nBoth cards are issued through our licensed partner on the Visa and Mastercard networks. They use smart contract security technology — the Roles Module ensures the card can only move a specific token to a single secure destination, while the Delay Module prevents processing conflicts. Your card draws directly from your Sinku wallet at the moment of payment."
     },
     {
       "id": "international-use",
-      "question": "Can I use Plexos cards internationally?",
-      "answer": "Yes. Plexos cards are international debit cards powered by Mastercard and can be used:\n\n• Online worldwide\n• In physical stores\n• For subscriptions like Netflix, Spotify, Apple, Google, and more"
+      "question": "Can I use Sinku cards internationally?",
+      "answer": "Yes. Sinku cards are accepted in over 180 countries and millions of establishments worldwide that accept Visa and Mastercard.\n\n• Online worldwide\n• In physical stores\n• For subscriptions like Netflix, Spotify, Apple, Google, and more\n• Compatible with Apple Pay and Google Pay for contactless payments from your phone"
     },
     {
       "id": "how-to-get-card",
-      "question": "How do I get a Plexos card?",
-      "answer": "1. Download the [Plexos app](/download-app)\n2. Create your account\n3. Complete identity verification (KYC)\n4. Instantly create a virtual card\n5. Order a physical card if you want"
+      "question": "How do I get a Sinku card?",
+      "answer": "The process is quick and 100% digital. In just a few minutes you can start using your account:\n\n1. Download the [Sinku app](/download-app)\n2. Create your account\n3. Complete identity verification (KYC)\n4. Instantly create a virtual card — ready to use immediately\n5. Order a physical card if you want\n\nYou can also add your card to Apple Pay or Google Pay for contactless payments right away."
     },
     {
       "id": "is-safe",
-      "question": "Is Plexos safe?",
-      "answer": "Yes. Security is a top priority at Plexos.\n\n• Your funds are held with regulated financial partners\n• Cards are protected with modern security standards\n• You can freeze or manage your card directly in the app"
+      "question": "Is Sinku safe?",
+      "answer": "Yes. Your money is protected by the same technology that major financial institutions use — blockchain, encryption, and biometrics.\n\n• Your balance is kept in USDC, a regulated stablecoin by Circle — the most audited and regulated stablecoin on the market\n• Self-custody: Your assets stay in your own wallet, not in Sinku accounts. You have full control\n• Protected by biometrics: Your money is secured by encryption and your device's biometric authentication. No passwords to remember or be stolen\n• Cards are protected with smart contract security modules (Roles Module and Delay Module)\n• Backend communications are encrypted with TLS and authentication uses end-to-end encryption\n• You can freeze or manage your card instantly in the app\n\nOur security is a continuous process — we regularly monitor, audit, and review systems to protect your assets."
     },
     {
       "id": "need-bank-account",
-      "question": "Do I need a bank account to use Plexos?",
-      "answer": "No. You do not need a traditional bank account. Plexos allows you to hold money directly inside the app and use it for payments and transfers."
+      "question": "Do I need a bank account to use Sinku?",
+      "answer": "No. You do not need a traditional bank account. Sinku allows you to hold money directly inside the app and use it for payments and transfers."
     },
     {
       "id": "add-money",
-      "question": "How can I add money to my Plexos account?",
-      "answer": "You can add money to your Plexos account using local payment methods, depending on your country. Available options may include bank transfers, card payments, and digital wallets such as Apple Pay. Plexos is designed to work with local financial systems, making it easy and accessible to fund your account."
+      "question": "How can I add money to my Sinku account?",
+      "answer": "You can add funds to your Sinku account quickly and easily:\n\n• Bank transfer — send money directly from your bank account\n• Card top-up — use a debit card for instant funding\n• Apple Pay or Google Pay — top up instantly where available\n• Receive in USD — when you create your account, you can receive transfers in dollars directly into your Sinku account\n\nAvailable methods may vary by country. The process is fast, simple, and funds typically arrive instantly."
     },
     {
       "id": "send-money",
-      "question": "Can I send money to other Plexos users?",
-      "answer": "Yes. You can send and receive money instantly between Plexos users, even across different countries."
+      "question": "Can I send money to other Sinku users?",
+      "answer": "Yes. You can send and receive money instantly between Sinku users, even across different countries. Fees may apply for cross-border transfers between accounts in different countries — you'll always see the exact cost before confirming."
     },
     {
       "id": "fees",
       "question": "Are there any fees?",
-      "answer": "Plexos keeps fees transparent and affordable. Fees may apply for:\n\n• Card issuance (virtual or physical)\n• Certain transactions\n• Currency exchange\n\nAll fees are clearly shown in the app before you confirm any action."
+      "answer": "Sinku has no annual fee, no maintenance fee, and no hidden charges.\n\nYou only pay:\n\n• A competitive spread on currency conversion — one of the lowest in the market\n• Card issuance fees may apply depending on your plan\n\nThere are no monthly account fees for standard accounts. All fees are clearly shown in the app before you confirm any action."
     },
     {
       "id": "is-bank",
-      "question": "Is Plexos a bank?",
-      "answer": "No. Plexos is not a bank or financial institution. Plexos is a technology platform that provides a user interface enabling access to services offered by independent third-party providers. Financial services, including payment card issuance and digital asset transfers, are provided by Rain (Signify Holdings Inc. / Nimbus LLC), and wallet functionality is powered by Privy. Plexos focuses on delivering a simple and powerful user experience."
+      "question": "Is Sinku a bank?",
+      "answer": "No. Sinku is a financial technology company, not a bank. Sinku is a technology platform that provides a user interface enabling access to services offered by independent third-party providers. Banking and payment card services are provided by licensed partners for card issuance on the Visa and Mastercard networks. Wallet functionality is powered by Privy. Sinku operates under the regulatory framework of its partners and focuses on delivering a simple and powerful user experience."
     },
     {
       "id": "countries",
-      "question": "In which countries is Plexos available?",
-      "answer": "Plexos is launching in select markets first, with plans to expand globally. Availability will grow over time — check the app for the latest supported countries."
+      "question": "In which countries is Sinku available?",
+      "answer": "Sinku is launching in select markets first, with plans to expand globally. Availability will grow over time — check the app for the latest supported countries."
     },
     {
       "id": "vs-banks",
-      "question": "How is Plexos different from traditional banks?",
-      "answer": "Unlike traditional banks, Plexos is designed for the modern, mobile-first user:\n\n• Instant account setup from your phone\n• Virtual cards available immediately\n• No branch visits required\n• International payments built-in\n• Transparent fees with no hidden charges\n• Built for a borderless world"
+      "question": "How is Sinku different from traditional banks?",
+      "answer": "Unlike traditional banks, Sinku is designed for the modern, mobile-first user:\n\n• Instant account setup from your phone\n• Virtual cards available immediately\n• No branch visits required\n• International payments built-in\n• Transparent fees with no hidden charges\n• Built for a borderless world"
     },
     {
-      "id": "revenue-model",
-      "question": "How does Plexos generate revenue?",
-      "answer": "Plexos follows a modern fintech revenue model. Unlike traditional banks, we do not charge fees for moving money in or out of your account. Instead, Plexos earns revenue through the channels below:\n\nCard network fees (interchange)\nWhen you pay with your Plexos card, merchants pay a small processing fee to card networks like Mastercard. A portion of this fee is shared with Plexos. This cost is covered by the merchant and never charged to our users.\n\nPremium subscription plans\nPlexos will offer optional subscription plans designed to unlock additional features and benefits. These plans are built for users who want more flexibility, advanced tools, and enhanced financial control.\n\nOur goal is to keep Plexos affordable, transparent, and accessible while ensuring we can continue improving the platform and expanding our services. More details about subscription plans and upcoming features will be shared soon."
+      "id": "who-are-partners",
+      "question": "Who are Sinku's partners?",
+      "answer": "Sinku works with licensed, regulated partners to deliver financial services:\n\n• Licensed Partner — for payment card issuance and financial services on the Visa and Mastercard networks\n• Privy — for non-custodial wallet infrastructure\n\nThese partners operate under their own regulatory authorisations and are responsible for the compliance and performance of their respective services. Sinku provides the technology layer that connects you to these services."
+    },
+    {
+      "id": "what-is-self-custody",
+      "question": "What does non-custodial mean?",
+      "answer": "Non-custodial means that Sinku does not hold, control, or have access to your wallet's private keys. Your wallet is created and managed through Privy's infrastructure, and only you can authorise transactions.\n\nThis is different from traditional banks where the institution holds your money on your behalf. With Sinku, your funds remain under your control. This eliminates the risk of losing your funds if Sinku were to stop operating."
+    },
+    {
+      "id": "wallet-security",
+      "question": "What happens if I lose access to my wallet?",
+      "answer": "Since Sinku uses non-custodial wallet technology through Privy, you are responsible for maintaining access to your wallet credentials. If you lose your recovery phrase or authentication credentials, neither Sinku nor Privy can recover access to your wallet.\n\nWe strongly recommend:\n\n• Keeping your device secure with a screen lock\n• Backing up your recovery credentials in a safe place\n• Keeping the Sinku app updated\n• Never sharing your credentials with anyone"
+    },
+    {
+      "id": "what-if-sinku-stops",
+      "question": "What happens if Sinku stops operating?",
+      "answer": "This is the key benefit of our non-custodial model. If Sinku were to shut down, your funds would remain safe:\n\n• Card-related funds held through our licensed partner would continue to be managed under our licensed partner's regulatory framework\n• Wallet assets secured through Privy would remain accessible using your private keys through any compatible wallet interface\n\nSinku is the gateway — but the keys and the assets are yours."
+    },
+    {
+      "id": "tax-responsibilities",
+      "question": "Am I responsible for my own taxes?",
+      "answer": "Yes. You are solely responsible for determining and fulfilling any tax obligations arising from your use of Sinku services. This includes reporting relevant transactions to your local tax authority.\n\nSinku does not provide tax advice and does not perform tax reporting on your behalf in the same way a traditional bank would. We recommend consulting a qualified tax professional for guidance on your specific obligations."
+    },
+    {
+      "id": "how-we-work",
+      "question": "Where can I learn more about how Sinku works?",
+      "answer": "We have a dedicated transparency page that explains in detail how our technology works, who our partners are, why we are not a bank, how the Sinku Card operates, and your responsibilities as a user.\n\nVisit our [How We Work](/legal/how-we-work) page for complete details."
+    },
+    {
+      "id": "how-card-works",
+      "question": "How does the Sinku Card work?",
+      "answer": "Your Sinku Card is issued through our licensed partner on the Visa and Mastercard networks. Unlike traditional cards where the bank holds your money, with Sinku your funds remain in your wallet until the moment of payment.\n\nThe card uses smart contract technology for security:\n\n• Roles Module: Creates an 'isolated corridor' — the card can only move a specific token to one secure destination, with no power over the rest of your assets\n• Delay Module: Adds a brief processing interval for non-card transactions to prevent conflicts and maintain wallet integrity\n\nTip: We recommend using your Sinku wallet like a 'spending vault' — keep only the amount you plan to use day-to-day."
+    },
+    {
+      "id": "can-sinku-freeze-funds",
+      "question": "Can Sinku freeze or confiscate my funds?",
+      "answer": "No. Because Sinku uses non-custodial technology, we do not control your wallet's private keys. Without control over your keys, it is technically impossible for us to transfer, freeze, or confiscate your funds.\n\nSinku is a technology service provider — not a custodian or financial intermediary. Think of Sinku like a web browser: it allows you to access financial services, but the browser is not the bank. Similarly, Sinku is the interface that connects you to financial services, but the assets remain yours."
+    },
+    {
+      "id": "why-kyc",
+      "question": "Why does Sinku require identity verification (KYC)?",
+      "answer": "Although your wallet is non-custodial, the Sinku Card connects to the Visa and Mastercard networks — traditional, regulated payment systems. For these networks to process your payments at millions of establishments worldwide, compliance with KYC (Know Your Customer) and anti-money laundering rules is mandatory.\n\nWe request your identification documents (such as a government-issued ID and NIF/TIN) only to issue the card and comply with these requirements. This does not give us the power to control or confiscate your assets."
+    },
+    {
+      "id": "how-transactions-work",
+      "question": "How are transactions processed on Sinku?",
+      "answer": "When you make a payment or transfer through Sinku, the process works as follows:\n\n1. You initiate the transaction in the app\n2. The transaction details are prepared by our software\n3. You authorise the transaction (final validation happens on your device)\n4. The transaction is processed by our partner infrastructure\n5. Settlement occurs directly — your funds move without passing through Sinku accounts\n\nAt no point do your funds pass through accounts owned by Sinku. Our software simply facilitates the connection between you and the financial infrastructure."
+    },
+    {
+      "id": "are-transactions-reversible",
+      "question": "Are blockchain transactions reversible?",
+      "answer": "No. Certain transactions processed through blockchain infrastructure are immutable. Once you sign and confirm an operation (such as sending funds), it cannot be undone, cancelled, or reversed by Sinku.\n\nThis is why it's essential to verify all transaction details carefully before confirming. For card transactions on the Visa and Mastercard networks, standard dispute and chargeback processes may apply through our licensed partner."
+    },
+    {
+      "id": "how-close-account",
+      "question": "How do I close my Sinku account?",
+      "answer": "You can close your account at any time through the app or by contacting our support team.\n\nBefore closing, you'll need to:\n\n• Withdraw or transfer any remaining balance\n• Cancel subscriptions linked to Sinku\n• Download any statements or documents you may need\n\nAfter closure, your access to Sinku services will end and your debit card will be cancelled. We'll retain certain data as required by law — see our Privacy Policy for details."
+    },
+    {
+      "id": "what-data-stored",
+      "question": "What personal data does Sinku store?",
+      "answer": "Sinku stores your registration data, such as your email, phone number, and identification details (like NIF/TIN). We do this for two reasons:\n\n• Partner integration: So you can access services like card issuance (via our licensed partner) and other features that require identification\n• Ease of access: So you don't need to fill in forms every time you open the app\n\nWe collect only the data necessary to provide our services and comply with regulatory obligations. You can access, correct, or request deletion of your personal data at any time. Visit our [Privacy Policy](/legal/privacy) for full details."
+    },
+    {
+      "id": "terms-changes",
+      "question": "What happens if Sinku changes its terms?",
+      "answer": "When we make material changes to our Terms of Service, we will notify you at least 30 days before they take effect through the app or by email.\n\nIf you do not agree with the updated terms, you may close your account before they take effect. Continuing to use our services after the changes take effect means you accept the updated terms."
     },
     {
       "id": "support",
       "question": "How can I get support?",
-      "answer": "You can contact Plexos support directly through:\n\n• The app\n• Email\n• In-app chat (coming soon)\n\nOur support team is here to help."
+      "answer": "You can contact Sinku support directly through:\n\n• In-app chat: Go to your profile and tap 'Help'\n• Email: support@sinku.io\n\nOur team can assist you in Portuguese and English. We take all complaints seriously and aim to resolve them within 15 business days."
     }
   ],
   "pt": [
     {
-      "id": "what-is-plexos",
-      "question": "O que é o Plexos?",
-      "answer": "O Plexos é uma aplicação financeira digital que o ajuda a aceder à economia global. Com o Plexos, pode obter cartões de débito internacionais virtuais e físicos, fazer pagamentos online e em lojas, e enviar dinheiro para qualquer lugar do mundo — tudo a partir do seu telemóvel."
+      "id": "what-is-sinku",
+      "question": "O que é o Sinku?",
+      "answer": "O Sinku é uma aplicação financeira digital que o ajuda a aceder à economia global. Com o Sinku, pode obter cartões de débito internacionais virtuais e físicos, fazer pagamentos online e em lojas, e enviar dinheiro para qualquer lugar do mundo — tudo a partir do seu telemóvel."
     },
     {
       "id": "who-can-use",
-      "question": "Quem pode usar o Plexos?",
-      "answer": "O Plexos foi concebido para qualquer pessoa que precise de acesso simples a pagamentos internacionais, incluindo:\n\n• Freelancers e trabalhadores remotos\n• Estudantes\n• Empreendedores online\n• Qualquer pessoa que envie ou receba dinheiro entre países\n\nPrecisa apenas de um smartphone e identificação válida."
+      "question": "Quem pode usar o Sinku?",
+      "answer": "O Sinku foi concebido para qualquer pessoa que precise de acesso simples a pagamentos internacionais, incluindo:\n\n• Freelancers e trabalhadores remotos\n• Estudantes\n• Empreendedores online\n• Qualquer pessoa que envie ou receba dinheiro entre países\n\nPrecisa apenas de um smartphone e identificação válida."
     },
     {
       "id": "what-cards",
-      "question": "Que cartões oferece o Plexos?",
-      "answer": "O Plexos oferece:\n\n• Cartões de débito internacionais virtuais (disponíveis instantaneamente)\n• Cartões de débito físicos (entregues em sua casa)\n\nAmbos os cartões podem ser usados para pagamentos online, subscrições e compras internacionais."
+      "question": "Que cartões oferece o Sinku?",
+      "answer": "O Sinku oferece:\n\n• Cartões de débito internacionais virtuais — crie quantos precisar, sem custo adicional. Perfeito para compras online com mais segurança\n• Cartões de débito físicos (entregues em sua casa)\n\nAmbos os cartões são emitidos através do nosso parceiro licenciado nas redes Visa e Mastercard. Utilizam tecnologia de segurança com contratos inteligentes — o Roles Module garante que o cartão só pode mover um token específico para um único destino seguro, enquanto o Delay Module previne conflitos de processamento. O seu cartão debita directamente da sua carteira Sinku no momento do pagamento."
     },
     {
       "id": "international-use",
-      "question": "Posso usar os cartões Plexos internacionalmente?",
-      "answer": "Sim. Os cartões Plexos são cartões de débito internacionais com tecnologia Mastercard e podem ser usados:\n\n• Online em todo o mundo\n• Em lojas físicas\n• Para subscrições como Netflix, Spotify, Apple, Google e muito mais"
+      "question": "Posso usar os cartões Sinku internacionalmente?",
+      "answer": "Sim. Os cartões Sinku são aceites em mais de 180 países e milhões de estabelecimentos em todo o mundo que aceitem Visa e Mastercard.\n\n• Online em todo o mundo\n• Em lojas físicas\n• Para subscrições como Netflix, Spotify, Apple, Google e muito mais\n• Compatível com Apple Pay e Google Pay para pagamentos por aproximação no telemóvel"
     },
     {
       "id": "how-to-get-card",
-      "question": "Como obtenho um cartão Plexos?",
-      "answer": "1. Descarregue a [app Plexos](/download-app)\n2. Crie a sua conta\n3. Complete a verificação de identidade (KYC)\n4. Crie instantaneamente um cartão virtual\n5. Encomende um cartão físico se desejar"
+      "question": "Como obtenho um cartão Sinku?",
+      "answer": "O processo é rápido e 100% digital. Em apenas alguns minutos pode começar a usar a sua conta:\n\n1. Descarregue a [app Sinku](/download-app)\n2. Crie a sua conta\n3. Complete a verificação de identidade (KYC)\n4. Crie instantaneamente um cartão virtual — pronto a usar de imediato\n5. Encomende um cartão físico se desejar\n\nPode também adicionar o seu cartão ao Apple Pay ou Google Pay para pagamentos por aproximação logo de início."
     },
     {
       "id": "is-safe",
-      "question": "O Plexos é seguro?",
-      "answer": "Sim. A segurança é uma prioridade máxima no Plexos.\n\n• Os seus fundos são mantidos com parceiros financeiros regulamentados\n• Os cartões são protegidos com padrões de segurança modernos\n• Pode congelar ou gerir o seu cartão diretamente na app"
+      "question": "O Sinku é seguro?",
+      "answer": "Sim. O seu dinheiro é protegido pela mesma tecnologia que grandes instituições financeiras usam — blockchain, encriptação e biometria.\n\n• O seu saldo é mantido em USDC, uma stablecoin regulada pela Circle — a stablecoin mais auditada e regulada do mercado\n• Custódia própria: Os seus activos ficam na sua carteira, não em contas do Sinku. Tem controlo total\n• Protegido por biometria: O seu dinheiro é protegido por encriptação e pela autenticação biométrica do seu dispositivo. Sem palavras-passe para memorizar ou serem roubadas\n• Os cartões são protegidos com módulos de segurança de contratos inteligentes (Roles Module e Delay Module)\n• As comunicações backend são encriptadas com TLS e a autenticação usa encriptação ponta-a-ponta\n• Pode congelar ou gerir o seu cartão instantaneamente na app\n\nA nossa segurança é um processo contínuo — monitorizamos, auditamos e revemos regularmente os sistemas para proteger os seus activos."
     },
     {
       "id": "need-bank-account",
-      "question": "Preciso de uma conta bancária para usar o Plexos?",
-      "answer": "Não. Não precisa de uma conta bancária tradicional. O Plexos permite-lhe manter dinheiro diretamente dentro da app e usá-lo para pagamentos e transferências."
+      "question": "Preciso de uma conta bancária para usar o Sinku?",
+      "answer": "Não. Não precisa de uma conta bancária tradicional. O Sinku permite-lhe manter dinheiro diretamente dentro da app e usá-lo para pagamentos e transferências."
     },
     {
       "id": "add-money",
-      "question": "Como posso adicionar dinheiro à minha conta Plexos?",
-      "answer": "Pode adicionar dinheiro à sua conta Plexos usando métodos de pagamento locais, dependendo do seu país. As opções disponíveis podem incluir transferências bancárias, pagamentos com cartão e carteiras digitais como o Apple Pay. O Plexos foi concebido para funcionar com sistemas financeiros locais, tornando fácil e acessível o financiamento da sua conta."
+      "question": "Como posso adicionar dinheiro à minha conta Sinku?",
+      "answer": "Pode adicionar fundos à sua conta Sinku de forma rápida e simples:\n\n• Transferência bancária — envie dinheiro directamente da sua conta bancária\n• Top-up com cartão — use um cartão de débito para financiamento instantâneo\n• Apple Pay ou Google Pay — carregue instantaneamente onde disponível\n• Receber em dólares — ao criar a sua conta, pode receber transferências em dólares directamente na sua conta Sinku\n\nOs métodos disponíveis podem variar por país. O processo é rápido, simples e os fundos chegam tipicamente de imediato."
     },
     {
       "id": "send-money",
-      "question": "Posso enviar dinheiro para outros utilizadores Plexos?",
-      "answer": "Sim. Pode enviar e receber dinheiro instantaneamente entre utilizadores Plexos, mesmo entre diferentes países."
+      "question": "Posso enviar dinheiro para outros utilizadores Sinku?",
+      "answer": "Sim. Pode enviar e receber dinheiro instantaneamente entre utilizadores Sinku, mesmo entre diferentes países. Podem aplicar-se taxas para transferências entre contas em países diferentes — verá sempre o custo exato antes de confirmar."
     },
     {
       "id": "fees",
       "question": "Existem taxas?",
-      "answer": "O Plexos mantém as taxas transparentes e acessíveis. As taxas podem aplicar-se a:\n\n• Emissão de cartões (virtuais ou físicos)\n• Certas transações\n• Câmbio de moeda\n\nTodas as taxas são claramente apresentadas na app antes de confirmar qualquer ação."
+      "answer": "O Sinku não cobra anuidade, taxa de manutenção nem custos ocultos.\n\nPaga apenas:\n\n• Um spread competitivo na conversão de moedas — uma das menores taxas do mercado\n• Taxas de emissão de cartão podem aplicar-se dependendo do seu plano\n\nNão existem taxas mensais de conta para contas Standard. Todas as taxas são claramente apresentadas na app antes de confirmar qualquer acção."
     },
     {
       "id": "is-bank",
-      "question": "O Plexos é um banco?",
-      "answer": "Não. O Plexos não é um banco nem uma instituição financeira. O Plexos é uma plataforma tecnológica que disponibiliza uma interface de utilizador para acesso a serviços oferecidos por prestadores terceiros independentes. Os serviços financeiros, incluindo a emissão de cartões de pagamento e transferências de ativos digitais, são fornecidos pela Rain (Signify Holdings Inc. / Nimbus LLC), e a funcionalidade de carteira é fornecida pela Privy. O Plexos foca-se em oferecer uma experiência de utilizador simples e poderosa."
+      "question": "O Sinku é um banco?",
+      "answer": "Não. O Sinku é uma empresa de tecnologia financeira, não um banco. O Sinku é uma plataforma tecnológica que disponibiliza uma interface de utilizador para acesso a serviços oferecidos por prestadores terceiros independentes. Os serviços bancários e de cartões de pagamento são fornecidos por parceiros licenciados para a emissão de cartões nas redes Visa e Mastercard. A funcionalidade de carteira é fornecida pela Privy. O Sinku opera sob o enquadramento regulatório dos seus parceiros e foca-se em oferecer uma experiência de utilizador simples e poderosa."
     },
     {
       "id": "countries",
-      "question": "Em que países o Plexos está disponível?",
-      "answer": "O Plexos está a ser lançado primeiro em mercados selecionados, com planos de expansão global. A disponibilidade crescerá ao longo do tempo — consulte a app para ver os países atualmente suportados."
+      "question": "Em que países o Sinku está disponível?",
+      "answer": "O Sinku está a ser lançado primeiro em mercados selecionados, com planos de expansão global. A disponibilidade crescerá ao longo do tempo — consulte a app para ver os países atualmente suportados."
     },
     {
       "id": "vs-banks",
-      "question": "Como é que o Plexos é diferente dos bancos tradicionais?",
-      "answer": "Ao contrário dos bancos tradicionais, o Plexos foi concebido para o utilizador moderno e móvel:\n\n• Configuração instantânea de conta a partir do telemóvel\n• Cartões virtuais disponíveis imediatamente\n• Não são necessárias visitas a agências\n• Pagamentos internacionais integrados\n• Taxas transparentes sem custos ocultos\n• Feito para um mundo sem fronteiras"
+      "question": "Como é que o Sinku é diferente dos bancos tradicionais?",
+      "answer": "Ao contrário dos bancos tradicionais, o Sinku foi concebido para o utilizador moderno e móvel:\n\n• Configuração instantânea de conta a partir do telemóvel\n• Cartões virtuais disponíveis imediatamente\n• Não são necessárias visitas a agências\n• Pagamentos internacionais integrados\n• Taxas transparentes sem custos ocultos\n• Feito para um mundo sem fronteiras"
     },
     {
-      "id": "revenue-model",
-      "question": "Como é que o Plexos gera receita?",
-      "answer": "O Plexos segue um modelo de receita fintech moderno. Ao contrário dos bancos tradicionais, não cobramos taxas por movimentar dinheiro para dentro ou para fora da sua conta. Em vez disso, o Plexos gera receita através dos canais abaixo:\n\nTaxas de rede de cartões (interchange)\nQuando paga com o seu cartão Plexos, os comerciantes pagam uma pequena taxa de processamento às redes de cartões como o Mastercard. Uma parte desta taxa é partilhada com o Plexos. Este custo é coberto pelo comerciante e nunca é cobrado aos nossos utilizadores.\n\nPlanos de subscrição premium\nO Plexos irá oferecer planos de subscrição opcionais concebidos para desbloquear funcionalidades e benefícios adicionais. Estes planos são para utilizadores que desejam mais flexibilidade, ferramentas avançadas e maior controlo financeiro.\n\nO nosso objetivo é manter o Plexos acessível, transparente e disponível para todos, garantindo ao mesmo tempo que podemos continuar a melhorar a plataforma e expandir os nossos serviços. Mais detalhes sobre planos de subscrição e funcionalidades futuras serão partilhados em breve."
+      "id": "who-are-partners",
+      "question": "Quem são os parceiros do Sinku?",
+      "answer": "O Sinku trabalha com parceiros licenciados e regulados para prestar serviços financeiros:\n\n• Parceiro Licenciado — para emissão de cartões de pagamento e serviços financeiros nas redes Visa e Mastercard\n• Privy — para infraestrutura de carteiras não custodiais\n\nEstes parceiros operam sob as suas próprias autorizações regulatórias e são responsáveis pela conformidade e desempenho dos seus respectivos serviços. O Sinku fornece a camada tecnológica que o conecta a estes serviços."
+    },
+    {
+      "id": "what-is-self-custody",
+      "question": "O que significa não custodial?",
+      "answer": "Não custodial significa que o Sinku não detém, controla ou tem acesso às chaves privadas da sua carteira. A sua carteira é criada e gerida através da infraestrutura da Privy, e apenas o utilizador pode autorizar transacções.\n\nIsto é diferente dos bancos tradicionais onde a instituição detém o seu dinheiro em seu nome. Com o Sinku, os seus fundos permanecem sob o seu controlo. Isto elimina o risco de perder os seus fundos se o Sinku deixasse de operar."
+    },
+    {
+      "id": "wallet-security",
+      "question": "O que acontece se perder o acesso à minha carteira?",
+      "answer": "Como o Sinku utiliza tecnologia de carteira não custodial através da Privy, é responsável por manter o acesso às credenciais da sua carteira. Se perder a sua frase de recuperação ou credenciais de autenticação, nem o Sinku nem a Privy podem recuperar o acesso à sua carteira.\n\nRecomendamos vivamente:\n\n• Manter o seu dispositivo seguro com bloqueio de ecrã\n• Guardar as suas credenciais de recuperação num local seguro\n• Manter a app Sinku actualizada\n• Nunca partilhar as suas credenciais com ninguém"
+    },
+    {
+      "id": "what-if-sinku-stops",
+      "question": "O que acontece se o Sinku deixar de operar?",
+      "answer": "Este é o benefício principal do nosso modelo não custodial. Se o Sinku encerrasse, os seus fundos permaneceriam seguros:\n\n• Os fundos relacionados com o cartão, detidos através do nosso parceiro licenciado, continuariam a ser geridos sob o enquadramento regulatório do nosso parceiro licenciado\n• Os activos da carteira, protegidos pela infraestrutura não custodial da Privy, permaneceriam acessíveis usando as suas chaves privadas através de qualquer interface de carteira compatível\n\nO Sinku é a porta de entrada — mas as chaves e os activos são seus."
+    },
+    {
+      "id": "tax-responsibilities",
+      "question": "Sou responsável pelos meus próprios impostos?",
+      "answer": "Sim. É exclusivamente responsável por determinar e cumprir quaisquer obrigações fiscais decorrentes da utilização dos serviços Sinku. Isto inclui reportar transacções relevantes à autoridade fiscal do seu país.\n\nO Sinku não fornece aconselhamento fiscal e não realiza reportes fiscais em seu nome da mesma forma que um banco tradicional. Recomendamos consultar um profissional fiscal qualificado para orientação sobre as suas obrigações específicas."
+    },
+    {
+      "id": "how-we-work",
+      "question": "Onde posso saber mais sobre como o Sinku funciona?",
+      "answer": "Temos uma página de transparência dedicada que explica em detalhe como a nossa tecnologia funciona, quem são os nossos parceiros, porque não somos um banco, como funciona o Cartão Sinku e as suas responsabilidades como utilizador.\n\nVisite a nossa página [Como Funcionamos](/legal/how-we-work) para detalhes completos."
+    },
+    {
+      "id": "how-card-works",
+      "question": "Como funciona o Cartão Sinku?",
+      "answer": "O seu Cartão Sinku é emitido através do nosso parceiro licenciado nas redes Visa e Mastercard. Ao contrário dos cartões tradicionais onde o banco detém o seu dinheiro, com o Sinku os seus fundos permanecem na sua carteira até ao momento do pagamento.\n\nO cartão utiliza tecnologia de contratos inteligentes para segurança:\n\n• Roles Module: Cria um 'corredor isolado' — o cartão só pode mover um token específico para um destino seguro, sem qualquer poder sobre o resto dos seus activos\n• Delay Module: Adiciona um breve intervalo de processamento para transacções não relacionadas com o cartão, prevenindo conflitos e mantendo a integridade da carteira\n\nDica: Recomendamos usar a sua carteira Sinku como um 'cofre de gastos' — mantenha apenas o valor que planeia usar no dia-a-dia."
+    },
+    {
+      "id": "can-sinku-freeze-funds",
+      "question": "O Sinku pode congelar ou confiscar os meus fundos?",
+      "answer": "Não. Como o Sinku utiliza tecnologia não custodial, não controlamos as chaves privadas da sua carteira. Sem controlo sobre as suas chaves, é tecnicamente impossível para nós transferir, congelar ou confiscar os seus fundos.\n\nO Sinku é um fornecedor de serviços tecnológicos — não um custodiante ou intermediário financeiro. Pense no Sinku como um navegador web: permite-lhe aceder a serviços financeiros, mas o navegador não é o banco. Da mesma forma, o Sinku é a interface que o conecta a serviços financeiros, mas os activos permanecem seus."
+    },
+    {
+      "id": "why-kyc",
+      "question": "Porque é que o Sinku exige verificação de identidade (KYC)?",
+      "answer": "Embora a sua carteira seja não custodial, o Cartão Sinku conecta-se às redes Visa e Mastercard — sistemas de pagamento tradicionais e regulados. Para que estas redes processem os seus pagamentos em milhões de estabelecimentos mundiais, é obrigatório cumprir as regras de KYC (Know Your Customer) e anti-lavagem de dinheiro.\n\nSolicitamos os seus documentos de identificação (como documento de identidade oficial e NIF) apenas para emitir o cartão e cumprir estes requisitos. Isto não nos dá poder para controlar ou confiscar os seus activos."
+    },
+    {
+      "id": "how-transactions-work",
+      "question": "Como são processadas as transacções no Sinku?",
+      "answer": "Quando faz um pagamento ou transferência através do Sinku, o processo funciona assim:\n\n1. Inicia a transacção na app\n2. Os detalhes da transacção são preparados pelo nosso software\n3. Autoriza a transacção (a validação final acontece no seu dispositivo)\n4. A transacção é processada pela infraestrutura dos nossos parceiros\n5. A liquidação ocorre directamente — os seus fundos movem-se sem passar por contas do Sinku\n\nEm nenhum momento os seus fundos passam por contas pertencentes ao Sinku. O nosso software simplesmente facilita a conexão entre si e a infraestrutura financeira."
+    },
+    {
+      "id": "are-transactions-reversible",
+      "question": "As transacções blockchain são reversíveis?",
+      "answer": "Não. Certas transacções processadas através de infraestrutura blockchain são imutáveis. Uma vez que assine e confirme uma operação (como enviar fundos), esta não pode ser desfeita, cancelada ou revertida pelo Sinku.\n\nPor isso é essencial verificar cuidadosamente todos os detalhes da transacção antes de confirmar. Para transacções com cartão nas redes Visa e Mastercard, os processos padrão de disputa e chargeback podem aplicar-se através do nosso parceiro licenciado."
+    },
+    {
+      "id": "how-close-account",
+      "question": "Como fecho a minha conta Sinku?",
+      "answer": "Pode fechar a sua conta a qualquer momento através da app ou contactando a equipa de suporte.\n\nAntes de fechar, precisa de:\n\n• Levantar ou transferir qualquer saldo restante\n• Cancelar subscrições ligadas ao Sinku\n• Descarregar extratos ou documentos que possa precisar\n\nApós o encerramento, o seu acesso aos serviços Sinku terminará e o seu cartão de débito será cancelado. Reteremos certos dados conforme exigido por lei — consulte a nossa Política de Privacidade para detalhes."
+    },
+    {
+      "id": "what-data-stored",
+      "question": "Que dados pessoais o Sinku armazena?",
+      "answer": "O Sinku armazena os seus dados de registo, como email, número de telefone e dados de identificação (como NIF). Fazemo-lo por duas razões:\n\n• Integração com parceiros: Para que possa aceder a serviços como emissão de cartões (via o nosso parceiro licenciado) e outras funcionalidades que requerem identificação\n• Facilidade de acesso: Para não precisar de preencher formulários cada vez que abre a app\n\nRecolhemos apenas os dados necessários para prestar os nossos serviços e cumprir obrigações regulatórias. Pode aceder, corrigir ou solicitar a eliminação dos seus dados pessoais a qualquer momento. Visite a nossa [Política de Privacidade](/legal/privacy) para detalhes completos."
+    },
+    {
+      "id": "terms-changes",
+      "question": "O que acontece se o Sinku alterar os seus termos?",
+      "answer": "Quando fazemos alterações materiais aos nossos Termos de Serviço, notificamo-lo com pelo menos 30 dias de antecedência através da app ou por email.\n\nSe não concordar com os termos actualizados, pode encerrar a sua conta antes de entrarem em vigor. Continuar a usar os nossos serviços após as alterações entrarem em vigor significa que aceita os termos actualizados."
     },
     {
       "id": "support",
       "question": "Como posso obter suporte?",
-      "answer": "Pode contactar o suporte Plexos diretamente através de:\n\n• A app\n• Email\n• Chat na app (em breve)\n\nA nossa equipa de suporte está aqui para ajudar."
+      "answer": "Pode contactar o suporte Sinku directamente através de:\n\n• Chat na app: Vá ao perfil e toque em 'Ajuda'\n• Email: support@sinku.io\n\nA nossa equipa pode ajudá-lo em português e inglês. Levamos todas as reclamações a sério e procuramos resolvê-las em 15 dias úteis."
     }
   ]
 }

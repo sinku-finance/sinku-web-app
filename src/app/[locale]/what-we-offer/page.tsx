@@ -5,7 +5,8 @@ import { PaymentsHeroSection } from "./payments-hero-section"
 import { PaymentsFeatureSection } from "./payments-feature-section"
 import { PaymentMethodsSection } from "./payment-methods-section"
 import { MultiCurrencySection } from "./multi-currency-section"
-import { ComparisonSection } from "./comparison-section"
+// import { ComparisonSection } from "./comparison-section"
+import { TransferCalculatorSection } from "./transfer-calculator-section"
 import { AccountFeesSection } from "./account-fees-section"
 import { pageSeo } from "@/config/seo"
 
@@ -61,8 +62,11 @@ export default async function WhatWeOfferPage({
 				{/* Multi-currency Section */}
 				<MultiCurrencySection />
 
-				{/* Comparison Section */}
-				<ComparisonSection locale={locale} />
+				{/* Transfer Calculator Section */}
+				<TransferCalculatorSection />
+
+				{/* Old Comparison Section - hidden */}
+				{/* <ComparisonSection locale={locale} /> */}
 
 				{/* Account Fees Section - hidden for now */}
 				{/* <AccountFeesSection locale={locale} /> */}

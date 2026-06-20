@@ -34,8 +34,8 @@ export async function generateMetadata({
 	if (!topic || !article) return { title: "Not Found" }
 
 	return {
-		title: `${article.title} — Plexos Help Centre`,
-		description: `${article.title}. Get help with your Plexos account.`,
+		title: `${article.title} — Sinku Help Centre`,
+		description: `${article.title}. Get help with your Sinku account.`,
 	}
 }
 
