@@ -75,6 +75,8 @@ export function RewardsSection() {
                 src="/cards/couple-with-card.webp"
                 alt="Couple using Sinku card"
                 fill
+                quality={100}
+                sizes="(max-width: 1024px) 100vw, 900px"
                 className="object-cover"
               />
             </motion.div>
@@ -88,6 +90,8 @@ export function RewardsSection() {
                 src="/cards/card-product.webp"
                 alt="Sinku card"
                 fill
+                quality={100}
+                sizes="(max-width: 1024px) 100vw, 440px"
                 className="object-cover"
               />
             </motion.div>

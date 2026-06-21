@@ -56,6 +56,7 @@ export function CardsBentoSection() {
 								src="/cards/applepayphone.png"
 								alt="Apple Pay with Sinku Card"
 								fill
+								sizes="(max-width: 768px) 100vw, 50vw"
 								className="object-contain object-bottom"
 							/>
 						</div>
@@ -108,6 +109,7 @@ export function CardsBentoSection() {
 								src="/cards/cards3.png"
 								alt="Sinku Mastercard cards"
 								fill
+								sizes="(max-width: 768px) 100vw, 50vw"
 								className="object-contain"
 							/>
 						</div>

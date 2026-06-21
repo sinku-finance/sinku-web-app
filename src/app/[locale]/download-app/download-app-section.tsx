@@ -45,6 +45,7 @@ export function DownloadAppSection() {
 										src="/qrcode.svg"
 										alt={t("qrAlt")}
 										fill
+										sizes="(max-width: 768px) 100vw, 50vw"
 										className="object-contain p-1"
 									/>
 								</div>

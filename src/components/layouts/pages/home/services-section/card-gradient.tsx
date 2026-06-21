@@ -3,6 +3,23 @@
 import { useEffect, useState } from "react";
 import { ShaderGradientCanvas, ShaderGradient } from "@shadergradient/react";
 
+// three.js (via the shadergradient dependency) spams a "THREE.Clock has been
+// deprecated" warning every frame. It's harmless and unfixable from our side,
+// so filter just that one message to keep the console readable.
+if (typeof window !== "undefined") {
+	const g = window as unknown as { __clockWarnFiltered?: boolean };
+	if (!g.__clockWarnFiltered) {
+		g.__clockWarnFiltered = true;
+		for (const method of ["warn", "error"] as const) {
+			const original = console[method].bind(console);
+			console[method] = (...args: unknown[]) => {
+				if (typeof args[0] === "string" && args[0].includes("THREE.Clock")) return;
+				original(...args);
+			};
+		}
+	}
+}
+
 type CardGradientProps = {
 	/** [color1, color2, color3] — the card's brand colour family */
 	colors: readonly [string, string, string];

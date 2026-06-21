@@ -59,6 +59,8 @@ export function CardsSection() {
                 src="/cards/card-showcase-1.webp"
                 alt="Sinku card with phone"
                 fill
+                quality={100}
+                sizes="(max-width: 1024px) 100vw, 700px"
                 className="object-cover"
               />
             </motion.div>
@@ -72,6 +74,8 @@ export function CardsSection() {
                 src="/cards/card-showcase-2.webp"
                 alt="Sinku card stack"
                 fill
+                quality={100}
+                sizes="(max-width: 1024px) 100vw, 700px"
                 className="object-cover"
               />
             </motion.div>

@@ -72,6 +72,7 @@ export function VirtualCardSection() {
 								src="/banners/cards.webp"
 								alt="Virtual Cards"
 								fill
+								sizes="(max-width: 768px) 100vw, 50vw"
 								className="object-cover"
 							/>
 						</motion.div>

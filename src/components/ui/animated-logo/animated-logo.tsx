@@ -14,6 +14,7 @@ export function AnimatedLogo({ className }: AnimatedLogoProps) {
 				width={151}
 				height={36}
 				className="h-9 w-auto"
+				style={{ width: "auto" }}
 				priority
 			/>
 		</div>

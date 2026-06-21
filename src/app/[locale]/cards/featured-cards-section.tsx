@@ -59,6 +59,7 @@ function Card3DImage({ src, alt }: { src: string; alt: string }) {
 					src={src}
 					alt={alt}
 					fill
+					sizes="(max-width: 768px) 100vw, 50vw"
 					className="object-contain object-center drop-shadow-2xl"
 				/>
 			</motion.div>

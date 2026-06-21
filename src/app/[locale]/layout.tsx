@@ -98,7 +98,7 @@ export default async function LocaleLayout({ children, params }: Props) {
   const messages = await getMessages({ locale });
 
   return (
-    <html lang={locale} className="overflow-x-hidden" suppressHydrationWarning>
+    <html lang={locale} className="overflow-x-hidden" data-scroll-behavior="smooth" suppressHydrationWarning>
       <body className={`${outfit.variable} font-sans antialiased overflow-x-hidden`} suppressHydrationWarning>
         <NextIntlClientProvider messages={messages}>
           <a href="#main-content" className="sr-only focus:not-sr-only focus:absolute focus:top-4 focus:left-4 focus:z-[100] focus:bg-white focus:text-black focus:px-4 focus:py-2 focus:rounded-lg focus:shadow-lg focus:text-sm focus:font-medium">

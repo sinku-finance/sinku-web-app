@@ -90,7 +90,7 @@ export function ServicesSection() {
             <CardGradient colors={CARD_COLORS.green} uTime={0} uSpeed={0.18} />
             <motion.div className="relative z-10 flex flex-col flex-1" variants={servicesAnimations.cardContent.variants}>
               <div className="flex-1 flex items-center justify-center overflow-hidden">
-                <Image src="/services/international-debit-card.webp" alt="International Debit Cards" width={400} height={400} className="object-contain transition-transform duration-500 group-hover:scale-105" />
+                <Image src="/services/international-debit-card.webp" alt="International Debit Cards" width={400} height={400} quality={100} className="object-contain transition-transform duration-500 group-hover:scale-105" />
               </div>
               <div className="flex-shrink-0 pb-3 md:pb-4">
                 <h3 className="text-black text-xl md:text-2xl font-bold mb-2 md:mb-3">
@@ -112,7 +112,7 @@ export function ServicesSection() {
             <CardGradient colors={CARD_COLORS.purple} uTime={7} uSpeed={0.22} />
             <motion.div className="relative z-10 flex flex-col flex-1" variants={servicesAnimations.cardContent.variants}>
               <div className="flex-1 flex items-center justify-center overflow-hidden">
-                <Image src="/services/send-receive-money.webp" alt="Send & Receive Money" width={400} height={400} className="object-contain transition-transform duration-500 group-hover:scale-105" />
+                <Image src="/services/send-receive-money.webp" alt="Send & Receive Money" width={400} height={400} quality={100} className="object-contain transition-transform duration-500 group-hover:scale-105" />
               </div>
               <div className="flex-shrink-0 pb-3 md:pb-4">
                 <h3 className="text-black text-xl md:text-2xl font-bold mb-2 md:mb-3">
@@ -134,7 +134,7 @@ export function ServicesSection() {
             <CardGradient colors={CARD_COLORS.blue} uTime={14} uSpeed={0.2} />
             <motion.div className="relative z-10 flex flex-col flex-1" variants={servicesAnimations.cardContent.variants}>
               <div className="flex-1 flex items-center justify-center overflow-hidden">
-                <Image src="/services/global-transfer.webp" alt="Transfer globally" width={400} height={400} className="object-contain transition-transform duration-500 group-hover:scale-105" />
+                <Image src="/services/global-transfer.webp" alt="Transfer globally" width={400} height={400} quality={100} className="object-contain transition-transform duration-500 group-hover:scale-105" />
               </div>
               <div className="flex-shrink-0 pb-3 md:pb-4">
                 <h3 className="text-black text-xl md:text-2xl font-bold mb-2 md:mb-3">

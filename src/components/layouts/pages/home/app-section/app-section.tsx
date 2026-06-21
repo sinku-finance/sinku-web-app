@@ -47,6 +47,7 @@ export function AppSection() {
                     src="/qrcode.svg"
                     alt="QR Code to download Sinku app"
                     fill
+                    sizes="96px"
                     className="object-contain"
                   />
                 </div>
@@ -83,6 +84,8 @@ export function AppSection() {
                   src="/home/app-persons.webp"
                   alt="People using Sinku app"
                   fill
+                  quality={90}
+                  sizes="(max-width: 1024px) 100vw, 680px"
                   className="object-cover"
                 />
               </div>
@@ -103,6 +106,7 @@ export function AppSection() {
           src="/home/app-mockup.webp"
           alt="Sinku app interface"
           fill
+          sizes="(max-width: 768px) 200px, (max-width: 1024px) 260px, 320px"
           className="object-contain object-bottom drop-shadow-2xl"
         />
       </motion.div>

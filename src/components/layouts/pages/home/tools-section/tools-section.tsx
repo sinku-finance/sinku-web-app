@@ -67,6 +67,8 @@ export function ToolsSection() {
               src="/home/tools-section.webp"
               alt="People using Sinku"
               fill
+              quality={100}
+              sizes="(max-width: 1400px) 100vw, 1400px"
               className="object-cover"
             />
           </motion.div>

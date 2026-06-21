@@ -62,6 +62,7 @@ export function MultiCurrencySection() {
 								src="/cards/card-product-2.webp"
 								alt="Sinku cards"
 								fill
+								sizes="(max-width: 768px) 100vw, 50vw"
 								className="object-cover rounded-2xl"
 								style={{ objectPosition: "center 60%" }}
 							/>

@@ -51,6 +51,7 @@ export function MegaMenu({ isOpen, onClose }: MegaMenuProps) {
 											src="/qrcode.svg"
 											alt="QR Code to download Sinku app"
 											fill
+											sizes="(max-width: 768px) 100vw, 50vw"
 											className="object-contain p-1"
 										/>
 									</div>

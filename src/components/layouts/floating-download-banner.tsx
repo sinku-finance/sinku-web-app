@@ -51,6 +51,7 @@ export function FloatingDownloadBanner() {
 							src="/qrcode.svg"
 							alt={t("qrAlt")}
 							fill
+							sizes="(max-width: 768px) 100vw, 50vw"
 							className="object-contain p-0.5"
 						/>
 					</div>

@@ -72,6 +72,7 @@ export default async function SupportPage({
 											src="/support/support-hero.webp"
 											alt={t("talkToUs.title")}
 											fill
+											sizes="(max-width: 768px) 100vw, 50vw"
 											className="object-contain"
 											priority
 										/>
@@ -131,6 +132,7 @@ export default async function SupportPage({
 											src="/support/support-contact.webp"
 											alt={t("readyAnswers.title")}
 											fill
+											sizes="(max-width: 768px) 100vw, 50vw"
 											className="object-cover"
 										/>
 									</div>

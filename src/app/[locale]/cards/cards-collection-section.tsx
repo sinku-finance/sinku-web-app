@@ -41,6 +41,7 @@ export function CardsCollectionSection() {
 								src="/cards/collection-mobile.webp"
 								alt="Collection of Sinku cards"
 								fill
+								sizes="(max-width: 768px) 100vw, 50vw"
 								className="object-cover object-center"
 							/>
 						</div>
@@ -50,6 +51,7 @@ export function CardsCollectionSection() {
 								src="/cards/collection-desktop.webp"
 								alt="Collection of Sinku cards"
 								fill
+								sizes="(max-width: 768px) 100vw, 50vw"
 								className="object-cover object-center"
 							/>
 						</div>
