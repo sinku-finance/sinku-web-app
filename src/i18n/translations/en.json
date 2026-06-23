@@ -59,7 +59,7 @@
       "features": {
         "noFees": "No monthly or annual fees",
         "cards": "Visa and Mastercard debit card accepted in 200+ countries",
-        "benefits": "Earn cashback on every purchase",
+        "benefits": "Free transfers between Sinku users in the same country",
         "investments": "Hold USD, EUR, GBP, and more — protect your savings from local currency fluctuations"
       }
     }
@@ -71,11 +71,11 @@
     "button": "See How It Works"
   },
   "rewards": {
-    "title": "Earn 2% Back on Every Purchase",
-    "subtitle": "1% cashback when you buy, plus 1% bonus when you pay. No annual fees, no caps — just real money back in your pocket.",
+    "title": "Free to receive. Instant, 24/7.",
+    "subtitle": "Money arrives in seconds — day or night, weekends and holidays included. Receiving is always free, so the people you send to keep every cent.",
     "primaryButton": "Get Your Card",
-    "secondaryButton": "See All Benefits",
-    "bottomText": "Every purchase puts money back where it belongs. No points to redeem, no hoops to jump through — just automatic cashback on everything you buy, everywhere you pay."
+    "secondaryButton": "See How It Works",
+    "bottomText": "Banks and agents stop at night, on weekends and holidays. We don't. Send home at 2.5% with the real exchange rate — no hidden FX, no receiving fees."
   },
   "app": {
     "title": "One app. All your accounts. Total control.",
@@ -88,7 +88,7 @@
     "items": {
       "send-abroad": {
         "title": "Send money home at real rates",
-        "description": "Transfer money to any country in seconds. Real exchange rates, fees up to 5x lower than traditional banks and remittance services. In-app transfers between Sinku users are instant and low-cost. Your family gets more, every time."
+        "description": "Transfer money to any country in seconds. Real exchange rates, fees up to 5x lower than traditional banks and remittance services. Transfers between Sinku users in the same country are instant and free. Your family gets more, every time."
       },
       "multi-currency": {
         "title": "Hold multiple currencies, protect your money",
@@ -100,7 +100,7 @@
       },
       "pay-friends": {
         "title": "Send money to anyone, instantly",
-        "description": "Transfer money to other Sinku users in seconds. Split bills, pay back a friend, or send a gift — no bank details, no waiting. Fees may apply for cross-border transfers and are always shown upfront."
+        "description": "Transfer money to other Sinku users in seconds. Split bills, pay back a friend, or send a gift — no bank details, no waiting. Same-country transfers between Sinku users are always free; cross-border transfers are shown upfront."
       },
       "real-time": {
         "title": "Real-time notifications",
@@ -164,13 +164,13 @@
     "title": "Payments",
     "tagline": "Payments",
     "bannerTitle": "Payments without borders",
-    "bannerSubtitle": "Send, receive, and manage money across the world — with low fees between Sinku users and real exchange rates on every transfer.",
+    "bannerSubtitle": "Send, receive, and manage money across the world — free between Sinku users in the same country and real exchange rates on every transfer.",
     "heroTitle": "Move money freely",
-    "heroSubtitle": "Send money to anyone, anywhere in the world — instantly and with low fees between Sinku users. No middlemen, no delays, no hidden charges.",
+    "heroSubtitle": "Send money to anyone, anywhere in the world — instantly and free between Sinku users in the same country. No middlemen, no delays, no hidden charges.",
     "heroButton": "Start sending",
     "feature": {
       "title": "Pay friends and family, instantly",
-      "description": "Send money between Sinku users in seconds with low fees on every in-app P2P transfer. Whether it's to someone next door or across the ocean — send, receive, and manage everything from one app.",
+      "description": "Send money between Sinku users in seconds — free in the same country, real exchange rate across borders. Whether it's to someone next door or across the ocean — send, receive, and manage everything from one app.",
       "disclaimer": "Fees may apply for certain payment methods. Terms and Conditions apply.",
       "button": "Start sending",
       "pills": {
@@ -184,7 +184,7 @@
       "cards": {
         "contacts": {
           "title": "Send to your contacts",
-          "description": "Both on Sinku? Just search their name and tap Send. Instant and effortless — no matter where they are. Fees may apply for cross-border transfers and are always shown before you confirm."
+          "description": "Both on Sinku? Just search their name and tap Send. Instant and effortless — no matter where they are. Free in the same country; cross-border transfers are always shown before you confirm."
         },
         "links": {
           "title": "Share a payment link",
@@ -192,7 +192,7 @@
         },
         "global": {
           "title": "Send money worldwide",
-          "description": "Transfer money across borders at the real exchange rate. Low-fee transfers between Sinku users, and up to 5x cheaper than banks for everyone else. Fees may apply for cross-border transfers — you'll always see the exact cost before confirming."
+          "description": "Transfer money across borders at the real exchange rate. Free between Sinku users in the same country, just 2.5% across borders, and up to 5x cheaper than banks. You'll always see the exact cost before confirming."
         }
       }
     },
@@ -210,7 +210,7 @@
       "recipientGets": "Recipient gets",
       "cheapest": "Cheapest",
       "sendMoney": "Send money",
-      "disclaimer": "The above information applies when sending money in the national currency of the recipient account. The list of providers is not exhaustive and we plan to add more soon. For all providers, we are showing the costs based on the Standard/Basic plans only. Exchange rates and transfer fees displayed are illustrative and only refreshed every minute. Always check the applicable rate and transfer fees in-app before carrying out your transfer. In-app P2P transfers between Sinku users have low fees."
+      "disclaimer": "The above information applies when sending money in the national currency of the recipient account. The list of providers is not exhaustive and we plan to add more soon. For all providers, we are showing the costs based on the Standard/Basic plans only. Exchange rates and transfer fees displayed are illustrative and only refreshed every minute. Always check the applicable rate and transfer fees in-app before carrying out your transfer. In-app transfers between Sinku users in the same country are free."
     },
     "calculator": {
       "title": "Compare and save on every transfer",
@@ -228,7 +228,7 @@
       "compareTitle": "See how we compare",
       "compareSubtitle": "Here's what your recipient gets with Sinku vs. the competition on the same transfer.",
       "savingsMessage": "You save {amount} {currency} compared to {provider} on this transfer",
-      "disclaimer": "Exchange rates and fees shown are illustrative and refreshed periodically. Always check the applicable rate and fees in-app before making a transfer. In-app P2P transfers between Sinku users have low fees.",
+      "disclaimer": "Exchange rates and fees shown are illustrative and refreshed periodically. Always check the applicable rate and fees in-app before making a transfer. In-app transfers between Sinku users in the same country are free.",
       "instantFootnote": "MoneyGram and Western Union instant transfers may not be available on Sundays and public holidays."
     }
   },
@@ -325,26 +325,26 @@
         "badge": "Free",
         "features": {
           "feature1": "No monthly fees — free forever",
-          "feature2": "Low-fee in-app transfers to Sinku users",
+          "feature2": "Free transfers between Sinku users in the same country",
           "feature3": "Accepted at 60M+ merchants worldwide"
         }
       },
       "plusCard": {
         "name": "Sinku Plus",
-        "badge": "Smart choice",
+        "badge": "Most popular",
         "features": {
-          "feature1": "Higher spending limits abroad",
-          "feature2": "Purchase insurance on every transaction",
-          "feature3": "Fee-free currency exchange up to $5,000/mo"
+          "feature1": "Lower 1.9% fee on transfers abroad",
+          "feature2": "Fee-free currency exchange up to $3,000/mo",
+          "feature3": "2 free international ATM withdrawals every month"
         }
       },
       "premiumCard": {
         "name": "Sinku Premium",
-        "badge": "Best value",
+        "badge": "Best for travel",
         "features": {
-          "feature1": "Up to 3% cashback on every purchase",
+          "feature1": "Lowest 1.5% fee on transfers abroad",
           "feature2": "Unlimited fee-free currency exchange",
-          "feature3": "Priority 24/7 support and travel insurance"
+          "feature3": "Free worldwide ATM withdrawals + travel insurance"
         }
       }
     },
@@ -362,17 +362,17 @@
       "standard": {
         "name": "Standard Account",
         "fee": "Account Fee: Free",
-        "description": "For everyday banking essentials: everything you need to manage your money in one place. Send money abroad or stick to a budget — it's never been easier."
+        "description": "Everything you need to go global: free transfers between Sinku users in the same country, send abroad at 2.5% with the real exchange rate, and a card accepted in 200+ countries."
       },
       "plus": {
         "name": "Plus Plan",
-        "fee": "Account Fee: $3.99/month",
-        "description": "For the smart spender: unlock extra banking perks like higher limits for spending abroad and purchase insurance, at an affordable price."
+        "fee": "Account Fee: $4.99/month",
+        "description": "For people who send and spend often: a lower 1.9% fee on transfers abroad, fee-free currency exchange, and free international ATM withdrawals."
       },
       "premium": {
         "name": "Premium Plan",
-        "fee": "Account Fee: $8.99/month",
-        "description": "For your daily upgrade: access exclusive subscriptions, better exchange rates, and unlimited currency exchange."
+        "fee": "Account Fee: $9.99/month",
+        "description": "For travelers and power users: the lowest 1.5% fee on transfers abroad, unlimited fee-free currency exchange, a metal card, and travel insurance."
       }
     }
   },

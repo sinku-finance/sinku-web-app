@@ -79,17 +79,17 @@ export function DownloadAppSection() {
 
 						{/* Right side - App Mockup Placeholder */}
 						<motion.div
-							className="relative w-full h-[400px] md:h-[500px] lg:h-[600px] rounded-3xl overflow-hidden"
+							className="relative w-full h-[460px] md:h-[640px] lg:h-[780px] rounded-3xl overflow-hidden"
 							variants={downloadAppAnimations.image.variants}
 						>
-							<div className="absolute inset-0 flex flex-col items-center justify-center rounded-3xl">
-								<div className="w-16 h-16 mb-4 rounded-2xl flex items-center justify-center">
-									<Image src="/download-app/app-store.svg" alt="Sinku app interface" fill className="object-contain" />
-								</div>
-								<p className="text-sm font-medium text-gray-400">
-									{t("imagePlaceholder")}
-								</p>
-							</div>
+							<Image
+								src="/download-app/app-store.webp"
+								alt="Sinku app interface"
+								fill
+								sizes="(max-width: 1024px) 100vw, 600px"
+								quality={100}
+								className="object-contain"
+							/>
 						</motion.div>
 					</motion.div>
 				</div>

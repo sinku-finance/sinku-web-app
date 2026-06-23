@@ -44,7 +44,6 @@ export const layoutSeo: Record<string, LayoutSeo> = {
 			"currency exchange app",
 			"hold multiple currencies",
 			"digital wallet",
-			"cashback card",
 			"no fee bank account",
 			"free bank account",
 			"bank alternative",
@@ -99,7 +98,6 @@ export const layoutSeo: Record<string, LayoutSeo> = {
 			"app de câmbio",
 			"guardar várias moedas",
 			"carteira digital",
-			"cartão com cashback",
 			"conta sem taxas",
 			"conta gratuita",
 			"alternativa ao banco",
@@ -134,7 +132,7 @@ export const pageSeo: Record<string, Record<string, LocaleSeo>> = {
 		en: {
 			title: "Sinku — Introducing You to the Global Economy",
 			description:
-				"The all-in-one money app that works like a bank — but better. International debit cards, instant money transfers, multi-currency accounts, cashback rewards, and no monthly fees. Send, spend, and save worldwide.",
+				"The all-in-one money app that works like a bank — but better. International debit cards, instant money transfers, multi-currency accounts, and no monthly fees. Send, spend, and save worldwide.",
 			ogTitle: "Sinku — Your Money. Everywhere.",
 			ogDescription:
 				"The all-in-one money app that works like a bank — but better. International debit cards, instant transfers, multi-currency accounts, and no monthly fees.",
@@ -142,7 +140,7 @@ export const pageSeo: Record<string, Record<string, LocaleSeo>> = {
 		pt: {
 			title: "Sinku — A Sua Porta de Entrada na Economia Global",
 			description:
-				"A app financeira completa que funciona como um banco — mas melhor. Cartões de débito internacionais, transferências instantâneas, contas multi-moeda, cashback e sem taxas mensais. Envie, gaste e poupe em todo o mundo.",
+				"A app financeira completa que funciona como um banco — mas melhor. Cartões de débito internacionais, transferências instantâneas, contas multi-moeda e sem taxas mensais. Envie, gaste e poupe em todo o mundo.",
 			ogTitle: "Sinku — O Seu Dinheiro. Em Todo o Lado.",
 			ogDescription:
 				"A app financeira completa que funciona como um banco — mas melhor. Cartões de débito internacionais, transferências instantâneas, contas multi-moeda e sem taxas mensais.",
@@ -152,18 +150,18 @@ export const pageSeo: Record<string, Record<string, LocaleSeo>> = {
 		en: {
 			title: "International Debit Cards — Virtual & Physical Visa and Mastercard",
 			description:
-				"Get a free international Visa and Mastercard debit card — virtual or physical. Pay online, tap contactless, use Apple Pay & Google Pay, earn cashback, and spend abroad at real exchange rates. No hidden fees.",
-			ogTitle: "Sinku Cards — International Debit Card with Cashback",
+				"Get a free international Visa and Mastercard debit card — virtual or physical. Pay online, tap contactless, use Apple Pay & Google Pay, and spend abroad at real exchange rates. No hidden fees.",
+			ogTitle: "Sinku Cards — International Debit Card That Works Everywhere",
 			ogDescription:
-				"Free international Visa and Mastercard debit card. Pay online and in-store, earn cashback, freeze in one tap. Virtual cards available instantly.",
+				"Free international Visa and Mastercard debit card. Pay online and in-store, freeze in one tap. Virtual cards available instantly.",
 		},
 		pt: {
 			title: "Cartões de Débito Internacionais — Visa e Mastercard Virtual e Físico",
 			description:
-				"Obtenha um cartão de débito Visa e Mastercard internacional gratuito — virtual ou físico. Pague online, toque contactless, use Apple Pay e Google Pay, ganhe cashback e gaste no estrangeiro com câmbio real. Sem taxas ocultas.",
-			ogTitle: "Cartões Sinku — Cartão de Débito Internacional com Cashback",
+				"Obtenha um cartão de débito Visa e Mastercard internacional gratuito — virtual ou físico. Pague online, toque contactless, use Apple Pay e Google Pay e gaste no estrangeiro com câmbio real. Sem taxas ocultas.",
+			ogTitle: "Cartões Sinku — Cartão de Débito Internacional Que Funciona em Todo o Lado",
 			ogDescription:
-				"Cartão de débito Visa e Mastercard internacional gratuito. Pague online e em loja, ganhe cashback, bloqueie com um toque. Cartões virtuais disponíveis instantaneamente.",
+				"Cartão de débito Visa e Mastercard internacional gratuito. Pague online e em loja, bloqueie com um toque. Cartões virtuais disponíveis instantaneamente.",
 		},
 	},
 	whatWeOffer: {
@@ -188,7 +186,7 @@ export const pageSeo: Record<string, Record<string, LocaleSeo>> = {
 		en: {
 			title: "Download the Sinku App — Your Digital Banking Alternative",
 			description:
-				"Download Sinku and get instant access to international debit cards, money transfers, multi-currency accounts, and cashback rewards. Available on iOS and Android. Free to use, no monthly fees.",
+				"Download Sinku and get instant access to international debit cards, money transfers, and multi-currency accounts. Available on iOS and Android. Free to use, no monthly fees.",
 			ogTitle: "Get the Sinku App — Your Money, Everywhere",
 			ogDescription:
 				"Download the Sinku fintech app. International debit cards, instant transfers, multi-currency accounts — all from your phone.",
@@ -196,7 +194,7 @@ export const pageSeo: Record<string, Record<string, LocaleSeo>> = {
 		pt: {
 			title: "Descarregue a App Sinku — A Sua Alternativa ao Banco Digital",
 			description:
-				"Descarregue o Sinku e obtenha acesso instantâneo a cartões de débito internacionais, transferências, contas multi-moeda e cashback. Disponível para iOS e Android. Grátis, sem taxas mensais.",
+				"Descarregue o Sinku e obtenha acesso instantâneo a cartões de débito internacionais, transferências e contas multi-moeda. Disponível para iOS e Android. Grátis, sem taxas mensais.",
 			ogTitle: "Obtenha a App Sinku — O Seu Dinheiro, Em Todo o Lado",
 			ogDescription:
 				"Descarregue a app fintech Sinku. Cartões de débito internacionais, transferências instantâneas, contas multi-moeda — tudo a partir do telemóvel.",
