@@ -1,12 +1,12 @@
 "use client"
 
-import { useState } from "react"
-import { useTranslations } from "next-intl"
 import { Button } from "@/components/ui/button"
 import { motion } from "framer-motion"
+import { CreditCard, Globe, HandCard, PercentageCircle } from "iconoir-react"
+import { useTranslations } from "next-intl"
 import Image from "next/image"
 import Link from "next/link"
-import { Globe, PercentageCircle, CreditCard, HandCard } from "iconoir-react"
+import { useState } from "react"
 
 export function VirtualCardSection() {
 	const t = useTranslations("cards.virtual")
@@ -70,7 +70,7 @@ export function VirtualCardSection() {
 						>
 							<Image
 								src="/banners/cards.webp"
-								alt="Virtual Cards"
+								alt="Sinku virtual debit cards"
 								fill
 								quality={100}
 								sizes="(max-width: 768px) 100vw, 50vw"
@@ -99,12 +99,14 @@ export function VirtualCardSection() {
 
 								{/* Right Side - 2x2 Feature Grid */}
 								<div className="grid grid-cols-2 gap-3 md:gap-4">
-									{([
-										{ icon: Globe, label: t("banner.features.globalPayments") },
-										{ icon: PercentageCircle, label: t("banner.features.lowFees") },
-										{ icon: HandCard, label: t("banner.features.noCash") },
-										{ icon: CreditCard, label: t("banner.features.accepted") },
-									] as const).map((feature) => (
+									{(
+										[
+											{ icon: Globe, label: t("banner.features.globalPayments") },
+											{ icon: PercentageCircle, label: t("banner.features.lowFees") },
+											{ icon: HandCard, label: t("banner.features.noCash") },
+											{ icon: CreditCard, label: t("banner.features.accepted") },
+										] as const
+									).map(feature => (
 										<div
 											key={feature.label}
 											className="bg-white/60 rounded-2xl p-5 md:p-6 flex flex-col items-center text-center gap-3 md:gap-4 hover:bg-white/80 transition-all duration-300"
@@ -112,9 +114,7 @@ export function VirtualCardSection() {
 											<div className="w-12 h-12 md:w-14 md:h-14 rounded-xl bg-primary-100 flex items-center justify-center">
 												<feature.icon className="w-6 h-6 md:w-7 md:h-7 text-primary-700" />
 											</div>
-											<p className="text-sm md:text-base font-medium text-black leading-snug">
-												{feature.label}
-											</p>
+											<p className="text-sm md:text-base font-medium text-black leading-snug">{feature.label}</p>
 										</div>
 									))}
 								</div>
@@ -138,13 +138,9 @@ export function VirtualCardSection() {
 							<h3 className="text-3xl md:text-4xl lg:text-5xl font-bold text-black mb-6 leading-tight">
 								{t("benefits.title")}
 							</h3>
-							<p className="text-base md:text-lg text-gray-700 leading-relaxed mb-8">
-								{t("benefits.description")}
-							</p>
+							<p className="text-base md:text-lg text-gray-700 leading-relaxed mb-8">{t("benefits.description")}</p>
 							<Button variant="primary" size="lg">
-								<Link href="/download-app">
-									{t("benefits.cta")}
-								</Link>
+								<Link href="/download-app">{t("benefits.cta")}</Link>
 							</Button>
 						</motion.div>
 
@@ -178,7 +174,9 @@ export function VirtualCardSection() {
 											onClick={() => setCurrentCard(index)}
 										>
 											{/* Icon */}
-											<div className={`flex items-center justify-center w-8 h-8 md:w-10 md:h-10 rounded-lg mb-3 md:mb-4 ${card.bgColor.includes("white") ? "bg-black/10" : "bg-white/10"}`}>
+											<div
+												className={`flex items-center justify-center w-8 h-8 md:w-10 md:h-10 rounded-lg mb-3 md:mb-4 ${card.bgColor.includes("white") ? "bg-black/10" : "bg-white/10"}`}
+											>
 												<span className="text-base md:text-lg">{card.icon}</span>
 											</div>
 
@@ -186,17 +184,23 @@ export function VirtualCardSection() {
 											{card.image && (
 												<div className="flex-1 flex items-center justify-center">
 													<div className="relative w-full h-[50px] md:h-[70px] rounded-lg overflow-hidden">
-														<Image src={card.image} alt={card.title} fill sizes="180px" className="object-contain rounded-lg" />
+														<Image
+															src={card.image}
+															alt={card.title}
+															fill
+															sizes="180px"
+															className="object-contain rounded-lg"
+														/>
 													</div>
 												</div>
 											)}
 
 											{/* Content */}
 											<div className="mt-auto">
-												<h4 className="font-bold text-xs md:text-sm mb-1 md:mb-2 leading-tight">
-													{card.title}
-												</h4>
-												<p className={`text-[10px] md:text-xs leading-relaxed ${card.bgColor.includes("white") ? "text-black/70" : "text-white/90"}`}>
+												<h4 className="font-bold text-xs md:text-sm mb-1 md:mb-2 leading-tight">{card.title}</h4>
+												<p
+													className={`text-[10px] md:text-xs leading-relaxed ${card.bgColor.includes("white") ? "text-black/70" : "text-white/90"}`}
+												>
 													{card.description}
 												</p>
 											</div>
@@ -212,9 +216,7 @@ export function VirtualCardSection() {
 										key={index}
 										onClick={() => setCurrentCard(index)}
 										className={`h-2 rounded-full transition-all ${
-											index === currentCard
-												? "w-8 bg-black"
-												: "w-2 bg-black/20"
+											index === currentCard ? "w-8 bg-black" : "w-2 bg-black/20"
 										}`}
 										aria-label={`Go to card ${index + 1}`}
 									/>

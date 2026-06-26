@@ -1,9 +1,36 @@
-import type { MetadataRoute } from "next";
+import type { MetadataRoute } from "next"
 
-const BASE_URL = process.env.NEXT_PUBLIC_BASE_URL || "https://sinku.finance";
+const BASE_URL = process.env.NEXT_PUBLIC_BASE_URL || "https://sinku.finance"
+
+// Key crawlable images per page (public source files, directly fetchable by Google)
+// for image-sitemap discovery → helps surface them in Google Images.
+const PAGE_IMAGES: Record<string, string[]> = {
+	"": [
+		"/banners/home-desktop.jpeg",
+		"/cards/card-showcase-1.webp",
+		"/cards/card-showcase-2.webp",
+		"/cards/couple-with-card.webp",
+		"/cards/card-product.webp",
+		"/home/tools-section.webp",
+		"/services/international-debit-card.webp",
+		"/services/send-receive-money.webp",
+		"/services/global-transfer.webp",
+	],
+	"/cards": [
+		"/banners/cards-banner.webp",
+		"/banners/cards.webp",
+		"/cards/card-in-hands.webp",
+		"/cards/card-lateral-green.webp",
+		"/cards/card-lateral-white.webp",
+		"/cards/card-lateral-black.webp",
+		"/cards/applepayphone.webp",
+	],
+	"/what-we-offer": ["/banners/what-we-offer-desktop.webp", "/cards/supported-countries.webp", "/cards/gitl-card.png"],
+	"/download-app": ["/download-app/app-store.webp"],
+}
 
 export default function sitemap(): MetadataRoute.Sitemap {
-	const locales = ["en", "pt"];
+	const locales = ["en", "pt"]
 
 	const pages = [
 		{ path: "", priority: 1.0, changeFrequency: "weekly" as const },
@@ -25,31 +52,31 @@ export default function sitemap(): MetadataRoute.Sitemap {
 			priority: 0.3,
 			changeFrequency: "yearly" as const,
 		},
-	];
+	]
 
-	const entries: MetadataRoute.Sitemap = [];
+	const entries: MetadataRoute.Sitemap = []
 
 	for (const page of pages) {
+		const images = (PAGE_IMAGES[page.path] ?? []).map(src => `${BASE_URL}${src}`)
+
 		for (const locale of locales) {
-			const url =
-				locale === "en"
-					? `${BASE_URL}${page.path}`
-					: `${BASE_URL}/${locale}${page.path}`;
+			const url = locale === "en" ? `${BASE_URL}${page.path}` : `${BASE_URL}/${locale}${page.path}`
 
 			entries.push({
 				url,
 				lastModified: new Date(),
 				changeFrequency: page.changeFrequency,
 				priority: page.priority,
+				...(images.length > 0 && { images }),
 				alternates: {
 					languages: {
 						en: `${BASE_URL}${page.path}`,
 						pt: `${BASE_URL}/pt${page.path}`,
 					},
 				},
-			});
+			})
 		}
 	}
 
-	return entries;
+	return entries
 }
