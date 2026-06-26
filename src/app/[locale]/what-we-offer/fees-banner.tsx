@@ -1,8 +1,8 @@
 "use client"
 
+import { motion } from "framer-motion"
 import { useTranslations } from "next-intl"
 import Image from "next/image"
-import { motion } from "framer-motion"
 
 export function FeesBanner() {
 	const t = useTranslations("fees")
@@ -30,8 +30,10 @@ export function FeesBanner() {
 				sizes="(max-width: 768px) 1px, 100vw"
 			/>
 
-			{/* Overlay for better text readability */}
-			<div className="absolute inset-0 bg-gradient-to-l from-black/50 via-black/30 to-transparent" />
+			{/* Overlay for text readability: darken the bottom on mobile (text sits there),
+			    darken the right on desktop (text is right-aligned) */}
+			<div className="absolute inset-0 bg-gradient-to-t from-black/75 via-black/30 to-transparent md:hidden" />
+			<div className="absolute inset-0 bg-gradient-to-l from-black/50 via-black/30 to-transparent hidden md:block" />
 
 			{/* Hero Content */}
 			<div className="relative z-10 flex-1 flex items-end pb-16 md:pb-0 px-6 md:px-10 lg:px-12">

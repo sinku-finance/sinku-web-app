@@ -1,10 +1,10 @@
 "use client"
 
-import { useTranslations } from "next-intl"
 import { Button } from "@/components/ui/button"
+import { motion } from "framer-motion"
+import { useTranslations } from "next-intl"
 import Image from "next/image"
 import Link from "next/link"
-import { motion } from "framer-motion"
 import { feesAnimations } from "./animations"
 
 export function MultiCurrencySection() {
@@ -25,46 +25,44 @@ export function MultiCurrencySection() {
 							variants={feesAnimations.content.variants}
 						>
 							{/* Left side - small tagline */}
-							<motion.div
-								className="lg:max-w-[200px]"
-								variants={feesAnimations.tagline.variants}
-							>
+							<motion.div className="lg:max-w-[200px]" variants={feesAnimations.tagline.variants}>
 								<p className="text-neutral-500 uppercase tracking-wide font-medium text-sm md:text-base">
 									{t("tagline")}
 								</p>
 							</motion.div>
 
 							{/* Right side - main content */}
-							<motion.div
-								className="flex-1 max-w-3xl"
-								variants={feesAnimations.titleSection.variants}
-							>
-								<h2 className="text-3xl md:text-4xl lg:text-5xl font-bold mb-4 md:mb-6 leading-tight">
-									{t("title")}
-								</h2>
+							<motion.div className="flex-1 max-w-3xl" variants={feesAnimations.titleSection.variants}>
+								<h2 className="text-3xl md:text-4xl lg:text-5xl font-bold mb-4 md:mb-6 leading-tight">{t("title")}</h2>
 								<p className="text-sm md:text-base text-neutral-700 mb-5 md:mb-6 leading-relaxed max-w-xl">
 									{t("description")}
 								</p>
 								<Button variant="primary" size="lg">
-									<Link href="/download-app">
-										{t("button")}
-									</Link>
+									<Link href="/download-app">{t("button")}</Link>
 								</Button>
 							</motion.div>
 						</motion.div>
 
 						{/* Card Product Image */}
 						<motion.div
-							className="relative w-full h-[350px] md:h-[500px] lg:h-[700px] rounded-2xl overflow-hidden mt-12 md:mt-16 bg-[#E8F3F5]"
+							className="relative w-full aspect-[3/4] md:aspect-auto md:h-[500px] lg:h-[700px] rounded-2xl overflow-hidden mt-12 md:mt-16 bg-[#E8F3F5]"
 							variants={feesAnimations.image.variants}
 						>
+							{/* Mobile: portrait grid */}
+							<Image
+								src="/cards/supported-countries-mobile.webp"
+								alt="Supported countries — Portugal, Brazil, PALOP, USA, UK, France, Spain, Netherlands"
+								fill
+								sizes="(max-width: 768px) 100vw, 1px"
+								className="object-cover rounded-2xl md:hidden"
+							/>
+							{/* Desktop: wide grid */}
 							<Image
 								src="/cards/supported-countries.webp"
 								alt="Supported countries — Portugal, Brazil, PALOP, USA, UK, France, Spain, Netherlands"
 								fill
-								sizes="(max-width: 1400px) 100vw, 1400px"
-								className="object-contain rounded-2xl"
-								style={{ objectPosition: "center" }}
+								sizes="(max-width: 768px) 1px, 100vw"
+								className="object-contain rounded-2xl hidden md:block"
 							/>
 						</motion.div>
 					</div>
