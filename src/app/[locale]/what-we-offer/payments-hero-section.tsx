@@ -1,10 +1,10 @@
 "use client"
 
-import { useTranslations } from "next-intl"
 import { Button } from "@/components/ui/button"
+import { motion } from "framer-motion"
+import { useTranslations } from "next-intl"
 import Image from "next/image"
 import Link from "next/link"
-import { motion } from "framer-motion"
 import { feesAnimations } from "./animations"
 
 export function PaymentsHeroSection() {
@@ -36,9 +36,7 @@ export function PaymentsHeroSection() {
 									{t("heroSubtitle")}
 								</p>
 								<Button variant="primary" size="lg">
-									<Link href="/download-app">
-										{t("heroButton")}
-									</Link>
+									<Link href="/download-app">{t("heroButton")}</Link>
 								</Button>
 							</motion.div>
 
@@ -48,7 +46,7 @@ export function PaymentsHeroSection() {
 								variants={feesAnimations.image.variants}
 							>
 								<Image
-									src="/cards/gitl-card.png"
+									src="/cards/gitl-card.webp"
 									alt="Person holding Sinku card"
 									fill
 									className="object-cover object-right"

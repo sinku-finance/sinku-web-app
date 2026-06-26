@@ -25,7 +25,7 @@ const PAGE_IMAGES: Record<string, string[]> = {
 		"/cards/card-lateral-black.webp",
 		"/cards/applepayphone.webp",
 	],
-	"/what-we-offer": ["/banners/what-we-offer-desktop.webp", "/cards/supported-countries.webp", "/cards/gitl-card.png"],
+	"/what-we-offer": ["/banners/what-we-offer-desktop.webp", "/cards/supported-countries.webp", "/cards/gitl-card.webp"],
 	"/download-app": ["/download-app/app-store.webp"],
 }
 

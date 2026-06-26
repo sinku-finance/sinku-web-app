@@ -1,8 +1,8 @@
 "use client"
 
-import { useTranslations } from "next-intl"
-import { motion } from "framer-motion"
 import { Button } from "@/components/ui/button"
+import { motion } from "framer-motion"
+import { useTranslations } from "next-intl"
 import Link from "next/link"
 
 export function CardsBanner() {
@@ -10,7 +10,7 @@ export function CardsBanner() {
 
 	return (
 		<section
-			className="relative w-full min-h-[85vh] md:min-h-[90vh] lg:min-h-[95vh] overflow-hidden flex items-center"
+			className="relative w-full min-h-[100vh] overflow-hidden flex items-center"
 			style={{
 				backgroundImage: "url('/banners/cards-banner-mobile.webp')",
 				backgroundSize: "cover",
@@ -67,9 +67,7 @@ export function CardsBanner() {
 							}}
 						>
 							<Button variant="primary" size="lg">
-								<Link href="/download-app">
-									{t("heroButton")}
-								</Link>
+								<Link href="/download-app">{t("heroButton")}</Link>
 							</Button>
 						</motion.div>
 					</div>

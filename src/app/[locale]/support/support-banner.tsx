@@ -1,14 +1,14 @@
 "use client"
 
-import { useTranslations } from "next-intl"
 import { motion } from "framer-motion"
+import { useTranslations } from "next-intl"
 
 export function SupportBanner() {
 	const t = useTranslations("support")
 
 	return (
 		<section
-			className="relative w-full min-h-[85vh] md:min-h-[90vh] lg:min-h-[95vh] overflow-hidden flex items-center"
+			className="relative w-full min-h-[100vh] overflow-hidden flex items-center"
 			style={{
 				backgroundImage: "url('/banners/support.webp')",
 				backgroundSize: "cover",

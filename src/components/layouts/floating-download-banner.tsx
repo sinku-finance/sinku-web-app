@@ -1,10 +1,11 @@
 "use client"
 
-import { useState, useEffect } from "react"
+import { AnimatePresence, motion } from "framer-motion"
+import { Xmark } from "iconoir-react"
 import { useTranslations } from "next-intl"
 import Image from "next/image"
-import { motion, AnimatePresence } from "framer-motion"
-import { Xmark } from "iconoir-react"
+import Link from "next/link"
+import { useEffect, useState } from "react"
 
 export function FloatingDownloadBanner() {
 	const t = useTranslations("downloadApp.floatingBanner")
@@ -34,37 +35,38 @@ export function FloatingDownloadBanner() {
 					animate={{ y: 0, opacity: 1 }}
 					exit={{ y: 100, opacity: 0 }}
 					transition={{ type: "spring", stiffness: 300, damping: 30 }}
-					className="fixed bottom-6 right-6 z-50 hidden lg:flex items-center gap-5 bg-white rounded-2xl shadow-2xl border border-gray-100 p-4 pr-6"
+					className="fixed bottom-6 right-6 z-50 hidden lg:block"
 				>
 					{/* Close button */}
 					<button
 						onClick={handleDismiss}
-						className="absolute -top-2 -right-2 w-6 h-6 bg-white rounded-full shadow-md border border-gray-200 flex items-center justify-center hover:bg-gray-50 transition-colors"
+						className="absolute -top-2 -right-2 z-10 w-6 h-6 bg-white rounded-full shadow-md border border-gray-200 flex items-center justify-center hover:bg-gray-50 transition-colors"
 						aria-label="Dismiss"
 					>
 						<Xmark className="w-3.5 h-3.5 text-gray-500" />
 					</button>
 
-					{/* QR Code */}
-					<div className="relative w-20 h-20 rounded-xl border border-gray-200 bg-white overflow-hidden flex-shrink-0">
-						<Image
-							src="/qrcode.svg"
-							alt={t("qrAlt")}
-							fill
-							sizes="(max-width: 768px) 100vw, 50vw"
-							className="object-contain p-0.5"
-						/>
-					</div>
+					<Link
+						href="/download-app"
+						className="group flex items-center gap-5 bg-white rounded-2xl shadow-2xl border border-gray-100 p-4 pr-6 transition-all duration-300 hover:shadow-[0_20px_50px_-12px_rgba(0,0,0,0.25)] hover:border-gray-200"
+					>
+						{/* QR Code */}
+						<div className="relative w-20 h-20 rounded-xl border border-gray-200 bg-white overflow-hidden flex-shrink-0">
+							<Image
+								src="/qrcode.svg"
+								alt={t("qrAlt")}
+								fill
+								sizes="(max-width: 768px) 100vw, 50vw"
+								className="object-contain p-0.5"
+							/>
+						</div>
 
-					{/* Text */}
-					<div className="flex flex-col gap-0.5">
-						<p className="text-base font-bold text-black">
-							{t("title")}
-						</p>
-						<p className="text-sm text-neutral-500">
-							{t("subtitle")}
-						</p>
-					</div>
+						{/* Text */}
+						<div className="flex flex-col gap-0.5">
+							<p className="text-base font-bold text-black">{t("title")}</p>
+							<p className="text-sm text-neutral-500 group-hover:text-neutral-700 transition-colors">{t("subtitle")}</p>
+						</div>
+					</Link>
 				</motion.div>
 			)}
 		</AnimatePresence>
