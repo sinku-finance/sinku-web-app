@@ -13,8 +13,6 @@ export function AnimatedLogo({ className }: AnimatedLogoProps) {
 				alt="Sinku"
 				width={151}
 				height={36}
-				className="h-9 w-auto"
-				style={{ width: "auto" }}
 				priority
 			/>
 		</div>

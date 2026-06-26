@@ -55,16 +55,16 @@ export function MultiCurrencySection() {
 
 						{/* Card Product Image */}
 						<motion.div
-							className="relative w-full h-[350px] md:h-[500px] lg:h-[700px] rounded-2xl overflow-hidden mt-12 md:mt-16"
+							className="relative w-full h-[350px] md:h-[500px] lg:h-[700px] rounded-2xl overflow-hidden mt-12 md:mt-16 bg-[#E8F3F5]"
 							variants={feesAnimations.image.variants}
 						>
 							<Image
-								src="/cards/card-product-2.webp"
-								alt="Sinku cards"
+								src="/cards/supported-countries.webp"
+								alt="Supported countries — Portugal, Brazil, PALOP, USA, UK, France, Spain, Netherlands"
 								fill
-								sizes="(max-width: 768px) 100vw, 50vw"
-								className="object-cover rounded-2xl"
-								style={{ objectPosition: "center 60%" }}
+								sizes="(max-width: 1400px) 100vw, 1400px"
+								className="object-contain rounded-2xl"
+								style={{ objectPosition: "center" }}
 							/>
 						</motion.div>
 					</div>

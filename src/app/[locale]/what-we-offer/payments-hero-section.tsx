@@ -51,7 +51,7 @@ export function PaymentsHeroSection() {
 									src="/cards/gitl-card.png"
 									alt="Person holding Sinku card"
 									fill
-									className="object-cover object-center"
+									className="object-cover object-right"
 									sizes="(max-width: 1024px) 100vw, 50vw"
 									priority
 								/>

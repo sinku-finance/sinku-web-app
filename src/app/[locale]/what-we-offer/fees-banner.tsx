@@ -16,7 +16,8 @@ export function FeesBanner() {
 				fill
 				className="object-cover object-center md:hidden"
 				priority
-				sizes="100vw"
+				quality={90}
+				sizes="(max-width: 768px) 100vw, 1px"
 			/>
 			{/* Desktop background image */}
 			<Image
@@ -25,7 +26,8 @@ export function FeesBanner() {
 				fill
 				className="object-cover object-top hidden md:block"
 				priority
-				sizes="100vw"
+				quality={90}
+				sizes="(max-width: 768px) 1px, 100vw"
 			/>
 
 			{/* Overlay for better text readability */}

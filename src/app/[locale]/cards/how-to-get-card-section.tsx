@@ -145,6 +145,7 @@ export function HowToGetCardSection() {
 											src="/cards/card-in-hands.webp"
 											alt="Sinku Card"
 											fill
+											quality={100}
 											sizes="(max-width: 768px) 100vw, 50vw"
 											className="object-contain object-bottom"
 										/>

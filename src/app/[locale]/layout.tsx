@@ -52,9 +52,9 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       locale,
       images: [
         {
-          url: "/cards/card-in-hands.png",
-          width: 2048,
-          height: 2048,
+          url: "/cards/card-in-hands.webp",
+          width: 1060,
+          height: 1484,
           alt: seo.ogTitle,
         },
       ],
@@ -63,7 +63,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       card: "summary_large_image",
       title: seo.twitterTitle,
       description: seo.twitterDescription,
-      images: ["/cards/card-in-hands.png"],
+      images: ["/cards/card-in-hands.webp"],
     },
     robots: {
       index: true,

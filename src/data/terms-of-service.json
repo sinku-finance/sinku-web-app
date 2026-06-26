@@ -1,7 +1,7 @@
 {
   "en": {
     "title": "Terms of Service",
-    "lastUpdated": "February 2026",
+    "lastUpdated": "June 2026",
     "sections": [
       {
         "id": "welcome",
@@ -37,7 +37,7 @@
         "id": "your-account",
         "title": "Your Sinku account",
         "content": [
-          "Your Sinku account is personal to you and gives you access to our financial services."
+          "Your Sinku account is personal to you and gives you access to the services offered by our third-party providers through the Sinku app."
         ],
         "subsections": [
           {
@@ -121,12 +121,12 @@
         "id": "security-fraud",
         "title": "Security and fraud prevention",
         "content": [
-          "We invest heavily in keeping your money and data safe."
+          "We take the security of your data seriously."
         ],
         "subsections": [
           {
             "title": "Our commitments",
-            "content": "We use industry-standard encryption, real-time fraud monitoring, and secure data storage to protect your account. Our systems are regularly audited and tested for vulnerabilities."
+            "content": "We use industry-standard security practices to protect the data we process, and we work with licensed partners who carry out transaction and fraud monitoring for the services they provide."
           },
           {
             "title": "Your responsibilities",
@@ -185,7 +185,7 @@
         "subsections": [
           {
             "title": "How to complain",
-            "content": "You can raise a complaint through the in-app chat, by emailing support@sinku.io, or through any other channel we make available. We take all complaints seriously and aim to resolve them as quickly as possible."
+            "content": "You can raise a complaint through the in-app chat, by emailing support@sinku.finance, or through any other channel we make available. We take all complaints seriously and aim to resolve them as quickly as possible."
           },
           {
             "title": "Resolution timeline",
@@ -222,7 +222,7 @@
         "subsections": [
           {
             "title": "Our partners",
-            "content": "Licensed Partner — for payment card issuance and related financial services on the Visa network.\n\nPrivy — for non-custodial wallet infrastructure.\n\nOther providers we may integrate with from time to time to offer new features and services."
+            "content": "Licensed Partner — for payment card issuance and related financial services on the Visa and Mastercard networks.\n\nPrivy — for non-custodial wallet infrastructure.\n\nOther providers we may integrate with from time to time to offer new features and services."
           },
           {
             "title": "Partner terms",
@@ -239,7 +239,7 @@
         "title": "Nature of your account",
         "content": [
           "Your Sinku account is not a bank account, deposit account, or savings account. Sinku is a financial technology company, not a bank or licensed financial institution.",
-          "Funds accessible through the Sinku App are held and managed by our licensed third-party partners, not by Sinku. The protections available to you depend on the regulatory framework under which our partners operate.",
+          "Sinku does not hold or custody your funds or crypto-assets. Your crypto-asset balances are held in a non-custodial wallet that you alone control (see 'Wallet and self-custody'). Where licensed third-party partners hold funds in connection with specific services (such as card transactions), those funds are held by the partner under its own regulatory framework, not by Sinku.",
           "Sinku does not provide investment advice, act as a fiduciary, or owe any fiduciary duty to you. Any information provided in the app is for informational purposes only and should not be considered financial, legal, or tax advice."
         ]
       },
@@ -343,7 +343,7 @@
         "content": [
           "If you have questions about these Terms of Service, get in touch:",
           "In-app chat: Go to your profile and tap 'Help'",
-          "Email: support@sinku.io",
+          "Email: support@sinku.finance",
           "We're here to help and will do our best to respond promptly."
         ]
       }
@@ -351,7 +351,7 @@
   },
   "pt": {
     "title": "Termos de Serviço",
-    "lastUpdated": "Fevereiro de 2026",
+    "lastUpdated": "Junho de 2026",
     "sections": [
       {
         "id": "welcome",
@@ -387,7 +387,7 @@
         "id": "your-account",
         "title": "A sua conta Sinku",
         "content": [
-          "A sua conta Sinku é pessoal e dá-lhe acesso aos nossos serviços financeiros."
+          "A sua conta Sinku é pessoal e dá-lhe acesso aos serviços oferecidos pelos nossos prestadores terceiros através da app Sinku."
         ],
         "subsections": [
           {
@@ -471,12 +471,12 @@
         "id": "security-fraud",
         "title": "Segurança e prevenção de fraude",
         "content": [
-          "Investimos fortemente na segurança do seu dinheiro e dados."
+          "Levamos a segurança dos seus dados a sério."
         ],
         "subsections": [
           {
             "title": "Os nossos compromissos",
-            "content": "Utilizamos encriptação padrão da indústria, monitorização de fraude em tempo real e armazenamento seguro de dados para proteger a sua conta. Os nossos sistemas são regularmente auditados e testados para vulnerabilidades."
+            "content": "Utilizamos práticas de segurança padrão da indústria para proteger os dados que processamos, e trabalhamos com parceiros licenciados que efectuam a monitorização de transacções e de fraude relativamente aos serviços que prestam."
           },
           {
             "title": "As suas responsabilidades",
@@ -535,7 +535,7 @@
         "subsections": [
           {
             "title": "Como reclamar",
-            "content": "Pode apresentar uma reclamação através do chat no app, enviando e-mail para support@sinku.io, ou através de qualquer outro canal que disponibilizemos. Levamos todas as reclamações a sério e procuramos resolvê-las o mais rapidamente possível."
+            "content": "Pode apresentar uma reclamação através do chat no app, enviando e-mail para support@sinku.finance, ou através de qualquer outro canal que disponibilizemos. Levamos todas as reclamações a sério e procuramos resolvê-las o mais rapidamente possível."
           },
           {
             "title": "Prazo de resolução",
@@ -572,7 +572,7 @@
         "subsections": [
           {
             "title": "Os nossos parceiros",
-            "content": "Parceiro Licenciado — para emissão de cartões de pagamento e serviços financeiros relacionados na rede Visa.\n\nPrivy — para infraestrutura de carteiras não custodiais.\n\nOutros prestadores com os quais possamos integrar pontualmente para oferecer novas funcionalidades e serviços."
+            "content": "Parceiro Licenciado — para emissão de cartões de pagamento e serviços financeiros relacionados nas redes Visa e Mastercard.\n\nPrivy — para infraestrutura de carteiras não custodiais.\n\nOutros prestadores com os quais possamos integrar pontualmente para oferecer novas funcionalidades e serviços."
           },
           {
             "title": "Termos dos parceiros",
@@ -589,7 +589,7 @@
         "title": "Natureza da sua conta",
         "content": [
           "A sua conta Sinku não é uma conta bancária, conta de depósito ou conta poupança. A Sinku é uma empresa de tecnologia financeira, não um banco ou instituição financeira licenciada.",
-          "Os fundos acessíveis através da Sinku App são mantidos e geridos pelos nossos parceiros terceiros licenciados, não pela Sinku. As protecções disponíveis para si dependem do enquadramento regulatório sob o qual os nossos parceiros operam.",
+          "A Sinku não detém nem tem custódia dos seus fundos ou criptoativos. Os seus saldos de criptoativos são mantidos numa carteira não custodial que só você controla (consulte 'Carteira e auto-custódia'). Quando parceiros terceiros licenciados detêm fundos no âmbito de serviços específicos (como transacções com cartão), esses fundos são detidos pelo parceiro ao abrigo do seu próprio enquadramento regulatório, não pela Sinku.",
           "A Sinku não fornece aconselhamento de investimento, não actua como fiduciário nem tem qualquer dever fiduciário para consigo. Qualquer informação fornecida no app é apenas para fins informativos e não deve ser considerada como aconselhamento financeiro, jurídico ou fiscal."
         ]
       },
@@ -693,7 +693,7 @@
         "content": [
           "Se tiver questões sobre estes Termos de Serviço, entre em contacto:",
           "Chat no app: Vá ao perfil e toque em 'Ajuda'",
-          "E-mail: support@sinku.io",
+          "E-mail: support@sinku.finance",
           "Estamos aqui para ajudar e faremos o nosso melhor para responder prontamente."
         ]
       }

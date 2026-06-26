@@ -12,12 +12,20 @@ export function CardsBanner() {
 		<section
 			className="relative w-full min-h-[85vh] md:min-h-[90vh] lg:min-h-[95vh] overflow-hidden flex items-center"
 			style={{
-				backgroundImage: "url('/banners/cards-banner.webp')",
+				backgroundImage: "url('/banners/cards-banner-mobile.webp')",
 				backgroundSize: "cover",
-				backgroundPosition: "20% center",
+				backgroundPosition: "center",
 				backgroundRepeat: "no-repeat",
 			}}
 		>
+			<style jsx>{`
+				@media (min-width: 768px) {
+					section {
+						background-image: url('/banners/cards-banner.webp') !important;
+						background-position: 20% center !important;
+					}
+				}
+			`}</style>
 			{/* Overlay for better text readability */}
 			<div className="absolute inset-0 bg-gradient-to-l from-black/50 via-black/30 to-transparent" />
 

@@ -69,7 +69,7 @@ export function ComparisonSection({ locale }: ComparisonSectionProps) {
 		{
 			id: "moneygram",
 			name: "MoneyGram",
-			logoImage: "/providers/moneygram.jpg",
+			logoImage: "/providers/moneygram.webp",
 			costToSend: "$4.99",
 			recipientGets: "10,578 CVE",
 			difference: "-379 CVE",

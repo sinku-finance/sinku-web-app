@@ -51,12 +51,13 @@ export function CardsBentoSection() {
 						{t("shopOnline")}
 					</h3>
 					<div className="relative w-full flex-1 mt-6 sm:mt-8 flex items-end justify-center">
-						<div className="relative w-[70%] sm:w-[80%] max-w-[380px] h-[90%] sm:h-[92%]">
+						<div className="relative w-[92%] sm:w-full max-w-[520px] h-[98%]">
 							<Image
-								src="/cards/applepayphone.png"
+								src="/cards/applepayphone.webp"
 								alt="Apple Pay with Sinku Card"
 								fill
-								sizes="(max-width: 768px) 100vw, 50vw"
+								quality={100}
+								sizes="(max-width: 768px) 92vw, 520px"
 								className="object-contain object-bottom"
 							/>
 						</div>
@@ -100,21 +101,10 @@ export function CardsBentoSection() {
 
 				{/* Right Panel - Cards (tall, spans 2 rows) */}
 				<motion.div
-					className={`${panelClass} p-4 sm:p-6 md:p-8 pb-6 sm:pb-8 md:pb-10 flex flex-col items-center text-center xl:row-span-2 min-h-[350px] sm:min-h-[500px] xl:min-h-0`}
+					className={`${panelClass} p-6 sm:p-8 md:p-10 flex flex-col items-center justify-center text-center xl:row-span-2 min-h-[350px] sm:min-h-[500px] xl:min-h-0`}
 					variants={itemVariants}
 				>
-					<div className="relative flex-1 w-full flex items-center justify-center">
-						<div className="relative w-full h-full">
-							<Image
-								src="/cards/cards3.png"
-								alt="Sinku Mastercard cards"
-								fill
-								sizes="(max-width: 768px) 100vw, 50vw"
-								className="object-contain"
-							/>
-						</div>
-					</div>
-					<h3 className="text-2xl sm:text-3xl md:text-4xl xl:text-[2.5rem] font-bold text-black leading-tight mt-4">
+					<h3 className="text-2xl sm:text-3xl md:text-4xl xl:text-[2.5rem] font-bold text-black leading-tight">
 						{t("withdrawATM")}
 					</h3>
 				</motion.div>

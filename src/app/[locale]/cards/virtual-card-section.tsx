@@ -16,7 +16,7 @@ export function VirtualCardSection() {
 		{
 			id: "card1",
 			icon: "🔔",
-			image: "/services/Notification.png",
+			image: "/services/Notification.webp",
 			title: t("benefits.cards.card1.title"),
 			description: t("benefits.cards.card1.description"),
 			bgColor: "bg-white text-black",
@@ -24,7 +24,7 @@ export function VirtualCardSection() {
 		{
 			id: "card2",
 			icon: "⚡",
-			image: "/services/instant-freeze.jpeg",
+			image: "/services/instant-freeze.webp",
 			title: t("benefits.cards.card2.title"),
 			description: t("benefits.cards.card2.description"),
 			bgColor: "bg-black",
@@ -72,6 +72,7 @@ export function VirtualCardSection() {
 								src="/banners/cards.webp"
 								alt="Virtual Cards"
 								fill
+								quality={100}
 								sizes="(max-width: 768px) 100vw, 50vw"
 								className="object-cover"
 							/>
@@ -185,7 +186,7 @@ export function VirtualCardSection() {
 											{card.image && (
 												<div className="flex-1 flex items-center justify-center">
 													<div className="relative w-full h-[50px] md:h-[70px] rounded-lg overflow-hidden">
-														<Image src={card.image} alt={card.title} fill className="object-contain rounded-lg" />
+														<Image src={card.image} alt={card.title} fill sizes="180px" className="object-contain rounded-lg" />
 													</div>
 												</div>
 											)}

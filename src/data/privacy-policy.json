@@ -1,7 +1,7 @@
 {
   "en": {
     "title": "Privacy Policy",
-    "lastUpdated": "February 2026",
+    "lastUpdated": "June 2026",
     "sections": [
       {
         "id": "introduction",
@@ -21,15 +21,15 @@
         "subsections": [
           {
             "title": "Information you provide",
-            "content": "When you sign up and use Sinku, we ask you for personal details such as your full name, date of birth, nationality, residential address, email address, phone number, and government-issued ID. We also collect a selfie for identity verification purposes.\n\nIf you contact our support team, we keep a record of that communication to help us resolve your issue and improve our service."
+            "content": "When you sign up and use Sinku, we ask you for personal details such as your full name, date of birth, nationality, residential address, email address, and phone number. For identity verification, you may be asked to provide a government-issued ID and a selfie. This verification is performed by our licensed verification partners, who collect and process these documents directly under their own privacy policies; Sinku does not retain copies of your identity documents or biometric data.\n\nIf you contact our support team, we keep a record of that communication to help us resolve your issue and improve our service."
           },
           {
             "title": "Information we collect automatically",
-            "content": "When you use the Sinku app or website, we automatically collect certain technical and usage data. This includes your device type, operating system, IP address, app version, browser type, language preferences, and how you interact with our services (such as pages visited and features used).\n\nWe also collect transaction data — including amounts, currencies, dates, and recipient details — as part of providing our payment services."
+            "content": "When you use the Sinku app or website, we automatically collect certain technical and usage data. This includes your device type, operating system, IP address, app version, browser type, language preferences, and how you interact with our services (such as pages visited and features used).\n\nWe also collect transaction data — including amounts, currencies, dates, and recipient details — as part of enabling the payment services delivered by our licensed partners."
           },
           {
             "title": "Information from third parties",
-            "content": "We may receive information about you from third-party sources such as identity verification providers, credit reference agencies, fraud prevention services, and public databases. This helps us verify your identity, assess risk, and meet our regulatory obligations."
+            "content": "We may receive information about you from third-party sources such as identity verification providers, fraud prevention services, and public databases. This helps us verify your identity, assess risk, and meet our regulatory obligations."
           }
         ]
       },
@@ -42,7 +42,7 @@
         "subsections": [
           {
             "title": "Providing our services",
-            "content": "To open and maintain your account, process transactions, deliver your debit card, facilitate currency exchange, and provide customer support."
+            "content": "To set up and maintain your profile, enable access to the services provided by our licensed partners (including card issuance and currency exchange facilitated by those partners), and provide customer support."
           },
           {
             "title": "Security and fraud prevention",
@@ -82,7 +82,7 @@
         "subsections": [
           {
             "title": "Service providers",
-            "content": "Third parties that help us run our business and deliver services through our platform — including Privy (non-custodial wallet infrastructure), our licensed financial partner (payment cards and financial services), cloud hosting providers, identity verification services, card networks (Visa and Mastercard), and customer support tools. These providers are contractually bound to protect your data and can only use it for the purposes we specify."
+            "content": "Third parties that help us run our business and deliver services through our platform — including Privy (non-custodial wallet infrastructure), our licensed financial partner (payment cards and financial services), cloud hosting providers, identity verification services, card networks (Visa and Mastercard), on- and off-ramp providers that convert between fiat and digital assets (such as Coinbase), and customer support tools. These providers are contractually bound to protect your data and can only use it for the purposes we specify."
           },
           {
             "title": "Regulatory and legal authorities",
@@ -90,11 +90,7 @@
           },
           {
             "title": "Partner institutions",
-            "content": "Banking partners and financial institutions involved in processing your transactions, delivering your card, or providing specific account features."
-          },
-          {
-            "title": "Within the Sinku group",
-            "content": "Other Sinku entities may access your data where necessary to provide services, ensure compliance, or support operations across our group."
+            "content": "Our licensed financial partner and the card networks (Visa and Mastercard) that process card transactions and deliver your card."
           }
         ]
       },
@@ -156,7 +152,7 @@
         "id": "exercising-rights",
         "title": "How to exercise your rights",
         "content": [
-          "You can exercise most of your data rights directly in the Sinku app by going to your profile and tapping 'Privacy'. You can also contact our support team via the in-app chat or by emailing support@sinku.io.",
+          "You can exercise most of your data rights directly in the Sinku app by going to your profile and tapping 'Privacy'. You can also contact our support team via the in-app chat or by emailing privacy@sinku.finance.",
           "We'll respond to your request within 30 days. In some cases, we may need to verify your identity before processing your request."
         ]
       },
@@ -165,7 +161,7 @@
         "title": "How we protect your data",
         "content": [
           "We take the security of your personal data seriously and use a combination of technical and organisational measures to protect it. These include:",
-          "Encryption of data in transit and at rest, strict access controls so that only authorised personnel can access personal data, regular security audits and vulnerability testing, employee training on data protection and security practices, and incident response procedures to handle any data breaches quickly and effectively.",
+          "Encryption of data in transit and at rest, strict access controls so that only authorised personnel can access personal data, employee training on data protection and security practices, ongoing review of our security practices, and incident response procedures to handle any data breaches quickly and effectively.",
           "While no system is completely immune to risk, we continuously invest in our security infrastructure to stay ahead of emerging threats."
         ]
       },
@@ -213,7 +209,7 @@
         "content": [
           "If you are located in the European Union or European Economic Area, the processing of your personal data is subject to the General Data Protection Regulation (GDPR). Our legal bases for processing your data include: (i) your consent for specific purposes such as marketing communications; (ii) contractual necessity to provide you with our services; (iii) compliance with legal obligations; and (iv) our legitimate interests, provided your fundamental rights and freedoms do not override those interests.",
           "Under the GDPR, you have the right to: request access to and obtain a copy of your personal data, request rectification or erasure of your personal data, object to or restrict the processing of your data, request data portability, and withdraw your consent at any time. Please note that we cannot edit or delete information stored on a public blockchain, as such records are beyond our control.",
-          "To exercise any of your rights under the GDPR, contact us at support@sinku.io or through the in-app chat. You also have the right to lodge a complaint with your local data protection supervisory authority."
+          "To exercise any of your rights under the GDPR, contact us at privacy@sinku.finance or through the in-app chat. You also have the right to lodge a complaint with your local data protection supervisory authority."
         ]
       },
       {
@@ -253,7 +249,7 @@
         "title": "Contact us",
         "content": [
           "If you have questions about this Privacy Policy or how we handle your data, get in touch:",
-          "Email: support@sinku.io",
+          "Email: privacy@sinku.finance",
           "In-app chat: Go to your profile and tap 'Help'",
           "If you're not satisfied with how we've handled a data protection concern, you may have the right to lodge a complaint with your local data protection authority."
         ]
@@ -262,7 +258,7 @@
   },
   "pt": {
     "title": "Política de Privacidade",
-    "lastUpdated": "Fevereiro de 2026",
+    "lastUpdated": "Junho de 2026",
     "sections": [
       {
         "id": "introduction",
@@ -282,15 +278,15 @@
         "subsections": [
           {
             "title": "Informações que fornece",
-            "content": "Quando se regista e utiliza o Sinku, pedimos dados pessoais como o seu nome completo, data de nascimento, nacionalidade, morada, endereço de e-mail, número de telefone e documento de identificação oficial. Também recolhemos uma selfie para verificação de identidade.\n\nSe contactar a nossa equipa de suporte, mantemos um registo dessa comunicação para nos ajudar a resolver o seu problema e melhorar o nosso serviço."
+            "content": "Quando se regista e utiliza o Sinku, pedimos dados pessoais como o seu nome completo, data de nascimento, nacionalidade, morada, endereço de e-mail e número de telefone. Para verificação de identidade, poderá ser-lhe solicitado que forneça um documento de identificação oficial e uma selfie. Esta verificação é realizada pelos nossos parceiros de verificação licenciados, que recolhem e tratam estes documentos directamente ao abrigo das suas próprias políticas de privacidade; a Sinku não retém cópias dos seus documentos de identificação nem dados biométricos.\n\nSe contactar a nossa equipa de suporte, mantemos um registo dessa comunicação para nos ajudar a resolver o seu problema e melhorar o nosso serviço."
           },
           {
             "title": "Informações que recolhemos automaticamente",
-            "content": "Quando utiliza o app ou website do Sinku, recolhemos automaticamente dados técnicos e de utilização. Isto inclui tipo de dispositivo, sistema operativo, endereço IP, versão do app, tipo de navegador, preferências de idioma e como interage com os nossos serviços.\n\nTambém recolhemos dados de transacções — incluindo montantes, moedas, datas e detalhes dos destinatários — como parte da prestação dos nossos serviços de pagamento."
+            "content": "Quando utiliza o app ou website do Sinku, recolhemos automaticamente dados técnicos e de utilização. Isto inclui tipo de dispositivo, sistema operativo, endereço IP, versão do app, tipo de navegador, preferências de idioma e como interage com os nossos serviços.\n\nTambém recolhemos dados de transacções — incluindo montantes, moedas, datas e detalhes dos destinatários — como parte da disponibilização dos serviços de pagamento prestados pelos nossos parceiros licenciados."
           },
           {
             "title": "Informações de terceiros",
-            "content": "Podemos receber informações sobre si de fontes terceiras, como fornecedores de verificação de identidade, agências de referência de crédito, serviços de prevenção de fraude e bases de dados públicas. Isto ajuda-nos a verificar a sua identidade, avaliar riscos e cumprir as nossas obrigações regulatórias."
+            "content": "Podemos receber informações sobre si de fontes terceiras, como fornecedores de verificação de identidade, serviços de prevenção de fraude e bases de dados públicas. Isto ajuda-nos a verificar a sua identidade, avaliar riscos e cumprir as nossas obrigações regulatórias."
           }
         ]
       },
@@ -303,7 +299,7 @@
         "subsections": [
           {
             "title": "Prestação dos nossos serviços",
-            "content": "Para abrir e manter a sua conta, processar transacções, entregar o seu cartão de débito, facilitar câmbio de moeda e fornecer suporte ao cliente."
+            "content": "Para configurar e manter o seu perfil, permitir o acesso aos serviços prestados pelos nossos parceiros licenciados (incluindo a emissão de cartões e o câmbio de moeda facilitados por esses parceiros) e fornecer suporte ao cliente."
           },
           {
             "title": "Segurança e prevenção de fraude",
@@ -343,7 +339,7 @@
         "subsections": [
           {
             "title": "Prestadores de serviços",
-            "content": "Terceiros que nos ajudam a operar o negócio e fornecer serviços através da nossa plataforma — incluindo a Privy (infraestrutura de carteiras não custodiais), o nosso parceiro financeiro licenciado (cartões de pagamento e serviços financeiros), fornecedores de alojamento em nuvem, serviços de verificação de identidade, redes de cartões (Visa e Mastercard) e ferramentas de suporte ao cliente. Estes fornecedores estão contratualmente obrigados a proteger os seus dados e só podem utilizá-los para os fins que especificamos."
+            "content": "Terceiros que nos ajudam a operar o negócio e fornecer serviços através da nossa plataforma — incluindo a Privy (infraestrutura de carteiras não custodiais), o nosso parceiro financeiro licenciado (cartões de pagamento e serviços financeiros), fornecedores de alojamento em nuvem, serviços de verificação de identidade, redes de cartões (Visa e Mastercard), fornecedores de on- e off-ramp que convertem entre moeda fiduciária e activos digitais (como a Coinbase) e ferramentas de suporte ao cliente. Estes fornecedores estão contratualmente obrigados a proteger os seus dados e só podem utilizá-los para os fins que especificamos."
           },
           {
             "title": "Autoridades reguladoras e legais",
@@ -351,11 +347,7 @@
           },
           {
             "title": "Instituições parceiras",
-            "content": "Parceiros bancários e instituições financeiras envolvidas no processamento das suas transacções, entrega do seu cartão ou fornecimento de funcionalidades específicas da conta."
-          },
-          {
-            "title": "Dentro do grupo Sinku",
-            "content": "Outras entidades Sinku podem aceder aos seus dados quando necessário para prestar serviços, garantir conformidade ou apoiar operações dentro do nosso grupo."
+            "content": "O nosso parceiro financeiro licenciado e as redes de cartões (Visa e Mastercard) que processam transacções de cartão e entregam o seu cartão."
           }
         ]
       },
@@ -417,7 +409,7 @@
         "id": "exercising-rights",
         "title": "Como exercer os seus direitos",
         "content": [
-          "Pode exercer a maioria dos seus direitos de dados directamente no app Sinku, indo ao perfil e tocando em 'Privacidade'. Também pode contactar a nossa equipa de suporte pelo chat no app ou enviando e-mail para support@sinku.io.",
+          "Pode exercer a maioria dos seus direitos de dados directamente no app Sinku, indo ao perfil e tocando em 'Privacidade'. Também pode contactar a nossa equipa de suporte pelo chat no app ou enviando e-mail para privacy@sinku.finance.",
           "Responderemos ao seu pedido dentro de 30 dias. Em alguns casos, podemos precisar de verificar a sua identidade antes de processar o pedido."
         ]
       },
@@ -426,7 +418,7 @@
         "title": "Como protegemos os seus dados",
         "content": [
           "Levamos a segurança dos seus dados pessoais a sério e utilizamos uma combinação de medidas técnicas e organizacionais para os proteger. Estas incluem:",
-          "Encriptação de dados em trânsito e em repouso, controlos de acesso rigorosos para que apenas pessoal autorizado possa aceder a dados pessoais, auditorias de segurança e testes de vulnerabilidade regulares, formação de colaboradores em protecção de dados e práticas de segurança, e procedimentos de resposta a incidentes para lidar rápida e eficazmente com eventuais violações de dados.",
+          "Encriptação de dados em trânsito e em repouso, controlos de acesso rigorosos para que apenas pessoal autorizado possa aceder a dados pessoais, formação de colaboradores em protecção de dados e práticas de segurança, revisão contínua das nossas práticas de segurança, e procedimentos de resposta a incidentes para lidar rápida e eficazmente com eventuais violações de dados.",
           "Embora nenhum sistema seja completamente imune a riscos, investimos continuamente na nossa infraestrutura de segurança para nos mantermos à frente das ameaças emergentes."
         ]
       },
@@ -474,7 +466,7 @@
         "content": [
           "Se estiver localizado na União Europeia ou no Espaço Económico Europeu, o tratamento dos seus dados pessoais está sujeito ao Regulamento Geral sobre a Protecção de Dados (RGPD). As nossas bases legais para o tratamento dos seus dados incluem: (i) o seu consentimento para fins específicos como comunicações de marketing; (ii) necessidade contratual para lhe fornecer os nossos serviços; (iii) cumprimento de obrigações legais; e (iv) os nossos interesses legítimos, desde que os seus direitos e liberdades fundamentais não prevaleçam sobre esses interesses.",
           "Ao abrigo do RGPD, tem o direito de: solicitar acesso e obter uma cópia dos seus dados pessoais, solicitar a rectificação ou eliminação dos seus dados pessoais, opor-se ou restringir o tratamento dos seus dados, solicitar a portabilidade dos dados e retirar o seu consentimento a qualquer momento. Note que não podemos editar ou eliminar informações armazenadas numa blockchain pública, pois tais registos estão fora do nosso controlo.",
-          "Para exercer qualquer um dos seus direitos ao abrigo do RGPD, contacte-nos em support@sinku.io ou através do chat no app. Tem também o direito de apresentar uma reclamação junto da autoridade de supervisão de protecção de dados do seu país."
+          "Para exercer qualquer um dos seus direitos ao abrigo do RGPD, contacte-nos em privacy@sinku.finance ou através do chat no app. Tem também o direito de apresentar uma reclamação junto da autoridade de supervisão de protecção de dados do seu país."
         ]
       },
       {
@@ -514,7 +506,7 @@
         "title": "Contacte-nos",
         "content": [
           "Se tiver questões sobre esta Política de Privacidade ou sobre como tratamos os seus dados, entre em contacto:",
-          "E-mail: support@sinku.io",
+          "E-mail: privacy@sinku.finance",
           "Chat no app: Vá ao perfil e toque em 'Ajuda'",
           "Se não estiver satisfeito com a forma como tratámos uma preocupação de protecção de dados, pode ter o direito de apresentar uma reclamação junto da autoridade de protecção de dados do seu país."
         ]

@@ -50,7 +50,7 @@ const midMarketRates: Record<string, Record<string, number>> = {
 }
 
 const providerConfigs: ProviderConfig[] = [
-{ id: "moneygram", name: "MoneyGram", logo: "/providers/moneygram.jpg", fixedFee: 4.99, rateMarkup: 0.035, speed: "Instant**", corridors: ["CVE", "AOA", "MZN", "BRL"] },
+{ id: "moneygram", name: "MoneyGram", logo: "/providers/moneygram.webp", fixedFee: 4.99, rateMarkup: 0.035, speed: "Instant**", corridors: ["CVE", "AOA", "MZN", "BRL"] },
 	{ id: "western-union", name: "Western Union", logo: "/providers/western-union.webp", fixedFee: 5.90, rateMarkup: 0.04, speed: "Instant**", corridors: ["CVE", "AOA", "MZN", "BRL"] },
 ]
 
@@ -182,7 +182,10 @@ export function TransferCalculatorSection() {
 
 	const midRate = getMidRate(sendFrom.currency, sendTo.currency)
 	const sinkuRate = midRate
-	const sinkuReceived = numAmount * sinkuRate
+	const SINKU_FEE_RATE = 0.025
+	const SINKU_FEE_MIN = 1.5
+	const sinkuFee = numAmount > 0 ? Math.max(numAmount * SINKU_FEE_RATE, SINKU_FEE_MIN) : 0
+	const sinkuReceived = Math.max(numAmount - sinkuFee, 0) * sinkuRate
 	const dec = isLargeCurrency(sendTo.currency) ? 0 : 2
 	const rateDec = isLargeCurrency(sendTo.currency) ? 2 : 4
 
@@ -199,11 +202,26 @@ export function TransferCalculatorSection() {
 					...p,
 					fee: `${sendFrom.currencySymbol}${fmt(p.fixedFee, 2)}`,
 					recipientGets: fmt(recipientGets, dec),
+					recipientGetsRaw: recipientGets,
 					recipientCurrency: sendTo.currency,
 					difference: `${fmt(difference, dec)} ${sendTo.currency}`,
 				}
 			})
 	}, [sendFrom, sendTo, numAmount, midRate, sinkuReceived, dec])
+
+	// Best "they get more with Sinku" amount across compared providers
+	const bestSaving = useMemo(() => {
+		let amount = 0
+		let provider = ""
+		comparisonProviders.forEach((p) => {
+			const save = sinkuReceived - p.recipientGetsRaw
+			if (save > amount) {
+				amount = save
+				provider = p.name
+			}
+		})
+		return { amount, provider }
+	}, [comparisonProviders, sinkuReceived])
 
 	const handleAmountChange = (e: React.ChangeEvent<HTMLInputElement>) => {
 		setAmount(e.target.value.replace(/[^0-9.]/g, ""))
@@ -310,7 +328,10 @@ export function TransferCalculatorSection() {
 												</div>
 												<div className="flex-1">
 													<div className="text-xs text-gray-500">{t("transferFee")}</div>
-													<div className="text-sm font-semibold text-green-600">{sendFrom.currencySymbol}0.00</div>
+													<div className="flex items-baseline gap-1.5">
+														<span className="text-sm font-semibold text-black tabular-nums">{sendFrom.currencySymbol}{fmt(sinkuFee, 2)}</span>
+														<span className="text-xs font-bold text-green-600">2.5%</span>
+													</div>
 												</div>
 											</div>
 										</div>
@@ -320,9 +341,18 @@ export function TransferCalculatorSection() {
 									{hasComparison && (
 										<div>
 											<div className="px-5 py-4 border-b border-gray-100 max-md:border-t">
-												<h4 className="text-sm font-bold text-black">{tc("title")}</h4>
+												<div className="flex items-center justify-between gap-3">
+													<h4 className="text-sm font-bold text-black">{tc("title")}</h4>
+													{bestSaving.amount > 0 && (
+														<span className="inline-flex items-center gap-1 px-2.5 py-1 rounded-full bg-green-100 text-green-700 text-xs font-bold whitespace-nowrap tabular-nums">
+															+{fmt(bestSaving.amount, dec)} {sendTo.currency}
+														</span>
+													)}
+												</div>
 												<p className="text-xs text-gray-400 mt-0.5">
-													{t("youSend")} {sendFrom.currencySymbol}{fmt(numAmount, 2)} {sendFrom.currency} &rarr; {sendTo.currency}
+													{bestSaving.amount > 0
+														? t("savingsMessage", { amount: fmt(bestSaving.amount, dec), currency: sendTo.currency, provider: bestSaving.provider })
+														: `${t("youSend")} ${sendFrom.currencySymbol}${fmt(numAmount, 2)} ${sendFrom.currency} → ${sendTo.currency}`}
 												</p>
 											</div>
 											<div className="divide-y divide-gray-100">
