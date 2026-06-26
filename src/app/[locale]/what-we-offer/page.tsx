@@ -1,14 +1,11 @@
-import type { Metadata } from "next"
 import { Header } from "@/components/layouts/header/header"
-import { FeesBanner } from "./fees-banner"
-import { PaymentsHeroSection } from "./payments-hero-section"
-import { PaymentsFeatureSection } from "./payments-feature-section"
-import { PaymentMethodsSection } from "./payment-methods-section"
-import { MultiCurrencySection } from "./multi-currency-section"
-// import { ComparisonSection } from "./comparison-section"
-import { TransferCalculatorSection } from "./transfer-calculator-section"
-import { AccountFeesSection } from "./account-fees-section"
 import { pageSeo } from "@/config/seo"
+import type { Metadata } from "next"
+import { FeesBanner } from "./fees-banner"
+import { MultiCurrencySection } from "./multi-currency-section"
+import { PaymentMethodsSection } from "./payment-methods-section"
+import { PaymentsFeatureSection } from "./payments-feature-section"
+import { PaymentsHeroSection } from "./payments-hero-section"
 
 export async function generateMetadata({
 	params,
@@ -62,8 +59,8 @@ export default async function WhatWeOfferPage({
 				{/* Multi-currency Section */}
 				<MultiCurrencySection />
 
-				{/* Transfer Calculator Section */}
-				<TransferCalculatorSection />
+				{/* Transfer Calculator Section - hidden */}
+				{/* <TransferCalculatorSection /> */}
 
 				{/* Old Comparison Section - hidden */}
 				{/* <ComparisonSection locale={locale} /> */}
