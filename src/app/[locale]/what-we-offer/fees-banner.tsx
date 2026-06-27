@@ -2,36 +2,31 @@
 
 import { motion } from "framer-motion"
 import { useTranslations } from "next-intl"
-import Image from "next/image"
 
 export function FeesBanner() {
 	const t = useTranslations("fees")
 
 	return (
-		<section className="relative w-full min-h-[100vh] overflow-hidden flex items-end md:items-center">
-			{/* Mobile background image */}
-			<Image
-				src="/banners/what-we-offer-mobile.webp"
-				alt="Sinku card payment"
-				fill
-				className="object-cover object-center md:hidden"
-				priority
-				quality={90}
-				sizes="(max-width: 768px) 100vw, 1px"
-			/>
-			{/* Desktop background image */}
-			<Image
-				src="/banners/what-we-offer-desktop.webp"
-				alt="Sinku card payment"
-				fill
-				className="object-cover object-top hidden md:block"
-				priority
-				quality={90}
-				sizes="(max-width: 768px) 1px, 100vw"
-			/>
+		<section
+			className="relative w-full min-h-[100vh] overflow-hidden flex items-end md:items-center"
+			style={{
+				backgroundImage: "url('/banners/what-we-offer-mobile.webp')",
+				backgroundSize: "cover",
+				backgroundPosition: "center",
+				backgroundRepeat: "no-repeat",
+			}}
+		>
+			{/* Desktop background image — served raw (full quality), like the home banner */}
+			<style jsx>{`
+				@media (min-width: 768px) {
+					section {
+						background-image: url('/banners/what-we-offer-desktop.webp') !important;
+						background-position: center top !important;
+					}
+				}
+			`}</style>
 
-			{/* Overlay for text readability: darken the bottom on mobile (text sits there),
-			    darken the right on desktop (text is right-aligned) */}
+			{/* Overlay for text readability: darken the bottom on mobile, the left on desktop */}
 			<div className="absolute inset-0 bg-gradient-to-t from-black/75 via-black/30 to-transparent md:hidden" />
 			<div className="absolute inset-0 bg-gradient-to-r from-black/65 via-black/30 to-transparent hidden md:block" />
 
