@@ -115,7 +115,7 @@ export function welcomeEmailHtml(baseUrl: string): string {
           </tr>
           <tr>
             <td style="padding: 16px 48px 0 48px;">
-              <img src="${baseUrl}/cards/card-product.webp" alt="Sinku Card" class="card-image" width="464" style="display: block; width: 100%; max-width: 464px; height: auto; border-radius: 12px; margin: 0 auto;">
+              <img src="${baseUrl}/cards/card-lateral-green.webp" alt="Sinku Card" class="card-image" width="464" style="display: block; width: 100%; max-width: 464px; height: auto; margin: 0 auto;">
             </td>
           </tr>
           <tr>
