@@ -12,10 +12,13 @@
 		"biome:check:apply": "npx @biomejs/biome check --apply ./src"
 	},
 	"dependencies": {
+		"@neondatabase/serverless": "^1.1.0",
 		"@radix-ui/react-accordion": "^1.2.12",
 		"@radix-ui/react-slot": "^1.1.1",
 		"@react-three/fiber": "^9.6.1",
 		"@shadergradient/react": "^2.4.20",
+		"@upstash/ratelimit": "^2.0.8",
+		"@upstash/redis": "^1.38.0",
 		"camera-controls": "^3.1.2",
 		"class-variance-authority": "^0.7.1",
 		"clsx": "^2.1.1",
@@ -25,6 +28,7 @@
 		"next-intl": "^4.7.0",
 		"react": "^19.0.0",
 		"react-dom": "^19.0.0",
+		"resend": "^6.18.0",
 		"tailwind-merge": "^3.4.0",
 		"three": "^0.184.0",
 		"three-stdlib": "^2.36.1"

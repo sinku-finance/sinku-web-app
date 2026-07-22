@@ -1,13 +1,12 @@
 "use client"
 
-import { useState, useCallback } from "react"
-import Image from "next/image"
+import { type PhoneCountry, getFlagPath, phoneCountries } from "@/data/phone-countries"
+import { cn } from "@/lib/utils"
 import { motion } from "framer-motion"
 import { useTranslations } from "next-intl"
-import { cn } from "@/lib/utils"
-import { phoneCountries, getFlagPath, type PhoneCountry } from "@/data/phone-countries"
+import Image from "next/image"
+import { useCallback, useState } from "react"
 import { CountryCodeDropdown } from "./country-code-modal"
-import { API_URL } from "@/config/api"
 import { SuccessModal } from "./success-modal"
 
 interface ReferralClaimSectionProps {
@@ -46,7 +45,7 @@ export function ReferralClaimSection({ referralCode }: ReferralClaimSectionProps
 		setError(null)
 
 		try {
-			const response = await fetch(`${API_URL}/api/v1/referrals/claim`, {
+			const response = await fetch("/api/referrals/claim", {
 				method: "POST",
 				headers: {
 					"Content-Type": "application/json",
@@ -109,8 +108,7 @@ export function ReferralClaimSection({ referralCode }: ReferralClaimSectionProps
 							visible: { opacity: 1, y: 0, transition: { duration: 0.6, ease: [0.16, 1, 0.3, 1] } },
 						}}
 					>
-						<span className="capitalize font-medium text-neutral-700">{displayName}</span>{" "}
-						{t("invitedBy")}
+						<span className="capitalize font-medium text-neutral-700">{displayName}</span> {t("invitedBy")}
 						<br />
 						{t("subtitle")}
 					</motion.p>
@@ -153,7 +151,7 @@ export function ReferralClaimSection({ referralCode }: ReferralClaimSectionProps
 							<CountryCodeDropdown
 								isOpen={isCountryModalOpen}
 								onClose={() => setIsCountryModalOpen(false)}
-								onSelect={(country) => {
+								onSelect={country => {
 									setSelectedCountry(country)
 									setIsCountryModalOpen(false)
 								}}
@@ -169,7 +167,7 @@ export function ReferralClaimSection({ referralCode }: ReferralClaimSectionProps
 								placeholder={t("phonePlaceholder")}
 								value={phoneNumber}
 								onChange={handlePhoneChange}
-								onKeyDown={(e) => {
+								onKeyDown={e => {
 									if (e.key === "Enter" && !isSubmitDisabled) {
 										handleSubmit()
 									}
@@ -181,9 +179,7 @@ export function ReferralClaimSection({ referralCode }: ReferralClaimSectionProps
 									"text-sm text-black placeholder:text-gray-400",
 									"transition-colors duration-200",
 									"focus:outline-none focus:ring-2 focus:ring-primary-500 focus:border-transparent",
-									error
-										? "border-red-300 focus:ring-red-500"
-										: "border-gray-200"
+									error ? "border-red-300 focus:ring-red-500" : "border-gray-200",
 								)}
 							/>
 						</div>
@@ -200,26 +196,15 @@ export function ReferralClaimSection({ referralCode }: ReferralClaimSectionProps
 								"focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2",
 								isSubmitDisabled
 									? "bg-gray-200 cursor-not-allowed"
-									: "bg-primary-500 hover:bg-primary-600 cursor-pointer"
+									: "bg-primary-500 hover:bg-primary-600 cursor-pointer",
 							)}
-							whileHover={!isSubmitDisabled ? { scale: 0.96 } : undefined}
-							whileTap={!isSubmitDisabled ? { scale: 0.92 } : undefined}
+							whileHover={isSubmitDisabled ? undefined : { scale: 0.96 }}
+							whileTap={isSubmitDisabled ? undefined : { scale: 0.92 }}
 							aria-label={t("continue")}
 						>
 							{isLoading ? (
-								<svg
-									className="w-5 h-5 text-white animate-spin"
-									fill="none"
-									viewBox="0 0 24 24"
-								>
-									<circle
-										className="opacity-25"
-										cx="12"
-										cy="12"
-										r="10"
-										stroke="currentColor"
-										strokeWidth="4"
-									/>
+								<svg aria-hidden="true" className="w-5 h-5 text-white animate-spin" fill="none" viewBox="0 0 24 24">
+									<circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4" />
 									<path
 										className="opacity-75"
 										fill="currentColor"
@@ -228,10 +213,8 @@ export function ReferralClaimSection({ referralCode }: ReferralClaimSectionProps
 								</svg>
 							) : (
 								<svg
-									className={cn(
-										"w-5 h-5",
-										isSubmitDisabled ? "text-gray-400" : "text-white"
-									)}
+									aria-hidden="true"
+									className={cn("w-5 h-5", isSubmitDisabled ? "text-gray-400" : "text-white")}
 									fill="none"
 									viewBox="0 0 24 24"
 									stroke="currentColor"
@@ -268,10 +251,7 @@ export function ReferralClaimSection({ referralCode }: ReferralClaimSectionProps
 			</section>
 
 			{/* Success Modal */}
-			<SuccessModal
-				isOpen={isSuccessModalOpen}
-				onClose={() => setIsSuccessModalOpen(false)}
-			/>
+			<SuccessModal isOpen={isSuccessModalOpen} onClose={() => setIsSuccessModalOpen(false)} />
 		</>
 	)
 }
