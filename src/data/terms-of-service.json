@@ -71,7 +71,7 @@
           },
           {
             "title": "Debit card",
-            "content": "Through our partnership with our licensed financial partner, you may be issued a payment card (physical or virtual) powered by Visa or Mastercard. Our licensed financial partner is a third-party licensed financial service provider responsible for the issuance of payment cards and processing of transactions. Card usage is subject to our licensed partner's terms and any applicable spending limits."
+            "content": "Through our partnership with our licensed financial partner, you may be issued a payment card (physical or virtual) powered by Visa. Our licensed financial partner is a third-party licensed financial service provider responsible for the issuance of payment cards and processing of transactions. Card usage is subject to our licensed partner's terms and any applicable spending limits."
           },
           {
             "title": "Adding money",
@@ -222,7 +222,7 @@
         "subsections": [
           {
             "title": "Our partners",
-            "content": "Licensed Partner — for payment card issuance and related financial services on the Visa and Mastercard networks.\n\nPrivy — for non-custodial wallet infrastructure.\n\nOther providers we may integrate with from time to time to offer new features and services."
+            "content": "Licensed Partner — for payment card issuance and related financial services on the Visa network.\n\nPrivy — for non-custodial wallet infrastructure.\n\nOther providers we may integrate with from time to time to offer new features and services."
           },
           {
             "title": "Partner terms",
@@ -421,7 +421,7 @@
           },
           {
             "title": "Cartão de débito",
-            "content": "Através da nossa parceria com o nosso parceiro financeiro licenciado, poderá ser-lhe emitido um cartão de pagamento (físico ou virtual) Visa ou Mastercard. O nosso parceiro financeiro licenciado é responsável pela emissão de cartões de pagamento e processamento de transações. A utilização do cartão está sujeita aos termos do nosso parceiro licenciado e aos limites de gasto aplicáveis."
+            "content": "Através da nossa parceria com o nosso parceiro financeiro licenciado, poderá ser-lhe emitido um cartão de pagamento (físico ou virtual) Visa. O nosso parceiro financeiro licenciado é responsável pela emissão de cartões de pagamento e processamento de transações. A utilização do cartão está sujeita aos termos do nosso parceiro licenciado e aos limites de gasto aplicáveis."
           },
           {
             "title": "Adicionar dinheiro",
@@ -572,7 +572,7 @@
         "subsections": [
           {
             "title": "Os nossos parceiros",
-            "content": "Parceiro Licenciado — para emissão de cartões de pagamento e serviços financeiros relacionados nas redes Visa e Mastercard.\n\nPrivy — para infraestrutura de carteiras não custodiais.\n\nOutros prestadores com os quais possamos integrar pontualmente para oferecer novas funcionalidades e serviços."
+            "content": "Parceiro Licenciado — para emissão de cartões de pagamento e serviços financeiros relacionados nas rede Visa.\n\nPrivy — para infraestrutura de carteiras não custodiais.\n\nOutros prestadores com os quais possamos integrar pontualmente para oferecer novas funcionalidades e serviços."
           },
           {
             "title": "Termos dos parceiros",

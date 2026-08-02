@@ -61,7 +61,7 @@
         "subsections": [
           {
             "title": "Licensed Partner — Payment cards and financial services",
-            "content": "Our licensed financial partner is responsible for issuing payment cards on the Visa and Mastercard networks. Our licensed partner operates under its own regulatory authorisations and is responsible for:\n\nCard issuance (virtual and physical)\nPayment processing\nCompliance with financial regulations\nKYC (Know Your Customer) verification for card services\n\nWhen you use your Sinku card, the transaction is processed through our licensed partner's infrastructure on the Visa or Mastercard network."
+            "content": "Our licensed financial partner is responsible for issuing payment cards on the Visa network. Our licensed partner operates under its own regulatory authorisations and is responsible for:\n\nCard issuance (virtual and physical)\nPayment processing\nCompliance with financial regulations\nKYC (Know Your Customer) verification for card services\n\nWhen you use your Sinku card, the transaction is processed through our licensed partner's infrastructure on the Visa network."
           },
           {
             "title": "Privy — Wallet infrastructure",
@@ -103,7 +103,7 @@
         "subsections": [
           {
             "title": "How it works",
-            "content": "Your Sinku Card is issued through our partnership with our licensed financial partner on the Visa and Mastercard networks. The card is built on the principle that you remain in control of your funds — before, during, and after each transaction.\n\nUnlike traditional cards where the issuing bank holds your money, with Sinku your funds remain in your wallet until the moment of payment. The card draws from your Sinku wallet to process each transaction."
+            "content": "Your Sinku Card is issued through our partnership with our licensed financial partner on the Visa network. The card is built on the principle that you remain in control of your funds — before, during, and after each transaction.\n\nUnlike traditional cards where the issuing bank holds your money, with Sinku your funds remain in your wallet until the moment of payment. The card draws from your Sinku wallet to process each transaction."
           },
           {
             "title": "Security features",
@@ -111,7 +111,7 @@
           },
           {
             "title": "Why we ask for identity verification",
-            "content": "Although your wallet is non-custodial, the Sinku Card connects to the Visa and Mastercard networks, which are traditional, regulated payment systems. For these networks to process your payments at millions of establishments worldwide, it is mandatory to comply with KYC (Know Your Customer) and anti-money laundering rules.\n\nWe request your identification documents (such as a government-issued ID and NIF/TIN) only to issue the card and comply with these requirements. This does not give us the power to control or confiscate your assets."
+            "content": "Although your wallet is non-custodial, the Sinku Card connects to the Visa network, which are traditional, regulated payment systems. For these networks to process your payments at millions of establishments worldwide, it is mandatory to comply with KYC (Know Your Customer) and anti-money laundering rules.\n\nWe request your identification documents (such as a government-issued ID and NIF/TIN) only to issue the card and comply with these requirements. This does not give us the power to control or confiscate your assets."
           }
         ]
       },
@@ -244,7 +244,7 @@
         "subsections": [
           {
             "title": "Parceiro Licenciado — Cartões de pagamento e serviços financeiros",
-            "content": "O nosso parceiro financeiro licenciado é responsável pela emissão de cartões de pagamento nas redes Visa e Mastercard. O nosso parceiro licenciado opera sob as suas próprias autorizações regulatórias e é responsável por:\n\nEmissão de cartões (virtuais e físicos)\nProcessamento de pagamentos\nConformidade com regulamentos financeiros\nVerificação KYC (Conheça o Seu Cliente) para serviços de cartão\n\nQuando utiliza o seu cartão Sinku, a transacção é processada através da infraestrutura do nosso parceiro licenciado na rede Visa ou Mastercard."
+            "content": "O nosso parceiro financeiro licenciado é responsável pela emissão de cartões de pagamento nas rede Visa. O nosso parceiro licenciado opera sob as suas próprias autorizações regulatórias e é responsável por:\n\nEmissão de cartões (virtuais e físicos)\nProcessamento de pagamentos\nConformidade com regulamentos financeiros\nVerificação KYC (Conheça o Seu Cliente) para serviços de cartão\n\nQuando utiliza o seu cartão Sinku, a transacção é processada através da infraestrutura do nosso parceiro licenciado na rede Visa."
           },
           {
             "title": "Privy — Infraestrutura de carteiras",
@@ -286,7 +286,7 @@
         "subsections": [
           {
             "title": "Como funciona",
-            "content": "O seu Cartão Sinku é emitido através da nossa parceria com o nosso parceiro financeiro licenciado nas redes Visa e Mastercard. O cartão é construído sob o princípio de que mantém o controlo total dos seus fundos — antes, durante e depois de cada transacção.\n\nAo contrário dos cartões tradicionais em que o banco emissor detém o seu dinheiro, com o Sinku os seus fundos permanecem na sua carteira até ao momento do pagamento. O cartão retira da sua carteira Sinku para processar cada transacção."
+            "content": "O seu Cartão Sinku é emitido através da nossa parceria com o nosso parceiro financeiro licenciado nas rede Visa. O cartão é construído sob o princípio de que mantém o controlo total dos seus fundos — antes, durante e depois de cada transacção.\n\nAo contrário dos cartões tradicionais em que o banco emissor detém o seu dinheiro, com o Sinku os seus fundos permanecem na sua carteira até ao momento do pagamento. O cartão retira da sua carteira Sinku para processar cada transacção."
           },
           {
             "title": "Funcionalidades de segurança",
@@ -294,7 +294,7 @@
           },
           {
             "title": "Porque pedimos verificação de identidade",
-            "content": "Embora a sua carteira seja não custodial, o Cartão Sinku conecta-se às redes Visa e Mastercard, que são sistemas de pagamento tradicionais e regulados. Para que estas redes processem os seus pagamentos em milhões de estabelecimentos pelo mundo, é obrigatório cumprir as normas de KYC (Conheça o Seu Cliente) e prevenção ao branqueamento de capitais.\n\nSolicitamos os seus documentos de identificação (como documento de identificação oficial e NIF) apenas para emitir o cartão e cumprir estes requisitos. Isto não nos dá o poder de controlar ou confiscar os seus activos."
+            "content": "Embora a sua carteira seja não custodial, o Cartão Sinku conecta-se às rede Visa, que são sistemas de pagamento tradicionais e regulados. Para que estas redes processem os seus pagamentos em milhões de estabelecimentos pelo mundo, é obrigatório cumprir as normas de KYC (Conheça o Seu Cliente) e prevenção ao branqueamento de capitais.\n\nSolicitamos os seus documentos de identificação (como documento de identificação oficial e NIF) apenas para emitir o cartão e cumprir estes requisitos. Isto não nos dá o poder de controlar ou confiscar os seus activos."
           }
         ]
       },

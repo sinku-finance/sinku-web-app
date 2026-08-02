@@ -34,7 +34,6 @@ export const layoutSeo: Record<string, LayoutSeo> = {
 			"virtual debit card",
 			"prepaid card",
 			"Visa debit card",
-			"Mastercard debit card",
 			"contactless payments",
 			"send money abroad",
 			"international money transfer",
@@ -88,7 +87,6 @@ export const layoutSeo: Record<string, LayoutSeo> = {
 			"cartão de débito virtual",
 			"cartão pré-pago",
 			"cartão Visa",
-			"cartão Mastercard",
 			"pagamentos contactless",
 			"enviar dinheiro para o estrangeiro",
 			"transferência internacional",
@@ -148,36 +146,36 @@ export const pageSeo: Record<string, Record<string, LocaleSeo>> = {
 	},
 	cards: {
 		en: {
-			title: "International Debit Cards — Virtual & Physical Visa and Mastercard",
+			title: "International Debit Cards — Virtual & Physical Visa",
 			description:
-				"Get a free international Visa and Mastercard debit card — virtual or physical. Pay online, tap contactless, use Apple Pay & Google Pay, and spend abroad at real exchange rates. No hidden fees.",
+				"Get a free international Visa debit card — virtual or physical. Pay online, tap contactless, use Apple Pay & Google Pay, and spend abroad at real exchange rates. No hidden fees.",
 			ogTitle: "Sinku Cards — International Debit Card That Works Everywhere",
 			ogDescription:
-				"Free international Visa and Mastercard debit card. Pay online and in-store, freeze in one tap. Virtual cards available instantly.",
+				"Free international Visa debit card. Pay online and in-store, freeze in one tap. Virtual cards available instantly.",
 		},
 		pt: {
-			title: "Cartões de Débito Internacionais — Visa e Mastercard Virtual e Físico",
+			title: "Cartões de Débito Internacionais — Visa Virtual e Físico",
 			description:
-				"Obtenha um cartão de débito Visa e Mastercard internacional gratuito — virtual ou físico. Pague online, toque contactless, use Apple Pay e Google Pay e gaste no estrangeiro com câmbio real. Sem taxas ocultas.",
+				"Obtenha um cartão de débito Visa internacional gratuito — virtual ou físico. Pague online, toque contactless, use Apple Pay e Google Pay e gaste no estrangeiro com câmbio real. Sem taxas ocultas.",
 			ogTitle: "Cartões Sinku — Cartão de Débito Internacional Que Funciona em Todo o Lado",
 			ogDescription:
-				"Cartão de débito Visa e Mastercard internacional gratuito. Pague online e em loja, bloqueie com um toque. Cartões virtuais disponíveis instantaneamente.",
+				"Cartão de débito Visa internacional gratuito. Pague online e em loja, bloqueie com um toque. Cartões virtuais disponíveis instantaneamente.",
 		},
 	},
 	whatWeOffer: {
 		en: {
 			title: "What We Offer — Payments, Transfers & Multi-Currency",
 			description:
-				"Send money instantly to friends and family worldwide. Hold 30+ currencies, exchange at the real rate, and pay with zero hidden fees. Up to 5x cheaper than traditional banks.",
-			ogTitle: "Sinku — Instant Payments, Global Transfers & 30+ Currencies",
+				"Send money instantly to friends and family worldwide. Hold multiple currencies, exchange at the real rate, and pay with zero hidden fees. Up to 5x cheaper than traditional banks.",
+			ogTitle: "Sinku — Instant Payments, Global Transfers & Multi-Currency",
 			ogDescription:
 				"Send money globally, hold multiple currencies, and exchange at real rates. Peer-to-peer payments, bank transfers, and card-to-card — all in one fintech app.",
 		},
 		pt: {
 			title: "O Que Oferecemos — Pagamentos, Transferências e Multi-Moeda",
 			description:
-				"Envie dinheiro instantaneamente para amigos e família em todo o mundo. Guarde mais de 30 moedas, troque ao câmbio real e pague sem taxas ocultas. Até 5x mais barato do que os bancos tradicionais.",
-			ogTitle: "Sinku — Pagamentos Instantâneos, Transferências Globais e 30+ Moedas",
+				"Envie dinheiro instantaneamente para amigos e família em todo o mundo. Guarde várias moedas, troque ao câmbio real e pague sem taxas ocultas. Até 5x mais barato do que os bancos tradicionais.",
+			ogTitle: "Sinku — Pagamentos Instantâneos, Transferências Globais e Multi-Moeda",
 			ogDescription:
 				"Envie dinheiro globalmente, guarde várias moedas e troque ao câmbio real. Pagamentos entre pessoas, transferências bancárias e cartão a cartão — tudo numa app fintech.",
 		},
@@ -240,7 +238,7 @@ export const pageSeo: Record<string, Record<string, LocaleSeo>> = {
 		en: {
 			title: "Join the Waitlist — Be the First to Try Sinku",
 			description:
-				"Sign up for early access to Sinku — the international money app with low-fee transfers, multi-currency accounts, and Visa and Mastercard debit cards. Be the first to know when we launch.",
+				"Sign up for early access to Sinku — the international money app with low-fee transfers, multi-currency accounts, and Visa debit cards. Be the first to know when we launch.",
 			ogTitle: "Join the Sinku Waitlist — Coming Soon",
 			ogDescription:
 				"Be the first to experience borderless finance. Sign up for early access to international cards, low-fee transfers, and multi-currency accounts.",
@@ -248,7 +246,7 @@ export const pageSeo: Record<string, Record<string, LocaleSeo>> = {
 		pt: {
 			title: "Lista de Espera — Seja o Primeiro a Experimentar o Sinku",
 			description:
-				"Registe-se para acesso antecipado ao Sinku — a app financeira internacional com transferências a baixo custo, contas multi-moeda e cartões Visa e Mastercard. Seja o primeiro a saber quando lançarmos.",
+				"Registe-se para acesso antecipado ao Sinku — a app financeira internacional com transferências a baixo custo, contas multi-moeda e cartões Visa. Seja o primeiro a saber quando lançarmos.",
 			ogTitle: "Junte-se à Lista de Espera Sinku — Em Breve",
 			ogDescription:
 				"Seja o primeiro a experimentar finanças sem fronteiras. Registe-se para acesso antecipado a cartões internacionais, transferências com taxas baixas e contas multi-moeda.",
@@ -261,7 +259,7 @@ export const pageSeo: Record<string, Record<string, LocaleSeo>> = {
 				"Understand how Sinku works. Learn about our technology, partners, non-custodial wallet architecture, card issuance through our licensed partner, and why we are not a bank.",
 			ogTitle: "How Sinku Works — Technology, Partners & Transparency",
 			ogDescription:
-				"Discover how Sinku operates. Non-custodial wallets, licensed partner card issuance, Visa and Mastercard networks, and full transparency on our fintech architecture.",
+				"Discover how Sinku operates. Non-custodial wallets, licensed partner card issuance, Visa network, and full transparency on our fintech architecture.",
 		},
 		pt: {
 			title: "Como Funcionamos — Transparência e Tecnologia",
@@ -269,7 +267,7 @@ export const pageSeo: Record<string, Record<string, LocaleSeo>> = {
 				"Entenda como o Sinku funciona. Conheça a nossa tecnologia, parceiros, arquitectura de carteiras não custodiais, emissão de cartões pelo nosso parceiro licenciado e porque não somos um banco.",
 			ogTitle: "Como o Sinku Funciona — Tecnologia, Parceiros e Transparência",
 			ogDescription:
-				"Descubra como o Sinku opera. Carteiras não custodiais, emissão de cartões pelo nosso parceiro licenciado, redes Visa e Mastercard e total transparência sobre a nossa arquitectura fintech.",
+				"Descubra como o Sinku opera. Carteiras não custodiais, emissão de cartões pelo nosso parceiro licenciado, rede Visa e total transparência sobre a nossa arquitectura fintech.",
 		},
 	},
 	support: {

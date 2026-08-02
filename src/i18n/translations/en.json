@@ -42,7 +42,7 @@
     "cards": {
       "title": "International Debit Card",
       "tagline": "Pay Anywhere, From Anywhere",
-      "description": "Shop globally, subscribe to any service, book flights — your Sinku card works anywhere Visa or Mastercard is accepted. No more declined payments or unavailable regions."
+      "description": "Shop globally, subscribe to any service, book flights — your Sinku card works anywhere Visa is accepted. No more declined payments or unavailable regions."
     },
     "savings": {
       "title": "Send & Receive Money",
@@ -58,7 +58,7 @@
       "subtitle": "Everything you need in one place — built for the way you live, work, and grow your money across borders.",
       "features": {
         "noFees": "No monthly or annual fees",
-        "cards": "Visa and Mastercard debit card accepted in 200+ countries",
+        "cards": "Visa debit card accepted in 200+ countries",
         "benefits": "Free transfers between Sinku users in the same country",
         "investments": "Hold USD, EUR, GBP, and more — protect your savings from local currency fluctuations"
       }
@@ -81,7 +81,7 @@
     "title": "One app. All your accounts. Total control.",
     "subtitle": "Send, spend, save, and manage your money from your phone. Real-time notifications, instant transfers, and secure access — anytime, anywhere.",
     "qrText": "Scan to download the Sinku app",
-    "ratingText": "Trusted by thousands of users across multiple countries."
+    "ratingText": "Join 1,500+ people already on the waitlist."
   },
   "features": {
     "title": "Everything you need, nothing you don't",
@@ -96,7 +96,7 @@
       },
       "international-card": {
         "title": "A card that actually works internationally",
-        "description": "A Visa and Mastercard debit card accepted in 200+ countries. Pay for subscriptions, shop online, or withdraw cash abroad — no more 'card not supported' messages."
+        "description": "A Visa debit card accepted in 200+ countries. Pay for subscriptions, shop online, or withdraw cash abroad — no more 'card not supported' messages."
       },
       "pay-friends": {
         "title": "Send money to anyone, instantly",
@@ -122,7 +122,7 @@
   },
   "homeCards": {
     "title": "A Card That Works Everywhere You Go",
-    "subtitle": "Choose from a range of card designs that reflect who you are. Every Sinku card works worldwide with Visa and Mastercard — accepted at millions of merchants, online and in-store.",
+    "subtitle": "Choose from a range of card designs that reflect who you are. Every Sinku card works worldwide with Visa — accepted at millions of merchants, online and in-store.",
     "details": {
       "title": "Your card does more than you think",
       "subtitle": "Pay with Apple Pay, scan a QR code, or tap to pay contactless. Track every transaction, block suspicious charges, and schedule future payments — all from the app.",
@@ -198,7 +198,7 @@
     },
     "multiCurrency": {
       "tagline": "Multi-currency",
-      "title": "Hold, convert, and spend in 30+ currencies",
+      "title": "Hold, convert, and spend in multiple currencies",
       "description": "Stop losing money to unfair exchange rates. Hold USD, EUR, GBP, and more — convert at the real rate and spend internationally like a local. Preview rates before you convert and lock them in when it works for you.",
       "button": "Open your account"
     },
@@ -210,6 +210,7 @@
       "recipientGets": "Recipient gets",
       "cheapest": "Cheapest",
       "sendMoney": "Send money",
+      "highlightMessage": "Send $100 and 10,801 CVE arrives — 2.5% fee, real mid-market rate, in seconds, 24/7. Transfers between Sinku users in the same country are always free.",
       "disclaimer": "The above information applies when sending money in the national currency of the recipient account. The list of providers is not exhaustive and we plan to add more soon. For all providers, we are showing the costs based on the Standard/Basic plans only. Exchange rates and transfer fees displayed are illustrative and only refreshed every minute. Always check the applicable rate and transfer fees in-app before carrying out your transfer. In-app transfers between Sinku users in the same country are free."
     },
     "calculator": {
@@ -234,7 +235,7 @@
   },
   "cards": {
     "heroTitle": "One card. No borders. No surprises.",
-    "heroSubtitle": "Spend abroad at the real exchange rate, skip the hidden fees, and pay anywhere Visa or Mastercard is accepted — all from your phone.",
+    "heroSubtitle": "Spend abroad at the real exchange rate, skip the hidden fees, and pay anywhere Visa is accepted — all from your phone.",
     "heroButton": "Order your card",
     "virtual": {
       "title": "Practically Indestructible",
@@ -245,10 +246,10 @@
         "accountTitle": "Stop overpaying your bank",
         "accountSubtitle": "Pay internationally without carrying cash. Skip the hidden fees and spend abroad at the real exchange rate — at a fraction of what traditional banks cost.",
         "features": {
-          "globalPayments": "Pay at 60M+ merchants in 150+ countries",
+          "globalPayments": "Pay at millions of merchants in 200+ countries",
           "lowFees": "Real exchange rates with fees up to 8x lower",
           "noCash": "No need to carry cash — tap, pay, done",
-          "accepted": "Accepted everywhere Visa and Mastercard work"
+          "accepted": "Accepted everywhere Visa works"
         }
       },
       "benefits": {
@@ -278,7 +279,7 @@
     },
     "security": {
       "title": "Protection for your cards",
-      "subtitle": "All accounts have 24/7 protection with proactive defenses and a team of specialists. In 2024 alone, we helped prevent over $746M in fraud.",
+      "subtitle": "All accounts have 24/7 protection with proactive defenses: real-time alerts, instant card freezing, and step-up verification for sensitive operations.",
       "learnMore": "Learn more",
       "features": {
         "freezeCard": {
@@ -425,7 +426,7 @@
     "regulatory": {
       "paragraph1": "Sinku is a financial technology company, not a bank. Sinku App is a technology platform and application developed by MORABI, SOCIEDADE UNIPESSOAL LDA (Sinku), that provides a user interface enabling access to services offered by independent third-party providers. Sinku does not offer, hold, or transmit funds, crypto-assets, or provide any financial, custodial, or regulated services.",
       "paragraph2": "All wallet functionality is powered by Privy, a non-custodial wallet infrastructure provider. Wallets are created and controlled solely by users and are not accessible by Sinku. All private keys remain under the exclusive control of the user.",
-      "paragraph3": "Banking and payment card services are provided by licensed partners. Payment card issuance and related financial services are provided through our licensed financial partner. Cards are issued on the Visa and Mastercard networks. Our licensed partner operates under its own regulatory authorizations and is responsible for the compliance and performance of its services.",
+      "paragraph3": "Banking and payment card services are provided by licensed partners. Payment card issuance and related financial services are provided through our licensed financial partner. Cards are issued on the Visa network. Our licensed partner operates under its own regulatory authorizations and is responsible for the compliance and performance of its services.",
       "paragraph4": "By using Sinku App, you acknowledge and agree that Sinku acts solely as a software conduit and is not a financial institution or crypto-asset service provider under Regulation (EU) 2023/1114 (MiCAR) or any similar legislation. Any transactions, transfers, or financial operations are executed exclusively through third-party providers and are subject to their respective terms and policies.",
       "paragraph5": "Please ensure you understand and agree to the terms and services of our licensed partners, Privy, and any other applicable providers before using services accessed via Sinku App. The user is responsible for storing their own recovery phrase. If the recovery phrase is lost, the user might not be able to retrieve their private keys. All forms of investments carry risks, including the risk of losing all of the invested amount. Such activities may not be suitable for everyone."
     }
@@ -475,7 +476,7 @@
     "disclaimer": "We'll only use your info to send you launch updates. No spam, ever. You can unsubscribe at any time.",
     "features": {
       "transfers": "Low-fee transfers",
-      "card": "International Visa and Mastercard card"
+      "card": "International Visa card"
     },
     "errors": {
       "emailRequired": "Please enter your email address",

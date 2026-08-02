@@ -82,7 +82,7 @@
         "subsections": [
           {
             "title": "Service providers",
-            "content": "Third parties that help us run our business and deliver services through our platform — including Privy (non-custodial wallet infrastructure), our licensed financial partner (payment cards and financial services), cloud hosting providers, identity verification services, card networks (Visa and Mastercard), on- and off-ramp providers that convert between fiat and digital assets (such as Coinbase), and customer support tools. These providers are contractually bound to protect your data and can only use it for the purposes we specify."
+            "content": "Third parties that help us run our business and deliver services through our platform — including Privy (non-custodial wallet infrastructure), our licensed financial partner (payment cards and financial services), cloud hosting providers, identity verification services, card network (Visa), on- and off-ramp providers that convert between fiat and digital assets (such as Coinbase), and customer support tools. These providers are contractually bound to protect your data and can only use it for the purposes we specify."
           },
           {
             "title": "Regulatory and legal authorities",
@@ -90,7 +90,7 @@
           },
           {
             "title": "Partner institutions",
-            "content": "Our licensed financial partner and the card networks (Visa and Mastercard) that process card transactions and deliver your card."
+            "content": "Our licensed financial partner and the card network (Visa) that process card transactions and deliver your card."
           }
         ]
       },
@@ -339,7 +339,7 @@
         "subsections": [
           {
             "title": "Prestadores de serviços",
-            "content": "Terceiros que nos ajudam a operar o negócio e fornecer serviços através da nossa plataforma — incluindo a Privy (infraestrutura de carteiras não custodiais), o nosso parceiro financeiro licenciado (cartões de pagamento e serviços financeiros), fornecedores de alojamento em nuvem, serviços de verificação de identidade, redes de cartões (Visa e Mastercard), fornecedores de on- e off-ramp que convertem entre moeda fiduciária e activos digitais (como a Coinbase) e ferramentas de suporte ao cliente. Estes fornecedores estão contratualmente obrigados a proteger os seus dados e só podem utilizá-los para os fins que especificamos."
+            "content": "Terceiros que nos ajudam a operar o negócio e fornecer serviços através da nossa plataforma — incluindo a Privy (infraestrutura de carteiras não custodiais), o nosso parceiro financeiro licenciado (cartões de pagamento e serviços financeiros), fornecedores de alojamento em nuvem, serviços de verificação de identidade, rede de cartões (Visa), fornecedores de on- e off-ramp que convertem entre moeda fiduciária e activos digitais (como a Coinbase) e ferramentas de suporte ao cliente. Estes fornecedores estão contratualmente obrigados a proteger os seus dados e só podem utilizá-los para os fins que especificamos."
           },
           {
             "title": "Autoridades reguladoras e legais",
@@ -347,7 +347,7 @@
           },
           {
             "title": "Instituições parceiras",
-            "content": "O nosso parceiro financeiro licenciado e as redes de cartões (Visa e Mastercard) que processam transacções de cartão e entregam o seu cartão."
+            "content": "O nosso parceiro financeiro licenciado e as rede de cartões (Visa) que processam transacções de cartão e entregam o seu cartão."
           }
         ]
       },

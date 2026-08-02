@@ -73,7 +73,7 @@ export function welcomeEmailHtml(baseUrl: string): string {
                   <td width="40" valign="top" style="padding-right: 14px;"><div style="width: 40px; height: 40px; background-color: #E6F9F0; border-radius: 10px; text-align: center; line-height: 40px; font-size: 18px;">&#x1F4B3;</div></td>
                   <td valign="top">
                     <p style="margin: 0 0 2px 0; font-size: 15px; font-weight: 600; color: #111111;">Paga e subscreve o que quiseres</p>
-                    <p style="margin: 0; font-size: 14px; line-height: 1.5; color: #777777;">Mastercard internacional que funciona em todo o lado — Netflix, Spotify, compras online. Sem cartões recusados.</p>
+                    <p style="margin: 0; font-size: 14px; line-height: 1.5; color: #777777;">Visa internacional que funciona em todo o lado — Netflix, Spotify, compras online. Sem cartões recusados.</p>
                   </td>
                 </tr>
               </table>

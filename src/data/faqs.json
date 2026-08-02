@@ -13,12 +13,12 @@
     {
       "id": "what-cards",
       "question": "What cards does Sinku offer?",
-      "answer": "Sinku offers:\n\n• Virtual international debit cards — create as many as you need, at no extra cost. Perfect for online purchases with added security\n• Physical debit cards (delivered to you)\n\nBoth cards are issued through our licensed partner on the Visa and Mastercard networks. They use smart contract security technology — the Roles Module ensures the card can only move a specific token to a single secure destination, while the Delay Module prevents processing conflicts. Your card draws directly from your Sinku wallet at the moment of payment."
+      "answer": "Sinku offers:\n\n• Virtual international debit cards — create as many as you need, at no extra cost. Perfect for online purchases with added security\n• Physical debit cards (delivered to you)\n\nBoth cards are issued through our licensed partner on the Visa network. They use smart contract security technology — the Roles Module ensures the card can only move a specific token to a single secure destination, while the Delay Module prevents processing conflicts. Your card draws directly from your Sinku wallet at the moment of payment."
     },
     {
       "id": "international-use",
       "question": "Can I use Sinku cards internationally?",
-      "answer": "Yes. Sinku cards are accepted in over 180 countries and millions of establishments worldwide that accept Visa and Mastercard.\n\n• Online worldwide\n• In physical stores\n• For subscriptions like Netflix, Spotify, Apple, Google, and more\n• Compatible with Apple Pay and Google Pay for contactless payments from your phone"
+      "answer": "Yes. Sinku cards are accepted in over 200 countries and millions of establishments worldwide that accept Visa.\n\n• Online worldwide\n• In physical stores\n• For subscriptions like Netflix, Spotify, Apple, Google, and more\n• Compatible with Apple Pay and Google Pay for contactless payments from your phone"
     },
     {
       "id": "how-to-get-card",
@@ -53,7 +53,7 @@
     {
       "id": "is-bank",
       "question": "Is Sinku a bank?",
-      "answer": "No. Sinku is a financial technology company, not a bank. Sinku is a technology platform that provides a user interface enabling access to services offered by independent third-party providers. Banking and payment card services are provided by licensed partners for card issuance on the Visa and Mastercard networks. Wallet functionality is powered by Privy. Sinku operates under the regulatory framework of its partners and focuses on delivering a simple and powerful user experience."
+      "answer": "No. Sinku is a financial technology company, not a bank. Sinku is a technology platform that provides a user interface enabling access to services offered by independent third-party providers. Banking and payment card services are provided by licensed partners for card issuance on the Visa network. Wallet functionality is powered by Privy. Sinku operates under the regulatory framework of its partners and focuses on delivering a simple and powerful user experience."
     },
     {
       "id": "countries",
@@ -68,7 +68,7 @@
     {
       "id": "who-are-partners",
       "question": "Who are Sinku's partners?",
-      "answer": "Sinku works with licensed, regulated partners to deliver financial services:\n\n• Licensed Partner — for payment card issuance and financial services on the Visa and Mastercard networks\n• Privy — for non-custodial wallet infrastructure\n\nThese partners operate under their own regulatory authorisations and are responsible for the compliance and performance of their respective services. Sinku provides the technology layer that connects you to these services."
+      "answer": "Sinku works with licensed, regulated partners to deliver financial services:\n\n• Licensed Partner — for payment card issuance and financial services on the Visa network\n• Privy — for non-custodial wallet infrastructure\n\nThese partners operate under their own regulatory authorisations and are responsible for the compliance and performance of their respective services. Sinku provides the technology layer that connects you to these services."
     },
     {
       "id": "what-is-self-custody",
@@ -98,7 +98,7 @@
     {
       "id": "how-card-works",
       "question": "How does the Sinku Card work?",
-      "answer": "Your Sinku Card is issued through our licensed partner on the Visa and Mastercard networks. Unlike traditional cards where the bank holds your money, with Sinku your funds remain in your wallet until the moment of payment.\n\nThe card uses smart contract technology for security:\n\n• Roles Module: Creates an 'isolated corridor' — the card can only move a specific token to one secure destination, with no power over the rest of your assets\n• Delay Module: Adds a brief processing interval for non-card transactions to prevent conflicts and maintain wallet integrity\n\nTip: We recommend using your Sinku wallet like a 'spending vault' — keep only the amount you plan to use day-to-day."
+      "answer": "Your Sinku Card is issued through our licensed partner on the Visa network. Unlike traditional cards where the bank holds your money, with Sinku your funds remain in your wallet until the moment of payment.\n\nThe card uses smart contract technology for security:\n\n• Roles Module: Creates an 'isolated corridor' — the card can only move a specific token to one secure destination, with no power over the rest of your assets\n• Delay Module: Adds a brief processing interval for non-card transactions to prevent conflicts and maintain wallet integrity\n\nTip: We recommend using your Sinku wallet like a 'spending vault' — keep only the amount you plan to use day-to-day."
     },
     {
       "id": "can-sinku-freeze-funds",
@@ -108,7 +108,7 @@
     {
       "id": "why-kyc",
       "question": "Why does Sinku require identity verification (KYC)?",
-      "answer": "Although your wallet is non-custodial, the Sinku Card connects to the Visa and Mastercard networks — traditional, regulated payment systems. For these networks to process your payments at millions of establishments worldwide, compliance with KYC (Know Your Customer) and anti-money laundering rules is mandatory.\n\nWe request your identification documents (such as a government-issued ID and NIF/TIN) only to issue the card and comply with these requirements. This does not give us the power to control or confiscate your assets."
+      "answer": "Although your wallet is non-custodial, the Sinku Card connects to the Visa network — traditional, regulated payment systems. For these networks to process your payments at millions of establishments worldwide, compliance with KYC (Know Your Customer) and anti-money laundering rules is mandatory.\n\nWe request your identification documents (such as a government-issued ID and NIF/TIN) only to issue the card and comply with these requirements. This does not give us the power to control or confiscate your assets."
     },
     {
       "id": "how-transactions-work",
@@ -118,7 +118,7 @@
     {
       "id": "are-transactions-reversible",
       "question": "Are blockchain transactions reversible?",
-      "answer": "No. Certain transactions processed through blockchain infrastructure are immutable. Once you sign and confirm an operation (such as sending funds), it cannot be undone, cancelled, or reversed by Sinku.\n\nThis is why it's essential to verify all transaction details carefully before confirming. For card transactions on the Visa and Mastercard networks, standard dispute and chargeback processes may apply through our licensed partner."
+      "answer": "No. Certain transactions processed through blockchain infrastructure are immutable. Once you sign and confirm an operation (such as sending funds), it cannot be undone, cancelled, or reversed by Sinku.\n\nThis is why it's essential to verify all transaction details carefully before confirming. For card transactions on the Visa network, standard dispute and chargeback processes may apply through our licensed partner."
     },
     {
       "id": "how-close-account",
@@ -155,12 +155,12 @@
     {
       "id": "what-cards",
       "question": "Que cartões oferece o Sinku?",
-      "answer": "O Sinku oferece:\n\n• Cartões de débito internacionais virtuais — crie quantos precisar, sem custo adicional. Perfeito para compras online com mais segurança\n• Cartões de débito físicos (entregues em sua casa)\n\nAmbos os cartões são emitidos através do nosso parceiro licenciado nas redes Visa e Mastercard. Utilizam tecnologia de segurança com contratos inteligentes — o Roles Module garante que o cartão só pode mover um token específico para um único destino seguro, enquanto o Delay Module previne conflitos de processamento. O seu cartão debita directamente da sua carteira Sinku no momento do pagamento."
+      "answer": "O Sinku oferece:\n\n• Cartões de débito internacionais virtuais — crie quantos precisar, sem custo adicional. Perfeito para compras online com mais segurança\n• Cartões de débito físicos (entregues em sua casa)\n\nAmbos os cartões são emitidos através do nosso parceiro licenciado nas rede Visa. Utilizam tecnologia de segurança com contratos inteligentes — o Roles Module garante que o cartão só pode mover um token específico para um único destino seguro, enquanto o Delay Module previne conflitos de processamento. O seu cartão debita directamente da sua carteira Sinku no momento do pagamento."
     },
     {
       "id": "international-use",
       "question": "Posso usar os cartões Sinku internacionalmente?",
-      "answer": "Sim. Os cartões Sinku são aceites em mais de 180 países e milhões de estabelecimentos em todo o mundo que aceitem Visa e Mastercard.\n\n• Online em todo o mundo\n• Em lojas físicas\n• Para subscrições como Netflix, Spotify, Apple, Google e muito mais\n• Compatível com Apple Pay e Google Pay para pagamentos por aproximação no telemóvel"
+      "answer": "Sim. Os cartões Sinku são aceites em mais de 200 países e milhões de estabelecimentos em todo o mundo que aceitem Visa.\n\n• Online em todo o mundo\n• Em lojas físicas\n• Para subscrições como Netflix, Spotify, Apple, Google e muito mais\n• Compatível com Apple Pay e Google Pay para pagamentos por aproximação no telemóvel"
     },
     {
       "id": "how-to-get-card",
@@ -195,7 +195,7 @@
     {
       "id": "is-bank",
       "question": "O Sinku é um banco?",
-      "answer": "Não. O Sinku é uma empresa de tecnologia financeira, não um banco. O Sinku é uma plataforma tecnológica que disponibiliza uma interface de utilizador para acesso a serviços oferecidos por prestadores terceiros independentes. Os serviços bancários e de cartões de pagamento são fornecidos por parceiros licenciados para a emissão de cartões nas redes Visa e Mastercard. A funcionalidade de carteira é fornecida pela Privy. O Sinku opera sob o enquadramento regulatório dos seus parceiros e foca-se em oferecer uma experiência de utilizador simples e poderosa."
+      "answer": "Não. O Sinku é uma empresa de tecnologia financeira, não um banco. O Sinku é uma plataforma tecnológica que disponibiliza uma interface de utilizador para acesso a serviços oferecidos por prestadores terceiros independentes. Os serviços bancários e de cartões de pagamento são fornecidos por parceiros licenciados para a emissão de cartões nas rede Visa. A funcionalidade de carteira é fornecida pela Privy. O Sinku opera sob o enquadramento regulatório dos seus parceiros e foca-se em oferecer uma experiência de utilizador simples e poderosa."
     },
     {
       "id": "countries",
@@ -210,7 +210,7 @@
     {
       "id": "who-are-partners",
       "question": "Quem são os parceiros do Sinku?",
-      "answer": "O Sinku trabalha com parceiros licenciados e regulados para prestar serviços financeiros:\n\n• Parceiro Licenciado — para emissão de cartões de pagamento e serviços financeiros nas redes Visa e Mastercard\n• Privy — para infraestrutura de carteiras não custodiais\n\nEstes parceiros operam sob as suas próprias autorizações regulatórias e são responsáveis pela conformidade e desempenho dos seus respectivos serviços. O Sinku fornece a camada tecnológica que o conecta a estes serviços."
+      "answer": "O Sinku trabalha com parceiros licenciados e regulados para prestar serviços financeiros:\n\n• Parceiro Licenciado — para emissão de cartões de pagamento e serviços financeiros nas rede Visa\n• Privy — para infraestrutura de carteiras não custodiais\n\nEstes parceiros operam sob as suas próprias autorizações regulatórias e são responsáveis pela conformidade e desempenho dos seus respectivos serviços. O Sinku fornece a camada tecnológica que o conecta a estes serviços."
     },
     {
       "id": "what-is-self-custody",
@@ -240,7 +240,7 @@
     {
       "id": "how-card-works",
       "question": "Como funciona o Cartão Sinku?",
-      "answer": "O seu Cartão Sinku é emitido através do nosso parceiro licenciado nas redes Visa e Mastercard. Ao contrário dos cartões tradicionais onde o banco detém o seu dinheiro, com o Sinku os seus fundos permanecem na sua carteira até ao momento do pagamento.\n\nO cartão utiliza tecnologia de contratos inteligentes para segurança:\n\n• Roles Module: Cria um 'corredor isolado' — o cartão só pode mover um token específico para um destino seguro, sem qualquer poder sobre o resto dos seus activos\n• Delay Module: Adiciona um breve intervalo de processamento para transacções não relacionadas com o cartão, prevenindo conflitos e mantendo a integridade da carteira\n\nDica: Recomendamos usar a sua carteira Sinku como um 'cofre de gastos' — mantenha apenas o valor que planeia usar no dia-a-dia."
+      "answer": "O seu Cartão Sinku é emitido através do nosso parceiro licenciado nas rede Visa. Ao contrário dos cartões tradicionais onde o banco detém o seu dinheiro, com o Sinku os seus fundos permanecem na sua carteira até ao momento do pagamento.\n\nO cartão utiliza tecnologia de contratos inteligentes para segurança:\n\n• Roles Module: Cria um 'corredor isolado' — o cartão só pode mover um token específico para um destino seguro, sem qualquer poder sobre o resto dos seus activos\n• Delay Module: Adiciona um breve intervalo de processamento para transacções não relacionadas com o cartão, prevenindo conflitos e mantendo a integridade da carteira\n\nDica: Recomendamos usar a sua carteira Sinku como um 'cofre de gastos' — mantenha apenas o valor que planeia usar no dia-a-dia."
     },
     {
       "id": "can-sinku-freeze-funds",
@@ -250,7 +250,7 @@
     {
       "id": "why-kyc",
       "question": "Porque é que o Sinku exige verificação de identidade (KYC)?",
-      "answer": "Embora a sua carteira seja não custodial, o Cartão Sinku conecta-se às redes Visa e Mastercard — sistemas de pagamento tradicionais e regulados. Para que estas redes processem os seus pagamentos em milhões de estabelecimentos mundiais, é obrigatório cumprir as regras de KYC (Know Your Customer) e anti-lavagem de dinheiro.\n\nSolicitamos os seus documentos de identificação (como documento de identidade oficial e NIF) apenas para emitir o cartão e cumprir estes requisitos. Isto não nos dá poder para controlar ou confiscar os seus activos."
+      "answer": "Embora a sua carteira seja não custodial, o Cartão Sinku conecta-se às rede Visa — sistemas de pagamento tradicionais e regulados. Para que estas redes processem os seus pagamentos em milhões de estabelecimentos mundiais, é obrigatório cumprir as regras de KYC (Know Your Customer) e anti-lavagem de dinheiro.\n\nSolicitamos os seus documentos de identificação (como documento de identidade oficial e NIF) apenas para emitir o cartão e cumprir estes requisitos. Isto não nos dá poder para controlar ou confiscar os seus activos."
     },
     {
       "id": "how-transactions-work",
@@ -260,7 +260,7 @@
     {
       "id": "are-transactions-reversible",
       "question": "As transacções blockchain são reversíveis?",
-      "answer": "Não. Certas transacções processadas através de infraestrutura blockchain são imutáveis. Uma vez que assine e confirme uma operação (como enviar fundos), esta não pode ser desfeita, cancelada ou revertida pelo Sinku.\n\nPor isso é essencial verificar cuidadosamente todos os detalhes da transacção antes de confirmar. Para transacções com cartão nas redes Visa e Mastercard, os processos padrão de disputa e chargeback podem aplicar-se através do nosso parceiro licenciado."
+      "answer": "Não. Certas transacções processadas através de infraestrutura blockchain são imutáveis. Uma vez que assine e confirme uma operação (como enviar fundos), esta não pode ser desfeita, cancelada ou revertida pelo Sinku.\n\nPor isso é essencial verificar cuidadosamente todos os detalhes da transacção antes de confirmar. Para transacções com cartão nas rede Visa, os processos padrão de disputa e chargeback podem aplicar-se através do nosso parceiro licenciado."
     },
     {
       "id": "how-close-account",

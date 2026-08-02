@@ -42,7 +42,7 @@
     "cards": {
       "title": "Cartão de Débito Internacional",
       "tagline": "Pague em qualquer lugar, de qualquer lugar",
-      "description": "Compre no mundo inteiro, subscreva qualquer serviço, reserve voos — o seu cartão Sinku funciona onde o Visa ou Mastercard é aceite. Sem mais pagamentos recusados ou regiões indisponíveis."
+      "description": "Compre no mundo inteiro, subscreva qualquer serviço, reserve voos — o seu cartão Sinku funciona onde o Visa é aceite. Sem mais pagamentos recusados ou regiões indisponíveis."
     },
     "savings": {
       "title": "Enviar e Receber Dinheiro",
@@ -58,7 +58,7 @@
       "subtitle": "Tudo o que precisa num só lugar — feito para a forma como vive, trabalha e faz o seu dinheiro crescer sem fronteiras.",
       "features": {
         "noFees": "Sem taxas mensais ou anuais",
-        "cards": "Cartão Visa e Mastercard aceite em mais de 200 países",
+        "cards": "Cartão Visa aceite em mais de 200 países",
         "benefits": "Transferências grátis entre utilizadores Sinku no mesmo país",
         "investments": "Guarde USD, EUR, GBP e mais — proteja as suas poupanças das flutuações cambiais"
       }
@@ -81,7 +81,7 @@
     "title": "Uma app. Todas as suas contas. Controlo total.",
     "subtitle": "Envie, gaste, poupe e gira o seu dinheiro a partir do telemóvel. Notificações em tempo real, transferências instantâneas e acesso seguro — a qualquer hora, em qualquer lugar.",
     "qrText": "Leia o código para descarregar a app Sinku",
-    "ratingText": "Utilizado por milhares de pessoas em vários países."
+    "ratingText": "Junte-se a mais de 1.500 pessoas na lista de espera."
   },
   "features": {
     "title": "Tudo o que precisa, nada do que não precisa",
@@ -96,7 +96,7 @@
       },
       "international-card": {
         "title": "Um cartão que realmente funciona no mundo",
-        "description": "Um cartão Visa e Mastercard aceite em mais de 200 países. Pague subscrições, compre online ou levante dinheiro no estrangeiro — sem mais mensagens de 'cartão não suportado'."
+        "description": "Um cartão Visa aceite em mais de 200 países. Pague subscrições, compre online ou levante dinheiro no estrangeiro — sem mais mensagens de 'cartão não suportado'."
       },
       "pay-friends": {
         "title": "Envie dinheiro para qualquer pessoa, instantaneamente",
@@ -122,7 +122,7 @@
   },
   "homeCards": {
     "title": "Um Cartão Que Funciona Em Todo o Lado",
-    "subtitle": "Escolha entre vários designs de cartão que refletem quem é. Cada cartão Sinku funciona mundialmente com Visa e Mastercard — aceite em milhões de comerciantes, online e em loja.",
+    "subtitle": "Escolha entre vários designs de cartão que refletem quem é. Cada cartão Sinku funciona mundialmente com Visa — aceite em milhões de comerciantes, online e em loja.",
     "details": {
       "title": "O seu cartão faz mais do que imagina",
       "subtitle": "Pague com Apple Pay, leia um QR code ou toque para pagar contactless. Acompanhe cada transação, bloqueie cobranças suspeitas e agende pagamentos futuros — tudo na app.",
@@ -198,7 +198,7 @@
     },
     "multiCurrency": {
       "tagline": "Multi-moeda",
-      "title": "Guarde, converta e gaste em mais de 30 moedas",
+      "title": "Guarde, converta e gaste em várias moedas",
       "description": "Pare de perder dinheiro com câmbios injustos. Guarde USD, EUR, GBP e mais — converta ao câmbio real e gaste internacionalmente como um local. Veja a taxa antes de converter e fixe-a quando lhe convier.",
       "button": "Abrir conta"
     },
@@ -210,6 +210,7 @@
       "recipientGets": "Destinatário recebe",
       "cheapest": "Mais barato",
       "sendMoney": "Enviar dinheiro",
+      "highlightMessage": "Envia $100 e chegam 10.801 CVE — taxa de 2,5%, câmbio real, em segundos, 24/7. Transferências entre utilizadores Sinku no mesmo país são sempre grátis.",
       "disclaimer": "As informações acima aplicam-se ao enviar dinheiro na moeda nacional da conta do destinatário. A lista de fornecedores não é exaustiva e planeamos adicionar mais em breve. Para todos os fornecedores, estamos a mostrar os custos com base apenas nos planos Standard/Básico. As taxas de câmbio e taxas de transferência apresentadas são ilustrativas e atualizadas apenas a cada minuto. Verifique sempre a taxa aplicável e as taxas de transferência na app antes de realizar a sua transferência. Transferências na app entre utilizadores Sinku no mesmo país são grátis."
     },
     "calculator": {
@@ -234,7 +235,7 @@
   },
   "cards": {
     "heroTitle": "Um cartão. Sem fronteiras. Sem surpresas.",
-    "heroSubtitle": "Gaste no estrangeiro com a taxa de câmbio real, sem taxas escondidas, e pague onde o Visa ou Mastercard é aceite — tudo a partir do seu telemóvel.",
+    "heroSubtitle": "Gaste no estrangeiro com a taxa de câmbio real, sem taxas escondidas, e pague onde o Visa é aceite — tudo a partir do seu telemóvel.",
     "heroButton": "Peça o seu cartão",
     "virtual": {
       "title": "Praticamente indestrutível",
@@ -245,10 +246,10 @@
         "accountTitle": "Pare de pagar a mais ao seu banco",
         "accountSubtitle": "Pague internacionalmente sem carregar dinheiro físico. Esqueça as taxas escondidas e gaste no estrangeiro com a taxa de câmbio real — por uma fração do custo dos bancos tradicionais.",
         "features": {
-          "globalPayments": "Pague em mais de 60M de comerciantes em 150+ países",
+          "globalPayments": "Pague em milhões de comerciantes em mais de 200 países",
           "lowFees": "Taxas de câmbio reais com custos até 8x menores",
           "noCash": "Sem necessidade de dinheiro físico — toque, pague, pronto",
-          "accepted": "Aceite em todo o lado onde o Visa e Mastercard funcionam"
+          "accepted": "Aceite em todo o lado onde o Visa funciona"
         }
       },
       "benefits": {
@@ -278,7 +279,7 @@
     },
     "security": {
       "title": "Proteção para os seus cartões",
-      "subtitle": "Todas as contas têm proteção 24/7 com defesas proativas e uma equipa de especialistas. Só em 2024, ajudámos a prevenir mais de $746M em fraudes.",
+      "subtitle": "Todas as contas têm proteção 24/7 com defesas proativas: alertas em tempo real, bloqueio instantâneo do cartão e verificação reforçada nas operações sensíveis.",
       "learnMore": "Saiba mais",
       "features": {
         "freezeCard": {
@@ -425,7 +426,7 @@
     "regulatory": {
       "paragraph1": "A Sinku é uma empresa de tecnologia financeira, não um banco. A Sinku App é uma plataforma tecnológica e aplicação desenvolvida pela MORABI, SOCIEDADE UNIPESSOAL LDA (Sinku), que disponibiliza uma interface de utilizador para acesso a serviços oferecidos por prestadores terceiros independentes. A Sinku não oferece, detém ou transmite fundos, criptoativos, nem presta quaisquer serviços financeiros, de custódia ou regulados.",
       "paragraph2": "Toda a funcionalidade de carteira é fornecida pela Privy, um prestador de infraestrutura de carteiras não custodiais. As carteiras são criadas e controladas exclusivamente pelos utilizadores e não são acessíveis pela Sinku. Todas as chaves privadas permanecem sob o controlo exclusivo do utilizador.",
-      "paragraph3": "Os serviços bancários e de cartões de pagamento são prestados por parceiros licenciados. A emissão de cartões de pagamento e serviços financeiros relacionados são fornecidos através do nosso parceiro financeiro licenciado. Os cartões são emitidos nas redes Visa e Mastercard. O nosso parceiro licenciado opera sob as suas próprias autorizações regulatórias e é responsável pela conformidade e desempenho dos seus serviços.",
+      "paragraph3": "Os serviços bancários e de cartões de pagamento são prestados por parceiros licenciados. A emissão de cartões de pagamento e serviços financeiros relacionados são fornecidos através do nosso parceiro financeiro licenciado. Os cartões são emitidos nas rede Visa. O nosso parceiro licenciado opera sob as suas próprias autorizações regulatórias e é responsável pela conformidade e desempenho dos seus serviços.",
       "paragraph4": "Ao utilizar a Sinku App, reconhece e concorda que a Sinku atua exclusivamente como um intermediário de software e não é uma instituição financeira ou prestador de serviços de criptoativos nos termos do Regulamento (UE) 2023/1114 (MiCAR) ou de qualquer legislação similar. Quaisquer transações, transferências ou operações financeiras são executadas exclusivamente através de prestadores terceiros e estão sujeitas aos respetivos termos e políticas.",
       "paragraph5": "Certifique-se de que compreende e concorda com os termos e serviços dos nossos parceiros licenciados, Privy e quaisquer outros prestadores aplicáveis antes de utilizar os serviços acedidos através da Sinku App. O utilizador é responsável por guardar a sua própria frase de recuperação. Se a frase de recuperação for perdida, o utilizador poderá não conseguir recuperar as suas chaves privadas. Todas as formas de investimento comportam riscos, incluindo o risco de perder a totalidade do montante investido. Tais atividades podem não ser adequadas para todos."
     }
@@ -475,7 +476,7 @@
     "disclaimer": "Usaremos os seus dados apenas para enviar atualizações sobre o lançamento. Sem spam, nunca. Pode cancelar a qualquer momento.",
     "features": {
       "transfers": "Transferências com taxas baixas",
-      "card": "Cartão Visa e Mastercard internacional"
+      "card": "Cartão Visa internacional"
     },
     "errors": {
       "emailRequired": "Por favor, insira o seu email",
